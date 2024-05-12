@@ -1,0 +1,170 @@
+ 
+ 5020 Salzburg / Wasserfeldstraße 30  
+Telefon: +43 662 8042 DW / Fax: +43 662 8042 3893  
+E-Mail: post@lvwg -salzburg.gv.at / www.lvwg -salzburg.gv.at  
+  
+  
+Mail:  verfassungsdienst@bka.gv.at   
+Bundeskanzleramt  
+Verfassungsdienst  
+Ballhausplatz 2  
+1010 Wien   
+3837  
+Salzburg, 14.04.2021  
+405-99/1001 1/473-2021  
+Stellungnahme zum Entwurf eines Bundesgesetzes, mit dem das Bundes -
+Verfassungsgesetz, das Rechnungshofgesetz und das Verfassungsgerichts-
+hofgesetz geändert und ein Informationsfreiheitsgesetz erlassen werden   
+do.GZ 2021 -0.130.157  vom 22. 02.2021  
+ 
+Unter Bezugnahme auf den mit dem ob en angeführten  Schreiben übermittelten Entwurf  
+95 ME XXVII. GP  wird durch das Landesverwaltungsgericht Salzburg die folgende Stel-
+lungnahme übermittelt:  
+ 
+In Art 22 a B-VG (Art 1 des Entwurfs ) soll bei gleichzeitiger, weitgehender Abschaffung des 
+Amtsgeheimnisses eine allgemeine Informationsfreiheit  eingeführt werden . Ausdrücklich 
+wird mit dieser Bestimmung  auch die Verwaltungsgerichtsbarkeit verpflichtet, Informatio-
+nen von allgemeinem Inte resse in einer für jedermann zugänglichen Art und Weise zu 
+veröffentlichen, soweit diese nicht gemäß dem nachfolgenden Absatz geheim  zu halten 
+sind.  
+ 
+Art 22a Abs 2 B-VG beschränkt die Verpflichtung zur Geheimhaltung auf Fallgruppen be-
+sonders wichtige r öffentliche r bzw private r Interesse n und zur Vorbereitung einer Entschei-
+dung. 
+ 
+Der diese bundesverfassungsgesetzlichen Vorgaben auf einfachgesetzlicher Ebene ausfüh-
+rende § 2 des Informationsfreiheitsgesetzes - IFG (Art 2 des Entwurfs) bezeichnet als In-
+formation  im Sinne dieses Bundesgesetzes „jede amtlichen oder unternehmerischen Zwe-
+cken dienende Aufzeichnung im Wirkungsbereich eines Organs,  (…)“, und werden in § 2 
+Abs 2 IFG Informationen von allgemeinem Interesse  als „Informationen, die einen allge-
+meinen Personenkreis betreffen oder für einen solchen relevant sind, insbesondere Stu-
+dien, Gutachten, Stellungnahmen und Verträge mit einem Gegenstandswert von mindes-
+tens 100 .000 Euro “ definiert.  
+ 56/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 4
+www.parlament.gv.at
+  2 
+Zur Veröffentlichungsverpflichtung bezüglich Informationen vo n allgemeinem Interesse:  
+ 
+Die Erläuterungen  (Erl 95 ME XXVII GP, 5 ) gehen  bei Informationen von allgemeinem In-
+teresse  von einem sehr weiten  Begriffsverständnis aus, da unabhängig vom zitierten 
+Schwellenwert die „Relevanz für die Allgemeinheit, anders gewendet ihre Bedeutung für 
+einen hinreichend großen Adressaten - bzw Personenkreis, der von der Information betrof-
+fen oder für den die Information relevant ist “, als Beurteilungskriterium dienen soll.   
+ 
+Der Geheimhaltung unterliegen diese Informationen na ch § 6 Abs 1 Z 5 IFG , soweit und 
+solange  dies im Interesse der unbeeinträchtigten Vorbereitung einer Entscheidung  erfor-
+derlich ist, was  im Ergebnis bedeutet, dass  eine Informationserteilung jedenfalls nicht vor  
+dem Abschluss des verwaltungsgerichtlichen Ve rfahrens  in Betracht kommt. Aus der ge-
+wählten Formulierung „ soweit und solange “ ist abzuleiten, dass der Grund zur Geheimhal-
+tung mit der Ausfertigung der Entscheidung des Verwaltungsgerichts ende n kann bzw soll . 
+Zwar führen die Erläuterungen  (Erl 95 ME XXV II GP, 7) aus, dass „ ein solcher Schutz unter 
+Umständen auch, nachdem die Entscheidung getroffen wurde, noch relevant sein kann, 
+wenn nämlich ansonsten der Schutz umgangen würde “. Wie genau ein „Umgehen“ des 
+Schutzes zu verstehen ist, bleibt unklar , und wird an anderer Stelle  ausgeführt , dass der 
+„ursprüngliche Geheimhaltungsgrund wegfällt “ (Erl 95 ME XXVII GP, 6), weshalb nur ein-
+geschränkt von einem „Weiterwirken“ des Geheimhaltungsgrundes des § 6 Abs 1 Z 5 IFG 
+ausgegangen werden kann .  
+ 
+Nach Erlass ung der Entscheidung  sind damit potentiell sämtliche Aktenbestandteile, die für 
+einen hinreichend großen Adressaten - bzw Personenkreis relevant und nicht einer der wei-
+teren Geheimhaltungsgründe des § 6  IFG anzuwenden ist , durch das Verwaltungsgericht  
+zu veröffentlichen. Dies betrifft beispielsweise Gutachten,  Stellungnahmen, aber auch Pro-
+jektunterlagen  udgl wohl bereits mittlerer Infrastrukturverfahren.  
+ 
+Als Plattform für die Zurverfügungstellung von Informationen von allgemeinem Interesse  
+ist in § 6 Abs 2 IFG die Internetadresse www.data.gv  vorgesehen; hier hat das Verwal-
+tungsgericht die zur Information gehörenden Metadaten (insbesondere Bezeichnung/Titel, 
+Kategorie, Gegenstandswert, Erstellungsdatum, Dateiformat, Dateigröße) dem Informati-
+onsregister technisch abrufbar zur Verfügung zu stellen ; über die Webseite als Metadaten-
+register soll Zugriff auf die – dort verzeichnete und verlinkte – Information gewährt wer-
+den. 
+Dies bedeutet nach derzeitigem Stand , dass Informationen von potentiell allgemeinem In-
+teresse beim Verwaltungsgericht in einer eigenen Anwendung aufzubewahren sein werden , 
+um nicht Außenstehenden Zugriff auf die im Verwaltungsgericht verwendeten Anwendun-
+gen selbst zum späteren Abruf der Informationen zu gewähren.  Die Umsetzung diese s 
+Vorhabens wird aus Sicht des Verwaltungsgerichts aus diesem Grund mit nicht unbeträcht-
+lichen Kostenfolgen  verbunden sein.  
+ 
+In diesem Zusammenhang ist darauf zu verweisen, dass der Entwurf ni cht vorsieht, Infor-
+mationen von allgemeinem Interesse vor ihrer Veröffentlichung zu anonymisieren bzw  zu 56/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 4
+www.parlament.gv.at
+  3 
+pseudonymisieren. Im Sinn des § 6 Abs 1 Z 7 lit a) IFG wird daher vor jeder Veröffentli-
+chung  zu prüfen sein, inwieweit durch die Veröffentlichung das Recht des Einzelnen  auf 
+den Schutz seiner personenbezogenen Daten verletzt werden kann. Bei der  Durchführung 
+dieser Prüfung ist von einem nicht unbeträchtliche n personellen Ressourceneinsatz  auszu-
+gehen.  
+ 
+Demgegenüber ist festzuhalten, dass die Verwaltungsgerichte bezüglich ihrer Entscheidun-
+gen bereits jetzt durch  verschiedene gesetzliche Bestimmungen zu einer für die  Gerichts-
+barkeit erforderlichen  Öffentlichkeit verpflichtet sind: Wenn die Entscheidung des Landes-
+verwaltungsgerichts nach Durchführung einer öffentlichen mündli chen Verhandlung nicht 
+ohnehin mündlich verkündet wurde , weil eine Verhandlung nicht durchgeführt wurde  
+oder das Erkenntnis  bzw der Beschluss  nicht sogleich nach Schluss der mündlichen Ver-
+handlung gefasst werden konnte , gewährleistet § 29 Abs 3 VwGVG die Einsichtnahme in 
+das (Original -)Erkenntnis bzw den (Original -)Beschluss für jedermann . Alle Beweismittel 
+(Gutachten, Zeugenaussagen udgl), auf die sich das Gericht bei seiner Entscheidung stützt, 
+sind in der Entscheidung  übersichtlich darzustellen und zu würdigen.  
+ 
+Darüber hinaus  ist gemäß § 21a Abs 3 S.LVwGG  die Veröffentlichung der pseudonymisier-
+ten Entscheidung en sowohl auf der Homepage des Landesverwaltungsgerichts als auch im 
+Rechtsinformationssystem des Bundes (RIS) möglich  und werden Entscheidungen von Re-
+levanz - soweit dies ohne Verletzung des Rechts auf Schutz persönlicher Daten möglich ist 
+- jedenfalls auf einer der benannten Plattformen veröffentlicht .  
+ 
+Eine damit zusätzliche Zurverfügungstellung von Information en von allgemeinem Interesse 
+über Metadaten für eine Verlinkung auf www.data.gv.at   generiert zusammenfassend für 
+die Öffentlichkeit im Vergleich zum bestehenden System einen überschaubaren Mehrwert.  
+ 
+Zum Verfahren bez üglich des Zugangs zu  Informationen  des Verwaltungsgerichts : 
+ 
+Mit §§ 5 ff IFG werden die näheren Bestimmungen bezüglich  des in § 22a B -VG verfas-
+sungsgesetzlich gewährleisteten  „Jedermann -Recht s“ auf sämtliche beim Verwaltungsge-
+richt vorhandenen  Informationen  geschaffen .  
+ 
+Vorhandene Informationen  sind gemäß § 7 Abs 1 IFG schriftlich, mündlich oder telefonisch 
+zugänglich zu machen , wobei  für das laufende verwaltungsgerichtliche Verfahren bis zur 
+Entscheidungsfindung im Interesse dieser Entscheidung eine Ver pflichtung zur Geheimhal-
+tung besteht ; nach Abschluss des verwaltungsgerichtlichen Verfahrens ist die Information 
+durch das zuständige Organ des Verwaltungsgerichts  (Einzelrichter oder Senat) zu erteilen, 
+soweit nicht andere Geheimhaltungsgründe des § 6 Abs  1 IFG vorliegen  oder von einem 
+„Weiterwirken des Geheimhaltungsgrundes“ ausgegangen wird.  
+ 
+§ 10 IFG sieht vor, dass  - wenn die Erteilung der Information in die Rechte eines anderen 
+eingreift  - dieser davor tunlichst vom zuständigen Organ zu hören ist. Zum Begriff „tun-56/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 4
+www.parlament.gv.at
+  4 
+lichst“ wird in den Erläuterungen ausgeführt  (Erl 95 ME XXVII GP, 9), dass das informati-
+onspflichtige Organ nur in dem Ausmaß zur Anhörung verpflichtet werden soll, als eine 
+Anhörung  ohne unverhältnismäßigen zeitlichen und sonstigen Aufw and möglich ist.  
+ 
+Für die Verwaltungsgerichtsbarkeit sind für die Auskunfts erteilung  bezüglich jener Infor-
+mationen, die dem Gericht selbst entstammen, im Entwurf keine speziell eren Regelungen 
+getroffen . Das verwaltungsgerichtliche Verfahren unterliegt jedoch im Vergleich zu  Behör-
+denverfahren den höheren Förmlichkeitserfordernissen des VwGVG . Insbesondere ist auf 
+das Erfordernis einer  öffentlichen mündlichen Verhandlung zu verweisen , wenn  Rechte 
+Dritte r (auf Schutz ihrer persönlichen Daten) betroffen sind. Damit ist gemäß § 10 IFG 
+nach Abschluss des Ursprungsverfahrens  ein „Zusatzverfahren“  hinsichtlich eines mögli-
+chen Eingriffs in Rechte Dritter in Anwendung der Regelungen des VwGVG durchzuführen, 
+das mit Erkenntnis bzw Beschluss des Verwaltungsgerichts oder aber Zug änglichmachen 
+der angefragten Information abzuschließen sein wird.  
+ 
+Ob bzw welches Rechtsmittel gegen eine förmliche Entscheidung des Verwaltungsgerichts 
+vorzusehen ist, lässt der Entwurf offen. In den Erläuterungen zum Begutachtungsentwurf 
+findet sich de r Hinweis, dass „ die Frage der Ausgestaltung eines allfälligen besonderen 
+Rechtsschutzverfahrens (…) im Rahmen des Begutachtungsverfahrens vorrangig mit den 
+betroffenen Stellen zu erörtern sein “ wird ( Erl 95 ME XXVII GP, 9) . Eine weitgehendere 
+Ausgest altung des Verfahrens wird als dringend erforderlich erachtet. In diesem Zusam-
+menhang  darf ausdrücklich auf die gemeinsame Stellungnahme der Präsidentin nen und 
+Präsidenten der Verwaltungsgerichte verwiesen  werden . 
+ 
+ 
+Landesverwaltung sgericht Salzburg  
+Die Präsidentin  
+ 
+Mag. Claudia Jindra -Feichtner MBA  
+ 
+Ergeht nachrichtlich an:  
+Präsidium des Nationalrates, per E -Mail: begutachtungsverfahren@parlament.gv.at   
+ 56/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 4
+www.parlament.gv.at

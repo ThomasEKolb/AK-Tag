@@ -1,0 +1,598 @@
+ 
+8010  Graz   Burgring 4  
+ https://datenschutz.stmk.gv.at  ●  UID ATU37001007  
+● Landes -Hypothekenbank Steiermark: IBAN  AT375600020141005201 ● BIC HYSTAT2G  
+VD_13/V1.0  AMT DER STEIERMÄRKIS CHEN LANDESREGIERUNG   
+Abteilung 3 Verfassung und Inneres  
+Bundeskanzleramt  
+Ballhausplatz 2  
+1010 Wien  
+  Fachabteilung 
+Verfassungsdienst   
+ 
+Bearbeiter: Mag. Christian Freiberger  
+Tel.: +43 (316) 8 77-4110  
+Fax: +43 (316) 877 -4395  
+E-Mail: verfassungsdienst@stmk.gv.at  
+Bei Antwortschreiben bitte  
+Geschäftszeichen (GZ) anführen  
+GZ:  ABT03VD -53901/2014 -59  Bezug: 2021 -0.130.157 -1-A Graz, am 19.04.2021  
+Ggst.:  Art. 22a B -VG; B -VG Novelle + Informationsfreiheitgesetz, 
+Bundesbegutachtung - Stellungnahme  
+ 
+ 
+Sehr geehrte Damen und Herren!  
+ 
+Zu dem mit do. Schreiben vom 22.02.2021, obige Za hl, übermittelten Entwurf eines Bundesg esetzes , mit 
+dem das Bundes -Verfassungsgesetz, das Rechnungshofgesetz 1948 und das Verfassungsgerichtshofgesetz 
+1953 geändert sowie ein Informationsfreiheitsgesetz erlassen werden soll , wird seitens des  Landes 
+Steiermark folgende Stellungnahme abgegeben:  
+ 
+Allgemeines zum Vorhaben  
+Mit dem vorliegenden Entwurf sollen unter Aufhebung der bisherigen verfassungsgesetzlichen Regelungen 
+über die Amtsverschwiegenheit eine Informationsverp flichtung sowie ein verf assungs gesetzlich gewähr -
+leistetes Recht auf Zugang zu Informationen geschaffen werden. Staatliche Organe und – neu – auch 
+private Stellen sollen verpflichtet sein, „Informationen von allgemeinem Interesse in einer für jedermann 
+zugänglichen Art und Weise [zu] veröffentlichen“.  
+Das Land Steiermark steht dem Vorhaben der Schaffung größerer Transparenz grundsätzlich positiv 
+gegenüber. Bereits derzeit trägt das Land Steiermark in einem hohen Maße zur Transparenz bei, da eine 
+Vielzahl von Informationen auf den Internetseiten des Landes veröffentlicht und somit allgemein 
+zugänglich ist.  
+ 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 15
+www.parlament.gv.at
+- 2 - 
+ 
+Kosten  
+Die Erläuterungen gehen lapidar davon aus, dass durch die proaktive Veröffentlichungspflicht im Wege 
+eines Informations(metadaten)registers den informationspflichtigen Organen von Bund, Ländern und 
+Gemeinden insoweit potenziell Infrastruktur - und jedenfall s Personalkosten entstehen, als dies über eine 
+jetzt schon praktizierte freiwillige Veröffentlichung über eigene Homepages hinausgeht. Eine nähere 
+Darstellung, in welchen Dimensionen sich diese Kosten für die Länder oder Gemeinden bewegen könnten, 
+fehlt vö llig. Der Initialaufwand zur Einrichtung weiterer Datenbanken auf lokaler Ebene wird dabei 
+genauso außer Acht gelassen wie der laufende Aufwand für deren Betreuung und Wartung sowie der 
+zusätzliche personelle Ressourcenaufwand für eine Fülle an Einzelfall entscheidungen über die 
+Veröffentlichung und in weiterer Folge für die Definition der einzugebenden Metadaten.  
+ 
+Aus heutiger Sicht ist nicht absehbar, wie viele Dokumente tatsächlich (neu) zu erfassen sind, welchen 
+personellen und zeitlichen Aufwand dies e rfordert – und welche Kosten damit verbunden sind –, dies vor 
+allem auch deshalb, weil nicht abgeschätzt werden kann, welche Dokumente tatsächlich vom Begriff der 
+Information von allgemeinem Interesse umfasst sein werden. Dies liegt unter anderem auch dara n, dass 
+dieser Begriff zu wenig aussagekräftig ist (siehe dazu auch die Anmerkungen zu § 2 IFG).  
+ 
+Derzeit fehlen auch Informationen darüber, ob die technischen Anforderungen erhöhte Kosten verursachen 
+werden und in welchem Ausmaß. Die technischen Vorausset zungen werden erst durch Verordnung 
+festgelegt. Je nach technischer Lösung kann die Veröffentlich der Informationen sehr rasch erfolgen oder 
+auch aufwändiger sein (z.B. Eingabe aller Daten in eine Datenbank -Maske, Schnittstellen zu anderen 
+Systemen, ...).  Auch wenn ein barrierefreier Zugang grundsätzlich begrüßt wird, ist gerade diese Form des 
+Zugangs mit erhöhten, ebenfalls noch nicht bezifferbaren Aufwendungen verbunden.  
+ 
+Der Aussage, dass insgesamt, also längerfristig von einer Kostenneutralität ausgega ngen werden kann, kann 
+in dieser Allgemein heit nicht gefolgt werden. Das Land Steiermark geht jedenfalls von längerfristigen bzw. 
+dauernden zusätzlichen Kostenbelastungen , insbesondere was den personellen Aufwand betrifft, aus.  
+ 
+ 
+I. Zu Artikel 1 – Änderung  des B -VG 
+ 
+Zu Z 1 (Entfall Art. 20 Abs. 3 und 4):  
+ 
+Mit dem vorliegenden Entwurf ist geplant, die Amtsverschwiegenheit (Art. 20 Abs. 3 B -VG) ersatzlos 
+abzuschaffen. Dies wird durchaus begrüßt, es sei allerdings auf folgende Auswirkung hingewiesen:  
+Die Amtsverschwiegenheit hat den Charakter einer objektiven Pflicht für die Organe der Verwaltung, 
+bestimmte Informationen geheim zu halten und nicht bekannt zugegeben, wem auch immer gegenüber. Die 
+Abschaffung der Amtsverschwiegenheit schafft auch diese o bjektive Verpflichtung ab, sodass eine 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 15
+www.parlament.gv.at
+- 3 - 
+ 
+verfassungsgesetzliche Geheimhaltungsverpflichtung an sich nicht mehr existiert.  Wenn aber nun eine 
+verfassungsgesetzliche Geheimhaltungspflicht für Organe der Vollziehung nicht mehr besteh t, so bestehen 
+damit – bei k onsequenter Auslegung – für diese Organe auch gegenüber anderen Stellen (Gerichten, 
+Rechnungshof, Volksanwaltschaft) keine Verschwiegenheitspflichten mehr. So gesehen erweisen sich die 
+verfassungsgesetzlichen Ausnahmebestimmungen – wie sie z.B. in Art. 148 b Abs. 1 zweiter Satz B-VG 
+vorgesehen werden sollen – unter den Bedingungen der aktuellen vorgeschlagenen Formulierungen als 
+nicht (mehr) erforderlich, im Grunde genommen als gegenstandslos (weil eben eine Verpflichtung zur 
+Geheimhaltung nirgends mehr fest geschrieben ist). Es kann keine terminologische Anpassung des Begriffs 
+Amtsverschwiegenheit an eine Geheim haltungsverpflichtung geben, wenn diese 
+Geheimhaltungsverpflichtung an sich nicht mehr existiert.  
+ 
+Es ist aber unabdingbar, eine Geheimhaltungsverpfl ichtung für Organe in bestimmten Situationen weiterhin 
+aufrecht zu erhalten; so z.B. im Zusammenhang mit Zeugenaussagen. Es entspricht nämlich nicht dem 
+Gedanken der Transparenz, dass zwar gegenüber der Allgemeinheit bestimmte Informationen nicht bekannt 
+gegeben werden müssen, in einem individuellen Verfahren jedoch schon. Die Steiermärkische Landes -
+regierung geht daher davon aus, dass es weiterhin erforderlich sein wird, eine bestimmte Form der Geheim -
+haltung vorzusehen und materiengesetzliche Verschwiegen heitsverpflichtung en zu ermöglichen. Spezifi -
+sche Anforderungen an die Vertraulichkeit bestehen z.B. für die Organe der Kinder - und Jugendhilfe, die  
+Anwaltschaften, die Antidiskriminierungs - und Gleichbehand lungsbeauftragte n sowie für in Kranken -
+anstalten  oder in der Kinderbetreuung tätige Personen. Zusätzlich wird eine Verschwiegenheitspflicht auch 
+anderen Organen auferlegt (z.B. Beiräten, Kommissionen, Kontaktpersonen für Gleichbehandlung), dabei 
+wird oft der Begriff der Amtsverschwiegenheit verwendet bz w. dessen sinngemäße Geltung angeordnet  
+(vgl. die einheitliche Länderstellungnahme vom 21.08.2020, Pkt. 7).   
+ 
+Wenn nicht bereits eine bestimmte Form der Geheimhaltung in der Verfassung selbst vorgesehen sein 
+sollte, müsste jedenfalls die Gesetzgebung ermächtigt werden, solche Verschwiegenheitspflichten zu 
+verankern.  
+ 
+Der Begriff der Amtsverschwiegenheit, aber auch vergleichbare Verpflichtungen finden sich in einer 
+Vielzahl von Vorschriften des Bundes und der Länder. In den Erläuterungen findet sich kei ne umfängliche 
+Aussage darüber, welche weiteren Anpassungen im Bundes - und Landesrecht erforderlich sein werden; 
+dass dies der Fall sein wird, ist unzweifelhaft.  
+ 
+Es darf daher bereits jetzt ersucht  werden, die Legisvakanz auch dafür zu nutzen, gemeinsam m it den 
+Ländern Begrifflichkeiten zu finden, um die bestehenden Textierungen entsprechend anpassen zu können.  
+ 
+ 
+  
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 15
+www.parlament.gv.at
+- 4 - 
+ 
+Zu Z 2 (Art. 22a) :  
+ 
+Einbindung der Gesetzgebung  
+Die Schaffung von Informationspflichten für die Gesetzgebung wird äußerst kritisch gesehen.  Verfassungs -
+rechtliche Probleme bestehen insbesondere auf Grund des Grundsatzes der Gewalten trennung. So ist es z.B. 
+nicht zulässig, das Verhalten der Parlamente oder deren Organe durch Verordnung einer 
+Bundesministerin/ eines Bundesministers zu determiniere n oder sie auch einem Auslegungsregime der 
+Datenschutzbehörde zu unterwerfen. Daher werden Informationspflichten der Gesetzgebungsorgane des 
+Landes, die sich nicht unmittelbar aus Verfassungsrecht, sondern aus einfachem Bundesrecht (z.B. 
+Zuständigkeit der Landtagspräsidenten gemäß § 3 Abs. 1 Z 1 IFG) ergeben, abgelehnt. Sollten 
+Informationspflichten auch für Gesetzgebungsorgane enthalten b leiben, müssten die verfassungs rechtlichen 
+Vorgaben diesbezüglich verbessert werden; Abläufe, Vorgaben etc. müssten dabe i in den 
+Geschäftsordnungen der Landtage geregelt werden können (vgl. die einheitliche Länderstellungnahme vom 
+21.08.2020, Pkt. 8).  
+ 
+Abs. 2 – Ausnahmegrund „überwiegende berechtigte Interessen eines anderen“  
+Auch wenn die Ausnahmetatbestände im Abs. 2 den Tatbeständen im bisherigen Art. 20 Abs. 3 B -VG 
+nachgebildet sind, steht diese Bestimmung mit § 1 Datenschutzgesetz in einem Spannungsverhältnis . 
+Gemäß § 1 DSG sind personenbezogene Daten grundsä tzlich grundrechtlich geschützt.  Jedermann hat, 
+insbesondere a uch im Hinblick auf die Achtung seines Privat - und Familienlebens, Anspruch auf 
+Geheimhaltung der ihn betreffenden personenbezogenen Daten, soweit ein schutzwürdiges Interesse daran 
+besteht. Nach Abs. 2 sind Beschränkungen des Anspruchs auf Geheimhaltung z ulässig, und zwar – neben 
+anderen Tatbeständen – zur Wahrung überwiegender berechtigter Interessen eines anderen .  
+Dies bedeutet, dass der Dritte (also in Zukunft der die Information Begehrende) überwiegende berechtigte 
+Interessen geltend machen muss, um den – datenschutzrechtlich – grundrechtlich geschützten Geheim -
+haltungsanspruch durchbrechen zu können.  
+ 
+In Art.  22a B -VG ist umgekehrt vorgesehen, dass ein Geheimhaltungsinteresse nur dann besteht, wenn 
+dieses zur Wahrung überwiegender berechtigter Intere ssen eines anderen (also desjenigen, dessen Daten 
+verar beitet werden) bestehen. Hier muss das Geheimhaltungsinteresse des Geschützten überwiegen.  
+ 
+Dieselbe Formulierung in beiden Verfassungsbestimmungen meint aber jeweils einen anderen Personen -
+kreis, als o einmal den Begehrenden und das andere Mal die datenschutzrechtlich betroffene Person. Sollte 
+daher – wie auch schon beim aktuell bestehenden Auskunftsrecht – die Information anlasslos, also ohne 
+Nachweis eines berechtigten Interesses möglich sein (das In formationsinteresse selbst gilt wohl als 
+verfassungsrechtlich abgesichert), müsste daher  eine Informations erteilung – wenn personenbezogenen 
+Daten betroffen sind – aus Gründen des Datenschutzes immer unzulässig sein, da dabei weder ein 
+berechtigtes Interes se und schon gar kein überwiegendes Interesse besteht. Anzunehmen, dass das 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 15
+www.parlament.gv.at
+- 5 - 
+ 
+Informationsrecht (allenfalls als Ausfluss des Art. 10 EMRK) an sich schon ein überwiegendes berechtigtes 
+Interesse darstellt, wäre daher verfehlt. Es wäre zu wünschen, dass dieses  Spannungsverhältnis zwischen 
+den Grundrechten bereits auf Verfassungsebene gelöst werden könnte; allenfalls auch durch 
+verfassungskonforme Auslegung in den Erläuterungen.  
+ 
+Abs. 2 - Selbstverwaltung  
+Auch wenn dies der bisherigen Rechtslage entspricht, ist nicht nachvollziehbar , warum die Einschränkung 
+des letzten Satzes nur für die gesetzlichen beruflichen Vertretungen und nicht für alle sonstigen 
+Selbstverwaltungskörper (bspw. Tourismusverbände) gelten soll. Dies betrifft auch § 5 IFG.  
+ 
+Abs. 3  
+Gemäß Abs. 3 hat jedermann auch gegenüber den der Kontrolle des Rechnungshofes oder eines Landes -
+rechnungshofes unterliegenden Stiftungen, Fonds, Anstalten und Unternehmungen das Recht auf Zugang 
+zu Informationen. In Verbindung mit der geplanten Änderung der Art. 126 b Abs. 2, Art. 127 Abs. 3 und 
+Art. 127a Abs. 3 B -VG sind damit Unternehmungen, an  denen de r Bund/ das Land allein oder gemeinsam 
+mit anderen der Zuständigkeit des Rechnungshofes unterliegenden Rechtsträgern – abgesehen von börsen -
+notierten Unternehmungen – mit mindestens 25 vH des Stamm -, Grund - oder Eigenkapitals beteiligt ist 
+oder die das Land allein oder gemeinsam mit anderen solchen Rechtsträgern betreibt, zur Informations -
+erteilung verpflichtet. Der Gedanke der Transparenz, wie er auch im Regierungsprog ramm 2020 -2024 
+verankert ist, zielt darauf ab, staatliches Handeln transparenter zu machen („Mehr Transparenz im 
+öffentlichen Bereich“) und nicht primär das privater Unternehmungen. Nachvollziehbar ist, dass auch für 
+Unternehmungen, bei denen der Staatsant eil mehr als 50 vH beträgt  und damit der Einfluss  staatlicher 
+Organe gegeben ist  („staatsnahe Unternehmungen“) , eine Informationspflicht verankert werden soll (siehe 
+den Entwurf 2020); nicht nachvollziehbar ist dies allerdings dann, wenn der maßgebliche Ei nfluss von 
+Gebietskörperschaften oder durch staatliche Organe nicht mehr gegeben ist.  
+ 
+Daher wird eine Informations pflicht von Unternehmen, wenn der staatliche Anteil nicht die Mehrheit 
+beträgt – unabhängig von der Frage der Kontrollbefugnis durch den Re chnungshof – als unsachlich 
+abgelehnt.  
+ 
+Unternehmungen, die dem Informationszugang unterliegen, müssen Informationen u.a. dann nicht heraus -
+geben, wenn dies zur Abwehr einer unmittelbar drohenden Beeinträchtigung der Wettbewerbs fähigkeit der 
+Unternehmung erforderlich ist. Dieser Tatbestand scheint zu eng gefasst: Gerade die Herausgabe von 
+Geschäfts - und Betriebsgeheimnissen führt (z.B. bei speziellen Produktionsprozessen) selten zu unmittel -
+baren Beeinträchtigungen, sehr wohl zu solchen in naher Zukunft. A uch die Erläuterungen sprechen nicht 
+von „unmittelba r“ drohenden Beeinträchtigungen (vgl. die einheitliche Länderstellungnahme vom 
+21.08.2020, Pkt. 5). 
+ 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 15
+www.parlament.gv.at
+- 6 - 
+ 
+Zu Z 3 (Art. 52 Abs. 3a):  
+ 
+Die Wortfolge „Dies gilt nicht für Auskünfte …“ ist äußerst missverständlich , denn es ist aus dem Wortlaut 
+nicht erkennbar, auf welche Absätze sich dieses „dies“ bezieht. Der Begriff Auskunft kommt nämlich nur 
+in Abs. 1 vor, gleichzeitig enthalten die anderen Absätze aber ebenso Fragerechte.  
+Auch nach dem Entfall des Art. 20 Abs. 3 B-VG wird nun weiterhin zwischen Bund und Land differenziert. 
+Es wird vorgesch lagen, das Verhältnis von Bundesregierung zu Nationalrat und Landesregierung zu 
+Landtag im Hinblick auf die Geheimhaltungsgründe gleichartig zu regeln.  
+ 
+Zu Z 11, 12 (Art. 148b Abs. 1 und 2):  
+ 
+Der Formulierung des Art. 22a B -VG – und auch keiner anderen Vorschrift – ist nicht entnehmbar, dass die 
+Organe der Verwaltung einer allgemeinen Geheimhaltungspflicht (gegenüber bestimmten Einrich tungen, 
+Organisationen, Organen oder genere ll) unterliegen würden. Unter diesen Voraussetzungen bestünde von 
+vornherein keine Verpflichtung zur Geheimhaltung gegenüber der Volksanwaltschaft;  von einer solchen 
+bräuchte daher auch nicht ausgenommen werden.  
+Auch kann die Geheimhaltungsverpflichtung de r Volksanwaltschaft nicht auf die Geheimhaltungs -
+verpflichtung der jeweiligen kontrollierten Organe gestützt werden, zumal für diese keine allgemeine 
+Geheimhaltungsverpflichtung mehr besteht.  
+ 
+ 
+II. Zu Artikel 2 – Informationsfreiheitsgesetz  
+ 
+Zu § 2  - Begri ffsbestimmungen :  
+ 
+Nach Abs. 1 gilt als Information jede „amtlichen oder unternehmerischen Zwecken dienende Aufzeich -
+nung“. In den Erläuterungen (Seite 5) wird ausgeführt, dass „im internen Entscheidungs prozess befindliche 
+Vorentwürfe in einem Vorstadium und zum ausschließlichen Zweck der internen Entscheidungsfindung des 
+entwurfserstellenden Organs (z.B. Vorentwurf eines Sachbearbeiters noch bevor diesen der zuständige 
+Genehmigende approbiert hat)“ keine Informationen im Sinne des Gesetzes seien („noch ni cht fertig“). 
+Dies steht in einem gewissen Spannungsverhältnis zu der in § 6 Abs. 5 lit.  b vorgesehenen Ausnahme von 
+der Informationspflicht, soweit dies zur „Vorbereitung einer Entscheidung“ geboten ist, wobei es um den 
+Schutz der internen Willensbildung eines Organs geht. Es stellt sich damit nämlich die Frage, ob derartige 
+der internen Willensbildung dienende Vorentwürfe gar keine Informationen im Sinne des IFG und daher 
+schon deshalb vom Informationsanspruch nicht erfasst sind oder ob Akte, die der Vorb ereitung der internen 
+Willensbildung dienen, lediglich von der Auskunftspflicht ausgenommen sind. Denkbar wäre die 
+Auslegung, dass ein (ausgefeilter ) Vorentwurf erst dann, wenn er tatsächlich Eingang in die – in welcher 
+(technischen) Form auch immer geführ te – Aktendokumentation findet, als amtlichen Zwecken dienende 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 15
+www.parlament.gv.at
+- 7 - 
+ 
+Information zu betrachten  ist. Das sollte deutlich und möglichst im Gesetzestext klar  zum Ausdruck 
+gebracht  werden.  
+ 
+Dem Begriff „Information von allgemeinem Interesse“  kommt im gesamten Regel ungszusammenhang 
+entscheidende Bedeutung zu. Abs. 2 versucht, die Information von allgemeinem Interesse zu definieren und 
+umschreibt dies mit Informationen, die einen allgemeinen Personenkreis betreffen oder für einen solchen 
+relevant sind.  Die Erläuterung en sprechen von einem hinreichend großen Adressaten - oder Personenkreis. 
+Auch wenn nachvollziehbar ist, dass es schwierig ist, hier eine relevante Definition zu finden, ist zum einen 
+festzustellen, dass es zwischen „allgemeinem“ und „hinreichend großem“ Pe rsonenkreis doch erhebliche 
+Unterschiede gibt, zum anderen erscheint weder der eine noch der andere Begriff eine praxistaugliche 
+Umschreibung darzustellen, sodass schon auf Grund dieser Unklarheiten eine einheitliche Veröffentlichung 
+nicht gewährleistet  erscheint.  
+ 
+Die gewählte Formulierung für die Definition von Informationen von allgemeinem Interesse klärt die 
+Fragen, was tatsächlich darunterfällt und welche Kriterien für die Bewertung des allgemeinen Interesses zu 
+verwenden sind, nicht ausreichend. Im  Sinne der Rechtssicherheit wird eine weitere Konkretisierung in den 
+Erläuterungen  durch nähere Spezifikation oder eine vermehrte Darstellung von Beispielen angeraten, um 
+den informationspflichtigen Stellen die Beurteilung zu erleichtern, welche Dokumente unter die 
+Veröffentlichungspflicht fallen. Offen sind beispielsweise die Fragen, inwieweit Förderungen 
+personenbezogen bekanntgegeben werden (dürfen/sollen/müssen) oder inwieweit Verträge der öffent lichen 
+Hand mit privaten Unternehmungen – abgesehen von d er Wertgrenze – öffentlich zugänglich gemacht 
+werden. Zusätzlich ist unklar, wie mit Verträgen umzugehen ist, in denen Geheimhaltungs - und 
+Verschwiegenheitsklauseln enthalten sind.  
+ 
+Unklar – allerdings von erheblicher praktischer Bedeutung – ist der Umgang  mit Individualverfahren. Sind 
+Studien und Gutachten, die in Individualverfahren erstellt werden, relevant? Unter welchen Voraus -
+setzungen müssen Gutachten, die im Zusammenhang mit Vorhaben eingeholt werden (von amtlichen und 
+nichtamtlichen SV) dem Begriff  Information von allgemeinem Interesse unterstellt werden? Ist relevant, 
+wie viele Parteien in einem Verfahren beteiligt sind, wie groß das Ausmaß der Auswirkungen eines 
+Vorhabens ist oder kann man generell solche im Individualverfahren eingeholte Gutachte n von der 
+allgemeinen Veröffentlichungspflicht ausschließen? Dies ist insofern relevant, als es sich dabei wohl um 
+mehrere tausend Verfahren pro Jahr handelt.  
+ 
+Da der Entwurf eine ausführliche Interessenabwägung zwischen dem allgemeinen Interesse und dem 
+Schutz bestimmter gewichtiger öffentlicher und privater Geheimhaltungsinteressen vorsieht, der auch im 
+Rechtsweg überprüfbar ist, sollte daher soweit wie möglich Klarheit über den Willen des 
+(Verfassungs) Gesetzgebers  geschaffen werden ( vgl. die einheitliche  Länderste llungnahme vom 21.08.2020, 
+Pkt. 3).  
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 15
+www.parlament.gv.at
+- 8 - 
+ 
+Zu § 3  – Zuständigkeit : 
+ 
+Gemäß § 3 soll jenes Organ zuständig für die Veröffentlichung von Informationen und zur Gewährung von 
+Zugang zu Informationen sein, zu dessen Wirkungsbereich die Information gehört. Der  Wirkungs bereich ist 
+insoweit schwierig abzugrenzen, als es Situationen gibt, in denen die Information zum Wirkungsbereich 
+mehrerer Organe gehört, weil alle Organe dieselben Informationen bei ihrer Aufgabenerfüllung benötigen: 
+z.B. Stellungnahmen der  Landesregierung an den Landtag,  aufsichts behördliche Verfahren der Landes -
+regierung bei Flächenwidmungsplanverfahren der Gemeinden (vgl. VwGH 25.11.2008, 2007/06/0084).  
+ 
+Es sollte daher festlegt werden, dass nur jene Stelle, bei der die Information originär e ntsteht oder für die 
+diese Information erstellt wurde (z.B. Gutachten), zur Veröffentlichung bzw. zur Informationserteilung 
+zuständig ist („Herkunftsprinzip“, „Ursprungsprinzip“) , auch wenn dieselbe Information von einer anderen 
+Stelle ebenso verwendet wer den kann oder an diese übermittelt werden muss (z.B. bei aufsichts -
+behördlichen Prüfungen oder Prü fungen durch die Rechnungshöfe) (vgl. die einheitliche 
+Länderstellungnahme vom 21.08.2020, Pkt. 9). 
+ 
+Zu § 4  – Informationsregister : 
+ 
+Die parallele und proaktive Veröffentlichung in einem Metadatenregister entspricht vom Charakter her 
+einer digitalen Suchmaschine, die auf bestehende Veröffentlichungen auf Ebene der Länder, Bezirks -
+verwaltungsbehörden etc. verweist. Die Schaffung eines zentralen Informatio nsregisters (Veröffentlichung 
+unter data.gv.at) ist im Sinne der Zugänglichkeit und Auffindbarkeit von Informationen grundsätzlich 
+verständlich. Dennoch darf auf Folgendes hingewiesen werden:  
+ 
+Das Land Steiermark geht davon aus, dass Veröffentlichungsverpf lichtungen, die nach Materiengesetzen 
+bestehen, nicht derogiert wird bzw. werden k önnen. Jedenfalls ist sicherzustellen, dass eine weitere 
+inhaltliche Veröffentlichung nicht erfolgen muss, sondern dass im Informationsregister ausschließlich 
+Metainforma tionen mit Hinweis auf den Auffindungsort solcher  Information enthalten sind.  
+ 
+Die Bereitstellung dieser Informationen, und die dabei in vielen Fällen komplizierte Einzelfall beurteilung 
+(Prüfung der Relevanz für einen allgemeinen Personenkreis und der gesch ätzten Kosten und Vorteile für 
+den jeweiligen Rechtsträger im Verhältnis zu den geschätzten Vorteilen für Menschen  sowie  Beurteilung 
+der Geheimhaltungsinteressen) führen wohl zu einem beträchtlichen, zusätzlichen  personellen und 
+finanziellen Aufwand für di e betroffenen Organisationseinheiten.  
+ 
+Da im Informationsregister Metainformationen (mit der Möglichkeit, unmittelbar zur gewünschten 
+Information zu gelangen) über alle Informationen im allgemeinen Interesse enthalten sein müssen („sind 
+über data.gv.at zug änglich zu machen“), stellt sich die Frage, wie mit bereits bestehenden , allgemein 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 15
+www.parlament.gv.at
+- 9 - 
+ 
+verfügbaren und anerkannten Datenbanksystemen  umgegangen werden soll. Dem Wortlaut nach muss über 
+dieses neue Informationsregister eine (vollständige?) Suche möglich sein. E s scheint nicht zielführend, alle 
+Informationen, die z.B. in Registern oder öffentlich zugänglichen Datenbank systemen, wie etwa im RIS, 
+enthalten sind, zusätzlich auch noch über data.gv.at zugänglich zu machen. Auch gibt es bereits bei 
+Landeshomepages gee ignete Suchfunktionen für bestimmte Themenbereiche (z.B. Landesumwelt -
+informationssystem). Diese weitere  Bereitstellung führt wohl nur zu einem geringen zusätzlichen 
+Erkenntnisgewinn für den betroffenen Personenkreis, da dieser die Informationen ohnehin an  anderer Stelle 
+abrufen oder direkt bei der Organisationseinheit anfragen kann.  Eine doppelte Aufbereitung  von Metadaten 
+erscheint unzweckmäßig und wird daher abgelehnt .  
+ 
+Des Weiteren verlangt § 4 Ab. 3, Informationen solange im Wege des Informations registers bereit zu 
+halten, solange ein allgemeines Interesse besteht. Das bedeutet, dass die informationspflichtigen Stellen die 
+bereitgestellten Daten in regelmäßigen Abständen warten und prüfen  müssen, ob die veröffentlichten Daten 
+noch relevant sind, was für alle informationspflichtigen Stellen ebenfalls zusätzliche personelle Ressourcen 
+erfordert. Darüber hinaus erscheint nicht klar, nach welchen Kriterien beurteilt werden soll, ab welchem 
+Zeitpunkt  Information en nicht mehr dem öffentlichen Interesse unterlieg en (vgl. die einheitliche 
+Länderstel lungnahme vom 21.08.2020, Pkt. 3). 
+ 
+Gemäß Abs. 3 legt der Bundesminister für Digitalisierung und Wirtschaftsstandort gemeinsam mit dem 
+Bundeskanzler die näheren technischen  Voraussetzungen fest. Nach Abs. 4 ist zwar vorgesehen, dass den 
+Ländern Gelegenheit zu geben ist, an der Vorbereitung einer solchen Verordnung mitzuwirken. Ein 
+entscheidender Einfluss für die Länder ist diesbezüglich nicht vorgesehen . Es ist daher sicherz ustellen, dass 
+diese Vorgaben nicht entgegen den  Wünsche/Anforderungen der Länder erlassen werden. Nur dann , wenn 
+eine rechtzeitige Einbindung erfolgt und die Bereitstellung der Metadaten über gemeinsam erarbeitete (oder 
+die zum Teil schon bestehenden) Sta ndards erfolgt, kann eine effiziente und kostensparende Vorgangsweise 
+erreicht werden. Um dies sicherzustellen, wird in Abs. 4 eine dem Art. 14b Abs. 5 B -VG vergleichbare 
+Regelung  gefordert  (vgl. die einheitliche Länderstel lungnahme vom 21.08.2020, Pkt. 1). 
+ 
+Wie bereits festgehalten, ist d erzeit  nicht abschätzbar, welchen Aufwand die Bereitstellung, aber auch die 
+Wartung der Informationen tatsächlich verursachen wird; unklar ist, ob die Eingabe ins Register in jedem 
+Einzelfall händisch erfolgen muss oder te chnische Tools die Veröffentlichung unterstützen können. D ie 
+Land esregierung  spricht sich daher  dagegen aus, dass für die Aufbereitung ein erheblicher Aufwand zu 
+leisten ist (denn nur bei unverhältnismäßigem Aufwand sind bestimmte Aufbereitungen nicht erfo rderlich).  
+ 
+Äußerst problematisch erscheint diesbezüglich auch die Übergangsbestimmung in § 20 Abs. 3 : Die 
+Veröffentlichung spflicht  im Informationsregister soll nämlich auch für schon vorhandene Informationen 
+gelten , soweit damit kein unverhältn ismäßiger Aufwand verbunden ist ; eingeschränkt ist dies nur „nach 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 15
+www.parlament.gv.at
+- 10 - 
+ 
+Maßgabe der vorhandenen technischen Möglichkeiten und Zweckmäßigkeit“. Die Steiermärkische 
+Landesregierung lehnt eine Rückwärtserfassung ab . § 20  Abs. 3 sollte  daher  entfallen . 
+ 
+Zu § 5  – Recht auf Zugang zu Informationen : 
+Zu § 5 letzter Satz wird auf die Anmerkung zu Art. 22a Abs. 2 B -VG verwiesen.  
+ 
+Zum 3. Abschnitt – Verfahren (§§ 7  ff) 
+ 
+Nach Ansicht der Steiermärkischen Landesregierung stimmt das in den Bestimmungen nach §§ 7  ff 
+gereg elte Verfahren nicht immer mit den diesbezüglichen Erläuterungen überein.  
+Die wesentlichsten Bestimmungen sind dem/den geltenden Auskunftspflichtgesetz/en nachgebildet, 
+vereinzelt werden aber andere Begriffe verwendet, wodurch sich Unsicherheiten ergeben.  Der bisher in den 
+Auskunftspflichtgesetzen vorgegebene Charakter eines Verfahrens zur Erlangung einer Auskunft war 
+davon geprägt, dass zunächst ein Begehren  auf Auskunft eingebracht wurde und dieses innerhalb der 
+vorgegebenen Frist erfüllt oder die Auskun ft nicht erteilt wurde. Entsprechend der Rechtsprechung handelte 
+es sich dabei um kein hoheitliches Verfahren, bei dem das AVG anzuwenden wäre , sondern um ein  
+Verfahren der schlichten Hoheitsverwaltung. Erst mit dem Antrag , über die Verweigerung einen Besc heid 
+zu erlassen, wurde ein hoheitlich abzuwickelndes Verfahren eingeleitet. Dies erscheint auch zweckmäßig, 
+da es genügend Fälle gibt, in denen die formlose Antwort, dass keine Information erteilt wird/werden kann, 
+zur Kenntnis genommen wird und die Erlas sung eines Bescheides daher gar nicht verlangt wird.  
+ 
+Die vorgeschlagenen Bestimmungen folgen diesem Modell: Die Überschrift zu § 7 spricht von einem 
+Begehren, nach § 8 Abs. 1 letzter Satz ist die Nichterteilung des Zugangs der Information mitzuteilen  und 
+der Zugang zu Informationen (bloß) nicht zu erteilen. Man kann also davon ausgehen, dass in diesem 
+Stadium  – auch wenn der Zugang verweigert wird – kein Bescheid zu erlassen ist. Dies folgt aus § 11, 
+wonach,  wenn die Information nicht erteilt wurde , erst auf schriftlichen Antrag ein Bescheid zu erlassen  ist. 
+Die Erläuterungen stimmen mit dem Gesetzestext insofern nicht überein, als sie den Eindruck erwecken, 
+dass es sich von Anfang an um ein hoheitliches Verfahren handelt. So wird in den Erläuterungen zu § 7 
+festgelegt , dass „Mängel schriftlicher Anbringen […] nicht zur Zurückweisung, sondern allenfalls zu einem  
+Verbesserungs auftrag (§ 13 Abs. 3 AVG) “ führen  (während z.B. in den APG vo n Stmk und OÖ geregelt 
+ist, dass dann, wenn einem Auftrag zur schriftlichen Ausführung oder zur Verbesserung eines Auskunfts -
+begehrens nicht entsprochen wird, das Auskunftsbegehren als nicht eingebracht gilt). In den Erläuterungen 
+zu § 12 wird ausgeführt , dass die Bestimmungen über die Barauslagen nach §  76 AVG unberührt bleiben 
+und daher – dieser Bestimmung folgend – der antragstellenden Partei Barauslagen vorgeschrieben werden 
+können . Dabei ist d ieser Begriff im Sinne eines Verwaltungsverfahrens zu verste hen [so hat der VwGH 
+entschieden,  „dass die Verpflichtung zur Tragung allfälliger Kosten bereits aus der Tatsache erwächst, daß 
+das, das Verwaltungsverfahren auslösende Parteibegehren gestellt worden ist und der Antrag auf 
+Durchführung der zur vollständige n Ermittlung des Sachverhalts erforderlichen oder durch das Gesetz 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 10 von 15
+www.parlament.gv.at
+- 11 - 
+ 
+gebotenen Amtshandlungen im verfahrenseinleitenden Parteiantrag eingeschlossen ist“ (VwSlg. 4350 
+A/1957), was auch Grundlage für die aktuelle Textfassung des § 76 Abs. 1 ist “].  
+ 
+Unklarheit en entstehen auch dadurch, dass in § 7 Abs. 1 von „beantragen“ und in § 7 Abs. 3 von „Antrag“ 
+gesprochen wird, was in der Diktion des Verfahrensrechtes auf ein mit Bescheid abzuschließendes 
+Verfahren (insb. bei Nichterteilung) schließen lässt und somit das  AVG anzuwenden wäre. Damit zeigt 
+sich, dass der Charakter des Verfahrens zur Erlangung einer Information nicht mit hinreichender Klarheit  
+festgelegt ist (vgl. auch § 12, wo von Anbringen und von Anträgen gesprochen wird). Es wird daher 
+dringend ersucht, d as Verfahren möglichst einfach und unbürokratisch  zu halten, jedenfalls von einem 
+hoheitlichen Verfahren zunächst Abstand zu nehmen („begehren“ statt „beantragen“) und dies auch in den 
+Erläuterungen entsprechend klar zu stellen . 
+ 
+Sollte es tatsächlich zulä ssig sein, bereits im Rahmen eines Eventualantrages für den Fall der Ablehnung 
+einen Bescheid zu verlangen, stellt sich die Frage, ob und welcher Teil des Verfahren s zur Informations -
+bereitstellung – wenn bestimmte Informationen bekanntgegeben werden, ande re aber nicht – hoheitlich 
+oder bloß schlicht hoheitlich  abgewickelt wird oder ob aus dem Eventualantrag folgt, dass das gesamte 
+Verfahren (z.B. einschließlich Verbesserungsauftrag) hoheitlich abzuführen ist. Diesbezüglich wären 
+einzelne Verfahrensbestimmungen (Information innerhalb von 4 Wochen) jedenfalls nic ht anzuwenden.  
+ 
+Sollte dem Wunsch nach einem möglichst unbürokratische n Verfahren gefolgt werden, sollte überlegt 
+werden, entsprechende Ergänzungen vorzunehmen, z.B. Verbesserung von unklaren Anbringen, aber auch 
+betreffend Kostenersatz  (zumal die Anwendu ng von § 76 AVG nicht gegeben  scheint ). Ein Zugang zu 
+Informationen bedeutet noch nicht, dass dieser kostenlos erfolgen muss. Bereits im UIG ist grundsätzlich 
+vorgesehen, dass Umwelt informationen auch kostenpflichtig sein können (nach § 5 Abs.  5 2. Satz k önnte 
+die Bundesregierung für die Bereitstellung von Umweltinformationen mit Verordnung Kostenersätze 
+festlegen). Auch der Zugang zu Information in Deutschland ist nicht grundsätzlich kostenlos; die Verord -
+nung über die Gebühren und Auslagen nach dem Infor mations freiheitsgesetz (Informationsgebühren -
+verordnung - IFGGebV) sieht zum Teil beträchtliche Gebühren (bis zu 500 €) und zusätzlichen 
+Auslagenersatz (Kopienersatz) vor.  
+ 
+Zu § 8  – Frist:  
+ 
+Die Frist von 4 Wochen erscheint ausgesprochen kurz. Eine Verläng erung erscheint jedenfalls bei der 
+Einbindung der Datenschutzbehörde unumgänglich (siehe dazu die Ausführungen zu § 15), aber auch bei 
+der Konsultation der betroffenen Personen nach § 10. Es erschiene daher zweckmäßig, die Frist von 
+vornherein auf 8 Wochen  zu verlängern  (vgl. die einheitliche Länderstellungnahme vom 21.08.2020, Pkt. 
+9). Es ist auch nicht (hinreichend) klar, ob in diese Frist auch die Zeit der Mängelbehebung einzurechnen 
+ist. Nach dem Gesetzeswortlaut läuft die Frist ab Einlangen des Antrage s beim zuständigen Organ.  
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 11 von 15
+www.parlament.gv.at
+- 12 - 
+ 
+§ 11 – Rechtsschutz : 
+ 
+Nach § 11 ist bei Nichterteilung der Information auf Antrag ein Bescheid zu erlassen. Während für die 
+Verwaltungsbehörden kein Zweifel besteht, dass sie auf Grund der Bestimmungen des EGVG das AVG 
+anzuwenden haben, stellt sich die Frage, nach welcher Verfahrensvorschrift die sonstigen in § 5 genannten 
+Einrichtungen und Stellen  – soweit sie nicht zur Gesetzgebung gehören – einen Bescheid  erlassen können 
+(nur für die Gerichtsbarkeit wird in den Erläuterungen erwähnt, dass diesbezüglich noch eine Klärung 
+erfolgen muss).  
+ 
+Wie auch die Frist für die Verwaltungsbehörden als zu kurz  eingestuft wird, gilt dies sinngemäß auch für 
+die Entscheidung sfrist  der Verwaltungsgerichte; es sollte zumindest eine Frist von drei Monaten  
+vorgesehen werden  (vgl. die einheitliche Länderstel lungnahme vom 21.08.2020, Pkt. 9 ). 
+ 
+Zu § 14  – Rechtsschutz : 
+ 
+In § 14 Abs. 1 Schlussteil wird die Formulierung „jenes Verwaltungsgericht im Land örtlich zuständig“ 
+verwendet. Da es nur ein Verwaltungsgericht pro Land gibt, handelt es wohl um eine Redaktions versehe n; 
+korrekterweise könnte die Formulierung lauten: „das Verwaltungsgericht jenes Landes örtlich zuständig“.  
+ 
+Zu § 15  – Datenschutzbehörde : 
+ 
+Die Zuständigkeit der Datenschutzbehörde  zur Beratung und Unterstützung wird, insbesondere, wenn  diese 
+nicht personell entsprechend ausgestattet wird, kritisch gesehen . Schon derzeit ist die Datenschutzbehörde 
+kaum in der Lage , rasch auf Anfragen von Behörden zu reagieren. Da nach derzeitigem Stand wohl nicht 
+erwartet werden kann, dass die Datenschutzbehörde bei Beratung aller informationspflichtigen Stellen in 
+Österreich (mehrere tausend) ihre Auskunft innerhalb von max. 2 Wochen  erteilen kann, wird davon 
+auszugehen sein, dass die Beantwortung innerhalb einer Frist von 4 Wochen für die informationspflichtige 
+Stelle nicht einzuhalten sein wird.  
+ 
+Darüber hinaus ergibt sich auch folgendes Problem: Die zuständige informationspfl ichtige Stelle kann zu 
+Beratungszwecken die Datenschutzbehörde konsultieren. Diese soll – insbesondere bei strittigen Fragen in 
+Bezug auf die Wahrung des Rechtes auf Schutz der personenbezogenen Daten – diese Stelle beraten. Im 
+Gegenzug muss sie aber selbs t über eine Beschwerde einer betroffenen Person entscheiden, deren Daten 
+von einer informationspflichtigen Stelle veröffentlicht oder weitergegeben wurde n. Das kann dazu führen, 
+dass die Datenschutzbehörde im Beschwerdeverfahren über Datenweitergaben einer  Stelle entscheiden 
+muss, die sie zuvor beraten hat. Damit kommt die Datenschutzbehörde unzweifelhaft in ein Dilemma, weil 
+jede Beratung (soll sie aussagekräftig sein) letztlich eine Präjudizierung einer nachfolgenden Entscheidung  
+sein könnte.  
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 12 von 15
+www.parlament.gv.at
+- 13 - 
+ 
+Während die Aufgabe der Datenschutzbehörde nach Abs. 1 auf ihren ursprünglichen Aufgabenbereich 
+(Datenschutz)  bezogen ist, ist sie nach Abs.  2 dafür zuständig, die Vollziehung des gesamten Gesetzes zu 
+evaluieren , was ihren bisherigen Zuständigkeitsbereich erheblich er weitert ; sie hat damit die Praxis aller 
+informationspflichtigen Stellen im Hinblick auf alle sonstigen Geheimhaltungsgründe zu beobachten.  
+ 
+Zu § 16  – Verhältnis zu anderen Rechtsvorschriften:  
+ 
+Nach § 16 bleiben besondere Bestimmungen in Bundes - oder Lande sgesetzen über den Zugang zu 
+Informationen unberührt. Damit sollen – wie auch den Erläuterungen zu entnehmen – bereichsspezifische 
+gesetzliche Informationsrechte, wie insb. betreffend z.B. Umweltinformation – unberührt bleiben. Es ist 
+somit davon auszugehe n, dass das Informationsfreiheitsgesetz neben anderen gesetzlichen Bestimmungen 
+über einen Informationszugang besteht. Unklar  bleibt allerdings das Verhältnis dieser Bestimmungen zum 
+IFG. Weder der Entwurf noch die Erläuterungen legen klar, ob Zugang nach mehreren Vorschriften (z.B. 
+IFG und UIG) gleichzeitig möglich ist und sich die Information begehrende Person aussuchen kann, nach 
+welcher Vorschrift sie eine Information erhalten möchte oder ob es eine Rangfolge gibt, dass z.B. das 
+Informationsfreiheitsges etz nur dann maßgeblich  ist, wenn nicht Zugang nach einem anderen Gesetz 
+gewährt wird/werden muss. Eine diesbezügliche  Klarstellung wäre erforderlich (vgl. die einheitliche 
+Länderstellungnahme  vom 21.08.2020, Pkt. 10).  
+ 
+Zu § 20  – In- und Außerkrafttreten; Übergangsbestimmungen  (iZm Art. 151 B -VG):  
+ 
+Die Legisva kanz von 18 Monaten  für das Inkrafttreten der B -VG-Änderungen als auch des IFG  ist zu kurz  
+bemessen . Es wird erforderlich sein, eine Vielzahl von Vorschriften auf Bundes - und Landesebene 
+anzupassen, es ist die Bundesv erordnung zu erlassen und es sind die technischen Rahmenbedingu ngen auch 
+für die Länder zum Einbri ngen auf data.gv.at erst zu schaffen . In Hinblick auf diese doch beträchtlichen 
+Arbeitsschritte wird eine längere Legisvakanz gefordert  (vgl. die einheitliche Länderstellungnahme vom 
+21.08.2020, Pkt. 11). 
+ 
+Wie bereits zu § 4 festgehalten, spricht sich das Land Steiermark gegen eine aufwä ndige und teure 
+Rückwärtserfassung aus , weshalb die Bestimmung des  § 20 Abs. 3 abgelehnt  wird und entfallen  müsste .   
+ 
+ 
+III. Zu Artikel 4 (Verfassungsgerichtshofgesetz)  
+ 
+Zu Z 4 (§ 26 Abs. 3):  
+Die Einführung eines Sondervotums eines Mitgliedes des VfGH („dissenting opinion“) wird abgelehnt. 
+Nach Ansicht der Steiermärkischen Landesregierung würde dies eine geringere Akzeptanz der VfGH -
+Erkenntnisse bewirken.  
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 13 von 15
+www.parlament.gv.at
+- 14 - 
+ 
+ 
+Eine Ausfertigung dieser Stellungnahme wird in elektronischer Form auch dem Präsidium des 
+Nationalrates übermittelt.  
+ 
+ 
+Mit freundlichen Grüßen  
+Für die Steiermärkische Landesregierung  
+Die Landesamtsdirektorin  
+ 
+Mag. Brigitte Scherz -Schaar  
+(elektronisch gefertigt)  
+  
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 14 von 15
+www.parlament.gv.at
+- 15 - 
+ 
+ 
+Ergeht per E -Mail:  
+1. dem Präsidium des Nationalrates  
+begutachtungsverfahren@parlament.gv.at   
+ 
+2. allen steirischen Mitgliedern des Nationalrates  
+3. allen steirischen Mitgliedern des Bundesrates  
+4. allen Ämtern der Landesregierungen  
+ 
+5. allen Klubs d es Landtages Steiermark  
+sowie der Direktion des Landtages Steiermark  
+6. der Verbindungsstelle der Bundesländer  
+beim Amt der NÖ Landesregierung  
+ 
+ 
+zur gefälligen Kenntnisnahme.  
+ 
+Das elektronische Original dieses Dokumentes wurde amtssigniert. Hinweise zur Prüfung dieser 
+elektronischen Signatur bzw. der Echtheit de s Ausdrucks finden Sie unter: https://as.stmk.gv.at149/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 15 von 15
+www.parlament.gv.at

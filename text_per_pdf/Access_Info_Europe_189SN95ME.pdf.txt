@@ -1,0 +1,597 @@
+ 
+ 
+19 April 2021  
+ 
+Legal Analysis of  the Austrian Freedom of Information Act  
+Access Info  Europe is a human right s organisation focused on the promotion and protect ion of 
+the right to information  across Europe . Its team has  extensive experience in analysing national 
+access to information laws and offering advice for law reform.  Access Info also  runs the RTI 
+Rating, which measures the strength of access to information laws and is widely used as an 
+advocacy tool.  
+Austria currently has one of the weake st right to information laws in the world and consistently 
+ranks at the bottom of the RTI Rating , with a score of 33 points out of 150 . Due to this, Access 
+Info welcomes the draft law amending the Federal Constitutional Act, the Court of Audit Act 
+1948 and  the Constitutional Court Act 1953 and enacting a Freedom of Information Act .  
+This draft law  brings with it some positive changes to the previous access to information regi me 
+in Austri a: the  right to inform ation has now been elevated  to a constitutional r ight, there are no 
+longer charges to submit  access to information requests, and the right now applies to all 
+governmental agencies, including state -affiliated companies, not just administrative authorities 
+like the previous law , and the right to access doc uments is introduced . Yet, just like the previous 
+right to information law in Austria,  there still exists very weak areas a nd certain loopholes  that 
+could weaken the right to information in practice .  
+Access Info has carried out an  RTI rating  analysis of t his draft law, comparing it against 
+accepted international standards. Whilst there are improvements from the previous law, this draft 
+law only scored 57 points out of 150. The m ain areas of concern with this draft law are:  
+ Limiting definit ion of information;  
+ Weak proactive publication obligations;  
+ Weak harm and public interest test applicable to exceptions ; 
+ No independent oversight body ;  
+ Lack of sanctions regime for non -compliance;  
+ Only judicial appeal against refusals . 
+ 
+The right to information is a basic fundamental right in itself. It is linked to freedom of 
+expression, and has been recognized by the European Court of Human Rights, the Inter -
+American Court of Human Rights and the UN Human Rights Committee. International standards 
+and jurisprude nce have confirmed that information held by public bodies belongs to the public. 
+The Council of Europe Convention on Access to Official Documents states: “all official 
+189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 16
+www.parlament.gv.at
+2 
+ 
+documents are in principle public and can be withheld subject only to the protection of other 
+rights and legitimate interests”.  
+The right of access to information is a fundamental human right both a proactive and reactive 
+element:  
+» Proactive  
+The positive obligation of public bodies to provide, to publish, and to disseminate 
+information abou t their main activiti es, budgets, policies and plans,  so that the public can 
+know what they are doing, can participate in public matters and can control how public 
+authorities are behaving.  
+» Reactive  
+The right of all persons to ask public officials for information about what they are doing 
+and any documents they hold and the right to receive an answer. The majority of 
+information held by public bodies should be available, but there are some cases where the 
+information is withheld in order to protect priv acy, national security or commercial 
+interests.  
+With a legitimate right to information , a strong access to information law and the political will to 
+implement a strong access to information regime , citizens can see how and  why governments 
+make decisions. T his gives citizens  the ability to participate in decisions and hold public officials 
+to account. According to the RTI rating, Austria currently has the worst access to information 
+law in Europe. This draft law is an opportunity for Austria to bring its acc ess to information law 
+into line with international standards. To strengthen the law, Access Info lays out below weak 
+areas with recommendations on how to rectify them .  
+1. Definition s of “information ” too narrow  
+This draft law  defines information as "any record serving official or business purposes within the 
+sphere of activity of an institution ." In practice, t his could be interpreted narrowly  in order to 
+only give access to a specific set of information  held by a public body , rather than all information 
+held by it.  
+Recommendation  
+» The definition of “information” should apply to all material  held by or on behalf of public 
+authorities which is recorded in any format, regardless of who produced it. The language in 
+the Council of E urope Convention on Access to Official  Documents is clear and would be a 
+good source for this law: “ all information recorded in any form, drawn up or received and 
+held by public authorities .” 
+ 
+2. Lack of guidance on what should be proactively published  189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 16
+www.parlament.gv.at
+3 
+ 
+The law states that information of general interest must be published in a centralised information 
+register. Information of general interest is defined as “information that concerns or is relevant to 
+a general group of persons, in particular studies, expert op inions, statements and contracts with 
+an object value of at least 100,000 euros .”  
+In terms of information that falls within the public interest that must be published proactively, it 
+is welcome that this includes studies, expert opinions and statements. I n terms of contracts, 
+however this only concerns those with a value of over 100,000 euros, meaning that contracts 
+below this value would not need to be proactively published. This threshold is too high and could 
+allow the spending of large amounts of money  to be hidden from public oversight.  
+While we also welcome the establishment of a centralised information register, the law is vague 
+as to what exactly has to be published in this register, simply stating that “information of general 
+interest” is to be pu blished. The right of access to information entails a proactive and a reactive 
+component. The proactive component is the positive obligation of public bodies to provide, to 
+publish, and to disseminate information about their main activiti es, budgets, polic ies and plans . 
+Therefore, national access to information laws should not only include rules and procedures on 
+how to submit freedom of information requests, it should also include lists of what information 
+should be proactively published at the institution al level and state level.     
+While this law does implement  an information register, details on exactly what should be 
+published in it are lacking.  
+Recommendation  
+» The law should specify exactly what each public body is to proactively publish in the 
+infor mation register. Annex I includes a non -exhaustiv e list of what the Austrian law should 
+call for to be proactively published at the national  and institutional  level . 
+3. Procedure for  submitting access to information requests lacks details and 
+clarification   
+The procedures for requesting lack detail , which could cause problems for implementation in 
+practice. While an access to information request can be submitted “in writing, orally or by 
+telephone, in any technically possible and foreseen form”  (Article 7.1) , which is welcomed,  the 
+law lacks other necessary details, such as that it does not require an acknowledgement to be 
+given to the requester upon receipt  of the request .  
+While the law does mention  clarification of requests which are not clear  (Article 7.2) , it does not 
+state that public officials should give any particular assistance in formulating requests beyond 
+this. Nor is it stated that public officials are required to provide assistance to requesters who 
+require it because of special needs, for exampl e because they are illiterate or disabled . 
+When a body receives a request that it is not competent to deal with, the law states that the body  
+can either transfer the request to the competent body, or the body  can refer the requester to that 
+body. It should  be stated that public officials should transfer the request in this situation.  189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 16
+www.parlament.gv.at
+4 
+ 
+Recommendation s 
+» Requesters should be  provided with a receipt or acknowledgement upon lodging a request 
+within a reasonable timeframe, which should not exceed 5 working days  
+» Public officials should be  required to provide assistance to help reque sters formulate their 
+requests in general if needed, as well as being required to contact and assist requesters where 
+requests that have been made are vague, unduly broad or otherwise need clarification.  
+» Public officials should be  required to provide particular assistance to requesters who need  it 
+because of special needs, for example because they are illiterate or disabled.  
+4. Timeframes need to be brought into line with international sta ndards   
+The law states that information shall be granted “without undue delay” , but it does not specify 
+that responses should be provided “as soon as possible” and the maximum timeframe for 
+responding to an access to information request  is four ( 4) weeks , which is at the longer end of 
+European standards  (an average of 15 working days) . The right of access to information is a 
+fundamental right, and so public bodies should be obliged to prioritise answers and to respond as 
+swiftly as possible.  
+In addition to  this, the law allows for an extension  of up to four ( 4) weeks on the rather vague 
+grounds that “information cannot be granted in the period [of 4 weeks]” and does not explicitly 
+state that this extension may only be used once . 
+Recommendation s  
+» The law sho uld specifically state that requests should be dealt with “as soon as possible” 
+rather than “without undue delay”.  
+» Regarding time frame  extensions, the law should specifically state the grounds for applying 
+such an extension and that it  may only  be used once.  
+» When extensions are invoked, the  law must require that requesters be notified and provided 
+with the reasons for the extension , as well as details of how to appeal to challenge the 
+extended timeframe for responding . 
+5. This law is trumped by so me federal and land law provisions  
+The law explicitly states that F ederal or Länder  laws on access to official or business information 
+shall remain unaffected by this law  (Article 16). This is out of line with international standards. 
+As stated above, the  right of access should apply to all material  held by or on behalf of public 
+authorities, with only internationally accepted exception s applicable.  
+Recommendation  
+» The Freedom of Information Act should prevail over other legislation and over any 
+restricti ons on information disclosure in other legislation to the extent of any conflict.  
+6. Harm and public interest test or time limits to exceptions not explicitly stated  189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 16
+www.parlament.gv.at
+5 
+ 
+Article 6 on Secrecy contains the exceptions applicable to access to information. Austria has 
+neither signed nor ratified the Council of Europe Convention on Access to Official Documents, 
+and the exceptions contained in this law are not in line with the Convention. While the 
+Explanatory Note explains that these exceptions are subject to  a harm and public interest test, 
+this is not explicitly stated in the law text itself.  
+In addition, w hile it is welcomed that partial access is granted to documents where only parts of 
+it are covered by exceptions, it doesn’t specify that refused informa tion will be released once the 
+exceptions cease to apply.  
+Recommendation s  
+» Austria should sign and ratify the Council of Europe Convention on Access to Official 
+Documents.  
+» The law should follow the Council of Europe Convention on Access to Official Docume nts, 
+which lays out the following internationally accepted exceptions to access to information, 
+which are all subject to a harm and public interest test:  
+Each Party may limit the right of access to official documents. Limitations shall be 
+set down precisely in law, be necessary in a democratic society and be proportionate 
+to the aim of protecting:  
+a) national security, defence and international relations;  
+b) public safety;  
+c) the prevention, investigation and prosecution of criminal activities;  
+d) disciplinary investigations;  
+e) inspection, control and supervision by public authorities;  
+f) privacy and other legitimate private interests;  
+g) commercial and other economic interests;  
+h) the economic, monetary and exchange rate policies of the State;  
+i) the equality of parties in c ourt proceedings and the effective administration of 
+justice;  
+j) environment; or  
+k) the deliberations within or between public authorities concerning the 
+examination of a matter.  
+Access to information contained in an official document may be refused if its 
+discl osure would or would be likely to harm any of the interests mentioned in 
+paragraph 1, unless there is an overriding public interest in disclosure.  
+The Parties shall consider setting time limits beyond which the limitations 
+mentioned in paragraph 1 would no  longer apply.  
+ 189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 16
+www.parlament.gv.at
+6 
+ 
+7. Refusal not ices are inadequate  
+Article 8 states that if the information is subject to an exception (or only partial access is 
+granted) , the applicant shall be informed of the refusal to grant full access within four weeks . 
+Article 11 on legal protection however states that if access to the information is not granted, the 
+body responsible for providing the information shall, upon written request from the requester, 
+issue an official decision within two months after receipt of th at request.  The law also states that 
+if access to information on matters of legislation is not granted, no notice shall be issued.  
+There seems to be contradictory timeframes in place for granting refusals. In addition to this, it is 
+unacceptable that the requester wo uld have to request the refusal notice, and that no notice is 
+given regarding refusals of access to information on matters of legislation.  
+When a refusal is given, t he law does not state that this refusal should  contain a full be legal 
+explanation of the g rounds for refusal n or that it should provide information on how to appeal.  
+Recommendation  
+» A refusal  notice  should be issued  automatically within 20 working days. The requester 
+should not have to request the notice.  
+» This should apply to all access to info rmation requests.  
+» When refusing to provide access to information, public authorities must a) state the exact 
+legal grounds and reason(s) for the refusal and b) inform the applicant of the relevant appeals 
+procedures.  
+8. Third party consultation process insufficient  
+In terms of third party consultation process, the law states  that third parties can be consulted if 
+the provision of information interferes with the overriding legitimate in terest of another, in 
+particular  
+ to safeguard the right to protection of personal data,  
+ to protect professional, business or trade secrets, or  
+ to protect the intellectual property rights of persons concerned,  
+The process  however  is not clearly set out, nor does it  explicitly  mention that thi rd parties should 
+not have  veto power . 
+Recommendation  
+» Clear and appropriate procedures must be put in place for consulting with third parties who 
+provided information which is the subject of a request on a confidential basis. Public 
+authorities shall take into account any objections by third parties when considering requests 
+for information, but third parties do not have veto power over the release of information.  
+ 
+ 189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 16
+www.parlament.gv.at
+7 
+ 
+9. No Information Commissi oner established under the law  
+The law does not provide for a separa te oversight body , such as an Information Commissioner . 
+Having an independent body charged with overseeing the implementation of the right of access 
+to information is essential in a democratic  society. The only relevant provision in the law is that 
+it stipulates that the Data Protection Authority  (DPA)  should advise public authorities on the 
+Freedom of Information Act in matters of data protection. A democratic society needs to be able 
+to find a balance between access to information and data protection – without the DPA advising 
+on this in the absence of an Information Commissioner, it is likely that data protection with 
+constantly prevail.  
+International comparative best practice indicates clearly the benefits of an independent oversight 
+body to provide  a specialist, fast -track, free means for the public to defend the right of access to 
+information. The implementation of access to information laws is generally more effective where 
+such oversight bodies exist, and they can provide valuable guidance to pub lic bodies in the early 
+years of a full access to information regime.  
+Countries in Europe which have independent oversight bodies, the models for which Austria 
+might wish to study, include Croatia, France, Germany, Ireland, Serbia, Slovenia, Spain, and th e 
+UK as well as the European Ombudsman as the EU level.    
+Recommendation : 
+» An oversight body should be included within the law and below is a checklist of 
+recommendations for establishing an oversight body:  
+Independence: The members of the oversight body  should be  nominated by either the 
+executive or the parliament, and approved by the parliament following open hearings and 
+process by which the public may make representations. There must always be at least 
+three candidates for each position.  
+Candidates : There must be a prohibition on individuals with strong political connections 
+from being appointed. Professional expertise should be required.  
+Term : Members of the oversight body  should be appointed for at least 5 years and have 
+security of tenure during  this period except for major breaches of the law and 
+incompatibilities.  
+Financial Independence : The oversight body  must be able to propose its own budget for 
+the future year, subject to parliamentary approval.  
+ 
+Mandate & Powers: the mandate and powers of  the oversight body should include the 
+following:  
+Appeals : The oversight body receives and decides on appeals against administrative 
+decisions;  189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 16
+www.parlament.gv.at
+8 
+ 
+Binding decisions : The decisions of the oversight body are binding and must be 
+complied with or challenged in court; if not complied with, sanctions may be imposed;  
+Powers of inspection : The power to both request copies of documents and to enter the 
+premises of public bodies and review documents;  
+Review of classified documents : The right to review documents that have been 
+classified;   
+Declassification of documents : The oversight body can order revisions to classification 
+of documents / can recommend revisions to classification;  
+Structural Remedies : The oversight body can orde r structural remedies in public bodies 
+(such as improved record management, more training, etc.);  
+Sanctions : the oversight body can impose sanctions and these must be paid or challenged 
+in court;  
+Education : the oversight body is mandated to ensure that rel evant public officials are 
+educated on the Freedom of Information Act ;  
+Awareness Raising: The oversight body is charged with raising awareness about the law 
+and educating the public;   
+Monitoring implementation : The oversight body  is charged with collecti ng data from 
+public bodies so that it can monitor implementation of the Freedom of Information Act ;  
+Reporting : the oversight body must present a report to parliament, that shall also be 
+public, on an at least annual basis.  
+ 
+Oversight of Proactive Publicat ion: The oversight body should be charged with supervision of 
+proactive publication requirements, including:  
+Receiving complaints from public on proactive publication;  
+Reviewing proactive publication ex -officio;  
+Ordering specific remedies;  
+Ordering structural remedies (such as improving websites, improving record keeping, or 
+conducting more training);  
+Reporting on compliance with proactive publication requirements in its annual report.  
+Advancing the Right : The oversight body should be charged with having a proactive role in 
+developing the right of access to information in Austria . To this end it should be empowered to:   189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 16
+www.parlament.gv.at
+9 
+ 
+Develop Criteria : the oversight body can develop guidance on implementation and 
+criteri a for interpretation of the Freedom of Information Act ;  
+Propose Legislation : The oversight body can propose l egislati ve reforms / changes to 
+implementing regulations to the executive and relevant parliamentary committees;  
+Initiate and be a party to Litig ation : The oversight body can participate as an amicus 
+curiae or similar in relevant court cases in which it is not a party.  
+10. There only exists a judicial appeal and the grounds for appeal are limited   
+There are two different procedures concerning appeal ing a refusal to provide access to 
+information from public bodies and private bodies obliged to provide information (Non -
+sovereign foundations, funds, institutions and undertakings). Grounds for appeal however are 
+limited and there only exists a judicial a ppeal, there is no appeal to an independent oversight 
+body.   
+Recommendation  
+» Requesters should have both the right to lodge an external appeal with an independent 
+administrative oversight body (e.g. an information commission or ombudsman) as well as a 
+judicial appeal.  
+» The grounds for appeal to the oversight body  should be broad (including not only refusals to 
+provide information but also refusals to provide information in the form requested, 
+administrative silence and other breach of timelines, charging ex cessive fees, etc.).  
+It should be explicitly stated that in the appeal process the government bears the burden of 
+demonstrating that it did not operate in breach of the rules . 
+11. Lack of sanctions for non -compliance  
+The law does not  contain any sanctions for those who do not comply with the law. In addition, as 
+stated before, there is no independent oversight body to oversee the access to information regime 
+and to administer sanctions for non -compliance.  
+Recommendation  
+» An independe nt oversight body should be created to oversee the implementation of access to 
+information by public bodies and to administer sanctions.  
+» Sanctions should be imposed on those who wilfully act to undermine the right to information, 
+including through the una uthorised destruction of information.  
+» The law should put in place a system for redressing the problem of public authorities which 
+systematically fail to disclose information or underperform (either through imposing 
+sanctions on them or requiring remedial a ctions of them).  189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 16
+www.parlament.gv.at
+10 
+ 
+» The independent oversight body and its staff should be granted legal immunity for acts 
+undertaken in good faith in the exercise or performance of any power, duty or function under 
+this law.  
+» There should be legal protections against imposi ng sanctions on those who, in good faith, 
+release information which discloses wrongdoing (i.e. whistleblowers).  
+12. Promoting the right of access to information  
+The law does not put in place specific measures for the training on and the promotion of the right 
+of access to information. This is an essential part of ensuring not only that public officials know 
+how to implement this right in practice, but that citizen s are aware of their right to information 
+and know how to use it.  
+Recommendation  
+» Public authorities should be required to appoint dedicated officials (information officers) or 
+units with a responsibility for ensuring that they comply with their informatio n disclosure 
+obligations.  
+» A central body, such as an information commission(er) or government department, should be 
+given overall responsibility for promoting the right to information.  
+» Public awareness -raising efforts (e.g. producing a guide for the public  or introducing right to 
+information  awareness into schools) should be required to be undertaken by law.  
+» A system should be put in place whereby minimum standards regarding the management of 
+records are set and applied.  
+» Public authorities should be require d to create and update lists or registers of the documents 
+in their possession, and to make these public.  
+» Training programs on the right of access to information should be obligatory for public 
+officials.  
+» Public authorities should be required to report ann ually on the actions they have taken to 
+implement their disclosure obligations. This includes statistics on requests received and how 
+they were dealt with.  
+» A central body, such as an information commission(er) or government department, should 
+have an oblig ation to present a consolidated report to the legislature on implementation of the 
+law. 
+ 
+ 
+ 
+ 
+ 
+ 189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 10 von 16
+www.parlament.gv.at
+11 
+ 
+Annex I  
+Information to be proactively published : at national level and by institutions  
+ 
+I. National Level Publication of Information and Data  
+At the national level,  all the following information should be available, either on a centralised 
+website or data portal, or on the website of the relevant ministry. For key information, the data 
+should be collected from all relevant public bodies and private bodies performing public 
+functions and published centrally to ensure that it is easily findable and accessible for the public.  
+1. National Laws, and draft legislation  
+- All national laws and statutes available online, in consolidated versions as in force along 
+with history of modifications.  
+- Draft laws prepared by administration as well as those being considered by the national 
+parliament, along with details of timeframes, op portunities for comment, structured 
+participation processes.  
+2. Government Budget & Spending  
+- National government budget with planned expenditure for the upcoming year  
+- Income, included detailed tax income data  
+- Updated budget with actual expenditure  
+- Expendi ture reports, detailed, regularly updated, and available for previous years  
+- Audit reports and evaluations (all historic copies must be available)  
+3. Judicial Information  
+- Database of court decisions  
+- Data on civil, criminal, and administrative court processes , including on timeframes and 
+on outcomes  
+4. Election Data  
+- Election Results  
+- Results by constituency / district for all major national electoral contests.  
+5. National Statistics  
+- Key national statistics on demographic and economic indicators such as Gross Dom estic 
+Product (GDP), or unemployment and population statistics.  
+- Census data  
+- Trade data: Details of the import and export of specific commodities and/or balance of 
+trade data against other countries.  
+- All SDG datasets not covered by other categories here, g athered in one place, in an open 
+data, easily accessible format.   189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 11 von 16
+www.parlament.gv.at
+12 
+ 
+6. Health Sector performance  
+- Statistics generated from administrative data that could be used to indicate performance 
+of specific services, or the healthcare system as a whole. Including, mort ality and 
+survival rates; levels of vaccination; levels of access to health care; health care 
+outcomes for particular groups; and waiting times for medical treatment.  
+7. Education  
+- Data on performance of education system ; Test scores for pupils in national 
+examinations (not only rates of approvals); School attendance rates; Teacher attendance 
+rates.  
+8. Crime Statistics  
+- Statistics on levels and nature of crime, with high granularity on types of crime and 
+geographical data, which should include, specifically:  
+o Gender crimes data  
+o Attacks on freedom of expression: data including attacks on and killing of 
+journalists, human rights defenders, and environmental activists  
+9. Media and Internet  
+- Data on radio and broadcast licences issued along with all official data on  viewing 
+figures  
+- Data on Transparency of Media Ownership (all media outlets)  
+- Data on state funded advertising  
+- Data on levels of internet access (disaggregated by income, gender, age, race, ethnicity, 
+migratory status, disability, geographic location, etc .)  
+10. Environmental and Climate Change data  
+- Environmental Impact Assessments  
+- Emissions data  
+- Air quality data: data about the daily mean concentration of air pollutants, especially 
+those potentially harmful to human health.  
+- Water Quality: data on the qual ity of designated drinking water sources and 
+environmental water sources.  
+- Biodiversity monitoring data  
+11. Migration  
+- Data on immigration and emigration  
+- Data on integration, employment, and well -being of migrants  
+12. National Geo -Spatial Data  
+- A geographical m ap of the country including national traffic routes, stretches of water, 
+and markings of heights. The map must at least be provided at a scale of 1:250,000 (1 
+cm = 2.5km).  189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 12 von 16
+www.parlament.gv.at
+13 
+ 
+- Database of postcodes/zipcodes and the corresponding spatial locations in terms of a 
+latitude and a longitude.  
+- Data on administrative units or areas defined for the purpose of administration by a 
+(local) government.  
+13. Land Ownership  
+- Land ownership data (cadastre): Map of lands with parcel layer that displays boundaries 
+in addition to a l and registry with information tenure of all parcels of land.  
+14. Transport Data  
+- Transport data with details of when (times) and where (stops) public transport services, 
+such as buses and rail services, are expected to operate.  
+15. Public Procurement  
+- Detailed information on public procurement processes, criteria, number of participants, 
+amounts tendered, and outcomes of decision -making on tender applications with details 
+of the bid and the awardee  
+- Information regarding minor contracts (those issued with no tend er process) with the 
+names of contractors, values of contract, details of work to be performed  
+- Information on other agreements signed, with details on parties, purpose, value, term of 
+duration, and amendments  
+- Copies of contracts and agreements, interim rep orts, modifications of contracts, interim 
+and final evaluations, and reports on completion of contracts, audit reports.  
+16. Company Register  
+- Database with all registered companies along with details of owners and annual 
+accounts and reports from each registe red company.  
+Beneficial ownership register, with details of all owners including the ultimate, 
+beneficial, owners of every company.  
+17. Weather Forecast  
+- 3-day forecasts of temperature, precipitation and wind.  
+- All historical weather data as collected by the  national meteorological agency.  
+18. Right of Access to Information  
+- Annual report on compliance with the right of access to information, with data on 
+requests, including timeframes for responding, exceptions applied for refusals and all 
+other relevant data.  
+- Details of all appeals against refusals, including the decision of the independent 
+oversight body (Information Commissioner, Transparency Council, Ombudsman’s 
+Office, or other body as relevant).  189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 13 von 16
+www.parlament.gv.at
+14 
+ 
+- Details of all court cases relating to the right of access to information (constitution 
+and/or law), with the decisions of each court in the appeal process collected in one 
+place.  
+ 
+II. Institutional Level Publication of Information and Data  
+This section sets out the information – including documents and data – that should be available 
+on all public bodies and other bodies performing public functions and/or operating primarily 
+with public funds. The data should  be made available on websites th at permit it to be easily 
+accessed institution by institution. This can be achieved a central, searchable website, and/or on 
+the websites of each body.  
+ 
+1. Institutional Information  
+- Legal basis of the institution  
+- Internal regulations  
+- Description of functions and powers  
+2. Organisational Information  
+- Organisational structure, which should include key personnel, such as the head of the 
+body and each department  
+- Property (real estate) held by the public body  
+3. Operational Information  
+- Strategy and plans (annual  and multi -annual)  
+- Programmes with specific goals, activities  
+- Evaluations of compliance and results  
+4. Policies, Acts, Decisions  
+- Decisions, regulations, resolutions, agreements, other formal acts, particularly those that 
+directly affect the public and/or constitute an interpretation of law or have legal effects.  
+5. Budget Information  
+- Budget – planned and actual  
+- Income from all other sources (services, property, international organisations, etc.)  
+- Expenditure reports, detailed, regularly updated, and availabl e for previous years  
+- Audit reports and evaluations (all historic copies must be available)  
+6. Public Procurement and Contracts  
+- By institution if not in a centralised database:  
+- Detailed information on public procurement processes, criteria, number of partici pants, 
+amounts tendered, and outcomes of decision -making on tender applications with details 
+of the bid and the awardee  189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 14 von 16
+www.parlament.gv.at
+15 
+ 
+- Information regarding minor contracts (those issued with no tender process) with the 
+names of contractors, values of contract, details o f work to be performed  
+- Information on other agreements signed, with details on parties, purpose, value, term of 
+duration, and amendments  
+- Copies of contracts and agreements, interim reports, modifications of contracts, interim 
+and final evaluations, and rep orts on completion of contracts, audit reports.  
+7. Grants and Subsidies  
+- Information on the beneficiaries of grants and subsidies, the objectives, amounts and 
+reports on implementation and evaluation  
+8. Expenditure on Travel, Missions, Entertainment  
+- Travel exp enses (transport, accommodation, meals, entertainment, other) of all senior 
+and mid -level public officials  
+- Summary of expenditure of all other public officials on  
+- Meetings, events, and entertainment expenditure  
+9. Public Officials  
+- Names of senior personnel and their responsibilities along with their profiles, career 
+information  
+- Salaries of all ministers, elected officials, senior public officials (including politically 
+appointed advisors), judges, directors of publicly run private companies, etc.  
+- Salary scales by posts for all other officials  
+- Assets declarations and conflict of interest declarations of all ministers, elected officials, 
+senior public officials (including politically appointed advisors), judges, directors of 
+publicly run private com panies, etc.  
+10. Open Meetings  
+- Information on meetings including which are open meetings and how to attend these 
+meetings;  
+11. Decision -Making & Public Participation  
+- Copies of draft policies, decisions, and regulations along with evidentiary reports and 
+impact assessments being used in the decision -making process, along with the time lines 
+and decision -making moments, so as to permit public comment  
+- Information on how to participate in structured consultation processes and, after each 
+process, a report on how th e public input was taken into consideration  
+12. Interest Groups & Lobby Transparency  
+- The agendas of all senior public officials  
+- Minutes of all meetings held with lobbyists and other interest groups  
+- Institutional / national lobby register   189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 15 von 16
+www.parlament.gv.at
+16 
+ 
+13. Public Services, Complaints, Whistleblowers  
+- Descriptions of services offered to the public, guidance, copies of forms, information on 
+fees and deadlines;  
+- Contact information for public, including citizen support/information service  
+- Information on how to make formal comp laints about the body, including institutional 
+level mechanism and/or contact information of a relevant ombudsman’s office or 
+similar  
+14. Datasets & Statistics  
+- Datasets and statistics gathered by the body should be indicated on the website of the 
+body, and e ither available for download or with links to the relevant open data portal  
+15. Publications  
+- Information on publications issued, including whether publications are free of charge or 
+the price if for sale  
+16. Transparency & the Right to Information  
+- Information on  the right of access to information and how to request information, 
+including contact information for the responsible person in each public body  
+- Publication of requests received, information requested, appeals and outcomes  
+ 
+ 
+ 
+ 189/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 16 von 16
+www.parlament.gv.at

@@ -1,0 +1,30 @@
+Feedback from: Generalprokuratur_beim_Obersten_Gerichtshof
+
+Basierend auf dem bereitgestellten Kontext, hier die Zusammenfassung der Stellungnahme der Generalprokuratur zum Entwurf des Bundesgesetzes bezüglich Informationsfreiheit und weiteren Änderungen:
+
+**Zusammenfassung des Stakeholder-Feedbacks:**
+- Der Gesetzesentwurf sieht vor, dass die allgemeine Informationsfreiheit durch eine verfassungsgesetzliche Informationsverpflichtung und ein verfassungsgesetzlich gewährleistetes Recht auf Zugang zu Informationen eingeführt wird.
+- Der Entwurf erweitert die Reichweite auf die ordentliche Gerichtsbarkeit, was auch Staatsanwälte einschließt.
+- Die Generalprokuratur äußert Bedenken bezüglich der praktischen Umsetzung und der möglichen Konflikte mit bestehenden gesetzlichen Regelungen.
+- Spezifische Bedenken werden zur Handhabung von Informationen im gerichtlichen und behördlichen Verfahren geäußert, insbesondere im Hinblick auf Geheimhaltung und den Schutz der Unvoreingenommenheit von Entscheidungen.
+- Es wird darauf hingewiesen, dass der Gesetzesentwurf die bisherigen Regelungen der Akteneinsicht und des Datenschutzes möglicherweise konterkariert.
+
+**Gruppierung der Aussagen:**
+- **Änderungsbedarf und Klarstellungen:**
+  - Notwendigkeit einer genaueren Ausarbeitung der Regelungen zur Informationsfreigabe im Justizbereich.
+  - Klärung der Zuständigkeiten und Prozesse bei Anfragen nach Informationen, die in laufende Verfahren eingebunden sind.
+  
+- **Bedrohung bestehender Gesetze und Verfahren:**
+  - Mögliche Konflikte mit bestehenden Geheimhaltungsvorschriften und den Regelungen der ordentlichen Gerichtsbarkeit.
+  - Risiko der Untergrabung des Schutzes von personenbezogenen Daten und der Integrität von gerichtlichen Entscheidungen.
+
+**Sentiment-Clusterung:**
+- **Negative Sentiments (gegen den vorgeschlagenen Gesetzesentwurf):**
+  - Bedenken bezüglich der Ausweitung der Informationsfreiheit auf die ordentliche Gerichtsbarkeit.
+  - Sorge um die Aufrechterhaltung der Vertraulichkeit und der Unvoreingenommenheit in gerichtlichen Entscheidungen.
+  
+- **Positive oder neutrale Sentiments wurden nicht explizit geäußert.**
+
+**Evidenz aus den Eingaben, die die vorgeschlagenen Regeln stützen oder widersprechen könnten:**
+- **Unterstützung:** Es gibt keine explizite Unterstützung für die vorgeschlagenen Änderungen im Dokument. Die Stellungnahme konzentriert sich hauptsächlich auf Bedenken und potenzielle Probleme.
+- **Widerspruch:** Die angeführten Bedenken bezüglich des Datenschutzes, der Geheimhaltung und der möglichen Überlagerung von Zuständigkeiten und Verfahrensweisen stehen im Widerspruch zur effektiven Umsetzung des Gesetzes ohne weitere Anpassungen oder Klarstellungen.

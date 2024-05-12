@@ -1,0 +1,27 @@
+Feedback from: BMSGPK__Abt._IA4
+
+Zusammenfassung des Feedbacks der Stakeholder zu dem Entwurf eines Bundesgesetzes bezüglich Informationsfreiheit, Änderung des Bundes-Verfassungsgesetzes und anderer Gesetze:
+
+**Hauptpunkte aus den Stellungnahmen:**
+- Bedenken bezüglich der Abschaffung der Amtsverschwiegenheit und der Einführung von Informationspflichten und Zugangsrechten zu Informationen.
+- Unsicherheiten hinsichtlich der Definition und Abgrenzung von "Informationen von allgemeinem Interesse".
+- Sorge um den verwaltungsökonomischen Aufwand und die praktische Umsetzbarkeit der vorgeschlagenen Regelungen.
+- Vorschläge zur Präzisierung von Begriffsdefinitionen und zum Umgang mit sensiblen und schützenswerten Daten.
+- Diskussion der Auswirkungen auf bestehende Vertragsverhältnisse und Geheimhaltungspflichten.
+- Bedenken hinsichtlich der datenschutzrechtlichen Verantwortung und der Rolle der Datenschutzbehörde.
+
+**Gruppierung ähnlicher Statements:**
+- **Datenschutz und Geheimhaltung**: Sorgen über die Wahrung von Betriebs- und Geschäftsgeheimnissen; Vorschlag, schützenswerte Informationen von der Veröffentlichungspflicht auszunehmen.
+- **Definition und Klarheit**: Forderungen nach präziseren Definitionen für "Informationen von allgemeinem Interesse" und klareren Regelungen für die Veröffentlichungspflicht.
+- **Verwaltungsaufwand**: Bedenken, dass der erhöhte Verwaltungsaufwand nicht ohne zusätzliche Ressourcen bewältigt werden kann.
+
+**Clusterung nach Stimmung:**
+- **Positiv / Unterstützend**: 
+  - Zustimmung zur Idee der Transparenz und des erleichterten Zugangs zu Informationen.
+- **Negativ / Gegen die vorgeschlagene Regelung**: 
+  - Sorge um Datenschutz und die Wahrung von Betriebsgeheimnissen.
+  - Bedenken wegen des hohen Verwaltungsaufwands und der praktischen Umsetzbarkeit.
+  
+**Evidenz, die die vorgeschlagenen Regeln verstärken oder widersprechen könnte:**
+- **Verstärkung**: Die allgemeine Unterstützung der Transparenz und des Informationszugangs könnte die Umsetzung der Regelungen unterstützen.
+- **Widerspruch**: Der hohe Verwaltungsaufwand und die Bedenken bezüglich Datenschutz und Geheimhaltung könnten als Argumente gegen einige Aspekte der vorgeschlagenen Gesetzesänderungen verwendet werden.

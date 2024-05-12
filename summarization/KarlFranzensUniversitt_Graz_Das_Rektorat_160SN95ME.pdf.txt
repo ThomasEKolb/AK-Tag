@@ -1,0 +1,43 @@
+Feedback from: KarlFranzensUniversitt_Graz_Das_Rektorat
+
+**Zusammenfassung der Stellungnahme der Universität Graz:**
+
+- **Datenschutz-Folgenabschätzung:**
+  - Die Durchführung einer Datenschutz-Folgenabschätzung (DSFA) bei der Erstellung der Rechtsgrundlage ist grundsätzlich positiv, jedoch unzureichend umgesetzt, da nur ein Satz vorhanden ist und die restliche Seite leer bleibt.
+  - Die Notwendigkeit einer umfassenderen und konkreteren DSFA wird betont, um den normunterworfenen Stellen Erleichterungen zu bieten.
+
+- **Wirkungsorientierte Folgenabschätzung:**
+  - Die Behauptung, dass die Nachvollziehbarkeit und rechtswissenschaftliche Diskussion verfassungsgerichtlicher Entscheidungen erschwert wird, wird angezweifelt, da Entscheidungen oft ausreichend begründet und publiziert werden.
+
+- **Informationsfreiheitsgesetz (IFG):**
+  - Artikel 22a des Entwurfs, der die Veröffentlichung von Informationen von allgemeinem Interesse fordert, könnte klarer definiert werden, insbesondere im Hinblick auf personenbezogene Daten.
+  - Es wird eine stärkere Rechtssicherheit für informationspflichtige Stellen gefordert, um Missverständnisse zu vermeiden.
+
+- **Telefonische Auskunftsbegehren (§ 7 Abs 1 IFG):**
+  - Bedenken hinsichtlich der Praktikabilität und Dokumentation von telefonischen Auskunftsbegehren, insbesondere wenn personenbezogene Daten betroffen sind.
+
+- **Missbräuchliche Anträge (§ 9 Abs 3 IFG):**
+  - Vorschlag zur Konkretisierung, was als missbräuchlicher Antrag gilt, um die Rechtssicherheit zu erhöhen.
+
+- **Bescheidmäßige Erteilung von Informationen (§ 11 IFG):**
+  - Bedenken, dass die bescheidmäßige Erteilung von Informationen, die die Gerichtsbarkeit betreffen, dem Konzept der Trennung von Justiz und Verwaltung widerspricht.
+
+**Positive und negative Sentiments:**
+
+- **Positive Sentiments:**
+  - Begrüßung der Einführung einer DSFA bereits bei der Erstellung der Rechtsgrundlage.
+
+- **Negative Sentiments:**
+  - Kritik an der unzureichenden Umsetzung der DSFA.
+  - Zweifel an der Behauptung, dass die Nachvollziehbarkeit und Diskussion verfassungsgerichtlicher Entscheidungen erschwert wird.
+  - Forderung nach klareren Definitionen und mehr Rechtssicherheit im IFG.
+  - Bedenken gegen die Praktikabilität telefonischer Auskünfte und die Art der Erteilung von Informationen bezüglich der Gerichtsbarkeit.
+
+**Verstärkung oder Widerspruch zu vorgeschlagenen Regeln:**
+
+- **Verstärkung:**
+  - Die Forderung nach klaren Definitionen und konkreten Beispielen im IFG verstärkt die Notwendigkeit einer präzisen Gesetzgebung.
+
+- **Widerspruch:**
+  - Die Kritik an der unzureichenden DSFA und der mangelnden Begründung in der Folgenabschätzung widerspricht der Behauptung, dass die aktuellen Regelungen ausreichend sind.
+  - Die Bedenken bezüglich der Trennung von Justiz und Verwaltung stellen die vorgeschlagenen Methoden der Informationserteilung in Frage.

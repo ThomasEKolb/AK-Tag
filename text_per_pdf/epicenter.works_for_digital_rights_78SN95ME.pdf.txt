@@ -1,0 +1,470 @@
+WIEN / 15.04.2021
+STELLUNGNAHME
+Ministerialentwurf 
+betreﬀend Bundesgesetz, mit 
+dem das Bundes-
+Verfassungsgesetz, das 
+Rechnungshofgesetz 1948 und 
+das Verfassungsgerichtshof-
+gesetz 1953 geändert und ein 
+Informationsfreiheitsgesetz 
+erlassen werden 
+Für epicenter.works
+Mag. iur. Okan Kaya
+Erwin Ernst Steinhammer
+Thomas Lohninger, BA
+78/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+VORWORT UND KURZFASSUNG
+Wir danken dem Bundeskanzleramt für die Einladung, zu diesem Begutachtungsentwurf1 Stellung zu
+nehmen. Darüber hinaus danken wir der gesamten Bundesregierung für die Arbeit an diesem
+wichtigen  Meilenstein  eines  Informationsfreiheitsgesetzes  in  Österreich.  Wir  begrüßen  die
+Abschaﬀung  des  Amtsgeheimnisses  im  Verfassungsrang.  Die  Einführung  eines
+Informationsfreiheitsgesetzes ist schon lange überfällig und ein notwendiger Modernisierungsschritt
+der  Österreichischen  Demokratie.  An  dieser  Stelle  begrüßen  wir  es,  dass  das  Recht  auf
+Veröﬀentlichung sowie Zugang zu Informationen von allgemeinem Interesse durch die Verfassung
+garantiert wird. Auch ist die Einführung einer Cooling-oﬀ-Phase für Regierungsmitglieder zum
+Verfassungsgerichtshof wünschenswert.
+Der vorliegende Entwurf hat sich in einigen Punkten an den Informationsfreiheitsgesetzen anderer
+Staaten orientiert, in denen sich das Recht auf Zugang zu Informationen mit allgemeinem Interesse
+bewährt hat. Dennoch erfordert dieses Gesetzesvorhaben bestimmte Änderungen sowie Adaptionen,
+um  den  Erfordernissen  einer  demokratisch-rechtsstaatlichen  Ordnung  gerecht  zu  werden.
+Insbesondere  sind  Informationsfreiheitsbeauftragte  gesetzlich  zwingend  vorzusehen ,  um  eine
+eﬃziente Vollziehung des Gesetzes zu sichern, sodass ein/e Antragsteller*in nicht unverhältnismäßig
+lange auf Zugang zur gewünschten Information warten muss oder erst gar nicht erhält. 
+Der Begriﬀ der Information  ist zu präzisieren und Fristen sind auf ein zumutbares Maß zu kürzen . Die
+derzeitige Pauschalausnahme für den Sicherheitsbereich  ist aus unserer Sicht überschießend. 
+Inhaltsverzeichnis
+Vorwort und Kurzfassung..............................................................................................................................................2
+Informationsfreiheitsgesetz..........................................................................................................................................4
+Zu § 1 IFG – Keine Einschränkung auf Wirkungs- oder Geschäftsbereich...................................................4
+Zu § 2 Abs 2 IFG – Senkung des Gegenstandswertes von Verträgen | Vermeidung von 
+Kettenverträgen..........................................................................................................................................................4
+Zu § 3 IFG – Zugang zu Informationen ist ohne unverhältnismäßigen Aufwand zu ermöglichen.........5
+Zu § 4 IFG – Gewährleistung absoluter Gebühren- und Barrierefreiheit.....................................................6
+Zu § 5 IFG – Informationszugang für jedermann, auch im eigenen Wirkungsbereich der gesetzlichen
+beruﬂichen Vertretungen.........................................................................................................................................6
+Zu § 6 IFG – begrüßenswerte Einzelfallprüfung anhand des Ausnahmekataloges...................................7
+Zu § 6 Z 2 bis 4 IFG – keine Pauschalausnahme für den Sicherheitsbereich........................................7
+Zu § 6 Z 5 IFG – keine Verweigerung zum Zugang der Information nach Entscheidung...................7
+Zu § 6 Z 7 IFG – wirtschaftliche Interessen dürfen Informationsfreiheit nicht aushöhlen.................8
+Zu § 7 IFG – Informationsbegehren.......................................................................................................................8
+Zu § 8 IFG – max. 14 Tage statt 4 Wochen für Bereitstellung Information..................................................8
+Zu § 9 Abs 3 IFG – Ausnahmeklausel ist unverhältnismäßig und ersatzlos zu streichen........................9
+Zu § 11 Abs 1 und 3 IFG – amtswegige Bescheiderlassung..........................................................................10
+Zu § 12 - Gebührenfreiheit....................................................................................................................................11
+1https://www.parlament.gv.at/PAKT/VHG/XXVII/ME/ME_00095/index.shtml    
+278/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+§ 13 - Gewährleistung Gebührenfreiheit sowie Freiheit sonstiger Kosten................................................11
+Zu § 15 IFG – Einführung eines Informationsfreiheitsbeauftragten...........................................................11
+Fehlende Ressourcen und Kompetenz der Datenschutzbehörde:.......................................................11
+Einführung eines Informationsfreiheitsbeauftragten mit bestimmten Rechte und Pﬂichten:.......11
+Möglichkeit der Erhebung eines Rechtsmittels durch Informationsfreiheitsbeauftragten:............12
+Veröﬀentlichungspﬂichten über Handhabung Informationsfreiheitsgesetz:......................................12
+Verfassungsgerichtshofgesetz 1953.........................................................................................................................12
+Zu § 26 Abs 3 VfGG – Vor- und Nachteile von „dissenting opinions“.........................................................12
+Demokratische Kontrollrechte...................................................................................................................................13
+Demokratische Kontrollrechte des Nationalrats und der Landtage dürfen nicht unmöglich werden
+......................................................................................................................................................................................13
+378/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+INFORMATIONSFREIHEITSGESETZ
+Zu § 1 IFG – Keine Einschränkung auf Wirkungs- oder Geschäftsbereich
+Eine demokratische Ordnung setzt voraus, dass die Bürger*innen die Möglichkeit haben, ihrem
+Wahlverhalten eine informierte Entscheidungsgrundlage zugrunde zu legen. Es bedarf daher in
+Ergänzung zur Demokratie zwingend einer rechtsstaatlichen Ordnung, die alles staatliche Handeln
+transparent und nachvollziehbar macht. Der Rechtsstaat setzt daher eine Kontrolle staatlichen
+Handelns durch Bürger*innen voraus und diese darf nicht unverhältnismäßig erschwert oder
+unzumutbar gemacht werden. Die komplexe Ausgestaltung der Zuständigkeiten der Behörden ist der
+Mehrheit der Bürgern*innen nicht bekannt, sodass sie vorerst angehalten wären, entsprechende
+Nachforschungen zu tätigen, um die begehrte Information bei der richtigen Behörde zu beantragen.
+Sofern eine Behörde daher über die beantragte Information verfügt, hat sie ohne Rücksicht auf ihren
+Wirkungs- und Geschäftsbereich dem Antragsteller Zugang zu dieser Information zu verschaﬀen.  Ein
+Zugang zur beantragten Information darf nur unter den taxativ aufgezählten Ausnahmetatbeständen
+verweigert werden (§ 6 IFG).
+Lösungsvorschlag:
+Es wird daher angeregt, § 1 IFG wie folgt zu ändern:
+„§ 1. Dieses Bundesgesetz regelt die Veröﬀentlichung von Informationen von allgemeinem Interesse 
+und den Zugang zu Informationen im Wirkungs- oder Geschäftsbereich
+1. der Organe des Bundes, der L änder, der Gemeinden und Gemeindeverbände,
+2. der Organe der gesetzlich eingerichteten Selbstverwaltungskörper,
+3. der Organe sonstiger juristischer Personen, soweit diese mit der Besorgung von Geschäften der 
+Bundesverwaltung oder der Landesverwaltung betraut sind,
+4. der Organe der der Kontrolle des Rechnungshofes oder eines Landesrechnungshofes 
+unterliegenden Stiftungen, Fonds und Anstalten sowie 
+5. der der Kontrolle des Rechnungshofes oder eines Landesrechnungshofes unterliegenden 
+Unternehmungen.“
+.
+Zu § 2 Abs 2 IFG – Senkung des Gegenstandswertes von Verträgen | Vermeidung von 
+Kettenverträgen
+Mit Verordnung des Justizministeriums ist es aufgrund der Covid-19 Pandemie weiterhin möglich,
+öﬀentliche Aufträge auch ohne Ausschreibung an private Unternehmen direkt zu vergeben, sofern der
+Wert der Beschaﬀung EUR 100.000,00 netto nicht übersteigt (sog Direktvergabe).2 Es ist daher nicht
+nachvollziehbar, wieso Verträge erst mit einem Gegenstandswert von mindestens EUR 100.000,00 in
+den Informationsbegriﬀ fallen, zumal ohne Ausschreibung den Bürgern*innen bereits wesentliche
+Einblicke in die Entscheidungsgrundlagen der vergebenden Stelle fehlen. Der Gegenstandswert ist
+2 https://orf.at/stories/3196356/
+478/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+daher jedenfalls zu reduzieren und sollte sich in einem Rahmen von EUR 15.000,00 bis 30.000,00
+netto bewegen.
+Es sind jedenfalls Regelungen in den Gesetzesentwurf aufzunehmen, wonach Kettenverträge
+vermieden  werden  müssen.  Die  informationspﬂichtigen  Behörden  könnten  sich  aus  dem
+Anwendungsbereich  des  IFG leicht  herausnehmen,  indem  sie  mehrere,  EUR  100.000,00  an
+Gegenstandswert betragende oder nicht überschreitende Verträge, die in einem gewissen Konnex
+liegen, abschließen.  Derartige hypothetische Fälle ließen sich leicht vermeiden, indem erst Verträge
+mit einem Gegenstandswert von bis zu EUR 10.000,00 aus dem Informationsbegriﬀ ausgenommen
+werden. Um die Möglichkeit der Umgehung weiter zu reduzieren, wäre weiters die Veröﬀentlichung
+der  Metadaten  (Vertragspartner,  Gegenstandswert  und  Art  der  Leistung)  aller  Verträge
+wünschenswert . Dies würde die Möglichkeit bieten, mittels des Rechts auf Zugang zu Informationen
+diese Verträge anzufragen. Dadurch gäbe es eine zusätzliche Kontrolle darüber, mit wem Verträge
+geschlossen werden, was die Aufdeckung von Umgehungsversuchen (ob mutwillig oder nicht)
+ermöglicht.
+Weiters regen wir an, die Reihenfolge der exemplarischen Aufzählung umzudrehen. Mit dem Vollzug
+dieses Gesetzes wird eine außerordentlich große Anzahl an Beamt*innen betraut sein und ohne
+Kenntnis  der  Erläuterungen  könnte  der  Eindruck  entstehen,  dass  die  Einschränkung  des
+Gegenstandswerts nicht nur auf Verträge, sondern auch auf Studien, Gutachten und Stellungnahmen
+zuträfe. Dieser Eindruck könnte einfach vermieden werden und spart womöglich einige unnötige
+Rechtsstreitigkeiten.
+Der Begriﬀ „Informationen von allgemeinem Interesse“ ist in den Erläuterungen nicht erhellend
+deﬁniert. Grundsätzlich kann dies bei sachgerechter Anwendung von Vorteil sein, da man „allgemeines
+Interesse“  extensiv  auslegen  kann.  Jedenfalls  werden  Informationen,  die  bei  den  obersten
+Verwaltungsorganen auf Bundes- und Landesebene, aber auch bei diesen untergeordneten sonstigen
+staatlichen  Behörden  vorliegen,  immer  von  allgemeinem  Interesse  sein.  Schließlich  werden
+Entscheidungen getroﬀen bzw. Handlungen gesetzt, die für die von der jeweiligen Gebietskörperschaft
+umfasstenPersonen von Bedeutung sind. Gleiches gilt auch logischerweise für die Gesetzgebung, die
+normativ für das gesamte Bundesgebiet bzw. Landesgebiet allgemeine und abstrakte Gesetze erlässt.
+Es wäre sinnvoll dies in den Erläuterungen klarzustellen, zum Beispiel indem häuﬁg angefragte
+Informationen zwingend als im allgemeinen Interesse  liegend zu sehen sind. 
+Lösungsvorschlag:
+Es wird daher angeraten, den Wortlaut des § 2 Abs 2 IFG wie folgt zu ändern:
+„Informationen von allgemeinem Interesse im Sinne dieses Bundesgesetzes sind 
+Informationen, die einen allgemeinen Personenkreis betreﬀen oder für einen solchen relevant 
+sind, insbesondere Verträge mit einem Gegenstandswert von mindestens 10 000 Euro, 
+Studien, Gutachten und Stellungnahmen .“
+Zu § 3 IFG – Zugang zu Informationen ist ohne unverhältnismäßigen Aufwand zu 
+ermöglichen
+Hier ist im Wesentlichen auf die oben genannten Ausführungen zu den §§ 1 und 2 Abs 1 IFG zu
+verweisen. Der Zugang zu den Informationen sollte jedenfalls von allen Organen ermöglicht werden,
+578/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+bei denen die Information auch vorhanden ist.  Daneben müssen auch alle Organe die Information
+zugänglich machen, in deren Wirkungs- und Geschäftsbereich sie fallen und für die die Informationen
+bereitgehalten werden.
+Lösungsvorschlag:
+Es wird daher empfohlen, § 3 IFG dahingehend zu ändern, dass zuständig zur Gewährung von Zugang
+zu Informationen jedes Organ ist, zu dessen Wirkungsbereich die Information gehört, bei dem die
+Information vorhanden ist oder für das die Information bereitgehalten wird.
+Zu § 4 IFG – Gewährleistung absoluter Gebühren- und Barrierefreiheit
+Wir begrüßen an dieser Stelle die Bestimmung nach Abs 1, wonach bestimmte Informationen von den
+Organen der Gesetzgebung und Vollziehung sowie anderen Behörden proaktiv zu veröﬀentlichen
+sind.
+Nach  Abs 3  könnten  die  Gebühren-  und  Barrierefreiheit  entfallen,  sofern  dies  mit  einem
+unverhältnismäßigen Aufwand der informationspﬂichtigen Stelle verbunden wäre. Diese Regelung
+erscheint  im  Hinblick  auf  den  taxativ  aufgezählten  Ausnahmekatalog,  der  für  die  proaktive
+Veröﬀentlichung in gleicher Weise wie für den Zugang auf Antrag gilt, bedenklich. Damit wird de facto
+eine  weitere  Ausnahme  geschaﬀen,  ohne  dass  eine  strenge  Verhältnismäßigkeitsprüfung
+durchgeführt werden muss. Die wirtschaftliche Leistungsfähigkeit von informationspﬂichtigen Stellen
+kann gegenüber dem allgemeinen Interesse an der Veröﬀentlichung der Information ohnedies
+keinesfalls ein höheres Gut darstellen.
+Diese zentrale Passage der Reform ermöglicht es, die Potentiale von oﬀenen Daten nicht nur für die
+Bevölkerung, sondern auch für die Wirtschaft, zugänglich zu machen. Eine zentrale Anforderung
+hierfür ist die Vergleichbarkeit dieser Daten und dafür sind Metadaten ganz entscheidend.3 In der
+wissenschaftlichen Literatur ﬁndet sich die Vergleichbarkeit verschiedener Datensätze und die
+Verfügbarkeit von Metadaten als notwendige Voraussetzung für die positiven Eﬀekte im Bereich der
+wirtschaftlichen Nutzung,4 als auch für die Nutzung durch die Bevölkerung.5 Leider verorten wir im
+vorliegenden Entwurf in dieser Hinsicht einen signiﬁkanten Nachbesserungsbedarf.
+Lösungsvorschlag:
+Folgender Passus des § 4 Abs 3 IFG sollte ersatzlos gestrichen werden:  „[...]soweit damit für die
+informationspﬂichtige Stelle kein unverhältnismäßiger Aufwand verbunden ist.“
+Zu § 5 IFG – Informationszugang für jedermann, auch im eigenen Wirkungsbereich der 
+gesetzlichen beruflichen Vertretungen
+In diesem Zusammenhang sei vor allem auf die Arbeit der WKÖ sowie AK und ÖGK zu verweisen. Für
+diese Interessenvertretungen wird durch die aktuelle Formulierung eine sehr breite und sachlich nicht
+gerechtfertigte Ausnahme geschaﬀen.  Die Aufgaben,  die diesen Vertretungskörpern zukommen,
+genießen  die  Aufmerksamkeit  eines  großen  Personenkreises,  dem  nicht  notwendigerweise
+3https://link.springer.com/chapter/10.1007%2F978-3-319-98690-6_15   
+4https://www.igi-global.com/article/exploring-the-factors-inﬂuencing-the-adoption-of-open-government-data-by-private-  
+organisations/121537  
+5https://ieeexplore.ieee.org/document/8877055   
+678/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+Angehörige  der  vorgenannten  Interessenvertretungen  angehören.  Die  Aufgaben  im  eigenen
+Wirkungsbereich  der beruﬂichen  gesetzlichen  Vertretungen  können  daher  Informationen  von
+allgemeiner Bedeutung iSd § 2 Abs 2 IFG darstellen.  Der Zugang zu diesen Informationen darf nur bei
+Vorliegen der Ausnahmetatbestände verweigert werden.
+Lösungsvorschlag:
+§ 5 IFG sollte dahingehend geändert werden, dass der zweite Satz lautet: „Gegenüber den gesetzlichen
+beruﬂichen  Vertretungen  haben  in  Bezug  auf  Angelegenheiten  des  eigenen  und  übertragenen
+Wirkungsbereichs alle , in Bezug auf Angelegenheiten des eigenen Wirkungsbereichs ihre Angehörigen  ein
+Recht auf Zugang zu Informationen.“
+Zu § 6 IFG – begrüßenswerte Einzelfallprüfung anhand des Ausnahmekataloges
+Wir begrüßen in den Erläuterungen6 die Vorgehensweise, wonach informationspﬂichtige Stellen, die
+sich auf eine der im  Ausnahmekatalog taxativ genannten Tatbestände stützen,  im Einzelfall eine
+Abwägung der betroﬀenen Interessen vornehmen müssen. Dabei sind die informationspﬂichtigen
+Stellen an die strengen Verhältnismäßigkeitsvoraussetzungen des Art 10 EMRK gebunden. Danach ist
+zunächst immer zu prüfen, welcher tatsächliche Schaden durch den Zugang einer Information
+entstehen würde. Dieser ist sodann mit dem öﬀentlichen Interesse an der Zugänglichmachung der
+Information abzuwägen. 
+Zu § 6 Z 2 bis 4 IFG – keine Pauschalausnahme für den Sicherheitsbereich
+Entgegen allen übrigen Geheimhaltungsgründen stellen diese drei Ziﬀern Pauschalausnahmen dar,
+für die sich auch in den Erläuterungen keine hinreichende Konkretisierung ﬁndet. Gerade in einem
+Bereich, wo der Staat das Gewaltmonopol ausübt und es in den letzten Jahren vermehrt zu
+strukturellen Missständen und Misswirtschaft gekommen ist, erscheint diese breite Ausnahme absolut
+ungerechtfertigt. In einer breiten Lesart wäre der überwiegende Teil der Tätigkeit der Ministerien für
+Inneres und Landesverteidigung  vor dem prüfenden Blick der Öﬀentlichkeit geschützt. 
+Lösungsvorschlag: 
+Es  wird  dringend  eine  Konkretisierung  der  Erläuterungen  dahingehend angeregt,   welche
+Informationen von diesen Ausnahmen umfasst sein sollen. Es muss klargestellt werden, dass diese
+Geheimhaltungsgründe nur im Hinblick auf die Konsequenz der Veröﬀentlichung der Information
+selbst geltend gemacht werden dürfen und nicht bereits durch die simple Verwendung oder Herkunft
+dieser Information aus einer mit einem dieser Zwecke betrauten Einrichtung ableitbar ist (hää?). 
+Zu § 6 Z 5 IFG – keine Verweigerung zum Zugang der Information nach Entscheidung
+§ 6 Abs 1 Z 5 IFG sieht von der Veröﬀentlichung/Zugänglichmachung von Informationen ab, wenn dies
+im Interesse der unbeeinträchtigten Vorbereitung einer Entscheidung liegen würde. Die Erläuterungen
+lassen erkennen, dass ein Schutzbedarf auch dann bestehen könnte, wenn eine Entscheidung bereits
+getroﬀen wurde, ohne näher zu konkretisieren, inwiefern dies möglich sein sollte. Aber auch sonst ist
+diese Ansicht nicht nachvollziehbar, zumal lediglich die unbeeinträchtigte Entscheidungsﬁndung
+geschützt werden soll.  Nach Entscheidungsﬁndung kann die Veröﬀentlichung/Zugänglichmachung
+daher nurmehr über andere Geheimhaltungsgründe des § 6 geltend gemacht werden,  sofern die
+6 Erläuterungen zum IFG, S 7.
+778/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+sonstigen Voraussetzungen, insbesondere die Verhältnismäßigkeitsprüfung iSd Art 10 EMRK, beachtet
+werden. 
+Lösungsvorschlag: 
+Die Erläuterungen sollten klarstellen, dass nach abgeschlossener Entscheidung Informationen
+jedenfalls zu veröﬀentlichen sind.
+Zu § 6 Z 7 IFG – wirtschaftliche Interessen dürfen Informationsfreiheit nicht aushöhlen
+Die Geheimhaltungstatbestände der Z 7 sind nach den Erläuterungen weit gefasst. Jedenfalls ist
+gerade  in  diesem  sensiblen  Bereich  die  enorme  Wichtigkeit  der  Bestellung  eines
+Informationsfreiheitsbeauftragten  ersichtlich.  Der/die  mit  Datenschutzkenntnissen  ausgestattete
+Informationfreiheitsbeauftragte  kann  im  Einzelfall  eine  genaue  Abwägung  vornehmen  und
+gegebenenfalls Veröﬀentlichung und Zugang der Information unter bestimmten organisatorischen
+oder technischen Vorkehrungen zur Geheimhaltung der betreﬀenden Interessen ermöglichen. Fast
+immer ist ein Kompromiss aus Datenschutz und Informationsfreiheit möglich und eine pauschale
+Verweigerung der Auskunft in den seltensten Fällen das adäquate Mittel.
+Ähnlich verhält es sich mit geistigen Eigentumsrechten und Geschäftsgeheimnissen. Insbesondere das
+Urheberrecht darf nicht zur pauschalen Verweigerung von Auskünften verwendet werden.
+Zu § 7 IFG – Informationsbegehren
+Wir begrüßen, dass in § 7 Abs 1 IFG der Zugang zu Informationen sowohl schriftlich, mündlich als auch
+in jeder technisch möglichen Form beantragt werden kann. Dies ermöglicht einen möglichst
+barrierefreien und niederschwelligen Zugang zu Informationen für alle Personen.
+Ebenfalls begrüßen wir den Passus in § 7 Abs 4 IFG, wonach nicht zuständige Organe einen
+erhaltenen Antrag an das zuständige Organ weiterzuleiten oder den/die Antragsteller*in unverzüglich
+an das zuständige Organ zu verweisen haben. Im internationalen Vergleich zeigt sich, dass die
+verspätete Auskunft über die Unzuständigkeit von Organen und die unterlassene Weiterverweisung
+an das zuständige Organ ein großes Hemmnis für die Eﬀektivität von Informationsfreiheitsgesetzen
+sein kann.7 Diese Passage sollte jedenfalls beibehalten werden. 
+Zu § 8 IFG – max. 14 Tage statt 4 Wochen für Bereitstellung Information
+Die Informationsfreiheit dient dem Zweck, staatliches Handeln transparent und nachvollziehbar zu
+machen. Sie ist auch ein wichtiges Instrument einer Demokratie, da mit ihr behördliches Handeln
+womöglich erst verständlich wird, darüber eine faktenbasierte Debatte möglich wird und ultimativ
+dieses Instrument auch die Basis des Wahlverhaltens bilden kann. Zu den beantragten Informationen
+ist daher ehestmöglich Zugang zu gewähren, damit eine zeitnahe öﬀentliche Diskussion gewährleistet
+werden  kann.  Eine  Frist  von  vier  Wochen  erscheint  im  Hinblick  auf  die  Medienfreiheit
+unverhältnismäßig lang. Zugang zur Information  sollte vielmehr ohne unnötigen Aufschub, spätestens
+aber binnen 14 Tagen ab Einlangen des Antrags gewährt werden.  Eine Verlängerung nach Abs 2 sollte
+um nicht länger als weitere 4 Tage gewährt werden.
+7https://forum.okfn.de/t/umfrage-zu-problemen-und-huerden-bei-informationsfreiheitsanfragen/1338   
+878/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+Lösungsvorschlag:
+§ 8 IFG sollte dahingehend geändert werden, dass die Fristen für den Zugang zur Information bei
+einem Erstantrag nach Abs 1 innerhalb von 14 Tage zu gewährleisten ist. Eine Verlängerung nach
+Abs 2 sollte nur um vier weitere Tage möglich sein.
+Zu § 9 Abs 3 IFG – Ausnahmeklausel ist unverhältnismäßig und ersatzlos zu streichen
+In  den  Erläuterungen8 werden  lediglich  zwei  Fallbeispiele  genannt,  die  nicht  in  den
+Anwendungsbereich dieser Bestimmung fallen würden. Jedenfalls sollte in den Erläuterungen das
+Vorliegen  eines  oﬀenbaren  Missbrauchs  hinreichend  deﬁniert  werden.  Damit  das
+verfassungsgesetzlich gewährleistete Recht auf Zugang zu Informationen von allgemeinem Interesse
+nicht ausgehöhlt wird, ist dringend eine Verhältnismäßigkeitsprüfung iSd § 6 IFG  vorzunehmen. 
+Der zweite Verweigerungsgrund, nämlich wenn der Zugang zur beantragten Information die sonstige
+Tätigkeit des Organs wesentlich und unverhältnismäßig erschweren würde, wird in der Praxis zu
+unerwünschten Eﬀekten führen, zumal nicht deﬁniert wird, welche Aufgaben unter „sonstige
+Tätigkeiten des Organs“ fallen. Vielmehr liegt hier ein Widerspruch zu § 6 IFG vor, der abschließend die
+Voraussetzungen für die Verweigerung der Veröﬀentlichung sowie des Zugangs zu Informationen
+regelt. Die Erläuterungen9 lassen erkennen, dass mit einfachem Gesetz die bereits bestehenden
+Ausnahmetatbestände lediglich konkretisiert und enger gefasst, nicht aber neue Ausnahmen
+eingeführt werden dürfen. Gerade dies ist hier aber der Fall. Es wird daher angeregt, diesen
+Ausnahmetatbestand ersatzlos zu streichen.
+Weder aus dem Gesetzeswortlaut noch aus den Erläuterungen ist ersichtlich, welcher Maßstab an die
+Kriterien  der  Wesentlich-  und  Unverhältnismäßigkeit  gesetzt  wird.  Im  Rahmen  einer
+verfassungskonformen  Interpretation  (Art 22a B-VG),  aber  auch  unter  Berücksichtigung  des
+§ 6 Abs 1 IFG, ist eine strenge Verhältnismäßigkeitsprüfung, die den Anforderungen des Art 10 EMRK
+gerecht wird, vorzunehmen.
+Schließlich ist  der fehlende Rechtsschutz  zu bemängeln. In derartigen Konstellationen, wie es
+§ 9 Abs 3 IFG vorsieht,  bedarf es eines raschen und eﬀektiven Rechtsschutzes in Form eines
+Einspruchs. Die Befassung dieses Einspruchs darf fünf Werktage nicht überschreiten und sollte, sofern
+nicht auf die Forderung eines Informationsfreiheitsbeauftragten eingegangen wird, der zur Beratung
+gerufenen Datenschutzbehörde obliegen. Es dürfen keine hohen Maßstäbe an den Beweis durch den
+Antragsteller gestellt werden; reine Glaubhaftmachung muss genügen. Den Beweis, dass die
+Voraussetzungen des Abs 3 vorliegen, muss die informationspﬂichtige Stelle erbringen.
+Lösungsvorschlag:
+Es wird angeregt, § 9 Abs 3 IFG ersatzlos zu streichen. Alternativ sind die Begriﬀe „oﬀenbarer
+Missbrauch“ sowie „sonstige Tätigkeiten eines Organs“ und „wesentlich“ sowie „unverhältnismäßig“
+genau zu deﬁnieren, wobei die Anforderungen des Art 10 EMRK unbedingt einzugliedern sind.
+Weiters ist ein rascher und eﬀektiver Rechtsschutz zu gewährleisten.
+8 Erläuterungen zum IFG, S 9.
+9 Erläuterungen zum IFG, S 3.
+978/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+Zu § 11 Abs 1 und 3 IFG – amtswegige Bescheiderlassung
+Sollte ein Antragsteller den Zugang zu einer begehrten Information nicht erhalten (§ 11 Abs 1), darf
+der Rechtsschutz keinesfalls von einem antragsgebundenen Bescheid abhängig gemacht werden.
+§ 8 IFG regelt die Fristen, innerhalb derer informationspﬂichtige Stellen den Zugang zu einer
+Information erteilen müssen bzw. verweigern können. Da die Frist von vier Wochen zu lang bemessen
+ist,  haben  wir  bereits  oben  angeführt,  dass  die  Frist  im  Rahmen  einer  funktionierenden
+rechtsstaatlichen  Ordnung  auf  maximal  14  Tage  zu  reduzieren  ist.  Wenn  daher  eine
+informationspﬂichtige Stelle wegen Vorliegens eines Geheimhaltungsgrundes keinen Zugang zur
+beantragten Information erteilt, hat sie sofort, innerhalb der Frist des § 8 IFG einen Bescheid zu
+erlassen, ohne dass es hierfür eines Antrags bedarf.  Dieser Bescheid muss konkret ausführen, auf
+welchen Geheimhaltungstatbestand sich das informationspﬂichtige Organ stützt und inwiefern dies
+verhältnismäßig ist. Eine entsprechende Rechtsmittelbelehrung ist anzuführen.
+Es ist nicht unrealistisch, dass ein informationspﬂichtiges Organ mit der Erteilung zum Zugang zu einer
+Information säumig wird. In derartigen Konstellationen muss ein eﬀektiver Rechtsschutz gewahrt
+werden, da nicht auszuschließen ist, dass informationspﬂichtige Organe missbräuchlich den Zugang
+zu einer Information nicht in der vorgesehenen Frist erteilen. Daher ist es aus rechtsstaatlich-
+demokratischen Gründen unbedingt erforderlich, nach dem Ende der Frist für die Erteilung zum
+Zugang zu einer Information einen raschen und eﬀektiven Rechtsschutz gegen Säumnisse zu
+ermöglichen.  Wir empfehlen daher eine Säumnisbeschwerde, die ausnahmsweise nicht bei der
+säumigen Behörde, sondern sogleich beim zuständigen Verwaltungsgericht einzubringen ist, der über
+die Erteilung des Zugangs zur Information sowie über den Umfang der zu erteilenden Information
+entscheidet; dies binnen angemessener, jedoch 14 Tage nicht überschreitender Frist.
+Die Frist nach § 11 Abs 3 IFG ist zu lang bemessen. Auch in verwaltungsgerichtlichen Verfahren über
+Asyl- und Fremdenrecht sind bekanntlich Fristen von einer Woche für bestimmte Angelegenheiten
+vorgesehen, die trotz der Vielzahl an Fällen durchaus bewältigt werden. Es ist daher nicht
+nachvollziehbar, wieso eine Entscheidungsfrist von zwei Monaten vorgesehen ist. Die Frist ist auf
+sieben,  max.  14  Tage  zu  beschränken.  Eine  Beschwerdevorentscheidung  durch  dasselbe
+informationspﬂichtige Organ ist auszuschließen, da nur in seltenen Fällen diese von ihrem Standpunkt
+abweichen werden.  Vielmehr ist die Beschwerde sofort mit den erforderlichen Akten an das
+zuständige Verwaltungsgericht zu übermitteln, das innerhalb einer Frist von sieben bis max. 14 Tagen
+über die Beschwerde zu entscheiden hat.
+Lösungsvorschlag:
+§ 11 Abs 1 IFG sollte dahingehend geändert werden, dass ein Bescheid bei Nichterteilung des Zugangs
+zur beantragten Information innerhalb der Fristen des § 8 IFG von  Amts wegen zu erlassen ist. 
+§ 11 Abs 3 IFG sollte dahingehend geändert werden, dass gegen Säumnisse informationspﬂichtiger
+Organe Säumnisbeschwerde direkt an das zuständige Verwaltungsgericht erhoben werden kann, das
+innerhalb von 14 Tagen in der Sache selbst entscheidet. Die Frist für die Entscheidung über
+Bescheidbeschwerden muss sieben, max. 14 Tagen betragen. Eine Beschwerdevorentscheidung ist
+gesetzlich auszuschließen.
+1078/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 10 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+Zu § 12 - Gebührenfreiheit
+Wir begrüßen die Gebührenfreiheit. Dies stellt ein rechtsstaatlich notwendiges Mittel dar, um
+staatliches Handeln eﬀektiv und ohne unnötige Aufwendungen einer demokratischen Kontrolle zu
+unterziehen.
+§ 13 - Gewährleistung Gebührenfreiheit sowie Freiheit sonstiger Kosten
+Es ist durchaus richtig, dass die in §13 Abs 3 IFG genannten börsennotierten Gesellschaften sowie
+Konzerne Verpﬂichtungen zur Oﬀenlegung bestimmter Tätigkeiten unterliegen. Dennoch bestehen
+hier ﬁnanzielle Hürden für den Zugang zu den gewünschten Informationen (Bsp.: Firmenbuchauszug).
+Es ist daher zumindest gesetzlich festzulegen, dass der Zugang zu Informationen iSd § 2 Abs 2 IFG
+ohne Kosten oder sonstige Aufwendungen zu gewähren ist.
+Lösungsvorschlag:
+Bei § 13 Abs 4 IFG sollte nach dem ersten Satz mit folgenden Zusatz zu erweitert werden: 
+„Der Zugang ist gebührenfrei und ohne sonstige unnötige Aufwendungen zu gewähren.“
+Zu § 15 IFG – Einführung eines Informationsfreiheitsbeauftragten
+Fehlende Ressourcen und Kompetenz der Datenschutzbehörde:
+Nach § 15 IFG berät und unterstützt die Datenschutzbehörde die informationspﬂichtigen Organe,
+Stiftungen,  Fonds,  Anstalten  und  Unternehmungen  in  datenschutzrechtlichen  Belangen  der
+Vollziehung der Informationsfreiheit. Die Erläuterungen10 zeigen unmissverständlich und in klarer
+Weise, dass die Datenschutzbehörde lediglich auf Anfrage oder Auskunft Serviceleistungen zu
+erbringen hat oder datenschutzrechtliche Fragen klärt. De facto kommt der Datenschutzbehörde
+daher keine Funktion als Kontrollorgan zu. Weder ist sie Ansprechpartnerin für Antragsteller noch hat
+sie Kompetenzen betreﬀend der Erteilung des Zugangs zu Informationen. 
+Die Datenschutzbehörde ist eine unabhängige Behörde, die die Einhaltung der DSGVO bzw. des
+DSG 2018 kontrolliert. Sie verfügt nicht über das notwendige fachliche Wissen, um im Einzelfall zu
+prüfen, ob der Zugang zu Informationen zu erteilen ist oder nach § 6 IFG nicht erteilt werden darf.
+Diese Aufgabe soll der Datenschutzbehörde nach den Erläuterungen auch nicht zukommen. Vielmehr
+dient die Konsultation rein der Befassung von datenschutzrechtlichen Angelegenheiten. Dies ist für
+eine demokratische Ordnung nicht tragbar. Darüberhinaus wollen wir als Datenschutzverein darauf
+hinweisen, dass es ohne der notwendigen Zuständigkeit für Informationsfreiheit zu einseitigen
+Auskünften durch die Datenschutzbehörde kommen kann. Dies sind zwei unterschiedliche Materien
+mit ihrer eigenen Logik und keine von beiden kann unter die andere subsumiert werden. 
+Einführung eines Informationsfreiheitsbeauftragten mit bestimmten Rechten und Pﬂichten:
+Ein/e unabhängige*r Informationsfreiheitsbeauftragte*r muss gesetzlich verpﬂichtend vorgesehen
+werden. Einem/r Informationsfreiheitsbeauftragten müssen Beratungs-, Kontroll- und Einsichtsrechte
+gewährt  werden,  um  die  Vollziehung  des  IFG  eﬀektiv  zu  kontrollieren.  Der/die
+Informationsfreiheitsbeauftragte muss als Beratungsstelle, sowohl für Antragsteller*innen als auch für
+10 Erläuterungen zum IFG, S. 11.
+1178/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 11 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+informationspﬂichtige Stellen  dienen.  Er/sie  muss  die  Möglichkeit  haben,  aktiv  die  proaktive
+Veröﬀentlichung durch die Behörden auf ihre Richtigkeit und Vollständigkeit zu prüfen.  Weiters muss
+er/sie die im Einzelfall zu entscheidende Interessenabwägung prüfen können. Dazu bedarf es eines
+Einsichtsrechts der/des Informationsfreiheitsbeauftragten sowie einer vollumfänglichen Vorlagepﬂicht
+durch  die  informationspﬂichtigen  Stellen  aller  für  die  Beurteilung  der  Einhaltung  des
+Informationsfreiheitsgesetzes notwendigen Unterlagen.
+Möglichkeit der Erhebung eines Rechtsmittels durch Informationsfreiheitsbeauftragten:
+Rechtsstaatlich  wünschenswert  wäre  auch  die  Möglichkeit  einer/s  Rechtsschutzbeauftragten,
+Rechtsmittel  vor  den  zuständigen  Verwaltungsbehörden  erheben  zu  können,  um  objektive
+Verletzungen des IFG geltend machen zu können.
+Veröﬀentlichungspﬂichten über Handhabung Informationsfreiheitsgesetz:
+Der/die  Informationsfreiheitsbeauftragte  sollte  verpﬂichtet  werden,  Statistiken  und  sonstige
+Aufzeichnungen über die Handhabung des Informationsfreiheitsgesetzes zu erstellen und zu
+veröﬀentlichen, insbesondere über Anzahl an Anträgen, gewährten Erteilungen des Zugangs zu
+Informationen, Beschwerden, Verweigerungen der Zugangserteilung.
+VERFASSUNGSGERICHTSHOFGESETZ 1953
+Zu § 26 Abs 3 VfGG – Vor- und Nachteile von „dissenting opinions“
+Die Auswirkungen einer Veröﬀentlichung von abweichenden Minderheitsmeinungen („dissenting
+opinions“) des Höchstgerichts sind für Politik, Gesellschaft und Entwicklung des Rechts nicht
+unwesentlich. Der VfGH tritt nach außen als eine Einheit und höchste Instanz der Rechtsprechung auf,
+die als solche auch verstanden werden will.11 Der VfGH ist das Höchstgericht, das das Monopol zur
+Prüfung der Einhaltung der Verfassung genießt. Die Verfassung ist das höchste Gut, das die
+Erzeugungsbedingungen für alle ihr im Stufenbau der Rechtsordnung unterstehenden Gesetze und
+sonstigen Akte bildet. Die Verfassung stellt somit den Grundkonsens aller in Österreich lebenden
+Menschen dar. Dissenting opinions könnten daher zum unerwünschten Eﬀekt führen, dass die
+Bedeutung der Verfassung in Zweifel gezogen werden würde.
+Dissenting opinions könnten auch die demokratische Ordnung schädigen. Politiker*innen würden hier
+eine Möglichkeit sehen, die Besatzung zu politisieren, indem sie bestimmte Personen zu Mitgliedern
+zum VfGH bestellen. Dadurch könnten Politiker*innen sicherstellen, dass ihre rechtliche Ansicht
+zumindest als Mindermeinung veröﬀentlicht wird. Auch wäre es in diesem Fall leichter, das
+Abstimmungsverhalten einzelner Richter*innen nachzuvollziehen und diese im schlimmsten Fall unter
+Druck zu setzen. 
+Andererseits können dissenting opinions zur Rechtsentwicklung und -fortbildung beitragen. Dissenting
+opinions könnten in der Praxis aufgegriﬀen werden, um bereits bestehende Rechtsprechung des
+VfGH, die nicht mehr zeitgemäß ist, erneut Gegenstand einer Prüfung zu machen. Dadurch besteht
+die Möglichkeit, unter Berücksichtigung der Mindermeinung veraltete Rechtsprechung nochmals zu
+überdenken und an politische, kulturelle, technische und soziale Gegebenheiten anzupassen. 
+11 Stellung zu dissenting opinions durch VfGH-Präsident: https://orf.at/stories/3202480/
+1278/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 12 von 13
+www.parlament.gv.at
+IFG 2021 | epicenter.works
+Insgesamt sehen wir daher  Vor- und Nachteile von  dissenting opinions. Wir ersuchen den
+Gesetzgeber daher höﬂich, unter Berücksichtigung der vorgenannten Punkte im Rahmen seines
+gesetzgeberischen Spielraums eine fundierte Entscheidung zu treﬀen.
+DEMOKRATISCHE KONTROLLRECHTE
+Demokratische Kontrollrechte des Nationalrats und der Landtage dürfen nicht unmöglich
+werden
+Die Opposition im Nationalrat hat bereits mehrfach zum Ausdruck gebracht, dass durch die geplante
+Reform das Interpellationsrecht der Abgeordneten abgeschwächt wird, weil nun die Regierung eine
+Antwort bei Vorliegen eines Geheimhaltungsinteresses nach § 6 Abs 1 IFG verweigern kann. Nach
+aktuell geltender Rechtslage durfte eine Antwort nur verweigert werden, wenn sie Gegenstand des
+Amtsgeheimnisses war.12
+Auch die Präsident*innen der Landtage haben dieselben Bedenken gegen die Reform erhoben.13
+Die demokratische Kontrolle der Verwaltung darf durch das Informationsfreiheitsgesetz nicht
+ausgehöhlt werden. Die gesamte staatliche Verwaltung darf nur aufgrund der Gesetze erfolgen
+(Art 18 B-VG). Das heißt, dass Handlungen der Verwaltung immer auf Gesetze zurückzuführen sein
+müssen. Die demokratischen Kontrollrechte, insbesondere das Interpellationsrecht, stellen in diesem
+Zusammenhang ein notwendiges Mittel dar, um zu prüfen, ob die Verwaltung ihre gesetzlichen
+Befugnisse nicht überschreitet. Sie dienen vor allem dazu, die Verantwortung von Organwaltern einer
+gerichtlichen Prüfung zu unterziehen.
+Es  wird  daher  darauf  bestanden,  dass  im  B-VG  explizit  festgehalten  wird,  dass  das
+Informationsfreiheitsgesetz zu keiner Aushöhlung der demokratischen Kontrollrechte führt.
+12https://www.derstandard.at/story/2000124477023/spoe-und-fpoe-sorgen-sich-ums-fragerecht-fuer-abgeordnete   
+13https://www.parlament.gv.at/PAKT/VHG/XXVII/SNME/SNME_78254/imfname_935530.pdf  , Seite 3; 
+https://www.diepresse.com/5959537/rechnungshof-drangt-auf-kontrolle-der-parteien  
+1378/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 13 von 13
+www.parlament.gv.at

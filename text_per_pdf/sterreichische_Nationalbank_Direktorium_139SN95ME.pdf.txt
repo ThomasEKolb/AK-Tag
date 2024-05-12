@@ -1,0 +1,531 @@
+BRIEF  DIR 11 1 6 D /R  0031577©NB
+OESTERREICH  ISCHE  NATIONALBANK
+EUROSYSTEM
+An das
+Bundeskanzleramt  (Verfassungsdienst)  
+z.H. Fr. Dr. Elisabeth  DUJMOVITS  
+Ballhausplatz  2, 1010 Wien
+Per E-Mail:  verfassungsdienst@bka.gv.at ; In Kopie  
+an begutachtungsverfahren@parlament  ■ gv. atDIREKTORIUM
+Wien,  19. April  2021
+Martin  Schmid,  LL.M.  (WU)  DW: 7313
+GZ 2021-0.130.157  — Stellungnahme  zum Entwurf  eines  Bundesgesetzes,  mit 
+dem das Bundes-Verfassungsgesetz,  das Rechnungshofgesetz  1948 und das Ver­
+fassungsgerichtshofgesetz  1953 geändert  und ein Informationsff  eiheitsgesetz  er­
+lassen  werden
+Sehr geehrte  Damen  und Herren!
+Da die Oesterreichische  Nationalbank  (OeNB)  mannigfaltig  von diesem  Gesetz  betroffen  sein 
+würde  und dieses  einen  bedeutenden  Paradigmenwechsel darstellt,  erlauben wir uns hiermit,  eine 
+Stellungnahme  zu diesem  Gesetz  abzugeben.  Wir begrüßen,  dass die EZB hinsichtlich  des betref ­
+fenden  Entwurfes  mittlerweile  gern Art 127 Abs 4 AEUV konsultiert  wurde.
+Inhaltlich  geht die OeNB bereits  de lege lata in Sachen  Transparenz  und Nachvollziehbarkeit  ihres  
+Handelns  voran.  Im Einklang  mit den Grundsätzen  des Europäischen  Systems  der Zentralbanken  
+(ESZB)  stellt  die OeNB  etwa  — neben  anderen  Dokumenten  — statistische  Daten  als qualita ­
+tiv hochwertiges  öffentliches  Gut für kommerzielle  wie auch nicht-kommerzielle  Zwecke  
+kostenlos  zur Verfügung.  Für Anfragen  aus der Bevölkerung  steht  eine  eigene  Statistikhotline  
+zur Verfügung,  die statistische  Anfragen  so weit  möglich  beantwortet. 1
+Dementsprechend  ist aus unserer  Sicht zu hinterfragen,  ob die durch  den vorliegenden  Entwurf  
+intendierte  Steigerung  der Transparenz  zumindest  hinsichtlich  der OeNB  in einer verhältnismä ­
+ßigen  Relation  zu dem erwartbaren  massiven  Anstieg  des administrativen  Aufwands  und in Folge  
+der Kosten  steht. Die Verwendung  unklarer  Gesetzesbegriffe  trägt  dazu ihr Übriges bei  und wird  
+mutmaßlich,  auch abhängig  von der Anzahl  der Anfragen  auf Informationserteilung,  Behörden  
+und Gerichte  aufgrund  des sehr großen  Interpretationsbedarfs  streckenweise  massiv  belasten.  
+Jedenfalls  werden  im vorliegenden  Entwurf  aber (i) Besonderheiten  des Finanzsystems  so­
+wie (ii) Zentralbankspezifika  nicht  ausreichend  berücksichtigt.  Weiters  untersucht  die WFA  
+nicht deutlich  genug,  welche  massiven  und dauernden  finanziellen  Auswirkungen 2 die 
+Umsetzung  des Entwurfes  auf Beliehene  wie die OeNB  — und somit  auf den Staatshaushalt  — hätte .Unser  Z.: 
+Betrifft:
+1 Auch  bei den zahlreichen  Umfragen  der OeNB,  beispielsweise  im Rahmen  der EuroSurvey,  folgt die OeNB  den international  
+üblichen  Usancen  bei der Bereitstellung  von Survey  Daten.
+2 Die WFA  beziffert  die finanziellen  Auswirkungen  auf die OeNB  nicht.  Aufgrund  der zu erwartenden  Abwägungsnotwendig ­
+keiten  sowohl  hinsichtlich  der aktiven  Informationspflicht  als auch  hinsichtlich  der zu erwartenden  Informationsbegehren  ist 
+mit bedeutenden,  aber für die OeNB  noch  nicht  ziffernmäßig  abschätzbaren  Kosten  zu rechnen.
+Otto-Wagner-Platz  3,1090  Wien  
+Postadresse:  Postfach  61,1011  Wien  
+T: (+43-1)  404 20-0 
+F: (+43-1)  404 20-046699  
+www.oenb.at
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 12
+www.parlament.gv.at
+©NB
+Aus diesen  Gründen  regen  wir die Berücksichtigung  der folgenden  Änderungsvorschläge  an:
+1. Die OeNB  als Zentralbank  Österreichs  im Rahmen  des ESZB
+Die OeNB  ist als unabhängige Zentralbank  der Republik Österreich  Teil des Europäischen  
+Systems  der Zentralbanken  und kommt  ihr im Rahmen  der gemeinsamen  Währung  im 
+Euroraum  eine besondere  Rolle  zu. Bereits  die alleinige  Zuständigkeit  der Union  im Be­
+reich  der einheitlichen  Währung  führt dazu, dass die OeNB  bei der Wahrnehmung  ihrer  
+ESZB-Aufgaben  allein  an die Geheimhaltungsvorschriften  des ESZB  (insb Art 38 des Sta­
+tuts des ESZB)  gebunden  ist und somit der vorgeschlagene  Art 22a B-VG  als auch das IFG 
+dahinter  zurücktreten.
+Damit  dieser  Vorrang  der unionsrechtlichen  Geheimhaltungsvorschriften  auch explizit im 
+vorgeschlagenen 3 Art 22a B-VG  zum Ausdruck  kommt,  siehe Punkt  5; darüberhinausge-  
+hend  regen  wir an. die besondere  Rolle  der OeNB  im Bereich  der ESZB-Aufgaben  in den
+Erläuterungen  zu reflektieren  sowie bei  späteren  Durchführungsgesetzen  zu berücksichti-
+gen-
+Ein weiteres  Zentralbankspezifikum  betrifft  den Ort der Veröffentlichung:  Die OeNB  ver­
+öffentlicht  bereits  heute  im Einklang  mit den Grundsätzen des ESZB sämtliche  statistischen  
+Daten  von allgemeinem  Interesse  auf ihrer Homepage  in einer  dem § 4 Abs 3 IFG entspre ­
+chenden  Form.  Eine Veröffentlichung auf der eigenen  Homepage  ist aus sachlichen  Grün ­
+den unabdingbar  und wird  auch  von allen  anderen  Notenbanken  der EU in ähnlicher  Form  
+durchgeführt.  Eine vollständige  Veröffentlichung  aller Daten über die Adresse  
+www.data.gv.at  würde  somit  einen  unverhältnismäßigen  Aufwand  im Sinne  des § 4 Abs 3 
+IFG bedeuten,  da die Datensätze  redundant  veröffentlicht  werden  und laufend  auf dem ­
+selben  Stand  gehalten  werden  müssten.  Die OeNB  ist daher hinsichtlich ihrer  statistischen  
+Daten  von allgemeinem  Interesse  nicht verpflichtet,  diese nochmals  auf www.data.gv.at
+zu veröffentlichen.
+2. Personeller  und sachlicher  Anwendungsbereich  hinsichtlich der aktiven  
+Informationspflicht  - Art 22a B-VG,  §§ 1 Z 3, 4 IFG
+In Art 22a Abs 1 B-VG  ist hinsichtlich  der Organe  im funktionellen  Sinn (beliehene  Rechts ­
+träger)  klarzustellen,  dass die aktive  Informationspflicht  nur Tätigkeiten  im Bereich  der 
+Beleihung  betrifft.
+Der Entwurf  geht  von dieser  Einschränkung  aus unserer  Sicht  zwar  ganz offensichtlich  aus 
+(vgl Erläuterungen  zu Art 1 Z 2 (S 2), wonach  „insbesondere  auch die Organe  sonstiger  
+juristischer  Personen,  soweit  diese mit der Besorgung  von Geschäften  der Bundesver ­
+waltung “ betraut  sind, vom funktionellen  Verwaltungsbegriff  umfasst  sind; s weiters  § 1 
+Z 3 IFG „Organe  sonstiger  juristischer  Personen,  soweit  diese mit der Besorgung  von 
+Geschäften der Bundesverwaltung “ betraut  sind).  Dementsprechend  sollte  aber der Wort ­
+laut der Bestimmung dieses  Verständnis klar wieder  geben. Auch die  deutsche  Rechtslage
+3 Zum Zwecke  der Lesbarkeit  wird in Folge  auf die Zusätze  „vorgeschlagener “, „[.. .]-E“ weitestgehend  verzichtet,  da sowohl  
+hinsichtlich  Art 22a B-VG  als auch  hinsichtlich  des IFG keine  Verwechslungsgefahr  mit bestehenden  Normen  droht.
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 12
+www.parlament.gv.at
+0NB
+verfährt  im unten  vorgeschlagenen  Sinne,  als gern § 1 Abs 1 S 2 dlFG  jedermann  gegen ­
+über „sonstigen  Bundesorganen  und -einrichtungen “ Anspruch  auf Zugang  zu amtlicher  
+Information  hat, „soweit sie öffentlich-rechtliche  Verwaltungsaufgaben  wahrnehmen“ .4 
+Durch  diese  ausdrückliche  gesetzliche Klarstellung  wäre  zudem  der aus den Erläuterungen  
+hervorschein  enden  Intention  des Einbringers,  hinsichtlich  der Verwaltungsbehörden  im 
+organisatorischen  Sinne  — im Unterschied  zu den Beliebenen  - auch  deren  privatwirtschaft-  
+lichen  und „unternehmerischen “ Tätigkeiten  (vgl Erläuterungen  zu Art 2 § 2 (S5)) mit 
+Art 22a Abs 1 B-VG  und somit  der aktiven  Informationspflicht  zu erfassen,  weiterhin  ent­
+sprochen. 5
+Der Information  auf Antrag  hinsichtlich  der nicht  im Bereich der Beleihung  hegenden  Tä­
+tigkeiten  unterläge  die OeNB  und ihre Tochtergesellschaften  wohl schon aufgrund  der 
+Erfassung  durch  Art 22a Abs 2 u 3 B-VG  bzw §§ 5, 13 IFG (siehe  zur Kritik  an der man ­
+gelnden  Abgrenzung  aber die Punkte  3 u 4).
+Vorgeschlagen  wird daher in Anlehnung  an § 1 Z 3 IFG folgender  Wortlaut  des 
+Art 22a Abs 1 B-VG  (Änderungsvorschläge  unterstrichen !:
+„Artikel  22a. (1) Die Organe der Gesetzgebung,  die Organe  der Verwaltun g, die 
+Organe  sonstiger juristischer  Personen  soweit  diese  mit samt den mär der Besor ­
+gung von Geschäften  der Bundesverwaltung  und der Landesverwaltung  betraut  
+sind betrauten  Organen , die Organe  der ordentlichen  Gerichtsbarkeit,  [...] haben  
+Informationen  von allgemeinem  Interesse  in einer für jedermann  zugänglichen Art 
+und Weise  zu veröffentlichen,  soweit  diese nicht  gemäß  Abs. 2 geheim  zu halten  
+sind. “
+In weiterer  Folge  wäre § 4 Abs 1 IFG wie folgt  anzupassen:
+„§ 4. (1) Informationen  von allgemeinem  Interesse  sind von den Organen  der Ge­
+setzgebung,  den Organen  der Verwaltung,  den Organen  sonstiger  juristischer  Per­
+sonen  soweit  diese  samt  den mit der Besorgung  von Geschäften  der Bundesverwal ­
+tung  und der Landesverwaltung  betraut  sind betrauten  Organen , den Organen  der 
+ordentlichen  Gerichtsbarkeit,  [...] ehestmöglich  zu veröffentlichen,  soweit  und 
+solange  sie nicht  der Geheimhaltung  (§ 6) unterliegen. “
+3. Kompetenzabgrenzung  - Einschränkung  auf  Informationen  des eigenen  
+Wirkungs-,  Tätigkeits-  bzw.  Geschäftsbereiches
+Die vorgeschlagene  Bestimmung  in Art 22a B-VG  sieht  keine  Einschränkung  auf den eige­
+nen „Wirkungs-,  Geschäfts-  und Tätigkeitsbereich “ der von den Transparenzpflichten  be­
+troffenen  Organe,  Einrichtungen,  Unternehmungen,  Anstalten,  Fonds,  etc. vor.
+Ein solcher  ist jedoch  aus unserer  Sicht  notwendig,  um
+• unnötigen  Verwaltungsaufwand  zu vermeiden,  wenn mehrere  Transpa ­
+renzpflichtige  über ein und dieselbe  transparenzfähige  Information  verfügen  
+und demnach  diese  jeder  für sich transparent  zu machen  hat;
+• unnötige  Belastungen  im Rahmen  der Interessenabwägung  in Bezug  auf 
+das Vorliegen  von Geheimhaltungsinteressen  zu vermeiden;  diese könnten
++ Vgl auch Brink  in Brink/Polenz/Blatt,  IFG Kommentar  § 1 IFG Rz 93.
+5 Vgl zum dlFG  auch  Brink  in Brink/Polenz/Blatt,  IFG Kommentar  § 1 IFG Rz 88.
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 12
+www.parlament.gv.at
+©NB
+dadurch  entstehen,  dass Transparenzpflichtigen  Kenntnisse  zu fremden  Wir-  
+kungs-  Tätigkeits-  bzw. Geschäftsbereichen  fehlen,  die aber notwendig  sind,  
+um eine solche  Interessenabwägung verlässlich  und genau  treffen  zu können;  
+potenzielle  Fehlerquellen  (die durch mangelnde  Kenntnisse  zu fremden  
+Wirkungs-  Tätigkeits-  bzw. Geschäftsbereichen  entstehen  können)  im Rahmen  
+der Interessenabwägung  in Bezug  auf das Vor  liegen  von Geheimhaltungsinte ­
+ressen  zu minimieren.
+Insbesondere  ist hierbei  zu beachten,  dass gemäß  Entwurf  „jede  Aufzeichnung (Dokument,  
+Akt) eines informationspflichtigen  Organs  in seinem  Wirkungs-,  Tätigkeits-  bzw. Ge­
+schäftsbereich “ als transparenzfähige  Information  erfasst  sein soll, was somit  lediglich  (aber  
+immerhin)  bedeutet,  dass diese  Informationen im Rahmen  des zugewiesenen Aufgabenbe ­
+reiches  gewonnen  werden.  Es bedeutet  allerdings  eben nicht, dass diese Informationen  
+auch nur den eigenen  Wirkungs-  oder Geschäftsbereich  betreffen.  Art 22a B-VG  enthält  
+diesbezüglich  also keine  Unterscheidung.  Vielmehr  sind nach dem Wortlaut  alle vorhan ­
+denen  Informationen  — unabhängig  davon,  ob sie den eigenen  Wirkungsbereich  betreffen  
+oder nicht  — transparenzfähig.
+Zwar enthält  § 3 IFG eine (einfachgesetzliche)  Zuständigkeitsverteilung,  wonach  gemäß  
+Erläuterungen  „Informationsverpflichtungen  [...] nur im Rahmen  der jeweiligen  Zustän ­
+digkeit  (des Wirkungs-  bzw. Geschäftsbereichs)  gelten  [sollen] “, jedoch  steht diese ein­
+fachgesetzliche  Anordnung  in offenem  Widerspruch  zur Verfassungsbestimmung  des 
+Art 22a (der in der vorgeschlagenen  Fassung  eben keine  solche  Einschränkung  auf Infor ­
+mationen  des eigenen  Wirkungs-  und Tätigkeitsbereiches  enthält).  Somit  besteht  (unnö ­
+tige, dem Stufenbau  der Rechtsordnung  geschuldete)  Unklarheit  der Rechtslage,  wenn  
+Auskunftsbegehren  gern. Art 22a Abs 2 B-VG  bei einer nicht gern. §3 IFG zuständigen  
+Stelle  gestellt  werden.
+Verschärft  wird dies durch  die Unvollständigkeit  der Aufzählung  in § 3 IFG, was schon  
+daran  erkennbar  ist, dass dort  lediglich  von „Organen “, nicht  jedoch  auch  von „Einrichtun ­
+gen, Stiftungen,  Fonds,  Anstalten  und Unternehmungen “ (vgl insofern  den Wortlaut  des 
+Art 22a B-VG)  die Rede ist. Diese  werden  nämlich  wiederum  erst in § 13 IFG geregelt,  
+wobei  der Gesetzgeber  hier offenbar  fälschlicherweise  davon  ausgeht,  dass keine Über ­
+schneidungen bei der Informationslage  von Organen  iSd § 3 IFG und Einrichtungen,  Stif­
+tungen,  Fonds,  Anstalten  und Unternehmungen  iSd § 13 IFG bestehen,  zumal  der Geset ­
+zesentwurf  auch keinerlei  Vorschriften  zur Vermeidung  von Kompetenzkonflikten  
+und (wohl unerwünschten)  Mehrgleisigkeiten  im Rahmen  der Auskunftserteilung  vor­
+sieht.
+Aus den angeführten  Gründen  regen  wir an. die foffenkundig  ohnehin!  intendierte  Ein­
+schränkung  der Transparenzverpflichtungen  auf Informationen  des „eigenen  Wirkungs-.  
+Tätigkeits-  und Geschäftsbereiches “ bereits  in Art 22a B-VG  vorzunehmen.  4
+4. Normierung  ausschließlicher  Zuständigkeiten  für die Transparentmachung
+Dieselben  Informationen  können  mehrfach  im Wirkungsbereich  unterschiedlicher  Infor ­
+mationspflichtiger  vorliegen.  Dies ist für die OeNB  insbesondere  aufgrund  der oftmals  
+engen Zusammenarbeit  mit FMA  sowie  dem BMF  von Relevanz,  denn  dadurch  kann  es im 
+Ergebnis  zu unterschiedlichen  Auslegungen  der Geheimhaltungspflichten  kommen.  Ne­
+ben der oben ausgeführten  Anmerkung,  wonach  die Transparenzpflichten  auf den jeweils
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 12
+www.parlament.gv.at
+©NB
+eigenen  „Wirkungs-  Tätigkeits-  bzw. Geschäftsbereich “ eingeschränkt  werden  sollten,  
+müsste  für den Fall von Überschneidungen  von Transparenzpflichten  eine entspre ­
+chende  Zuständigkeitsregelung  normiert  sein. Beispielsweise  ist es im Bereich  der Ban ­
+kenaufsicht  (aber  auch  in den Bereichen  der Abwicklung  und Sanierung  von Banken  gern 
+BaSAG,  im Rahmen  der Aufsicht  über Einlagensicherungssysteme,  im Rahmen  des Voll­
+zuges  des ZGVG  und des ZVVG,  etc.) so, dass jeweils  die FMA  die mit dem Vollzug  der 
+Materiengesetze  betraute  Behörde  ist — die OeNB  erbringt  in diesen Bereichen  regelmäßig  
+Analyse-  und Vor-Ort-Prüftätigkeiten.
+Dessen  ungeachtet  erscheint  es — auch aus Gründen  der Zweckmäßigkeit  und Spar ­
+samkeit  der Verwaltung  — unbillig,  wären  sowohl  FMA als auch OeNB  dazu verhalten,  
+die jeweils  beiden  Institutionen  vorliegenden  Informationen  (vgl hierzu  die Bestimmungen  
+zur gemeinsamen  Datenbank  gern § 79 Abs 4 BWG)  zu veröffentlichen  bzw. über Antrag  
+zugänglich  zu machen  — freilich  nur insoweit,  als einer  Veröffentlichung  keine  Geheimhal ­
+tungsinteressen  gern § 22a Abs 2 B-VG  entgegen  stehen.
+§ 3 IFG schafft  uE keine  ausschließliche  Zuständigkeit,  da
+• er in offenem  Widerspruch  zu Art 22a B-VG  steht (siehe  unsere  Ausfüh ­
+rungen  oben) ;
+• weder  § 3 IFG noch  § 13 IFG Regelungen  zu Kompetenzkonflikten
+bei jeweils  vorliegender  Transparentmachungspflicht  in Bezug  auf  dieselbe  
+Information  enthalten;
+• insbesondere  kein Vorrang  bezüglich  der Transparentmachungspflichten  
+gern. § 3 IFG bzw. jener  des § 13 IFG normiert  wird.
+5. Geheimhaltungsgrund  „zwingende  integrations-  und außenpolitische
+Gründe “, Zusammenarbeit  mit internationalen  Einrichtungen  und Finanz ­
+marktstabilität  — Art 22a Abs 2 B-VG,  § 6 Abs 1 IFG
+Unbeschadet  des Vorranges  von (unmittelbar  anwendbarem)  Unionsrecht  ist unseres  Er­
+achtens  die Formulierung  „zwingende  integrations-  und außenpolitische  Gründe “ 
+für die de lege ferenda  notwendigen  Abwägungen  zw. Informationsfreiheit  und Geheim ­
+nisschutz  durch  Verwaltungsbehörden  oder Beliehene  im gegebenen  Zusammenhang  nicht  
+ausreichend.
+Daran  ändert  auch nichts,  dass die Wendung  laut den Erläuterungen  aus Art 23d Abs 2 u 
+Art 23e Abs 3 u 4 B-VG entlehnt  wurde,  sind leg cit doch eher kompetenzrechtlicher  
+Natur  bzw. regeln  diese  das Zusammenspiel  der österreichischen  Bundesländer  und Ver­
+tretern  des Bundes  bei politischen  Vorgängen  in der EU.
+Auch der rechtliche  Gehalt  zwingender  integrationspolitischer  Gründe  ist im gegebenen  Zu­
+sammenhang  äußerst  zweifelhaft  und stellt diese Formulierung  einen  unbestimmten  Ge­
+setzesbegriff  dar. Aus unserer  Sicht  bestehen  hinsichtlich  des offenbar  gemeinten  Unions ­
+rechts  nur drei Möglichkeiten:  Entweder  unmittelbar  anwendbares  Unionsrecht  (also va 
+Primärrecht,  Verordnungen,  hinreichend  bestimmte  RL oder individuelle  Rechtsakte  ei­
+ner Unionsorgans)  (i) untersagt  die Weitergabe  der Information,  (ii) erzwingt  die Wei­
+tergabe  oder (iii) lässt Spielraum  für mitgliedsstaatliche  Regelungen.  In den ersteren
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 12
+www.parlament.gv.at
+©NB
+beiden  Fällen  wäre kein Raum für eine abweichende  mitgliedsstaatliche  Regelung  und 
+wäre ein möglicher  Normkonflikt  seitens  OeNB  bzw. den nachgelagerten  Rechtsschutz ­
+einrichtungen  mit den bewährten  Mitteln  zu lösen.  Im dritten  Fall obläge  es dem Norm ­
+geber  eine etwaige  abweichende  Regelung  zu erlassen.
+Weiters  erscheint  ein expliziter  Schutz  der Zusammenarbeit  mit internationalen  Einrich ­
+tungen  geboten,  um die vertrauensvolle  Zusammenarbeit  nicht  durch  Grauzonen  (im Be­
+reich  nicht  normierter Vertraulichkeitsgepflogenheiten)  zu gefährden.
+Im Rahmen  ihrer  Aufgaben  im Bereich  der Statistik  verfügt  die OeNB  über umfangreiche  
+Daten  zu den finanziellen  Verflechtungen  der Wirtschaftsräume  bzw. aller Staaten  der 
+Welt. Wenn  ein Staat in Zahlungsschwierigkeiten  gerät, er politischer  Instabilität  ausge ­
+setzt  ist oder z.B. ein Embargo  erlassen  wird,  kann es geboten  sein, dass aus Gründen  der 
+Finanzmarktstabilität  Zahlen  über Finanzverflechtungen  nicht  unmittelbar  an die Öffent ­
+lichkeit  gelangen .
+Die OeNB  erstellt  weiters  im Bereich  der Bankenabwicklung  gutachterliche  Äußerungen  
+(zB. Public  Interest  Test at FOLTF,  Bankenliste  Abwicklung)  und unterstützt  die FMA als Ab­
+wicklungsbehörde sowie den SRB bei der Erstellung  der Abwicklungsplanung.  Die öffent ­
+liche Transparenz  dieser  Analysen  sowie  der Zuarbeiten  könnte  der Wirksamkeit  der In­
+strumente  der Bankenabwicklung  und in weiterer  Folge  auch der Vermeidung  erheblicher  
+negativer  Auswirkungen  auf die Finanzmarktstabilität  entgegenstehen.
+Festzuhalten  ist, dass ein allgemein  anerkanntes  öffentliches  Interesse  an der „Wahrung  
+der Finanzmarktstabilität “ besteht,  und dieses  öffentliche  Interesse  an der Vermeidung  von 
+Schäden  an der Volkswirtschaft  (etwa  durch  Verwerfungen  am Finanzmarkt,  oder durch  
+das Auslösen  von Bank-Runs)  allfälligen  Transparenzinteressen  vergehen  sollte.  Darüber  
+hinaus  geht die OeNB  davon  aus, dass eine Geheimhaltung  von Informationen  zur „Wah ­
+rung der Finanzmarktstabilität “ prinzipiell  bereits  gemäß  dem vorliegenden  Gesetzesent ­
+wurf  zulässig  ist, als sich eine entsprechende  Geheimhaltung  wohl unter  die Geheimhal ­
+tungsinteressen  „... Aufrechterhaltung  der öffentlichen  Ordnung  ... Abwehr  eines  erheb ­
+lichen  wirtschaftlichen  oder finanziellen  Schadens  einer Gebietskörperschaft  oder eines  
+sonstigen  Selbstverwaltungskörpers  oder ... Wahrung  überwiegender  berechtigter  Inte­
+ressen  eines  anderen  ...“ subsumieren  lässt.
+Dessen  ungeachtet  regen  wir aus Gründen  der Klarheit,  und da es sich bei der Wahrung  
+der Finanzmarktstabilität  um ein ebenso  wichtiges  wie allgemein  anerkanntes  öffentliches  
+Interesse  handelt  — eine Ansicht,  die auch auf europäischer  Ebene  vorherrscht 6 — an, im 
+Katalog  der Geheimhaltungsgründe  des Art 22a Abs 2 B-VG  zusätzlich  einen  entsprechen ­
+den expliziten  Geheimhaltungsgrund  zu normieren.
+Die OeNB  schlägt  daher  folgende  Ergänzung  der angesprochenen  Wendungen  in Art 22a 
+Abs 2 B-VG  vor:
+„(2) [...] Dies gilt nicht, soweit  deren Geheimhaltung  aus zwingenden  integrati-  
+ons- und außenpolitischen Gründen , aufgrund  des internationalen  Rechts,  des Uni­
+onsrechts.  der anerkannten  Gepflogenheiten  behördlicher  Zusammenarbeit  in in­
+ternationalen  Angelegenheiten,  der berechtigten  Interessen  einer internationalen  
+Einrichtung,  im Interesse der nationalen  Sicherheit,  der umfassenden
+6 V^l EuGH  13. 9. 2018,  C-594/16,  Buccioni/Banca  d'Italia  Rz 29; EuGH  19. 6. 2018,  C-15/16,  Baumeister/BaFin  Rz 33;
+ua.
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 12
+www.parlament.gv.at
+0NB
+Landesverteidigung  oder der Aufrechterhaltung  der öffentlichen  Ordnung  und Si­
+cherheit  sowie  der Finanzmarktstabilität . [... ] erforderlich  und gesetzlich  nichts  
+anderes bestimmt  ist. [...] “
+In weiterer Folge wäre § 6 IFG sinngemäß  zu adaptieren:
+„§ 6 (1) Nicht  zur Veröffentlichung bestimmt  und nicht  zugänglich  zu machen  
+sind Informationen  soweit und solange  dies
+1. aus zwingenden  integrations-  und außenpolitischen  Gründen,  insbe ­
+sondere  auch gemäß  unmittelbar  anwendbaren  Bestimmungen  des 
+Rechts  der Europäischen  Union  oder des Völkerrechts , der anerkann ­
+ten Gepflogenheiten  behördlicher  Zusammenarbeit  in internationalen  
+Angelegenheiten  oder der berechtigten  Interessen  einer  internationa ­
+len Einrichtung.
+2. im Interesse  der nationalen  Sicherheit,  [...]
+3. [...]
+4. im Interesse  der Aufrechterhaltung  der öffentlichen  Ordnung  und Si­
+cherheit  sowie  der Finanzmarktstabilität . [...]
+6. Vorschlag  eines  expliziten  Geheimhaltungsgrundes  hinsichtlich aufsichtli ­
+cher  Informationen,  Informationen  im Rahmen  der Erstellung  von Statisti ­
+ken sowie  dem Bankgeheimnis  unterliegenden  Informationen
+Die OeNB  erhält  auf gesetzlicher  Grundlage  in vielfältiger  Weise  sensible  Informationen  
+privater  Wirtschaftsteilnehmer  (insb  von Kreditinstituten)  im Rahmen  ihrer  Aufgaben  im 
+aufsichtlichen  Bereich  (ua gern BWG,  VAG,  ZaDiG  2018)  sowie  im Bereich  der Statistik  
+(ua diverse  Meldeverordnungen  und Devisengesetz  2004).  Beispielsweise  zählen  hierzu  
+auch Einzelkreditdaten.
+Da das Telos  des vorliegenden  Gesetzes  nicht  die Offenbarung  privater  Informationen  pri­
+vater Wirtschaftstreibender  umfasst,  sind diese Informationen  unseres  Erachtens  in 
+Art 22a B-VG  generell  zu schützen.
+Außerdem  wäre mit einem  unverhältnismäßigen  Aufwand  im Sinne der Erläuterungen 7 
+für die OeNB  zu rechnen,  da in betreffenden  Dokumenten  enthaltene  Informationen  zu 
+einem  Großteil  nicht  offengelegt  werden  dürfen.  Da vom Gesetz  aber  nicht  gefordert  wer­
+den soll, dass die betroffenen  Rechtsträger  neue Dokumente  hersteilen  müssen,  eine 
+Durchforstung  und Schwärzung  einer solchen  aber gleichkommen  würde,  wären  schon  im 
+Sinne der Wirtschaftlichkeit  und Sparsamkeit  solche Dokumente  generaliter  auszuneh ­
+men.
+Auch  würde  eine solche  Vorgehensweise  dem Unionsrecht  entsprechen:  Dass Informatio ­
+nen Privater,  die Zentralbanken  und Aufsichtsbehörden  im sensiblen  Bereich  des Finanz ­
+systems  aufgrund  ihrer Tätigkeit  erhalten,  anerkannterweise  geschützt  werden  müssen,  
+erhellt  bereits  der Begriff  der „Professional  Secrecy “ bspw  in Art 38 des Statuts  des
+7 Zu Art 2 § 6 (S 8).
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 12
+www.parlament.gv.at
+©NB
+ESZB  oder Art S3 CRD  IV8 idgF. Der Begriff  „Berufsgeheimnis “, der sowohl in § 6 des 
+vorgeschlagenen  IFG sowie  in den Erläuterungen  mehrmals  genannt  ist, ist demgegenüber  
+zu eng gefasst,  weil dieser  im gewöhnlichen  Sprachgebrauch  in Österreich  nur Geheim ­
+nispflichten  bestimmter  freier  Berufe  (bspw  Arzte,  Rechtsanwälte)  mitumfasst.  Auch  ist 
+nicht  jede schützenswerte  Information  eines  beaufsichtigten  Kreditinstitutes  zwingend  ein 
+„Geschäftsgeheimnis “ oder ein „Betriebsgeheimnis “ im Sinne  des § 6 Abs 1 Z 7 lit b IFG. 
+Auch verlangt  Art 53 CRD  IV von den Mitgliedsstaaten  die Umsetzung  einer Geheimhal ­
+tungspflicht  von Aufsichtsbehörden  hinsichtlich  der Daten,  die im Zuge der Aufsicht  er­
+langt  werden. 9 Diese  Geheimhaltungspflicht  ist — im Unterschied  zu den Geheimhaltungs ­
+regeln  des Art 22a B-VG  und des IFG — auch keiner  Interessenabwägung zugänglich.
+Weiters  ist der Geheimnisschutz  der zur Bankenaufsicht  berufenen  Stellen  Bestandteil  ei­
+nes der wesentlichen  Basel-Core-Principles.  Deren  Einhaltung  wird  regelmäßig  vom IWF  
+geprüft.  Eine Nichteinhaltung  dieses Prinzips  hätte erheblich  nachteilige  Auswirkungen  
+auf den österreichischen  Finanzmarkt.
+Auch  eine wohl notwendig  werdende  Anpassung  bzw Überprüfung  der einschlägigen  ein­
+fachgesetzlichen  Bestimmungen  (plakativ  sei § 45 NBG  genannt)  während  der Legisvakanz 
+wäre  durch  eine entsprechende  Änderung  des Entwurfes  systemkonformer  möglich.
+Wir schlagen  daher  eine Ergänzung  des Art 22a Abs 2 B-VG  vor:
+„(2) [...] Dies  gilt nicht,  soweit  deren  Geheimhaltung [...], zur Vorbereitung  einer  
+Entscheidung,  zum Schutz  der informationellen  Selbstbestimmung  beaufsichtigter  
+privater  Rechtsträger  oder im Rahmen  des Statistikrechts  Übermittlungspflichti ­
+ger. zur Wahrung  des Bankgeheimnisses , zur Abwehr  eines  erheblichen  wirtschaft ­
+lichen  Schadens  [...] erforderlich  und gesetzlich  nichts  anderes  bestimmt  ist. [...] “
+§ 6 IFG wäre  in Folge  sinngemäß  zu ergänzen.
+7. Grundsätzlich  keine  Erfassung  personenbezogener  Daten  Dritter
+Der Gesetzesentwurf  sieht keinen  allgemeinen  Ausschluss  personenbezogener  
+Daten  Dritter  vor . Abgesehen  von der ganz grundsätzlichen  Kollision  der neuen  
+Transparenznormen  mit dem verfassungsgesetzlich  gewährleisteten  Recht  auf Daten ­
+schutz  ist insbesondere  nicht  nachvollziehbar,  welche  Konstellation  einen  Vorrang  des 
+allgemeinen  Interesses  an personenbezogenen  Daten  Dritter vor dem verfassungsgesetz ­
+lich gewährleisteten  Recht  auf Datenschutz  rechtfertigen  würde.
+Zu bedenken  ist insbesondere,  dass gemäß  der derzeitigen  Regelung  (beinahe)  jede per­
+sonenbezogene Information  zu Dritten  grundsätzlich  transparenzfähig  ist, 
+und lediglich  eine vorzunehmende  Interessenabwägung  einer  ungerechtfertigten
+8 RL 2013/36/EU  des EP und des Rates  v 26. Juni 2013 über  den Zugang  zur Tätigkeit  von Kreditinstituten  und die Beauf ­
+sichtigung  von Kreditinstituten  und Wertpapierfirmen,  zur Änderung  der Richtlinie  2002/87/EG  und zur Aufhebung  der 
+Richtlinien  2006/48/EG  und 2006/49/EG.
+9 Art 53 (1) CRD IV „ [...] Vertrauliche  Informationen,  die diese Personen,  Wirtschaftsprüfer  oder Sachverständigen  in ihrer  
+beruflichen  Eigenschaft  erhalten,  dürfen  nur in zusammengefasster  oder aggregierter  Form  weitergegeben  werden,  so dass 
+einzelne  Kreditinstitute  nicht  identifiziert  werden  können;  dies gilt nicht  für Fälle, die unter  das Strafrecht  fallen. “
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 12
+www.parlament.gv.at
+Veröffentlichung  entgegensteht.  Problematisch  ist jedoch,  dass im Falle einer un­
+richtig  ausgefallenen  Interessenabwägung  zugunsten  der Transparenzfa-  
+higkeit einer  solchen  Information,  der eingetretene  Schaden  der rechtswidrigen  
+Veröffentlichung  unwiederbringlich  ist. Auch  wenn  die DSGVO  im Falle einer  
+rechtswidrig  erfolgten  Veröffentlichung  Schadenersatzansprüche vorsieht,  macht  dies 
+eine erfolgte  Veröffentlichung  personenbezogener  Daten  nicht  wieder  rückgängig  — die 
+veröffentlichte  Information  lässt sich nur schwerlich  aus dem Bewusstsein  der rechtswid ­
+rig informierten  Öffentlichkeit verdrängen.
+Genau  dieser  Umstand  — die Offenlegung von Informationen  gegenüber  der breiten  Öf­
+fentlichkeit  — ist ein wesentlicher  Unterschied  zu üblichen  datenschutzrechtlichen  Prob ­
+lemen,  bei denen  die rechtswidrige  Offenlegung im  Regelfall  nur gegenüber  einzelnen  
+Personen  erfolgt.
+Darüber  kann auch die in § 10 IFG aufgenommene  Verpflichtung,  wonach vor  Erteilung  
+einer  Information,  die in die Rechte  eines  anderen  eingreift „dieser  davor  vom zuständi ­
+gen Organ  tunlichst  zu hören  ist“ nicht  hinwegtäuschen  — wird diese  Anhörungspflicht  
+doch  in den Erläuterungen  ohnehin  wieder  maßgeblich  eingeschränkt,  als „Tunlichst  be­
+deutet, dass das informationsj)flichtige  Organ  nur in dem Ausmaß  zur Anhörung  verpflichtet  werden  
+soll, als eine solche  ohne unverhältnismäßigen  zeitlichen  und sonstigen  Aufwand  möglich  ist; Die 
+Anhörungspflicht  soll insbesondere  davon  abhängen,  ob die Behörde  Kontakt  zum Betrojflenen  ohne 
+weiteres  hersteilen  kann “. Darüber  hinaus  kann auch eine solche  Anhörung nicht  vor einer  
+rechtswidrigen  Veröffentlichung  schützen,  da nach den Erläuterungen  „die Stellungnahme  
+[...] die Behörde  nicht binden,  sondern  ein (wesentliches)  Argument  in ihrer Interessenabwägung  
+darstellen  [soll]. “ Hier scheint  somit zudem  ein erhebliches  Spannungsfeld  zu Art 6 Abs 4 
+DSGVO  (iVm Art 23 Abs 1 DSGVO)  gegeben  zu sein.
+Diese  Gemengelage in  Verbindung  mit den Regelungen  zur Amts-  und Organhaftung  be­
+deutet  letztlich  einen  immensen  Druck  auf die zur Vornahme  der Interessenabwägung  
+(zur Festlegung  eines Geheimhaltungsinteresses)  verpflichteten  Personen.  
+Zusammengefasst treffen  hier also Fehlerkalkül  und die Möglichkeit  unwiederbringlicher  
+Schäden  aufeinander  — und damit  nicht  genug,  obliegt  die Beurteilung  der Rechtsmäßig ­
+keit der erfolgten  Veröffentlichung  aus datenschutzrechtlicher  Perspektive  in der über ­
+wiegenden  Mehrzahl  der Fälle dem EuGH  (der alleine  zur Auslegung  der DSGVO  beru ­
+fen ist), während  sie aus grundrechtsschutzrechtlicher  Perspektive  dem VfGH  obliegt.  
+Wir regen  daher  an. personenbezogene  Daten  Dritter  einem  absoluten  Geheimhaltungs ­
+schutz  zu unterwerfen.
+Anregung  zur einheitlichen Regelung  der Geheimhaltungsgründe
+Der Katalog  der Geheimhaltungsgründe  in Art 22a Abs 2 B-VG wird sodann  in Abs 3 
+einerseits  für sinngemäß  anwendbar  erklärt,  hinsichtlich  der der Rechnungshofkontrolle  
+unterliegenden  Unternehmungen  allerdings  auch noch  um die „Abwehr  einer  unmittelbar  
+drohenden  Beeinträchtigung  der Wettbewerbsfähigkeit “ ergänzt.
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 12
+www.parlament.gv.at
+0NB
+In den Erläuterungen  wird  diese  Differenzierung  zumindest  praktisch  nicht  aufrechterhal ­
+ten, zähle doch „auch  die Wettbewerbsfähigkeit  zum abzuwägenden,  der Gebietskörper ­
+schaft  drohenden  wirtschaftlichen  Schaden “ (sofern  eine Tätigkeit  am Markt  vorliegt). 10
+Wir regen  daher  an zu prüfen,  ob nicht  ein einheitlicher  Katalog  an Geheimhaltungsgrün ­
+den der Verständlichkeit  des Gesetzes  zuträglich  wäre  und der Intention  des Einbringers  
+besser  entsprechen  würde.
+Weiters  sollte  die in den Erläuterungen  erfasste  Intention  des Einbringers,  dass „auch  ei­
+gene  geschützte  Interessen  der Informationspflichtigen  [.. -]“11 zu wahren  sein können,  klar 
+im Gesetzestext  des Art 22a B-VG  bzw § 6 IFG zum Ausdruck  kommen.
+9. Klarstellung  zwischen  den Anordnungen  in Art 22a Abs 2 und Abs 4 B-VG
+Gemäß  Art 22a Abs 2 B-VG  sind grundsätzlich  transparenzfähige  Informationen  nicht  zu 
+veröffentlichen,  „soweit  deren Geheimhaltung  aus zwingenden  integrations-  und außenpolitischen  
+Gründen,  im Interesse  der nationalen  Sicherheit,  der umfassenden  Landesverteidigung  oder der Airf- 
+rechterhaltung  der öffentlichen  Ordnung  und Sicherheit,  zur Vorbereitung  einer Entscheidung,  zur 
+Abwehr  eines erheblichen  wirtschaftlichen  oder finanziellen  Schadens  einer Gebietskörperschaft  oder 
+eines sonstigen  Selbstverwaltungskörpers  oder zur Wahrung  überwiegender  berechtigter  Interessen  ei­
+nes anderen  eforderlich  und  gesetzlich  nicht anderes  bestimmt  ist.“
+Gern den Erläuterungen  zu Abs 2 können  die verfassungsgesetzlichen  Ausnahmetatbe ­
+stände  „in (einfachen)  Bundes-  und Landesgesetzen  (Materiengesetzen)  wiederholt  oder
+konkretisiert,  aber nicht  erweitert  werden. “
+Abs 4 leg cit lautet  aber demgegenüber:
+„(4) Die näheren  Regelungen  sind in einem  besonderen  Bundesgesetz  einheitlich  
+zu treffen,  ...“
+Die Erläuterungen  zu Abs 4 schaffen  hier auch keine  Aufklärung:  „Die vorgeschlagene  Kom­
+petenzbestimmung  sieht zur näheren  Regelung  eine einheitliche  Bundeskompetenz  in der Gesetzge ­
+bung vor (ZI)...  Auf  der Grundlage  dieser  Kompetenz  wird im Artikel  2 ein ausjührendes  Informa-  
+tionsfreiheitsgesetz  vorgeschlagen. “
+Wenn  jetzt aber gern. Abs 4 die (nicht näher  definierten  oder eingeschränkten,  sohin  also 
+wohl  alle) „näheren  Regelungen “ einheitlich  in einem  besonderen  Bundesgesetz getroffen  
+werden  sollen,  und es sich bei diesem  Bundesgesetz  um das IFG handelt,  verbleibt  
+für weitere  „nähere  Regelungen “ (im Sinne  von konkretisierenden  Bundes-  oder Lan­
+desgesetzen)  dem Wortlaut  des Abs 4 gemäß  aber gar kein  Platz  mehr.
+Insofern  widersprechen  sich die Erläuterungen  zu Abs 2 und der Wortlaut  des 
+Abs 4, und würde  im Falle des Falles  wohl der Wortlaut  des Gesetzestextes  den in den 
+Erläuterungen  zu Abs 2 zum Ausdruck  gebrachten  Intentionen  vorgehen.  Demzufolge  
+wäre  für weitere  die Geheimhaltungsvorschriften  konkretisierende  Regelungen  kein  Platz  
+mehr,  und müssten  diese allesamt  im IFG vorgenommen  werden.  Dies hätte auch Aus­
+wirkungen  auf die OeNB  (wie oben zu den Geheimhaltungspflichten  der OeNB  ausge ­
+führt).
+10 EB zu Art 2 § 8 (S 8).
+11 Ebd.
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 10 von 12
+www.parlament.gv.at
+©NB
+Wir gehen  grundsätzlich  davon  aus, dass dies nicht  intendiert  ist und regen  daher  an. 
+Art 22a Abs 4 B-VG  präziser  zu fassen  — nämlich  dahingehend,  welche  wei­
+tergehenden  Regelungen  „in einem  besonderen  Bundesgesetz  einheitlich “ 
+getroffen  werden  sollen,  und welche  nicht  (jedenfalls  nicht  die Konkretisie ­
+rungen  der Geheimhaltungspflichten^.
+10. Ilmsetzungsbedarf  von Geheimhaltungsbestimmungen  in EU-RL
+Sollte  der vorliegende  Entwurf  umgesetzt  werden,  besteht  aus unserer  Sicht verstärkter  
+Bedarf  unionale  Geheimhaltungsbestimmungen  auf deren Umsetzungsbedarf  in Öster ­
+reich  hin zu prüfen.
+Für den Bereich  der Bankaufsicht  sticht  hier Art 53(1)  CRD-IV  idgF ins Auge,  der unserer  
+Kenntnis  nach bisher  nur durch  Verweisungen  in Materiengesetzen  umgesetzt  wurde  (zB 
+§ 77 Abs 5 BWG).
+Ob durch  Verweisungen  der Umsetzungspflicht  Genüge  getan wird, ist zumindest  frag­
+lich. 12
+Unabhängig  von der Frage,  ob Art 53 (1) CRD-IV  aufgrund  seiner  Bestimmtheit  unmit ­
+telbar  anwendbar  ist, empfiehlt  sich unseres  Erachtens  eine Übernahme  der materiellen  
+Geheimhaltungspflichten  in die österreichischen  Materiengesetze.  Wenn in Hinkunft  
+nämlich  das subjektiv-verfassungsrechtliche  Informationsrecht  hinsichtlich  der von Art 53 
+(1) CRD  IV geschützten Informationen ausgeübt  wird,  bestünde  womöglich  das Problem,  
+dass nicht  richtig  umgesetztes  Unionsrecht  nicht  im Wege  der unmittelbaren  Anwendung  
+die Rechte  einzelner  beschneiden  könnte 13 und daher (i) die Republik  gegen  die unions ­
+rechtlichen  Umsetzungspflichten  verstoßen  könnte  und (ii) die von Art 53 (1) CRD-IV  
+geschützten  Einzelbankdaten  preiszugeben  werden.
+11. Weitere  Anmerkungen
+Generell  wird angeregt,  die allgemeinen  und weiten  Definitionen  zur Erhöhung  der 
+Rechtssicherheit und im Sinne  des Gebots  der wirtschaftlichen,  sparsamen  und zweckmä ­
+ßigen  Verwaltung  enger  zu fassen.  Allenfalls  sollten  die erläuternden  Bemerkungen  ge­
+nutzt  werden,  um Klarheit zu schaffen.  Dies trifft  insbesondere  auf folgende  Punkte  zu:
+• Art („allgemeinen  Personenkreis  betreffen  oder für einen  solchen  relevant “) und Form  
+(„jede  amtlichen  oder unternehmerischen  Zwecken  dienende  Aufzeichnung. .. unab ­
+hängig  von der Form “) der zugänglich  zu machenden  Informationen  gern § 2 IFG soll­
+ten konkretisiert  und enger  gefasst  werden.  Insbesondere  könnte  angeregt  werden,  
+Vorentwürfe  aufgrund  der noch  fehlenden abschließenden  Willensbildung des Organs  
+stärker  auszunehmen.  Die in den Erläuterungen  angeführte  Ausnahme  von bestimm ­
+ten Vorentwürfen  erscheint  aufgrund  der Formulierung  („zum  ausschließlichen Zweck  
+der persönlichen  (nichtamtlichen,  nichtunternehmerischen)  Verwendung “) von kei­
+nerlei  praktischer  Relevanz,  da ausschließlich  private  Informationen  geschützt  sind,  
+die wiederum  keine  Vorentwürfe  für amtliche  oder unternehmerische  Verwendung  
+darstellen  können.
+12 V^l Öhlinger/Potacs,  EU-Recht  und staatliches  Recht 5, 116.
+13 Die unmittelbare  Wirkung  nicht  richtig  umgesetzter  RL ist eine Sanktion  gegenüber  dem Staat,  kann  aber nicht  seitens  des 
+Staates  gegenüber  Einzelnen  zur Einschränkung  deren  Rechte  ins Feld geführt  werden;  ebd 67.
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 11 von 12
+www.parlament.gv.at
+©NB
+• Der Umfang  der aktiven  Veröffentlichungspflicht  in § 4 IFG erlaubt  aufgrund  der wei­
+ten Begriffsbestimmung  und der demonstrativen  Aufzählung  in § 2 Abs 2 IFG keine  
+klare  Abgrenzung.
+• Die Erläuterungen  zu der in § 9 Abs 3 IFG verankerten  Missbrauchsschranke  sollten  
+um positive  Beispiele  ergänzt  werden.  So könnten  insbesondere  Begehren,  die nicht  
+auf journalistischen  Tätigkeiten  beruhen  und sowohl  vom inhaltlichen  als auch zeitli ­
+chen  Umfang  überschießend  sind, als Indizien  für einen Missbrauch  angeführt  werden.
+Abschließend  möchten  wir den Ausführungen  der FMA in ihrer Stellungnahme  zu diesem  Ent­
+wurf, die uns im Rahmen  der vertrauensvollen  Zusammenarbeit  vorab zur Verfügung  gestellt  
+wurden,  beipflichten  und ausdrücklich  folgende  Anregungen  seitens  der FMA  hervorheben:
+• die Aufnahme  der Stabilität  des Finanzsystems  als Geheimhaltungsgrund  (siehe  dazu 
+schon  den Punkt  5 dieser  Stellungnahme); 14
+• die Aufnahme  der Klarstellung  in die Erläuterungen,  dass unter „Rechte  anderer “ auch Inte­
+ressen  ausländischer  Behörden,  internationaler  und zwischenstaatlicher  Organisationen  
+und ausländische  Berufsgeheimnisbestimmungen  zu verstehen  sind; 15
+• die Ausführungen  und ErgänzungsvorSchläge  hinsichtlich  der Tatsache,  dass Entschei-  
+dungs-  und Willensbildungsprozesse  als solche  dauerhaft,  und nicht  bloß grund ­
+sätzlich  ex ante, zu schützen  sind; 16
+• die Anregung  zur Ergänzung des Art 22a Abs 4 Z 1 B-VG  hinsichtlich der Notwendigkeit,  
+dass der einfache  Gesetzgeber  sehr wohl  die Möglichkeit  haben  sollte,  in bestimmten  Ma­
+terien  sachgerechte  Bestimmungen  zur Ausfüllung  der verfassungsrechtlichen  
+Vorgaben  zu erlassen  (siehe  hierzu  auch unseren  Punkt  9).17
+• die Anregung,  im Allgemeinen  Teil der Erläuterungen  zum Begutachtungsentwurf  aufzu ­
+zeigen,  welche  Folgegesetzgebung  das gegenständliche  Gesetzgebungsvorha ­
+ben voraussetzt; 18
+• die Anregungen  zum Ausschluss  der Amtshaftung 19, der Präzisierung  von  Anträgen  
+und den Fristen 20.
+Die Oesterreichische  Nationalbank  ersucht  die vorstehenden  Anmerkungen  und Anregungen bei 
+der Überarbeitung  des Gesetzentwurfes  zu berücksichtigen.  Diese  Stellungnahme  wird  in Kopie  
+an das Präsidium  des Nationalrates  übermittelt.
+Univ.-Prof.  Mag. Dr. Robert  Holzmann  DI  Dr. Thomas  Steiner
+Gouverneur Direktor
+1+ Stellungnahme  der FMA  Punkt  2b.
+15 Ebd Punkt  3.
+16 Ebd Punkt  S.
+17 Ebd Punkt  7.
+18 Ebd Punkt  8.
+19 Ebd Punkt  10.
+20 Ebd Punkt  13.
+139/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 12 von 12
+www.parlament.gv.at

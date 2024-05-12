@@ -1,0 +1,32 @@
+Feedback from: Amt_der_Vorarlberger_Landesregierung_Abt._Gesetzgebung_PrsG
+
+**Zusammenfassung der Stellungnahme der Vorarlberger Landesregierung zum Gesetzesentwurf:**
+
+**Allgemeine Bemerkungen:**
+- Die Landesregierung sieht die grundsätzliche Zielsetzung des Entwurfs positiv, äußert jedoch Bedenken hinsichtlich der konkreten Ausgestaltung.
+- Es wird ein erheblicher Mehraufwand durch die Verpflichtung zur proaktiven Veröffentlichung von Informationen befürchtet, sowohl in Bezug auf Infrastruktur- und Personalkosten.
+- Die Kostenneutralität, die in der Wirkungsfolgenabschätzung erwähnt wird, kann nicht nachvollzogen werden; es wird eine seriöse Kostendarstellung gefordert.
+
+**Spezifische Bedenken und Vorschläge:**
+- Es wird ein Zustimmungsrecht der Länder zur Durchführungsverordnung des Bundes gefordert.
+- Der Begriff "Informationen von allgemeinem Interesse" bedarf einer weiteren Präzisierung, um Rechtsunsicherheiten im Vollzug zu vermeiden.
+- Die Einbeziehung von Organen der Gesetzgebung und der Gerichtsbarkeit in die Informationsfreiheitsvorschriften wird kritisch gesehen.
+- Die Anhörung betroffener Personen könnte einen erheblichen Verwaltungsaufwand verursachen und wird in der derzeitigen Form abgelehnt.
+- Datenschutzrechtliche Bedenken und die Notwendigkeit einer Abwägung zwischen Informationsrecht und Geheimhaltungsgründen werden betont.
+
+**Stellungnahme zu spezifischen Paragraphen und Artikeln:**
+- Artikel 22a Abs. 4 Z. 1 B-VG sollte ergänzt werden, um spezielle Regelungen außerhalb des einheitlichen Bundesgesetzes zu ermöglichen.
+- § 16 IFG wird als unklar betrachtet und bedarf einer verfassungsrechtlichen Absicherung.
+- Die geplante Erweiterung der Prüfkompetenz des Rechnungshofes wird als unnötig und potenziell problematisch angesehen.
+
+**Sentiment-Clusterung:**
+- **Positives Feedback:**
+  - Grundsätzliche Unterstützung der Zielsetzung des Informationsfreiheitsgesetzes.
+- **Negatives Feedback:**
+  - Bedenken hinsichtlich der praktischen Umsetzung, insbesondere der Kosten und des Verwaltungsaufwandes.
+  - Kritik an der Einbeziehung bestimmter Organe und der generellen Ausgestaltung bestimmter Vorschriften.
+  - Forderungen nach klareren Definitionen und rechtlichen Absicherungen.
+
+**Beweisführung gegenüber den vorgeschlagenen Regelungen:**
+- Die Landesregierung argumentiert, dass die Wirkungsfolgenabschätzung die Kostenneutralität nicht plausibel darstellt und fordert eine realistische Kostendarstellung.
+- Die kritische Betrachtung der Einbeziehung von legislativen und judikativen Organen sowie die Forderung nach einer Anhörung der Länder bei der Erstellung von Durchführungsverordnungen stellen fundamentale Herausforderungen an den Entwurf dar.

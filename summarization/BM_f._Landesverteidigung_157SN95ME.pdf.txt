@@ -1,0 +1,32 @@
+Feedback from: BM_f._Landesverteidigung
+
+**Zusammenfassung der Stellungnahme des Bundesministeriums für Landesverteidigung zum Gesetzesentwurf:**
+
+1. **Allgemeine Unterstützung:**
+   - Das Ministerium unterstützt grundsätzlich die Zielsetzungen des Gesetzentwurfs, insbesondere die Verpflichtung zur Veröffentlichung von Informationen von allgemeinem Interesse und die Ausweitung des subjektiven Informationsrechts.
+
+2. **Bedingungen und Vorschläge:**
+   - Es wird empfohlen, entweder die bestehende Regelung zur Amtsverschwiegenheit (Art. 20 Abs. 3 B-VG) beizubehalten oder den neuen Art. 22a B-VG um Aspekte der Geheimhaltung zu erweitern, um Unsicherheiten und Risiken zu vermeiden.
+   - Das Ministerium schlägt vor, positive rechtliche Normen für den Schutz national klassifizierter Informationen zu schaffen, eventuell durch eine „Geheimschutzordnung des Bundes“.
+
+3. **Spezifische Bedenken und Kritik:**
+   - Der Begriff „Information“ im Informationsfreiheitsgesetz (IFG) wird als unzureichend bestimmt angesehen, und es fehlt eine klare Abgrenzung, was zu Problemen im korrekten Verwaltungshandeln führen könnte.
+   - Es gibt Bedenken bezüglich der Regelung, dass Informationsanfragen formlos gestellt werden können, ohne dass die Identität des Antragstellers nachgewiesen werden muss. Dies könnte zu Missbrauch und erhöhtem Verwaltungsaufwand führen.
+   - Der Schutz personenbezogener Daten und die Parteistellung betroffener Personen im Verfahren sind aus Sicht des Datenschutzes nicht ausreichend gewährleistet.
+
+4. **Prozessuale Anmerkungen:**
+   - Eine stark verkürzte Frist für die Erlassung einer Beschwerdevorentscheidung wird kritisiert, da sie sachlich nicht nachvollziehbar erscheint.
+
+**Gruppierung der Meinungen nach Sentiment:**
+
+- **Positives Sentiment (Unterstützung des Gesetzentwurfs):**
+  - Unterstützung für die grundsätzliche Zielsetzung des Gesetzes, insbesondere die Erweiterung des Zugangs zu Informationen.
+
+- **Negatives Sentiment (Kritik am Gesetzentwurf):**
+  - Bedenken hinsichtlich der detaillierten Ausgestaltung bestimmter Aspekte wie Datenschutz, Verwaltungsaufwand und rechtliche Klarheit.
+  - Vorschlag zur Beibehaltung bzw. Anpassung der Amtsverschwiegenheit zur Sicherstellung des Schutzes kritischer und klassifizierter Informationen.
+
+**Relevante Belege zur Unterstützung oder Widerlegung der vorgeschlagenen Regeln:**
+
+- **Unterstützung:** Die grundsätzliche Zustimmung zur Zielsetzung des Informationszugangs stärkt die Position des Gesetzes, den Zugang zu öffentlichen Informationen zu fördern.
+- **Widerlegung:** Die spezifischen Bedenken bezüglich Datenschutz, Verwaltungsaufwand und mangelnder rechtlicher Klarheit könnten dazu führen, dass bestimmte Aspekte des Gesetzes überarbeitet oder präzisiert werden müssen, um praktikable und sichere Lösungen zu gewährleisten.

@@ -1,0 +1,46 @@
+Feedback from: Access_Info_Europe
+
+Zusammenfassung der Hauptpunkte aus der Stellungnahme des Stakeholders bezüglich des Entwurfs des österreichischen Informationsfreiheitsgesetzes:
+
+1. **Verbesserungen gegenüber dem vorherigen Gesetz**:
+   - Das Recht auf Information wurde zu einem Verfassungsrecht erhoben.
+   - Keine Gebühren mehr für die Einreichung von Informationsanfragen.
+   - Das Recht auf Information gilt nun für alle Regierungsbehörden, einschließlich staatlich verbundener Unternehmen.
+
+2. **Schwächen und Lücken im Gesetzentwurf**:
+   - Die Definition von „Information“ ist zu eng gefasst.
+   - Schwache Verpflichtungen zur proaktiven Veröffentlichung von Informationen.
+   - Schwache Schadens- und öffentliches Interesse-Tests bei Ausnahmen.
+   - Fehlen eines unabhängigen Überwachungsorgans.
+   - Mangel an Sanktionen bei Nichteinhaltung.
+   - Nur gerichtliche Berufung gegen Ablehnungen möglich.
+
+**Zusammenfassung des Stakeholder-Feedbacks**:
+- **Positives Feedback**:
+  - Begrüßung der Einrichtung eines zentralen Informationsregisters.
+  - Anerkennung der Erweiterung des Anwendungsbereichs auf alle Regierungsbehörden.
+
+- **Negatives Feedback**:
+  - Kritik an der zu engen Definition von „Information“.
+  - Forderung nach stärkeren Regelungen für die proaktive Veröffentlichung.
+  - Bedenken bezüglich der schwachen Tests für Schäden und öffentliches Interesse bei Ausnahmen.
+  - Fehlen eines unabhängigen Überwachungsorgans und mangelnde Sanktionen.
+  - Kritik an der Beschränkung auf nur gerichtliche Berufungen.
+
+**Gruppierung der Meinungen nach sentiment**:
+- **Unterstützend**:
+  - Zustimmung zur Verfassungsrechtlichen Erhebung des Rechts auf Information.
+  - Zustimmung zur Abschaffung der Gebühren für Anfragen.
+
+- **Gegen den Vorschlag**:
+  - Kritik an der unzureichenden Definition und Reichweite der Informationspflicht.
+  - Bedenken hinsichtlich der Effektivität des Gesetzes ohne unabhängiges Überwachungsorgan und ohne Sanktionen.
+
+**Beweise, die die vorgeschlagenen Regeln verstärken oder widersprechen könnten**:
+- **Verstärkend**:
+  - Erhebung des Rechts auf Information zu einem Verfassungsrecht könnte die Wichtigkeit und den Schutz dieses Rechts unterstreichen.
+  - Einrichtung eines zentralen Informationsregisters könnte die Zugänglichkeit und Transparenz verbessern.
+
+- **Widersprechend**:
+  - Die Analyse zeigt, dass der Entwurf immer noch sehr schwache Bereiche aufweist, insbesondere bei der Definition von "Information".
+  - Das Fehlen eines unabhängigen Überwachungsorgans und von Sanktionen könnte die Durchsetzung des Gesetzes schwächen.

@@ -1,0 +1,27 @@
+Feedback from: Dachverband_der_Verwaltungsrichter_DVVR
+
+Basierend auf dem bereitgestellten Kontext lassen sich die Schlüsselpunkte und das Feedback der Stakeholder wie folgt zusammenfassen:
+
+**Zusammenfassung des Feedbacks:**
+- Der Entwurf sieht eine Abschaffung der Amtsverschwiegenheit und eine Einführung einer proaktiven Veröffentlichungspflicht vor, was eine wesentliche Änderung für die Organe der Gerichtsbarkeiten darstellt.
+- Die vorgeschlagene Bescheidpflicht bei Verweigerung der Information steht im Widerspruch zum Grundsatz der Trennung der Justiz von der Verwaltung.
+- Es fehlt eine praktikable Alternative zur Bescheidpflicht, die derzeit im Entwurf offen bleibt und in zukünftigen Erörterungen geklärt werden soll.
+- Es werden sehr kurze Entscheidungsfristen vorgeschlagen, die besonders für die Gerichtsbarkeit eine Herausforderung darstellen könnten.
+- Der Entwurf übersieht mögliche Berührungspunkte mit EU-Rechtsvorschriften, insbesondere mit der DSGVO und der EU-Grundrechtecharta.
+- Eine Erweiterung der Informationspflicht auf die Organe der Gerichtsbarkeit wird aufgrund der potenziellen Mehrkosten und der Eingriffe in subjektive Rechte der Verfahrensparteien abgelehnt.
+
+**Gruppierung nach ähnlichen Aussagen und hervorstechenden Meinungsverschiedenheiten:**
+- **Verfassungskonformität:** Der Widerspruch zur Trennung von Justiz und Verwaltung wird mehrfach betont.
+- **Praktikabilität und Kosten:** Die fehlende Abdeckung der Infrastruktur- und Personalkosten sowie die kurzen Fristen werden als problematisch angesehen.
+- **EU-Rechtskonformität:** Mangelnde Berücksichtigung von EU-Vorschriften und Grundrechten wird kritisiert.
+
+**Clusterung nach Meinungstendenzen:**
+- **Negative Sentiment (gegen die vorgeschlagene Regelung):**
+  - Widerspruch zum Grundsatz der Trennung von Justiz und Verwaltung.
+  - Fehlende praktikable Alternative zur Bescheidpflicht.
+  - Unterschätzung der Implementierungskosten und des administrativen Aufwands.
+  - Potenzielle Verletzung von EU-Rechtsvorschriften und Grundrechten.
+
+**Belege, die die vorgeschlagenen Regeln stärken oder widersprechen könnten:**
+- **Stärkung:** Der Entwurf könnte durch die Einführung einer proaktiven Veröffentlichungspflicht Transparenz und öffentlichen Zugang zu Informationen verbessern.
+- **Widerspruch:** Die bestehenden einfachgesetzlichen Bestimmungen zur Amtsverschwiegenheit bleiben unberührt, was zu Konflikten mit den neuen Vorschriften führen könnte. Die kurzen Entscheidungsfristen und die fehlende Berücksichtigung von EU-Rechtsvorschriften könnten ebenfalls als Argumente gegen den Entwurf verwendet werden.

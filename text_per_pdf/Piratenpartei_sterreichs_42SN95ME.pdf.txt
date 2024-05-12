@@ -1,0 +1,398 @@
+Sehr geehrte Damen, Herren und Nichtbinäre,
+die Piratenpartei Österreichs gibt zum Informationsfreiheitsgesetz (95/ME) bzw. dem Bundesgesetz,
+mit dem das Bundes-Verfassungsgesetz, das Rechnungshofgesetz 1948 und das 
+Verfassungsgerichtshofgesetz 1953 geändert und ein Informationsfreiheitsgesetz erlassen werden 
+soll, folgende Stellungnahme ab:
+Allgemeines zum Entwurf
+Grundsätzlich begrüßen wir die Abschaffung der Amtsverschwiegenheit sowie die Schaffung 
+sowohl von proaktiven als auch reaktiven Informationsverpflichtungen. Außerdem zeigen wir uns 
+erfreut, dass viele V orschläge aus unserer Stellungnahme ( 
+https://www.parlament.gv.at/PAKT/VHG/XXV/SN/SN_00296/imfname_494684.pdf  ) vom 16. 
+Dezember 2015 aufgegriffen und eingearbeitet wurden.
+Negativ bewerten wir hier hingegen die gravierend lange Umsetzungsfrist von 18 (in Worten 
+Achtzehn) Monaten, welche eine transparente und nachvollziehbare Corona-Politik verhindert, und 
+die langen Beantwortungsfristen von 4+4 Wochen. Sowie die Politisierung des 
+Verfassungsgerichtshofes mit Hilfe von (personalisierten) Dissenting Opinions. Weiters deren 
+Vermengung mit der Thematik der Informationsfreiheit, obwohl diese nichts miteinander zu tun 
+haben.
+Unabhängig von den konkreten rechtlichen Änderungen ist überdies zweifelhaft, ob der Entwurf 
+dazu in der Lage ist, eine Transparenzkultur in der Exekutive zu etablieren, und die 
+Verschwiegenheitskultur zu brechen. Dies wäre jedoch nötig, damit bürokratische und kostspielige 
+Gerichtsverfahren zur Auslegung des Gesetzes vermieden werden können und sowohl die 
+Zivilgesellschaft, die Wirtschaft, als auch die Verwaltung von diesem Gesetz profitieren. Ein*e 
+Bürgeranwalt*in für Informationsfreiheit wäre für diesen nötigen Kulturwandel unerlässlich.
+Die Piratenpartei Österreichs fordert  deshalb die Umsetzung der Informationsfreiheit spätestens 
+bis zum Juni 2021 , die Schaffung eines Bürgeranwaltes  für Informationsfreiheit, die Streichung 
+der Politisierung des Verfassungsgerichtshofes  und die Kürzung der Beantwortungsfristen  auf 
+den EU-Standard von 15 Tagen!
+Detailierte Stellungnahme zum Entwurf
+Zu Artikel 1 Änderung des Bundes-Verfassungsgesetzes
+Zu Art 1 Z 2
+Wir begrüßen, dass sowohl eine proaktive Veröffentlichungspflicht als auch eine reaktive 
+Informationsverpflichtung auf Anfrage verfassungsrechtlich verankert werden. Dies entspricht 
+internationalen Standards und bietet zahlreiche V orteile für alle Beteiligten. Proaktive 
+Veröffentlichungspflichten führen etwa zur Effizienzsteigerung und Digitalisierung von Behörden 
+[1], bieten zahlreiche Möglichkeiten für Unternehmen [2], die als Entfesselungskräfte in der 
+Wirtschaft dienen können und zu guter Letzt bieten sie auch zahlreiche Möglichkeiten für die 
+Zivilgesellschaft als auch Community-Projekte wie etwa der OpenStreetMap [3]. Reaktive 
+Auskunftspflichten erweitern dieses Potenzial. So zeigt der internationale Vergleich, dass 
+Auskunftspflichten die Bürokratie maßgeblich reduzieren und so zu weiteren Effizienzsteigerungen 
+42/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 9
+www.parlament.gv.at
+führen [4], bieten aber auch eine Möglichkeit für die Zivilgesellschaft, an Dokumente und 
+Informationen zu kommen, die sie benötigen, um als Informationsrelais und Kontrollinstitution 
+zwischen Politik und Bevölkerung zu fungieren. Dies führt zu einer belebten Zivilgesellschaft, und 
+eine belebte Zivilgesellschaft trägt zu einer menschennahen Politik bei [5].
+Grundsätzlich bewerten wir es positiv, dass die Geheimhaltungsgründe im neuen Art 22a Abs 2 B-
+VG einfachgesetzlich ausschließlich eingeschränkt, aber nicht mehr ausgeweitet werden können. 
+Allerdings sind die angeführten Geheimhaltungsgründe dennoch zu unkonkret und stellen eine 
+Erweiterung der Geheimhaltungsgründe in der Amtsverschwiegenheit dar. Empfehlenswert ist hier 
+eine Orientierung an internationalen Standards wie jenen des Europarates [6].
+Tabelle 1: Vergleich der neuen Geheimhaltungsgründe mit dem bisherigen Amtsgeheimnis inklusive
+unserer Kommentare und Empfehlungen.
+Geheimhaltungsgründe aus
+dem neu vorgeschlagenem
+Art 22a B-VGGeheimhaltungsgründe
+aus dem bisherigen Art
+20 B-VGKommentar
+zwingenden integrations- und 
+außenpolitischen Gründender auswärtigen Beziehungen,Die Erläuterungen stellen klar, dass mit 
+integrationspolitischen Gründen 
+Rechtsvorschriften der EU gemeint sind. 
+Die Beifügung der zwingenden Gründe ist 
+begrüßenswert.
+der nationalen Sicherheit,Neu geschaffener Ausnahmegrund. Unklar 
+ist hier, wie sich dieser neue 
+Geheimhaltungsgrund von der 
+umfassenden Landesverteidigung 
+abgrenzt. Es wird vorgeschlagen, diesen 
+Begriff zu Gunsten des konkreteren 
+Begriffes, der umfassenden 
+Landesverteidigung, zu streichen. 
+Insbesondere auch, dass der Begriff der 
+umfassenden Landesverteidigung sowohl 
+konkreter ist als auch an die bisherige 
+Tradition der Rechtsauslegung anschließt.
+der umfassenden Landesverteidigung 
+oderder umfassenden 
+Landesverteidigung,Wurde direkt aus der 
+Amtsverschwiegenheit übernommen und 
+entspricht internationalen Standards.
+der Aufrechterhaltung der öffentlichen 
+Ordnung und Sicherheit,der Aufrechterhaltung der 
+öffentlichen Ruhe, Ordnung und 
+Sicherheit,Die gesamte öffentliche Ordnung geht über
+die Standards des Europarates hinaus. 
+Dieser beschränkt sich auf die Öffentliche 
+Sicherheit und die Vermeidung, 
+Ausforschung und Verfolgung von 
+Straftaten.
+zur Vorbereitung einer Entscheidung, zur Vorbereitung einer 
+Entscheidung oderDies entspricht internationalen Standards, 
+jedoch fehlt hier der Zusatz, dass dieser 
+Geheimhaltungsgrund nur so lange zutrifft, 
+bis eine Entscheidung gefällt wurde. Dieser
+Geheimhaltungsgrund darf nicht dazu 
+dienen, die Nachvollziehbarkeit von 
+Entscheidungen zu unterminieren. Es wird 
+empfohlen, die Formulierung auf „zur 
+Vorbereitung einer kommenden 42/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 9
+www.parlament.gv.at
+Entscheidung“ zu ändern.
+zur Abwehr eines erheblichen 
+wirtschaftlichen oder finanziellen 
+Schadens einer Gebietskörperschaft 
+oder eines sonstigen 
+Selbstverwaltungskörpersim wirtschaftlichen Interesse einer 
+Körperschaft des öffentlichen 
+Rechts,Es wird begrüßt, dass dieser 
+Geheimhaltungsgrund konkretisiert wurde.
+oder zur Wahrung überwiegender 
+berechtigter Interessen eines anderen 
+erforderlichim überwiegenden Interesse der 
+ParteienHier wurde vor allem die Formulierung dem
+aktuellen Sprachgebrauch angepasst. 
+Dieser Paragraph bietet das größte 
+Missbrauchspotential, da ein 
+„überwiegendes Interesse“ auch 
+einfachgesetzlich geregelt werden könnte. 
+Daher wird vorgeschlagen, dies auf 
+verfassungsrechtlich verankerte 
+Grundrechte (Privatsphäre, Geistiges 
+Eigentum, etc.) zu begrenzen.
+Positiv bewerten wir dagegen die Erfassung der vom Rechnungshof kontrollierten Unternehmen als 
+auch die einheitliche bundesgesetzliche Regelung der Informationsfreiheit.
+Zu Art 1 Z 3
+Es ist unklar, weshalb die Geheimhaltungsgründe des neuen Art 22a B-VG explizit im 
+Interpellationsrecht verankert werden sollen. Die Erläuterungen schweigen sich dazu aus und bisher
+bestand diese Einschränkung nicht. Nach ausführlicher Recherche sind uns weder Erkenntnisse 
+beim Verfassungs- noch beim Verwaltungsgericht bekannt, die das Interpellationsrecht bisher durch 
+die Geheimhaltungsgründe der Amtsverschwiegenheit eingeschränkt hätten. Insofern handelt es sich
+hier nicht um eine bloße Rechtsfortschreibung, sondern um eine Einschränkung des 
+parlamentarischen Interpellationsrechts.
+Wir fordern deshalb, wie in Zu Art 1 Z 11 ausdrücklich zu normieren, dass gegenüber den 
+Abgeordneten keine Verpflichtung zur Geheimhaltung besteht.
+Zu Art 1 Z 5 und Z 6 (sowie Artikel 3)
+Wir begrüßen ausdrücklich die Ausweitung der Zuständigkeit des Rechnungshofes bei nicht 
+börsennotierten Unternehmen in der Hand des Bundes und des Landes mit einer Staatsbeteiligung 
+von mindestens 25 %. Die Piratenpartei würde es begrüßen, wenn die Zuständigkeit des 
+Rechnungshofes bei Unternehmen mit mindestens 25 % Staatsbeteiligung ebenfalls auf 
+Unternehmen in der Hand von Gemeinden und börsennotierten Unternehmen ausgeweitet wird.
+Zu Art 1 Z 10
+Prinzipiell begrüßen wir die cooling-off-Phase bei der Ernennung von Verfassungsrichter*innen für 
+ehemalige Mitglieder von Bundes- und Landesregierung sowie ehemalige Mitglieder von 
+allgemeinen Vertretungskörpern, etwa Parlamentarier*innen. Allerdings hat dies nichts mit dem 
+Gegenstand der Informationsfreiheit zu tun und stellt eine verzichtbare Vermischung verschiedener 
+Politikfelder miteinander dar. Wir schlagen daher vor, dies in eine eigene Reform der 
+Verfassungsgerichtsbarkeit auszulagern.42/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 9
+www.parlament.gv.at
+Zu Art 1 Z 11
+Wir begrüßen, dass ausdrücklich festgehalten wird, dass gegenüber der V olksanwaltschaft keine 
+Verpflichtungen zur Geheimhaltung bestehen.
+Zu Art 1 Z 13
+Die Piratenpartei Österreichs fordert eine Umsetzung der Informationsfreiheit bis spätestens 
+Juni 2021. Jede weitere Verzögerung dieses längst überfälligen Gesetzes ist aus unserer Sicht 
+untragbar. Eine Verschleppung hätte zur Folge, dass beispielsweise die jetzt schon undurchsichtige 
+Corona-Politik, bei der niemand versteht, auf welchen Zahlen sie beruht, wenn z.B. bei exponentiell
+steigenden Zahlen plötzlich Öffnungsschritte vollzogen werden, auf immer größeres Unverständnis 
+und immer größeren Unmut in der Bevölkerung stößt. Auch stellen sich der Bevölkerung zahlreiche
+Fragen in Bezug auf die COVID-19 Finanzierungsagentur des Bundes GmbH (COFAG), die mit 
+einem Inkrafttreten erst 18 (in Worten Achtzehn) Monaten nach der Kundmachung des Gesetzes bis
+nach der Pandemie verschleppt werden würden. Dabei wäre gerade hier und jetzt Transparenz 
+wichtig, um das Vertrauen der Bevölkerung in die Corona-Politik der Bundesregierung zu stärken!
+Zu Artikel 2 Schaffung des Informationsfreiheitsgesetzes
+Zu Art 2 § 2 Abs 1
+Wir sind erfreut, dass unsere Kritik vom 16. Dezember 2015 berücksichtigt wurde und der 
+Informationsbegriff fortan alle Informationen umfasst!
+Zu Art 2 § 2 Abs 2
+Es ist zwar positiv, dass im aktuellen Entwurf, ebenfalls wie von uns am 16. Dezember 2015 
+vorgeschlagen, der Begriff der "Informationen von allgemeinem Interesse" klar definiert wird. 
+Jedoch enthält die vorgeschlagene Fassung einige untragbare Einschränkungen. So werden Verträge
+bis zu einem Gegenstandswert von bis zu 100 000 Euro ausgenommen. Dies bietet die Gefahr, dass 
+Verträge in kleinere Verträge aufgeteilt werden können, um der proaktiven Veröffentlichungspflicht 
+zu entgehen. Außerdem bricht diese Definition mit der bisherigen Rechtstradition. So müssen 
+bereits jetzt, nach dem Bundesvergabegesetz 2018, wichtige Kenndaten zu Vergaben ab einem 
+Gegenstandswert von 50 000 Euro im Ausschreibungskatalog ( 
+https://www.data.gv.at/suche/ausschreibungen-laut-bvergg2018/  ) veröffentlicht werden. Es wäre 
+nur logisch, Verträge im entsprechenden Gegenstandswert ebenfalls vom Begriff der 
+"Informationen von allgemeinem Interesse" zu erfassen.
+Weiters ist der Satz missverständlich, so wird erst durch Hinzuziehung der Erläuterungen klar, dass 
+sich der Gegenstandswert ausschließlich auf Verträge, nicht aber auch Studien, Gutachten oder 
+Stellungnahmen bezieht. Hier wird empfohlen, den Satz umzustellen und um weitere Punkte zu 
+ergänzen, sodass er fortan wie folgt lautet:
+•"[…] insbesondere Verträge mit einem Gegenstandswert von mindestens 50 000 Euro, 
+Studien, Gutachten, Stellungnahmen, Statistiken, Tätigkeitsberichte, allgemeine Weisungen, 
+Protokolle, Geo- und Umweltdaten."42/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 9
+www.parlament.gv.at
+In den Erläuterungen wird ausgeführt, dass ausschließlich aktuelle Informationen als 
+"Informationen von allgemeinem Interesse" in Frage kommen. Dies erschwert eine historische 
+Nachvollziehbarkeit. Daher sollte dies in den Erläuterungen gestrichen werden.
+Zu Art 2 § 4
+Die Piratenpartei begrüßt die Bündelung der proaktiven Veröffentlichungspflicht über data.gv.at. 
+Dies ermöglicht sowohl die Nutzbarmachung für die Zivilgesellschaft [7] als auch für die 
+Wirtschaft [8]. Die Eignung der veröffentlichten Informationen, für die Wirtschaft und/oder die 
+Zivilgesellschaft hängt allerdings vor allem von der Qualität der Metadaten ab, wie die oben 
+angeführten Studien belegen. Daher schlagen wir vor nach Art 2 § 4 Abs 3 folgenden Abs 4 
+anzufügen:
+•"(4) Die Metadaten von Informationen von allgemeinem Interesse müssen mindestens 
+folgende Informationen umfassen:
+•a. eine Kontaktadresse zu der Person, die oder der für die Wartung der Daten zuständig ist;
+•b. eine ausführliche Beschreibung der veröffentlichten Information;
+•c. eine Angabe über die Quelle der Information;
+•d. bei Tabellen und Statistiken eine ausführliche Beschreibung der einzelnen Datenfelder;
+•e. bei Tabellen, Statistiken und Studien Informationen über den Erhebungszeitraum, den 
+Updatezyklus und die Erhebungsmethode; sowie
+•f. die Nennung der Bedingungen, unter denen die Daten weiterverwendet werden dürfen 
+(Lizenzangabe)."
+Sowohl die Zivilgesellschaft als auch Unternehmen berichten bei der Nutzung von Open 
+Government Data (OGD) immer wieder von Problemen, die über die reine Bereitstellung 
+vernünftiger Metadaten hinausgehen [7][8]. Dies umfasst vor allem die Verwendung von 
+unbrauchbaren Lizenzen sowie mangelnde Längsschnittdaten bzw. keine eindeutige Zuordenbarkeit
+der Datenfeldern über Updatezyklen hinweg (etwa durch zeitstabile IDs). Wir fordern daher, dass 
+"Informationen von allgemeinem Interesse " zwingend so frei wie möglich  zu veröffentlichen  
+sind und bei der Veröffentlichung von Längsschnittdaten die Zuordenbarkeit der Datenzeilen aus 
+neuen Updates zu den entsprechenden Datenzeilen aus vergangenen Versionen sichergestellt werden
+muss.
+Außerdem ist es notwendig, einen Kulturwandel in den Ämtern einzuleiten. Der internationale 
+Vergleich zeigt hier ganz deutlich, dass wirksame Transparenzinitiativen nur gelingen, wenn der 
+V orteil von OGD auch bei den Behörden erkannt wird [9]. Die Piratenpartei ist der Meinung, dass 
+ein solcher Kulturwandel nur mit einem Bürgeranwalt für Informationsfreiheit gelingen kann. 
+Dieser kann Behördenintern aufzeigen, welche vorhandenen Informationen einen größeren 
+Personenkreis betreffen oder aus anderen Gründen "Informationen von allgemeinem Interesse" 
+darstellen, sowie die allgemeine Akzeptanz von OGD erhöhen, indem er die zahlreichen V orteile 
+von OGD für die Behörden hervorstreicht.
+Weiters soll der Bürgeranwalt auch als Informationsfreiheitsbeauftragter dienen, indem er 
+Beschwerden über die Nichtveröffentlichung von "Informationen von allgemeinem Interesse" 
+behördenintern untersuchen kann, denn es ist nicht nur keine Sanktion bei Nichterfüllung der 
+Informationspflicht vorgesehen, sondern zudem keine Transparenz der Informationspolitik der 42/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 9
+www.parlament.gv.at
+Behörden. Hier ist ein Missstand vorprogrammiert, dem man auch durch regelmäßige 
+Berichtspflichen der Organe vorbeugen könnte. Hier besteht dringender Verbesserungsbedarf.
+Weiters fordern wir also die Schaffung eines Bürgeranwaltes für Informationsfreiheit und 
+regelmäßige Berichtspflichten über die Implementierung der Informationsfreiheit.
+Zu Art 2 § 5
+Wir befürworten die Schaffung eines reaktiven "Recht auf Zugang zu Informationen" in der 
+vorgeschlagenen Form. Allerdings ist im aktuellen Text, anders als in den Erläuterungen, 
+ausschließlich ein "harm test", nämlich jener, ob Geheimhaltungsgründe vorliegen, vorgesehen. Wir
+fordern deshalb, dass auch der "public intrest test" an dieser Stelle explizit im Gesetz selbst erwähnt
+wird. Dies könnte wie folgt aussehen:
+•"[…] ein Recht auf Zugang zu Informationen, soweit sie nicht der Geheimhaltung 
+unterliegen. Bei vorliegenden Geheimhaltungsgründen besteht bei einem überwiegenden 
+öffentlichen Interesse ebenfalls ein Recht auf Zugang zu Informationen."
+Zu Art 2 § 6
+Dies ist die einfachgesetzliche Umsetzung der im neuen Art 22a Abs 2 B-VG bestimmten 
+Geheimhaltungsgründe. Wir befürworten viele der einfachgesetzlichen Konkretisierungen. Bei Art 
+2 § 6 Abs 5 lit a schlagen wir vor zu konkretisieren, dass es sich hier nur um die Information vor 
+einer etwaigen Entscheidung handelt.
+Kritisch sehen wir hier vor allem die Aufnahme von Betriebsgeheimnissen in Art 2 § 6 Z 7 lit b. 
+Dies bietet hohes Missbrauchspotential, daher fordern wir, dies auf verfassungs-, unions- und 
+völkerrechtlich garantierte Berufs-, Geschäfts- oder Betriebsgeheimnisse zu prüfen.
+Auch die Rechte am geistigen Eigentum in Art 2 § 6 Z 7 lit c vor das Recht auf Zugang zu 
+Informationen zu stellen, bietet Potenzial dafür, die Herausgabe nahezu sämtlicher Texte zu 
+verweigern. Wir fordern daher in den Erläuterungen festzuhalten, dass dies nicht die Rechte am 
+geistigen Eigentum von im staatlichen Auftrag handelnden Personen (wie etwa Gutachtern) betrifft.
+Positiv ist hingegen, dass in Art 2 § 6 Abs 2 explizit klargestellt wird, dass nur jene Teile geheim zu 
+halten sind, die einem der Geheimhaltungsgründe entsprechen. Damit wird es verunmöglicht die 
+gesamte Informationserteilung aufgrund einzelner geheimer Teile zu verweigern.
+Zu Art 2 § 7
+Die Piratenpartei begrüßt die explizite Ermöglichung von Anfragen in jeder technisch möglichen 
+Form in Art 2 § 7 Abs 1, was nach unserer Interpretation auch Anfragen per E-Mail oder ggf. 
+Onlineformularen zulässt. Sowie, dass Anträge, die an unzuständiger Stelle gestellt wurden nach Art
+2 § 7 Abs 3 einfach und unbürokratisch an die zuständige Stelle weitergeleitet werden können. Dies 
+bietet einen unglaublichen Mehrwert für viele Menschen, die keinen alltäglichen Umgang mit 
+Behörden pflegen oder keine spezielle rechtliche Expertise aufweisen.
+Zu Art 2 § 8
+Die Piratenpartei sieht die Frist von 4 Wochen, die um weitere 4 Wochen verlängert werden kann, 
+als ungerechtfertigt an. Damit würde eine reguläre Beantwortung bis zu 2 Monate lange dauern, was
+in dringenden Fällen keinesfalls genügt. Ein Informationsfreiheitsgesetz wäre ein wichtiger 
+Grundpfeiler der zukünftigen Pressearbeit, wirtschaftlichen Einschätzungen und des künftigen 
+Amtsverkehrs. Eine derart lange Frist würde das V orhaben des Bürokratieabbaus, der 42/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 9
+www.parlament.gv.at
+Effizienzsteigerung und der Bürgernähe konterkarieren. Es handelt sich hier um eine bloße 
+Fortschreibung der international unüblichen 8 Wochen-Frist aus dem Auskunftspflichtgesetz. Wir 
+fordern daher, nach Vorbild der Europäischen Kommission, eine Frist von 15 Tagen 
+festzulegen, die um weitere 15 Tage verlängert werden kann . Es ist nämlich nicht klar, weshalb 
+der Gesetzgeber hier annimmt, dass unsere österreichischen Behörden nicht dazu in der Lage 
+wären, dem Vorbild der europäischen Behörden zu folgen!
+Weitere Verzögerungen dürfen nur mit Einverständnis des Antragsstellers erfolgen. Das Wichtigste 
+hierbei ist jedoch, für den Fall der Verletzung der Entscheidungspflicht geeignete Rechtsbehelfe zur 
+Verfügung zu stellen. Ein Devolutionsantrag sollte nach Ablauf einer kürzeren als der 
+vorgeschlagenen Frist möglich sein.
+Zu Art 2 § 9
+Die Piratenpartei gibt zu bedenken, dass durch die Aufhebung des Auskunftspflichtgesetzes in Art 1
+Z 13 zukünftig nur mehr die Erteilung von Informationen nach Art 2 § 9 Abs 2 besteht. Die 
+möglichst direkte Zugänglichmachung von Informationen ist zwar begrüßenswert, allerdings birgt 
+sie auch die Gefahr, dass es Bürger*innen mit weniger rechtlicher Expertise schwerfallen könnte, 
+juristische Dokumente zu verstehen und besonders auch Personen mit geringem Bildungsniveau 
+benachteiligt werden könnten. Nach dem Legalitätsprinzip dürfen Behörden nur das, was gesetzlich 
+eindeutig bestimmt ist, insofern entfällt hier zukünftig die Möglichkeit der Erteilung von 
+Auskünften und besteht fortan nur mehr die möglichst direkte Zugänglichmachung von 
+Informationen. Wir schlagen daher vor, den Text an dieser Stelle zu präzisieren, damit bloße 
+Auskünfte auf Antrag weiterhin erteilt werden können.
+Außerdem ist die Formulierung "[…] wenn der Antrag auf Information offenbar missbräuchlich 
+erfolgt […]" ersatzlos zu streichen, da das Recht auf Zugang zu Informationen keine Nennung der 
+Gründe erfordert und damit kein Missbrauch dieses Rechts vorstellbar wäre.
+Zu Art 2 § 10
+Damit die Anhörung von Betroffenen einer Informationserteilung nicht dazu führt, dass jeweils die 
+maximale Beantwortungsfrist von 8 Wochen ausgeschöpft wird, schlagen wir vor, hier eine Frist 
+von maximal 10 Tagen festzulegen. In der Mitteilung an die betroffene Person sollen die 
+angeforderten relevanten Informationen hervorgehoben werden müssen.
+Zu Art 2 § 11
+Die Piratenpartei lehnt eine zusätzliche Frist von 2 Monaten für die Bescheidung einer 
+Nichterteilung ab! Dies würde den Rechtsweg verzögen und den kulturellen Wandel weiter 
+erschweren. So könnten zeitkritische Anfragen, die erst nicht erteilt werden, erst nach 2 Monaten 
+nach der eigentlichen Nichterteilung vor Gericht geprüft werden.
+Wir begrüßen zwar, dass der Gesetzgeber im Gegenzug dafür vorhat, die Gerichtsverfahren zu 
+beschleunigen, in dem er hier ebenfalls eine zweimonatige Frist einräumt, allerdings bezweifeln 
+wir, dass dies in der Praxis tatsächlich zu einer schnelleren Abwicklung führen wird, da die Fristen 
+beim VwGH bereits jetzt nicht eingehalten werden. Hier wären dringend weitere Ressourcen für 
+den VwGH zu mobilisieren, damit die Rechtssicherheit wieder gewährleistet werden kann.
+Weiters fordert die Piratenpartei  an dieser Stelle auch einen Bürgeranwalt  für 
+Informationsfreiheit, an den sich Bürger*innen in einfacher Weise wenden können, wenn sie in 
+ihrem Recht auf Zugang zu Informationen eingeschnitten werden. Weiters soll dieser Bürgeranwalt 
+ebenfalls aktiv werden, wenn er systematische Probleme feststellt, etwa durch das Aussprechen von 
+Rügen, das Erarbeiten von Empfehlungen und Richtlinien und das Herausgeben regelmäßiger 
+Berichte über den Status der Informationsfreiheit.42/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 9
+www.parlament.gv.at
+Zu Art 2 § 12
+Wir begrüßen, dass unserer Forderung vom 16. Dezember 2015 über die Streichung von Gebühren 
+für Bescheide in Bezug auf das Recht auf Zugang zu Informationen nachgekommen wurde.
+Zu Art 2 § 13
+Wir verlangen, dass die Formulierung "unmittelbar drohenden Beeinträchtigung von deren 
+Wettbewerbsfähigkeit" in Art 2 § 13 Abs 2 in den Erläuterungen weiter ausgeführt wird. 
+Insbesondere sollten hier auch exemplarische Beispiele für solche Situationen gegeben werden; 
+ansonsten ist zu befürchten, dass dieser Teil auch so verstanden werden könnte, dass jede Erteilung 
+von Informationen Konkurrenzunternehmen einen V orteil bieten kann und somit unmittelbar die 
+Wettbewerbsfähigkeit beeinträchtigt. Eine solche Interpretation könnte auch lange und teure 
+Auslegungskonflikte vor Gericht nach sich ziehen, die weder dem Staat, den Anfragesteller*innen 
+noch den betreffenden Unternehmen nutzen.
+Art 2 § 13 Abs 4 soll dahingehend ergänzt werden, dass auch andere Stellen innerhalb des 
+informationspflichtigen Unternehmens vom Außenvertretungsorgan für die Pflichten im Sinne des 
+Informationsfreiheitsgesetzes bevollmächtigt werden können.
+Zu Art 2 § 14
+Wir begrüßen, dass unserer Forderung vom 16. Dezember 2015 nachgekommen wurde, dass fortan 
+die Durchsetzung des Rechts auf Zugang zu Informationen bei Unternehmen, die der Kontrolle des 
+Rechnungshofes unterliegen, künftig über den Weg der Verwaltungsverfahren erfolgt; dies bietet 
+eine enorme Entlastung für die Anfragesteller*innen.
+Zu Art 2 § 15
+Die begleitende Evaluierung dieses Gesetzes bei der Datenschutzbehörde erscheint der Piratenpartei
+nur sinnvoll zu sein, wenn der von uns geforderte Bürgeranwalt für Informationsfreiheit ebenfalls 
+als Teil der Datenschutzbehörde eingegliedert wird und die Datenschutzbehörde somit zu einer 
+Datenschutz- und Informationsfreiheitsbehörde ausgebaut wird. Ansonsten bezweifeln wir, dass die 
+Datenschutzbehörde genügend auf die Umsetzung der Informationsfreiheit achtet und befürchten, 
+dass sie nur die Wahrung der Datenschutzaspekte kontrollieren wird.
+Zu Art 2 § 18
+Der Piratenpartei fällt positiv auf, dass der neue V orschlag des Art 2 § 18 alle Menschen unabhängig
+der Geschlechtsidentität berücksichtigt und nicht mehr nur Männer und Frauen, wie im Entwurf von
+2015.
+Zu Art 2 § 20
+Die Piratenpartei Österreichs fordert eine Umsetzung der Informationsfreiheit bis spätestens 
+Juni 2021. weiteres siehe "Zu Art 1 Z 13".
+Zu Artikel 3 Änderung des Rechnungshofgesetzes
+siehe "Zu Art 1 Z 5 und Z 6 (sowie Artikel 3)"42/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 9
+www.parlament.gv.at
+Zu Artikel 4 Änderung des Verfassungsgerichtshofgesetzes
+Zu Art 4 Z 3
+Es ist unklar, warum die Urlaubsregelung für die (Vize-)Präsident*innen vom VfGH geändert wird, 
+sodass sie fortan nicht mehr vom Bundespräsidenten, sondern vom VfGH-Präsidenten gewährt 
+werden. Die Gründe für diese Änderung sollten in den Erläuterungen klargestellt werden. 
+Außerdem ist zu beachten, dass diese Änderung nichts mit dem Gegenstand der 
+Informationsfreiheit zu tun hat. Sie stellt eine verzichtbare Vermischung verschiedener Politikfelder 
+miteinander dar. Wir schlagen daher vor, dies in eine eigene Reform der Verfassungsgerichtsbarkeit 
+auszulagern.
+Zu Art 4 Z 4
+Die Piratenpartei Österreichs lehnt die Schaffung von personalisierten Sondervoten beim VfGH als 
+Politisierung eines der wichtigsten und sensibelsten Höchstgerichte ab!
+Personalisierte Sondervoten beim VfGH erhöhen die politische Verantwortlichkeit der 
+Richter*innen gegenüber jenen Organen, von denen sie bestellt wurden, was die Politisierung von 
+Höchstgerichten wie dem VfGH bedeuten könnte [10]. Als Piratenpartei sind wir der Ansicht, dass 
+die politische Unabhängigkeit und Gewaltenteilung zwischen der Judikative auf der einen Seite und
+der Exekutive und Legislative auf der anderen Seite ein besonders erstrebenswertes Rechtsgut ist. 
+Mit personalisierten Sondervoten wird es den bestellenden Organen erleichtert festzustellen, ob die 
+von ihnen bestellten Richter*innen in ihrem Sinne entscheiden und wodurch Mitglieder dieser 
+Organe die Möglichkeit haben, künftig sozialen Druck auf die Richter*innen auszuüben, damit 
+diese weiterhin in ihrem Sinne und entgegen dem eigentlichen Willen des Gesetzgebers 
+entscheiden. Auch in internationalen Vergleichen gibt es Indizien für eine erhöhte Politisierung bei 
+Gerichten mit Sondervoten [11]. Eine Möglichkeit um dieser Problematik zu entgehen wäre es 
+anstatt personalisierter Sondervoten, ausschließlich annonyme Sondervoten einzuführen.
+Allerdings haben Sondervoten beim VfGH nichts mit dem Gegenstand der Informationsfreiheit zu 
+tun. Sie stellen eine verzichtbare Vermischung verschiedener Politikfelder miteinander dar.
+Die Piratenpartei Österreichs fordert daher,  die Politisierung des VfGH unter dem 
+Deckmantel der Informationsfreiheit fallen zu lassen.
+Mit freundlichen Grüßen
+für den Bundesvorstand der Piratenpartei
+Harald Bauer
+Quellen:
+[1] https://content.iospress.com/articles/information-polity/ip200281
+[2] https://doi.org/10.1016/j.giq.2017.08.004
+[3] https://wiki.openstreetmap.org/wiki/Austria#Open_Government_Data_.28OGD.29
+[4] https://doi.org/10.1093/oep/gpw008
+[5] https://doi.org/10.1177/0010414019830724
+[6] https://www.coe.int/en/web/conventions/full-list/-/conventions/rms/0900001680084826
+[7] https://ieeexplore.ieee.org/abstract/document/8877055/
+[8] https://www.igi-global.com/article/exploring-the-factors-influencing-the-adoption-of-open-
+government-data-by-private-organisations/121537
+[9] https://doi.org/10.1016/j.giq.2015.11.004
+[10] https://doi.org/10.1177/1065912909352775
+[11] https://www.jstor.org/stable/2487766842/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 9
+www.parlament.gv.at

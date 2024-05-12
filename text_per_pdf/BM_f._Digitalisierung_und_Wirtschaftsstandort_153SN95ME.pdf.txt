@@ -1,0 +1,862 @@
+ 
+1 von 26  bmdw.gv.at  
+BMDW - Präs/2 (Rechtskoordination)  
+rechtskoordination@bmdw.gv.at   
+Mag. Verena Werner  
+Sachbearbeiter/in  
+verena.werner@oesterreich.gv.at  
++43 1 711 00 -805003  
+Stubenring 1, 1010 Wien  
+E-Mail -Antworten sind bitte unter Anführung der 
+Geschäftszahl an das Abteilungspostfach zu rich-
+ten. Bundeskanzleramt -VD 
+Ballhausplatz 2  
+1010 Wien  
+Geschäftszahl: 2021 -0.214.166   
+Entwurf eines Bundesgesetzes, mit dem das Bundes -Verfassungsgesetz, das 
+Rechnungshofgesetz 1948 und das Verfassungsgerichtshofgesetz 1953 ge-
+ändert und ein Informationsfreiheitsgesetz erlassen werden; Stellungnah-
+me des BMDW  
+I. Allgemeines:  
+Mit dem gegenständlichen Gesetzesvorhaben soll die verfassungsgesetzliche Amtsver-
+schwiegenheit aufgehoben und eine allgemeine Informationsfreiheit durch Schaffung ei-
+ner verfassungsgesetzlichen Informationsve rpflichtung und eines verfassungsgesetzlich 
+gewährleisteten Rechts auf Zugang zu Informationen eingeführt werden.  
+Das Bundesministerium für Digitalisierung und Wirtschaftsstandort begrüßt grundsätzlich 
+die Intention des Entwurfs, staatliches Handeln für je dermann transparenter zu machen. 
+Allerdings werden für eine reibungslose Vollziehung der neuen Bestimmungen noch zahl-
+reiche Präzisierungen als unbedingt erforderlich erachtet, auf die in weiterer Folge in den 
+Ausführungen zu den konkreten Bestimmungen nähe r eingegangen wird.  
+Informationen von allgemeinem Interesse sollen gemäß dem Entwurf für ein Informati-
+onsfreiheitsgesetz (IFG) von den veröffentlichungspflichtigen Organen über ein Informati-
+onsregister, konkret über die  Informationsplattform Open Data Öste rreich 
+(https://www.data.gv.at ) veröffentlicht werden. Laut der WFA ist aufgrund des Umfanges 
+der zu veröffentlichenden Informationen eine Ausweitung der Plattform data.gv.at not-
+wendig und fallen dafür einmalige Koste n in der Höhe von 800.000 Euro und für die Erwei-
+153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  2 von 26 terung des Betriebes jährlich ca. 120.000 Euro sowie für das technische Clearing Personal-
+ressourcen an. Aus Sicht des BMDW erscheinen die veranschlagten einmaligen Kosten iHv 
+800.000 Euro plausibel. Allerding s sind nach Einschätzung des BMDW für die Erweiterung 
+des Betriebes nicht ca. 120.000 Euro, sondern zumindest 500.000 Euro jährliche Kosten  
+zu veranschlagen (nähere Ausführungen dazu unter Punkt IV. WFA). Dies wäre in der WFA 
+entsprechend zu berücksichtige n.  
+Gemäß § 4 Abs. 3 IFG sollen die näheren technischen Voraussetzungen in einer Verord-
+nung festgelegt werden. Der Umfang der Verordnungsermächtigung s ollte klarer definiert 
+werden. Da aus Sicht des BMDW Informationsfreiheit und das Informationsregister in  die 
+Zuständigkeit des Bundeskanzleramts  (bzw. der für Verfassung zuständigen Bundesminis-
+terin im Bundeskanzleramt) fallen, sollte der Bundeskanzler (bzw. das für Verfassung zu-
+ständige oberste Organ) im Einvernehmen mit der Bundesministerin für Digitalisie rung 
+und Wirtschaftsstandort zur Erlassung dieser Verordnung ermächtigt werden.  
+Es wird ausdrücklich begrüßt, dass nach den Erläuterungen (vgl. deren Seite 4 bzw. 5) 
+Bestimmungen betreffend die Weiterverwendung von Informationen (nicht den Informa-
+tionszug ang) unberührt bleiben sollen. Das BMDW erarbeitet derzeit einen Entwurf für ein 
+„Bundesgesetz, mit dem ein Bundesgesetz über die Weiterverwendung von Informationen 
+öffentlicher Stellen, öffentlicher Unternehmen und von Forschungsdaten (Informations-
+weiterv erwendungsgesetz 2021 - IWG 2021) erlassen wird, sowie das Forschungsorganisa-
+tionsgesetz, das Geodateninfrastrukturgesetz, das Firmenbuchgesetz und das Vermes-
+sungsgesetz geändert werden“, mit dem die Richtlinie (EU) 2019/1024 umgesetzt werden 
+soll.  
+Da das  geplante Gesetz sämtliche Staatsorgane betrifft, wird davon ausgegangen, dass es 
+zur Sicherstellung einer einheitlichen Vollziehung und Auslegung der neuen Regelungen 
+durch die betroffenen Organe einheitliche Leitlinien  geben wird. Diese sollten insbeson-
+dere folgende Fragen behandeln:  
+ Was ist auf jeden Fall als „Information von allgemeinem Interesse“ anzusehen 
+und daher zu veröffentlichen (abgesehen von den sehr wenigen Arten von In-
+formationen, die im derzeitigen Entwurf ausdrücklich als solche genannt sin d)? 
+ Für jene Fälle, in denen eine Interessensabwägung notwendig ist, sollten klare 
+Kriterien für diese vorgegeben werden - unter Berücksichtigung der einschlägi-
+gen Judikatur zum Auskunftspflichtgesetz.  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  3 von 26  Bei Durchführung der Interessensabwägung im Zusammenha ng mit dem 
+Grundrecht auf Datenschutz sollte eine strukturierte Zusammenarbeit mit der 
+Datenschutzbehörde vorgesehen werden.  
+II. Zu Artikel 1 (Änderung des Bundes -Verfassungsgesetzes)  
+Zu Z 13 (Art. 151 Abs. xx B -VG und § 20 IFG) - Legisvakanz  
+Den Erläuteru ngen zufolge soll die vorgesehene Legisvakanz insbesondere dazu dienen, 
+bestehende einfachgesetzliche Geheimhaltungsbestimmungen und Informationsregelun-
+gen zu prüfen und bei Bedarf anzupassen. Der gerichtliche Straftatbestand der Verletzung 
+des Amtsgeheimn isses gemäß § 310 des Strafgesetzbuches – StGB, BGBl. Nr. 60/1974 wird 
+jedenfalls anzupassen sein.  
+Der Entwurf stellt Bedienstete in Organen der Verwaltung vor große Herausforderungen, 
+indem er sie mit schwierigen Abwägungen und Begründungen belastet, die  sie in heikle 
+Situationen bringen könnten (siehe auch die Ausführungen zur Interessensabwägung in § 
+6 IFG).  
+Bei der Anpassung bestehender einfachgesetzlicher Geheimhaltungsbestimmungen und 
+Informationsregelungen wäre darauf Bedacht zu nehmen, dass eine E ntscheidung über 
+Zugang oder Verweigerung des Zugangs zu Informationen in denkmöglicher Auslegung 
+der Gesetze  zu keinen straf -, disziplinar - oder haftungsrechtlichen Konsequenzen für die 
+betroffenen Bediensteten führen darf, deren sich ein Organ zur Erfüll ung seiner Verpflich-
+tungen nach diesem Bundesgesetz bedient. Es wird eine entsprechende Klarstellung be-
+reits in den Erläuterungen zu dieser Bestimmung angeregt.  
+Vorgeschlagen wird folgende Präzisierung des relevanten Absatzes auf Seite 4 bzw. 5 der 
+Erläuterungen ( Ergänzungen in kursiver und unterstrichener Schrift ): 
+„Die vorgesehene Legisvakanz soll insbesondere dazu dienen, bestehende einfachgesetzliche Geheimhal-
+tungsbestimmungen und Informationsregelungen anhand der neuen verfassungsgesetzlichen Be stimmung, 
+insbesondere deren Gesetzesvorbehalt, zu prüfen und bei Bedarf anzupassen (vgl. beispielsweise nur den 
+gerichtlichen Straftatbestand der Verletzung des Amtsgeheimnisses gemäß § 310 des Strafgesetzbuches – 
+StGB, BGBl. Nr. 60/1974, oder dienstrecht liche Verschwiegenheitspflichten gemäß den Bestimmungen der § 
+36a Abs. 1 Z 3, § 46 und § 163 Abs. 6 des Beamten -Dienstrechtsgesetzes 1979 – BDG 1979, BGBl. Nr. 
+333/1979, bzw. der § 5c Abs. 1 Z 3, § 41a, § 48n und § 79 des Vertragsbedienstetengesetzes 1948 – VBG, 
+BGBl. Nr. 86/1948).  Bei diesen Anpassungen ist tunlichst darauf zu achten, dass eine Entscheidung über Zu-
+gang oder Verweigerung des Zugangs zu Informationen in denkmöglicher Auslegung der Gesetze zu keinen 153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  4 von 26 straf -, disziplinar - oder haftungsrechtlich en Konsequenzen für die betroffenen Bediensteten führen darf, 
+deren sich ein Organ zur Erfüllung seiner Verpflichtungen nach diesem Bundes(verfassungs)gesetz bedient . 
+Besondere, allenfalls weitergehende Informationsrechte (vgl. insbesondere das Recht auf U mweltinformati-
+on) sowie Bestimmungen betreffend die Weiterverwendung von Informationen (nicht den Informationszu-
+gang) sollen unberührt bleiben.“  
+III. Zu Artikel 2 (Informationsfreiheitsgesetz – IFG)  
+Zu § 2 IFG (Begriffsbestimmungen):  
+Die Begriffe „Informat ion“ und „Information von allgemeinem Interesse“ in § 2 IFG sind 
+sehr weit definiert. Diese weite Definition wird kritisch gesehen. Im Hinblick auf eine 
+rechtssichere Anwendung des Gesetzes bedarf es jedenfalls weiterer Klarstellungen.  
+Zu § 2 Abs. 1 („Info rmation“):  
+Interne Stellungnahmen:  
+Durch die weiten Definitionen der Begriffe „Information“ und „Information von allgemei-
+nem Interesse“ im Sinne des § 2 IFG wären in der Praxis auch Stellungnahmen einzelner 
+Abteilungen zu einer Thematik erfasst, deren Erarbeitung und Einholung im Vorfeld au s-
+schließlich dem Zweck diente eine akkordierte und koordinierte Grundlage für die weitere 
+Entscheidungsfindung sektions - bzw. auch ressortintern generieren zu können. Auch wür-
+den unter diesem Aspekt Empfehlungen oder Stellungnahmen von einzelnen Abteilun-
+gen/Sektionen, die unter Umständen aus politischen Gründen nicht weiterverfolgt werden 
+oder gegenteilig entschieden wurden, unter die Informationspflicht im Sinne des neuen 
+Art. 22a Abs. 2 B -VG in Verbindung mit §§ 7 ff IFG oder gar unter die Veröffentlichun gs-
+pflicht im Sinne des neuen Art. 22a Abs. 1 B -VG in Verbindung mit § 3 ff IFG fallen.  
+In den Erläuterungen werden zwar persönliche Aufzeichnungen und persönliche Vorent-
+würfe vom Informationsbegriff sowie „ sich noch im Entscheidungsprozess befindliche Vor-
+entwürfe in einem Vorstadium und zum ausschließlichen Zweck der internen Entschei-
+dungsfindung des Entwurf erstellenden Organs (zB Vorentwurf eines Sachbearbeiters, noch 
+bevor diesen der zuständige Genehmigende approbiert hat) “ als noch nicht fertige Infor-
+mationen angesehen und sollen als solche nicht vom Informationsbegriff nach § 2 Abs. 1 
+IFG und damit in Konsequenz auch nicht vom Begriff der „Information von allgemeinem 
+Interesse“ erfasst sein, die Formulierung und insbesondere das genannte Beispiel zu in-
+ternen Entscheidungsfindungen in den Erläuterungen greift aber in der Praxis zu kurz. Die-153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  5 von 26 selben Erwägungen, die hinter dem angeführten Beispiel stehen, gelten auch für Stellung-
+nahmen einzelner Abteilungen, deren Zusammenführung zB in technischer und rechtl icher 
+Hinsicht erst die Grundlage für die Entscheidungsfindung eines akkordierten Standpunktes 
+bieten.  
+Derartige interne Stellungnahmen sollten letztlich nicht unter den Informationsbegriff und 
+folglich weder unter die Informationspflicht noch unter die Ve röffentlichungspflicht nach 
+dem vorliegenden Entwurf fallen. Aus diesem Grund wird angeregt, in den Erläuterungen 
+zu konkretisieren, dass derartige interne Stellungnahmen im Zuge eines sektionsinternen 
+oder sektionsübergreifenden Abstimmungsprozesses ebens o als nicht fertige Informatio-
+nen anzusehen sind.  
+Sollten derartige interne Stellungnahmen dagegen doch unter den Informationsbegriff 
+nach § 2 Abs. 1 IFG fallen sollen, so wäre dringend anzuraten jedenfalls im Zusammenhang 
+mit dem Ausnahmetatbestand nach §  6 Abs. 1 Z 5 IFG in den Erläuterungen klarzustellen, 
+dass interne Stellungnahmen und Abstimmungsprozesse, wie die oben geschilderten, dem 
+Interesse der unbeeinträchtigten Vorbereitung einer Entscheidung im Sinne dieses Aus-
+nahmetatbestandes dienen und dami t weder zur Veröffentlichung bestimmt noch zugäng-
+lich zu machen sind. Die Grenzen des Informationsbegriffs, wie oben erörtert, und die hier 
+beschriebene Ausnahme von den an die Qualifikation als Information anknüpfenden 
+Pflichten scheinen hier nicht klar v oneinander abgrenzbar zu sein.  
+Notizen  
+Notizen, die nicht Bestandteile eines Vorganges werden sollten, sollten nicht vom Infor-
+mationsbegriff umfasst sein. Es wird angeregt, dies in den Erläuterungen klarzustellen.  
+Zu § 2 Abs. 2 („Informationen von allgeme inem Interesse“):  
+Allgemein  
+Der Begriff der „Informationen von allgemeinem Interesse“ nach § 2 Abs. 2 IFG, an den die 
+Pflicht zur Veröffentlichung knüpft, ist auch unter Heranziehung der Erläuterungen sehr 
+vage und unbestimmt. Die Wendungen „die einen allg emeinen Personenkreis betreffen 
+oder für einen solchen relevant sind“ tragen nur minimal zur Bestimmung des „allgemei-
+nen Interesses“ bei. Was ist ein allgemeiner Personenkreis? Wie viele Perso-
+nen/Personengruppen müssen betroffen sein? Der Hinweis in den Er läuterungen, dass der 
+Personenkreis „hinreichend groß“ sein muss, trägt nicht zur Klarstellung bei.  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  6 von 26 In diesem Punkt sollte jedenfalls noch eine Konkretisierung durch Anführung weiterer, 
+insbesondere auch positiver Beispiele, welche Informationen jedenfall s als allgemein inte-
+ressierend anzusehen sind und nicht nur negativer Beispiele, was jedenfalls nicht von all-
+gemeinem Interesse sein soll, vorgenommen werden. Nur so wird in der Praxis sicher be-
+urteilt werden können, welche Informationen unter die Veröffen tlichungspflicht fallen 
+sollen.  
+Bestenfalls wären in das Gesetz selbst weitere Kriterien zur Bestimmung des „allgemeinen 
+Interesses“ aufzunehmen.  
+Veröffentlichung im Bereich der öffentlichen Auftragsvergabe  
+Es ist davon auszugehen, dass gerade im Bereich  der öffentlichen Auftragsvergabe ein 
+besonderes öffentliches Interesse an Informationszugang besteht, was künftig mehr An-
+träge auf Informationszugang zur Folge haben wird. Gerade im Bereich der öffentlichen 
+Auftragsvergabe sind jedoch auf Grund der unters chiedlichen Parteien, die an einem 
+Vergabeverfahren beteiligt sind, unterschiedliche Interessen zu berücksichtigen und ab-
+zuwägen.  
+Um in diesem sensiblen Bereich eine Balance zwischen berechtigter Information der All-
+gemeinheit einerseits und wirtschaftlich en Interessen der öffentlichen Auftraggeber und 
+teilnehmenden Bieter andererseits zu finden, sollten im Informationsfreiheitsgesetz Klar-
+stellungen zu Gunsten der öffentlichen Auftragsvergabe erfolgen. Dies schon alleine des-
+halb, damit ein einheitliches Inf ormationsregime für alle öffentlichen Auftraggeber sicher-
+gestellt ist.  Gleichzeitig ist darauf Bedacht zu nehmen, dass Veröffentlichungspflichten 
+und Informationserteilungen die Verfahrensdauern nicht unnötig verzögern, da dies so-
+wohl den öffentlichen Auf traggeber als auch die teilnehmenden Bieter benachteiligt und 
+schädigt.  
+Das BVergG  2018,  das BVergGKonz  2018 und das BVergGVS  2012 verpflichten den öffent-
+lichen Auftraggeber bereits zu umfassenden Bekanntgaben über vergebene Aufträge (vgl. 
+die Bestimmunge n des 2. Abschnittes („Bekanntmachungen“) des 3. Hauptstückes des 2. 
+Teiles des BVergG  2018 sowie die entsprechenden Bestimmungen des Sektorenbereichs 
+des BVergG  2018, des BVergGKonz  2018 und des BVergGVS  2012). Insofern ist im Bereich 
+der öffentlichen Auf tragsvergabe bereits ein hohes Ausmaß an Transparenz sichergestellt.  
+Um unnötigen Verwaltungsaufwand durch mehrfache Veröffentlichungen zu verhindern, 
+sollte für das Vergabewesen in den Erläuterungen Folgendes klargestellt werden:  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  7 von 26 „Das BVergG 2018, das BVe rgGKonz  2018 und das BVergGVS  2012 verpflichten den öffentlichen Auftragge-
+ber bereits zu umfassenden Bekanntgaben über vergebene Aufträge (vgl. die Bestimmungen des 2. Abschnit-
+tes („Bekanntmachungen“) des 3. Hauptstückes des 2. Teiles des BVergG  2018 sowie  die entsprechenden 
+Bestimmungen des Sektorenbereichs des BVergG  2018, des BVergGKonz  2018 und des BVergGVS  2012). 
+„Informationen von allgemeinem Interesse“ sind daher für den Bereich der öffentlichen Auftragsvergabe jene 
+Informationen, die gemäß dem 2. Ab schnitt („Bekanntmachungen“) des 3. Hauptstückes des 2. Teiles des 
+BVergG  2018 sowie den entsprechenden Bestimmungen des Sektorenbereichs des BVergG  2018, des BVerg-
+GKonz  2018 und des BVergGVS  2012 vom öffentlichen Auftraggeber zu veröffentlichen sind. Eine  darüber 
+hinaus gehende Verpflichtung zur Veröffentlichung von Daten im Informationsregister besteht nicht.“   
+Durch den Rückgriff auf bestehende Informationspflichten können im Bereich der Auf-
+tragsvergabe Synergieeffekte genützt werden. Die dort bekanntzu gebenden Informatio-
+nen könnten auch Vorbild für andere Bereiche sein.  Mit dieser Festlegung wird eine ein-
+heitliche Qualität der im Informationsregister eingespeisten Daten für alle öffentlichen 
+Auftraggeber gewährleistet. Nur so ist ein durchgehend gleich es Ausmaß an Transparenz 
+für Bund, Länder, Gemeinden und sonstige zur Information verpflichtete Rechtsträger ge-
+währleistet.  
+Ein weiterer Vorteil ist, dass der Verweis auf bereits bestehende Bekanntgabeverpflich-
+tungen die Prüfung eines allfälligen Geheimhal tungsinteresses obsolet macht, da diese 
+Informationen ohnedies veröffentlicht werden müssen. Das spart Zeit und Kosten und 
+ermöglicht effiziente Auftragsvergaben im Interesse der Wirtschaftsteilnehmer.  
+Veröffentlichung von Bescheiden und Informationen aus behördlichen Verfahren  
+Sollten aufgrund des IFG Bescheide veröffentlicht werden müssen, müsste klargestellt 
+werden, welche Teile des Bescheids von der Offenlegungspflicht erfasst sind (z.B. nur der 
+Spruch oder der ganze Bescheid?). Die Begründung sollte von der Veröffentlichung ausge-
+nommen werden, da in der Bescheidbegründung sensible Informationen enthalten sein 
+können, die wiederum mit dem Recht der Allgemeinheit auf Veröffentlichung abgewogen 
+werden müssten, was einen enormen Verwaltungsaufwand in der Praxis darstellen würde.   
+Sollten Umstände, die Relevanz für noch nicht abgeschlossene behördliche Verfahren ha-
+ben, überhaupt als „Informationen“ im Sinne von § 2 Abs. 1 IFG anzusehen sein, so sollten 
+sie jedenfalls - soweit unmittelbar anwendbares EU -Recht oder einschlägige Materienge-
+setze nicht anderes bestimmen - nicht der Veröffentlichungspflicht unterliegen.   
+Um schwierige Auslegungsfragen und Interessensabwägungen zu vermeiden, wäre gene-
+rell zu emp fehlen, eine Veröffentlichungspflicht für Bescheide oder bestimmte Informati-153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  8 von 26 onen aus behördlichen Verfahren ausschließlich in den jeweiligen Materiengesetzen fest-
+zulegen, wenn dies im Allgemeininteresse als erforderlich erachtet wird.  
+Beihilfenrechtliche Verfahren  
+Hinsichtlich beihilfenrechtlicher Verfahren geht das BMDW davon aus, dass auch nach 
+dem geplanten IFG diesbezügliche Informationen nur insoweit als von „allgemeinem Inte-
+resse“ zu betrachten sind, als ihnen dieser Charakter auch von den einschlägi gen EU -
+Verfahrensregeln zuerkannt wird. Verfahren zu notifikations - und prüfpflichtigen Beihilfen 
+sind nur im sog. „Hauptprüfverfahren“, das von der EK bei schwerwiegenden Bedenken 
+gegen eine Vereinbarkeit mit dem Binnenmarkt eingeleitet wird, öffentlich. Diesfalls er-
+folgt eine förmliche Kundmachung im Amtsblatt der EU. Die Pflichtangaben zu notifikati-
+onsfreien, freistellungsfähigen Beihilfen werden nach der jeweiligen Freistellungsmittei-
+lung ebenfalls im EU -Amtsblatt kundgemacht. Das sog. „Vorprüfverfahren “ nach der Noti-
+fikation einer Beihilfe ist nicht öffentlich. Ein „allgemeines Interesse“ an Informationen aus 
+einem Verfahren in diesem Stadium wäre aus Sicht des BMDW nicht gegeben und es wä-
+ren daher die entsprechenden Informationen weder herauszugeben, n och zu veröffentli-
+chen. Eine entsprechende Klarstellung in den Erläuterungen wird angeregt.  
+Stellungnahmen  
+Es ist unklar, welche Art von „Stellungnahmen“ hier erfasst sein sollen. Stellungnahmen zu 
+Entwürfen von Rechtsvorschriften werden bereits derzeit ve röffentlicht.  
+Die Frage der Veröffentlichung von Stellungnahmen zu EU -Vorhaben ist nach den ein-
+schlägigen EU -rechtlichen Vorschriften zu beurteilen.  
+Stellungnahmen im Rahmen von Verwaltungsverfahren werden - abgesehen von aus-
+drücklichen Veröffentlichungspflichten in den maßgeblichen Materiengesetzen - der Ge-
+heimhaltung gemäß § 6 Abs. 1 Z 5 IFG unterliegen.  
+Eine nähere Klarstellung, welche Stellungnahmen erfasst sein sollen, zumindest in den 
+Erläuterungen, wäre geboten.   
+Gutachten  
+Es wird  angeregt, in den Erläuterungen näher zu präzisieren, welche Gutachten hier ge-
+meint sind.  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  9 von 26 Bei Gutachten zu öffentlichen Großprojekten wird man wohl von einem Allgemeininteres-
+se ausgehen können.  
+Sachverständigengutachten in behördlichen Verfahren werden - abgesehen von ausdrück-
+lichen Veröffentlichungspflichten in den maßgeblichen Materiengesetzen - der Geheim-
+haltung gemäß § 6 Abs. 1 Z 5 IFG unterliegen.  
+Verträge  
+Die Erläuterungen zu § 2 IFG sehen vor, dass nicht nur „abgeschlossene Verträge mit dem 
+gesetzli ch festgelegten Schwellenwert“, sondern auch „sonstige Verträge von öffentli-
+chem Interesse“ veröffentlicht werden sollen. Gleichzeitig liefern die Erläuterungen je-
+doch keine näheren Anhaltspunkte, wann konkret sonstige Verträge „von öffentlichem 
+Interesse“  sind. Hier wären zusätzliche Klarstellungen erforderlich.  
+Zum Begriff „Gegenstandswert“  
+Der Begriff „Gegenstandswert“ ist nicht eindeutig und sollte durch die Wortfolge „ge-
+schätzter Auftragswert“ ersetzt werden. Die Wortfolge „geschätzter Auftragswert“ is t vor 
+allem im Bereich der öffentlichen Auftragsvergabe üblich.  
+Zusätzlich ist klarzustellen, ob der „Gegenstandswert“ bzw. „geschätzte Auftragswert“ die 
+USt umfassen soll oder nicht.   
+Zu § 3 IFG (Zuständigkeit):  
+In dieser Bestimmung bzw.in den Erläuteru ngen zu dieser Bestimmung wird nicht auf die 
+Frage der Zuständigkeit zur Veröffentlichung von oder zur Gewährung des Zugangs zu In-
+formationen eingegangen, die mehreren Mitgliedern der Bundesregierung gleichzeitig 
+vorliegen. Es sollte klar festgelegt werden , wer zur Offenlegung welcher Informationen 
+verpflichtet ist, insbesondere da im Bereich der Organe der Verwaltung federführende mit 
+nicht federführenden Ressorts regelmäßig zusammenarbeiten (sollen). Ein Abstellen auf 
+die Zuständigkeit „ jenes Organs, zu d essen Wirkungsbereich die Information gehört“ im 
+Gesetzestext kann zu Unklarheiten und Doppelgleisigkeiten führen.  
+Dies mag anhand eines fiktiven Beispiels eines Verfahrens zur Kontrolle ausländischer Di-
+rektinvestitionen aus Gründen der Sicherheit und öff entlichen Ordnung (FDI -Screening) 
+aus dem Wirkungsbereich des BMDW verdeutlicht werden. In diesen Verfahren übermit-153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  10 von 26 telt das BMDW im Auftrag des federführend zuständigen Mitglieds der BReg den Komi-
+teemitgliedern des durch das InvKG eingerichteten Beirats (V ertretern u.a. anderer Res-
+sorts, d.h. anderer, nicht federführend zuständiger Organe der BReg, aber auch Vertretern 
+der Länder) Informationen zu einer Transaktion (ausländische Direktinvestition in Öster-
+reich). Umgekehrt übermittelt ein Komiteemitglied (Ve rtreter u.a. eines anderen Ressorts, 
+d.h. eines anderen, nicht federführend zuständigen Organs der BReg, aber möglicherweise 
+auch der Vertreter des Landes, in dem sich das österreichische Unternehmen befindet, in 
+das investiert wird) allenfalls bei ihm vor handene Informationen zu den betroffenen Un-
+ternehmen und/oder seine Gefährdungsbeurteilung (an das BMDW, d.h. das federführend 
+zuständige Organ der BReg). Das BMDW würde eine sinnhafte Kollisionsregelung allenfalls 
+darin erkennen, dass zur Beurteilung/Bean twortung eines auf Informationen im Zusam-
+menhang mit dem Investitionskontrollverfahren gerichteten Informationsbegehrens allein 
+und ausschließlich das für das Investitionskontrollverfahren federführend zuständige Or-
+gan bzw. Mitglied der BReg (d.h. die Mini sterin für Digitalisierung und Wirtschaftsstand-
+ort) zuständig ist. Langt umgekehrt ein Informationsbegehren bei einem für die „Informa-
+tion“ nicht federführenden Organ (z.B. einem anderen, für das Investitionskontrollverfah-
+ren nicht federführendem Mitglied der BReg) ein, so wären die Regelungen so auszuge-
+stalten, dass dieses das „Informationsbegehren“ keinesfalls inhaltlich bearbeiten darf, 
+selbst wenn es Adressat des Informationsbegehren ist und sich das Informationsbegehren 
+auf Informationen richtet, die „ in seinem Wirkungsbereich“ liegen (z.B. Stellungnahme des 
+Bundesministeriums für Gesundheit im von der Bundesministerin für Digitalisierung und 
+Wirtschaftsstandort federführend geleiteten Investitionskontrollverfahren betr. die aus-
+ländische Direktinvestiti on in ein österreichisches Pharmaunternehmen).  
+Es sollte daher zumindest in den Erläuterungen, besser noch im Gesetzestext selbst, klar-
+gestellt werden, dass nur das in einer Angelegenheit federführend zuständige Mitglied der 
+Bundesregierung den entsprechen den Pflichten unterliegt. Damit werden auch sinnlose 
+Kosten für doppelte Veröffentlichungen derselben Information von Vornherein vermie-
+den.   
+Zu § 4 IFG (Informationsregister):  
+Allgemeine Bemerkungen  
+Um den Eindruck zu vermeiden, dass die Informationen als  solche zentral im Register ge-
+speichert sind, sollte das Register durchgängig als „Informations meta datenregister“ be-
+zeichnet werden (wie dies auch in der WFA erfolgt).  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 10 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  11 von 26 Die genauen technischen und formalen Vorgaben in Bezug auf data.gv.at  (insbesondere 
+hinsichtlich des Metadatenstandards und der Lizenzen) lassen sich dem Entwurf nicht 
+entnehmen und sollten definiert werden .  
+Zu § 4 Abs. 2:  
+Da die Informationsdaten selbst bei der informationspflichtigen Stelle verbleiben, sollte 
+das Wort „zentral“ entfallen , um nicht den Eindruck zu erwecken, dass die Daten an einer 
+Stelle gespeichert werden.  
+Aus § 4 Abs. 2 sollte klar hervorgehen, dass nicht ein Bundesgesetz, sondern die nachfol-
+genden Absätze nähere Bestimmungen für das Informationsregister enthalten. Dies  sollte 
+in dieser Deutlichkeit dem Gesetzestext selbst und nicht nur den Erläuterungen zu ent-
+nehmen sein.  
+Zu § 4 Abs. 3:  
+Es ist unklar, worauf sich das Wort „Sie“ im vorletzten Satz des § 4 Abs. 3 bezieht. Es 
+scheint intendiert zu sein, dass sowohl Infor mationen bereitzuhalten sind, als auch der 
+Zugang im Wege des Registers ermöglicht werden muss.  
+Es wird daher folgende neue Formulierung vorgeschlagen:  
+ „Die Informationen sind von den Organen und Einrichtungen gemäß Abs. 1 so lange bereitzustellen und im  
+Wege des Informationsmetadatenregisters zugänglich zu machen, solange ein allgemeines Interesse daran 
+besteht“.  
+Allerdings stellt sich hier generell die Frage, wie aufwändig die Beurteilung, ob ein allge-
+meines Interesse besteht, über die Zeit sein wird und ob dieser Aufwand gerechtfertigt ist.  
+Zur Verordnungsermächtigung in § 4 Abs. 3 letzter Satz:  
+Es ist unklar, w elche näheren technischen Voraussetzungen in der Verordnung zum Infor-
+mationsregister geregelt werden sollen. Der Umfang der Verordnungsermächtigung soll-
+te daher klarer definiert werden.  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 11 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  12 von 26 Darüber hinaus fallen Informationsfreiheit und das Informationsregiste r aus Sicht des 
+BMDW in die Zuständigkeit des Bundeskanzleramts (bzw. der für Verfassung zuständigen 
+Bundesministerin im Bundeskanzleramt).  
+Es sollte daher der Bundeskanzler (bzw. das für Verfassung zuständige oberste Organ) 
+im Einvernehmen mit der Bundesm inisterin für Digitalisierung und Wirtschaftsstandort 
+zur Erlassung dieser Verordnung ermächtigt werden.   
+Es darf in diesem Zusammenhang auf eine vergleichbare Konstellation im Kontext des 
+Bundesvergaberechts hingewiesen und vorgeschlagen werden, die Veror dnungsermächti-
+gung und Abwicklung nach dem Vorbild des § 54 Abs. 1 iVm § 223 Abs. 1 BVergG 2018 
+(vgl. die Kerndaten -Verordnung, BGBl. II Nr. 57/2019) zu gestalten.  
+Zu § 4 Abs. 6:  
+Der Zweck der Verlautbarung in § 4 Abs. 6 ist unklar . Insbesondere ist nich t ersichtlich, 
+welche konkreten Rechtsfolgen an diese Verlautbarung anknüpfen. Dies wäre zumindest 
+in den Erläuterungen klarzustellen.  
+Zu § 6 (Geheimhaltung):  
+Zu § 6 Abs. 1 Z 1 iVm Art. 22a Abs. 2 B -VG ( „1. aus zwingenden außen - und integrations-
+politische n Gründen, insbesondere auch gemäß unmittelbar anwendbaren Bestimmun-
+gen des Rechts der Europäischen Union oder des Völkerrechts“):  
+Während Art. 20 Abs. 3 B -VG noch eine Ausnahme im Interesse der auswärtigen Bezie-
+hungen  statuiert, sieht nunmehr Art. 22a B -VG nur noch eine Geheimhaltung aus zwin-
+genden  integrations - und außenpolitischen Gründen  vor. Bei enger Auslegung ist zu be-
+fürchten, dass in Hinblick auf die prinzipielle Veröffentlichungsfähigkeit die Beiratsstel-
+lungnahmen des BMEIA gemäß § 78 Außenwirtsch aftsgesetz 2011 mit potentiellen au-
+ßenpolitischen Irritationen abgewogen werden müssen und die Aussagekraft und Ver-
+wendbarkeit derselben in den Exportkontrollverfahren entsprechend abnimmt. Vorge-
+schlagen wird daher, zumindest in den Erläuterungen darauf Be zug zu nehmen, dass 
+„zwingende außenpolitische Gründe“ jedenfalls dann anzunehmen sind, wenn eine ne-
+gative Auswirkung auf die außenpolitischen Beziehungen zu befürchten  ist. 
+Nicht zur näheren Klarstellung dieses Geheimhaltungstatbestandes sind die Ausführu ngen 
+in den Erläuterungen zu Art. 22a Abs. 2 B -VG geeignet, die auf die gleichlautende Formu-153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 12 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  13 von 26 lierung in § 23e B -VG (Möglichkeit zum Abweichen von bindenden Stellungnahmen des 
+National - und Bundesrates zu EU -Vorhaben) verweisen. Die Zielsetzung dieser Bestim-
+mung ist eine ganz andere als im Fall der Geheimhaltungsinteressen, und die gleichlau-
+tenden Bestimmungen werden unterschiedlich interpretiert werden müssen. So gibt die 
+Bestimmung in Art. 23e B -VG laut übereinstimmender Auskunft von BKA -VD und BMeiA -
+VRB ei nen weiten Ermessensspielraum, was bei einer Ausnahmebestimmung wie im ge-
+planten Art. 22a Abs. 2 B -VG nicht angenommen werden kann. Ebenso wird es in dieser 
+Bestimmung in erster Linie um europa - und völkerrechtliche Regelungen gehen, die im Fall 
+von Art. 2 3e B -VG, in dem es zumeist um die Schaffung neuer rechtlicher Regelungen 
+geht, nur in wenigen Fällen eine Rolle spielen werden. Vorgeschlagen wird ein Entfall des 
+Verweises in den Erläuterungen auf die genannten „Vorbildbestimmungen“.  
+Unmittelbar anwendbar e Bestimmungen des Rechts der Europäischen Union  
+Es gibt eine Reihe unionsrechtlich determinierter Regelungen, die Geheimhaltungspflich-
+ten festlegen. Es wird angeregt, zumindest die wichtigsten Regelungen, aus denen Organe 
+der Verwaltung eine Veröffentlich ung bzw. Herausgabe von „EU -Informationen“ aus 
+„zwingenden integrations - […] politischen Gründen“ verweigern können, in den Erläute-
+rungen zu Art. 22a B -VG oder zu § 6 Abs. 1 Z 1 IFG ausdrücklich aufzuzählen. Dies sind in-
+besondere  
+ die Verordnung (EG) Nr. 10 49/2001 des Europäischen Parlaments und des Rates 
+vom 30. Mai 2001 über den Zugang der Öffentlichkeit zu Dokumenten des Europäi-
+schen Parlaments, des Rates und der Kommission,  
+ der BESCHLUSS DES RATES vom 31. März 2011 über die Sicherheitsvorschriften für 
+den Schutz von EU -Verschlusssachen (2011/292/EU) bzw. die Erklärung Nr. 35 zur 
+Schlussakte des Vertrags von Amsterdam sowie  
+ Vorgaben für bestimmte Materien, wie etwa die „Mitteilung der Kommission 
+C(2003) 4582 vom 1. Dezember 2003 zum Berufsgeheimnis in Beihilfeentscheidun-
+gen“ (veröffentlicht im Amtsblatt der EU Nr. 297 vom 9.12.2003).  
+EU-Dokumente mit der Bezeichnung „limité/limited“ oder „sensitive“  
+Im EU -Recht gibt es auch „soft law“ -Vorschriften über die Behandlung nicht klassifizierter 
+Dokumente, die  ebenfalls in den Erläuterungen erwähnt werden sollten, nämlich  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 13 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  14 von 26  die „Leitlinien für die Behandlung von ratsinternen Dokumenten“ des Rates und  
+ Vorgaben über „die Behandlung sensitiver, nicht klassifizierter Informationen“ der 
+Kommission.  
+Nach den Vorgaben  dieser Bestimmungen handelt es sich nicht um EU -Verschluss -Sachen, 
+dennoch dürfen diese Dokumente nicht veröffentlicht und nur an bestimmte Personen auf 
+„need to know“ -Basis weitergegeben werden.  
+Es wird davon ausgegangen, dass diese Dokumente, so lange s ie die genannte Bezeich-
+nung tragen, der Geheimhaltung aus zwingenden außen - und integrationspolitischen 
+Gründen unterliegen.  
+Eine ausdrückliche Erwähnung auch der Vorgaben der Kommission über „die Behandlung 
+sensitiver, nicht klassifizierter Informationen“  in den Erläuterungen sollte u.a. auch sicher-
+stellen, dass Organe der Verwaltung eine Veröffentlichung bzw. Herausgabe sensitiver 
+Informationen aus EU -Verhandlungen mit Drittstaaten, die explizit nicht zur weiteren Ver-
+teilung gedacht sind (z.B. „CAI -Factsh eets“) aus „zwingenden integrations - […] politischen 
+Gründen“ verweigern können.  
+Dokumente, die im Rahmen eines EU -weiten Kooperationsmechanismus nur in einem 
+verschlüsselten System übermittelt werden dürfen  
+Sowohl im Bereich der Exportkontrolle (z.B. auf Basis der EU -Dual -Use-Verordnung) als 
+auch im Bereich der Investitionskontrolle (Kooperationsmechanismus aufgrund der EU -
+FDI-Screening -Verordnung) gibt es Verfahren der Zusammenarbeit, die aufgrund EU -
+rechtlicher Vorschriften zur Wahrung der Vertraulichkei t der ausgetauschten Dokumente 
+ausschließlich über verschlüsselte Systeme abgewickelt werden dürfen. Es wird davon 
+ausgegangen, dass auch die in diesem Rahmen übermittelten Dokumente der Geheimhal-
+tung aufgrund zwingender außen - und integrationspolitischer Gründe unterliegen.  
+Zustimmung des Urhebers zur Weitergabe von EU -Dokumenten  
+Gemäß der Verordnung (EG) Nr. 1049/2001 darf ein Dokument, das von einem EU -Organ 
+oder einem anderen Mitgliedstaat erstellt wurde, nur mit dessen Zustimmung weiterge-
+geben werden. Es wird davon ausgegangen, dass diese Vorgehensweise aus zwingenden 
+außen - und integrationspolitischen Gründen auch bei Anträgen an österreichische Verwal-
+tungsorgane auf Zugang zu den entsprechenden Informationen einzuhalten ist.    153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 14 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  15 von 26 Geheimhaltungspflichten  nach anderen völkerrechtlichen Verpflichtungen  
+Der Geheimhaltungstatbestand in § 6 Abs. 1 Z 1 IFG im Zusammenhang mit den Erläute-
+rungen bedeutet, dass österreichische Organe sich auch auf „völkerrechtliche Verpflich-
+tungen“ berufen können, um aus „zwingend en außenpolitischen Gründen“ eine Veröf-
+fentlichung bzw. Herausgabe von Informationen zu verweigern. In den Erläuterungen wä-
+re jedoch - im Sinne einer Handlungsanleitung für die Bediensteten der Organe der Ver-
+waltung - näher zu präzisieren, wie Informatione n  internationaler Organisationen (IOs), 
+die nicht öffentlich sind (z.B. von der WTO) zu behandeln sind oder wie im Fall von Doku-
+menten von internationalen Organisationen vorzugehen wäre, deren Geheimhaltung auf 
+Beschlüssen von Vertragsorganen dieser inter nationalen Organisation basiert (Ener-
+giecharta Modernisierungsgruppe, wo die Nicht -Öffentlichkeit von Dokumenten zum Mo-
+dernisierungsprozess im „Verhandlungsmandat“ der Modernisierungsgruppe festgelegt 
+wird und das Mandat ein Beschluss der ECT -Konferenz ist ). Es wird daher vorgeschlagen, 
+die „zwingenden außenpolitischen Gründe“ in Abstimmung mit dem Völkerrechtsbüro des 
+BMEIA in den Erläuterungen ausdrücklich so näher zu präzisieren, dass die Geheimhaltung 
+dieser Dokumente in Entsprechung der völkerrechtlich en Verpflichtungen Österreichs wei-
+terhin gewährleistet bleibt. Vorgeschlagen wird eine beispielhafte Aufzählung infrage 
+kommender völkerrechtlicher Verpflichtungen aus Gründen der Rechtsklarheit, in die je-
+denfalls das Abkommen zur Errichtung der Welthandel sorganisation, das Übereinkommen 
+über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung und der Ver-
+trag über die Energiecharta aufzunehmen wären.  
+Es wird angeregt, in den Erläuterungen ausdrücklich zumindest auf nachstehende Vorga-
+ben von OECD bzw. WTO zu verweisen:  
+ Vorgaben der OECD: “COUNCIL RESOLUTION ON THE CLASSIFICATION AND DE-
+CLASSIFICATION OF INFORMATION“ (C(97)64/REV1/FINAL vom 4. Juli 2008)“  
+ Vorgaben der WTO: „PROCEDURES FOR THE CIRCULATION AND DERESTRICTION OF 
+WTO DOCUMENTS“ (WT/L /160/Rev.1) vom 26 Juli 1996 in der geltenden Fassung.  
+Sitzungsberichte  
+Berichte über nicht öffentliche Sitzungen von EU -Gremien, aber auch von Sitzungen im 
+Rahmen anderer internationaler Organisationen (z.B. WTO, OECD, Energy Charter) unter-
+liegen ebenfall s nur einer eingeschränkten Verteilung und sind nicht zur Veröffentlichung 
+bestimmt. Einerseits beziehen sie sich sehr häufig auf Dokumente, die nach den Regelun-153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 15 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  16 von 26 gen der EU oder der jeweiligen internationalen Organisation nicht zur Veröffentlichung 
+bestimmt  sind. Andererseits geben sie auch Meinungen anderer Mitgliedstaaten oder Or-
+gane der jeweiligen Organisation wieder, die ebenfalls unter der Prämisse abgegeben 
+werden, dass es zu keiner Veröffentlichung kommt.  
+Es sollte klargestellt werden, dass auch diese  Berichte vom Geheimhaltungstatbestand 
+erfasst sind.  
+Im Übrigen dürfen diese Berichte gemäß EU -Informationsgesetz (siehe dazu auch die 
+nachfolgenden Ausführungen) nicht vom Nationalrat oder Bundesrat veröffentlicht wer-
+den.  
+Verhältnis § 6 Abs. 1 Z 1 IFG zu Art. 23f Abs. 3 B -VG und zum EU - Informationsgesetz (EU -
+InfoG)  
+Organe der Verwaltung übermitteln gemäß Art. 23f Abs. 3 B -VG und gemäß  EU -InfoG re-
+gelmäßig umfassende Informationen an Organe der Gesetzgebung, die aber nicht zur Ver-
+öffentlichung bzw. Herausg abe geeignet sind (EU -Berichte, EU -Dokumente).  
+Da diese Übermittlungen klar gesetzlich geregelt sind, ist jedenfalls davon auszugehen, 
+dass auch in den Fällen, in denen klassifizierte Informationen oder Informationen, die 
+nicht zur Veröffentlichung bestim mt sind (siehe dazu die Ausführungen zu den Sitzungsbe-
+richten) übermittelt werden, nicht gegen die Geheimhaltungspflicht gemäß Art. 22a Abs. 2 
+B-VG und § 6 Abs. 1 Z 1 IFG verstoßen wird. Überdies unterliegen nach dem neuen Art. 
+22a B -VG auch die Organe der  Gesetzgebung sowohl den Veröffentlichungs - als auch den 
+Geheimhaltungspflichten. Damit stehen auch die Regelungen des EU -InfoG im Einklang, 
+die eine Weitergabe klassifizierter Informationen und eine Veröffentlichung von Informa-
+tionen, die ausdrücklich nic ht zur Veröffentlichung bestimmt sind, untersagen. Es wird 
+daher davon ausgegangen, dass auch nach der neuen Rechtslage sichergestellt ist, dass 
+niemand sein „Recht auf Zugang“ nach Art. 22a Abs. 2 B -VG bzw. § 5 IFG entgegen unions-
+rechtlich determinierten Geheimhaltungs - bzw. Informationsregelungen missbräuchlich 
+verwenden kann, indem über den „Umweg“ von Organen der Gesetzgebung eine Heraus-
+gabe bzw. Veröffentlichung von EU -Sitzungsberichten und EU -Dokumenten erlangt wer-
+den kann.  
+  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 16 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  17 von 26 Zu § 6 Abs. 1 Z 5 („5. im  Interesse der unbeeinträchtigten Vorbereitung einer Entschei-
+dung“):  
+Die Wortfolge „zur Vorbereitung einer Entscheidung“ ist sehr eng gefasst. Nach den Erläu-
+terungen sollte ihr ein weiterer Anwendungsbereich zukommen. Demnach sollte auch 
+„generelles, nicht hoheitliches und nicht unbedingt formengebundenes Handeln“ unter 
+diesen Geheimhaltungstatbestand fallen.  
+Vor diesem Hintergrund wird davon ausgegangen, dass „Entscheidung“ nicht nur verwal-
+tungsbehördliche Entscheidungen i.S. eines Bescheids meint, sondern  dieser Begriff weiter 
+zu verstehen ist und „Entscheidungen“ nicht nur auf nationaler Ebene umfasst, sondern 
+auch das Mitwirken bei Entscheidungen, die auf europäischer Ebene getroffen werden 
+(z.B. Weisungen für Ratsarbeitsgruppen oder den AStV, Abstimmung en in Komitologie -
+Ausschüssen der EK). Demnach könnte unter Berufung auf diesen Geheimhaltungsgrund 
+unter anderem d ie Herausgabe bzw. Veröffentlichung von Stellungnahmen der WKO, die 
+das BMDW zur Vorbereitung des AT -Abstimmungsverhaltens im Ausschuss für H andels-
+schutzinstrumente einholt, ebenso verweigert werden wie die Herausgabe des Sitzungs-
+berichts, welcher das Abstimmungsverhalten sämtlicher Mitgliedstaaten wiedergibt.  
+Sollte es sich bei beihilfenrechtlichen Informationen von Organen der Verwaltung über-
+haupt um „Informationen im allgemeinen Interesse“ handeln (siehe Ausführungen zu § 2 
+IFG oben), so wird davon ausgegangen, dass die zwischen der für EU -Beihilfenrecht im 
+BMDW  zuständigen Abteilung und den EK -Dienststellen zu einzelnen Beihilfeverfahren, in 
+welcher Form auch immer, ausgetauschten Korrespondenzen bzw. durchgeführten Kom-
+munikationsschritte unzweifelhaft der „unbeeinträchtigten Vorbereitung einer Entschei-
+dung“  im Sinne von § 6 Abs. 1 Z 5 IFG dienen und deshalb nicht zur Veröffentlichung be-
+stimmt sind.  
+Informationen zur Vorbereitung einer bereits getroffenen Entscheidung  
+Es sollte klargestellt werden, inwieweit Informationen, die der Vorbereitung einer Ent-
+sche idung gedient haben, auch nach erfolgter Entscheidung weiterhin der Geheimhaltung 
+gemäß § 6 Abs. 1 Z 5 IFG unterliegen.  
+Zwar bringen die Erläuterungen dies zum Ausdruck („Ein solcher Schutz kann unter Um-
+ständen auch, nachdem die Entscheidung getroffen wurd e, noch relevant sein, wenn näm-
+lich ansonsten der Schutz umgangen würde“), die derzeitige Textierung des Art. 22a Abs. 2 
+B-VG und § 6 Abs. 1 Z 5 IFG könnte aber dahingehend verstanden werden, dass Informati-153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 17 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  18 von 26 onen, die der Vorbereitung einer Entscheidung dien en, nach der Entscheidung jedenfalls 
+zu veröffentlichen bzw. zugänglich zu machen sind, solange dem nicht ein anderer Ge-
+heimhaltungstatbestand des § 6 Abs. 1 IFG entgegensteht. Eine derartige Einzelfallent-
+scheidung wäre aber sehr aufwändig.  
+Prüfberichte d er internen Revisionen  
+Interne Revisionen in den Bundesministerien sind ressortinterne Kontrollorgane. Sie ha-
+ben unter anderem die Effizienz der Aufgabenerfüllung im Ressort zu überprüfen, die Ge-
+barungssicherheit und insbesondere die Wirksamkeit der inter nen Kontrollsysteme zu 
+überwachen, Missstände aufzuzeigen und Abhilfemaßnahmen vorzuschlagen.  
+Endgültige Prüfberichte der internen Revisionen sind grundsätzlich vertraulich zu behan-
+deln.  
+  
+Nach den Erläuterungen zu § 6 Abs. 1 Z 5 IFG soll der Ausnahmetatbestand der „Vorberei-
+tung einer Entscheidung“ auch generelles, nichthoheitliches und nicht unbedingt formen-
+gebundenes zu schützendes Handeln, wie zB laufende Prüfungen etwa des Rechnungsho-
+fes betreffen. Es ist fraglich, ob auch endgültige Prüfberichte der internen Revision diesem 
+Tatbestand unterliegen.  
+Der Geheimhaltungstatbestand „Vorbereitung einer Entscheidung“ sollte präzisiert bzw. 
+ergänzt werden („im Interesse der Durchführung einer Pr üfung“) bzw. sollte zumindest in 
+den diesbezüglichen Erläuterungen festgehalten werden, dass diese Prüfberichte vom 
+Ausnahmetatbestand erfasst werden, damit nicht das Ergebnis erzielt wird, dass Berichte 
+interner Revisionen der Bundesministerien künftig gr undsätzlich zu veröffentlichen bzw. 
+herauszugeben sind. Dieses Ergebnis hätte nämlich zur Folge, dass die Ressortleitung im 
+Rahmen ihrer Führungsverantwortung nicht mehr auf das Instrument der Revision zurück-
+greifen kann, das ihr bisher u.a. erlaubt, in ei nem internen Vorgang Missstände unmittel-
+bar aufgezeigt zu bekommen und zeitnah zu beheben. Die Umsetzung der Empfehlungen 
+der internen Revision wäre in Hinkunft ein öffentlich bestimmter Vorgang, was die bishe-
+rige Qualität eines ressortinternen Kontrollorg anes grundlegend verändern und an die 
+Tätigkeit des Rechnungshofes in diesem Punkt („prozessual“) annähern würde.  
+Steuergeheimnis  
+Es wird angeregt, das Steuergeheimnis in § 6 IFG und Art. 22a Abs. 2 B -VG als Geheimhal-
+tungsgrund aufzunehmen.  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 18 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  19 von 26 Konkrete Probl emstellungen im Zusammenhang mit den Geheimhaltungstatbeständen 
+in § 6 IFG  
+Vergabeverfahren  
+Gerade in Vergabeverfahren kommt den Teilnahmeanträgen und Angeboten von Bietern 
+eine besondere Bedeutung zu. Diese unterliegen im laufenden Verfahren zweifelsfrei der 
+Ausnahmeregelung des § 6 Abs. 1 Z 7 lit. b IFG.  
+Offen ist, ob diese Dokumente auch nach Beendigung eines Vergabeverfahrens der Ge-
+heimhaltung unterliegen.  
+Teilnahmeanträge und Angebote enthalten regelmäßig Geschäfts - und Betriebsgeheimnis-
+se, sodass in  diesen Fällen das Interesse der Bieter auf Wahrung der Geschäfts - und Be-
+triebsgeheimnisse überwiegt.  
+Es ist zudem nicht auszuschließen, dass im Fall der Veröffentlichung von Geschäfts - und 
+Betriebsgeheimnissen Schadenersatzansprüche gegen die Republik ge ltend gemacht wer-
+den.  
+Im Sinne der Rechtssicherheit sollte in den Erläuterungen Folgendes klargestellt werden:  
+„Teilnahmeanträge und Angebote iSd BVergG  2018, des BVergGKonz  2018 und des BVergGVS  2012 sind 
+weder während des laufenden Verfahrens, noch nac h Abschluss des Vergabeverfahrens zu veröffentlichen 
+noch besteht ein Recht auf Informationszugang. Dies dient dem Schutz der Geschäfts - und Betriebsgeheim-
+nisse, die dem öffentlichen Auftraggeber im Vergabeverfahren bekannt geworden sind.“  
+Nachrichtendiens tliche Informationen  
+Die Vollzugstätigkeiten des BMDW im Rahmen der Exportkontrolle und in manchen Fällen 
+auch die Investitionskontrolle sind zu einer effizienten Verfahrensdurchführung auf nach-
+richtendienstliche Informationen angewiesen. Der Schutz der Ve rtraulichkeit dieser In-
+formationen ist von eminenter Bedeutung. Diese Informationen betreffen im Regelfall 
+nicht die nationale Sicherheit, sondern die Sicherheit anderer Staaten (u.a. auch Drittstaa-
+ten). Daher wären sie nicht vom Ausnahmetatbestand „Inform ationen im Interesse der 
+nationalen Sicherheit“ von Art. 22a Abs. 2 B -VG bzw. § 6 Abs. 1 Z 2 IFG umfasst. Der Schutz 
+muss auch nicht nur während eines Verfahrens, also in Vorbereitung einer Entscheidung, 
+sondern naturgemäß auch nach der erfolgten Entscheid ung gewährleistet werden. Somit 153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 19 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  20 von 26 ist auch fraglich, ob die Regelung von Art. 22a Abs. 2 B -VG bzw. § 6 Abs. 1 Z 5 IFG „ im In-
+teresse der unbeeinträchtigten Vorbereitung einer Entscheidung“ einen ausreichenden 
+Schutz dieser Informationen bietet.  
+Kooperationsm echanismus gemäß der EU -FDI-Screening -Verordnung  
+Im Rahmen des im Investitionskontrollgesetz (InvKG) vorgesehenen „EU -
+Kooperationsmechanismus“ findet Kommunikation in formellem Rahmen sowie informell 
+statt. Beispielsweise bei Kommentaren nach der FDI -Scre ening -Verordnung stellt sich die 
+Frage, ob diese unter den Ausnahmetatbestand der „Vorbereitung einer Entscheidung“ zu 
+subsumieren wäre, da die Entscheidung im Fall von Kommentaren die eines anderen Mit-
+gliedstaates ist. Der Tatbestand "zwingende außenpolit ische Gründe" im Sinne von Art. 
+22a Abs. 2 B -VG bzw. Art. 6 Abs. 1 Z 1 IFG erscheint hier nicht anwendbar zu sein. Bei der 
+informellen Kommunikation des BMDW mit der Europäischen Kommission sowie den an-
+deren Mitgliedsstaaten erscheint keiner der aufgezählt en Ausnahmetatbestände anwend-
+bar. Selbst die Vertraulichkeitsbestimmung in der FDI -Screening -Verordnung in Artikel 10 
+sieht die Vertraulichkeit nur für jene Informationen vor, die bei der Anwendung der Ver-
+ordnung gewonnen werden, bezieht sich also wiederum  auf die formellen Instrumente 
+wie Kommentare etc. Vorgeschlagen wird, die Ausnahmetatbestände "nationale Sicher-
+heit" (Art. 22a Abs. 2 B -VG bzw. Art. 6 Abs. 1 Z 2 IFG) sowie "öffentliche Ordnung und Si-
+cherheit" (Art. 22a Abs. 2 B -VG bzw. Art. 6 Abs. 1 Z 4 IFG) um "Österreichs oder eines an-
+deren Mitgliedstaats" zu ergänzen.  
+Dieser erweiterte Geheimhaltungsgrund "öffentliche Ordnung und Sicherheit Österreichs 
+oder eines anderen Mitgliedstaats" sollte so interpretiert werden, dass Informationen aus 
+einem Inve stitionskontrollverfahren aus diesem Grund weder während des Verfahrens 
+noch nach dessen Abschluss herausgegeben oder veröffentlicht werden dürfen. In diesem 
+Zusammenhang ist generell darauf hinzuweisen, dass eine Offenlegung von Informatio-
+nen, die das BMD W vom Komitee als Beirat im Investitionskontrollverfahren erhält, be-
+deuten könnte, dass andere Komiteemitglieder in Zukunft nicht mehr bereit wären, rele-
+vante Informationen zur Verfügung zu stellen.  
+§ 6 Abs. 1 letzter Halbsatz - Interessensabwägung und Ver hältnismäßigkeitsprüfung  
+In Art. 22a Abs. 2 B -VG ist klar festgelegt, dass das Recht auf Zugang zu Informationen 
+nicht gilt, soweit deren Geheimhaltung aus bestimmten taxativ aufgezählten Gründen 
+erforderlich ist. Eine Interessensabwägung ist nur im Verhäl tnis zu berechtigten Interessen 
+eines anderen vorgesehen.  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 20 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  21 von 26 Im Gegensatz dazu sieht § 6 Abs. 1 letzter Halbsatz IFG eine Interessensabwägung im Ver-
+hältnis zu allen  Geheimhaltungsgründen sowie zusätzlich eine Verhältnismäßigkeitsprü-
+fung vor.  
+Hier besteht Er klärungsbedarf. Die umfassenden Abwägungs - und Begründungspflichten 
+würden nicht nur einen großen zusätzlichen Verwaltungsaufwand nach sich ziehen, son-
+dern könnten die zur Abwägung verpflichteten Bediensteten in heikle Situationen bringen 
+(Disziplinarverfa hren wegen ungerechtfertigter Verweigerung der Information vs. Diszipli-
+narverfahren wegen Verletzung von Geheimhaltungspflichten). Eine Verhältnismäßig-
+keitsprüfung und Interessensabwägung sollte daher nur im Falle von „Informationen im 
+überwiegenden berech tigten Interesse eines anderen“ vorgesehen werden. In allen ande-
+ren Fällen sollte eine begründete Berufung auf die jeweiligen Geheimhaltungsgründe als 
+ausreichend angesehen werden.  
+In den Erläuterungen sollte jedenfalls auch klargestellt werden, dass eine Entscheidung 
+über Zugang oder Verweigerung des Zugangs zu Informationen in denkmöglicher Ausle-
+gung der Gesetze zu keinen straf -, disziplinar - oder haftungsrechtlichen Konsequenzen für 
+die betroffenen Bediensteten führen darf.  
+Zu § 7:  
+Um einen Bescheid rec htskräftig zustellen zu können und um verlässlich feststellen zu 
+können, ob ein missbräuchliches Begehren im Sinne von § 9 Abs. 3 IFG vorliegen könnte, 
+sollte ein Nachweis der Identität des Antragstellers  sowie die nötigen Angaben, die für 
+die Zustellung e ines allfälligen Bescheides gemäß § 11 IFG erforderlich sind, bereits bei der 
+Antragstellung vorgesehen werden.  
+§ 7 IFG sieht derzeit keine Begründungspflicht für das Informationsbegehren vor. Für die 
+Vornahme der Interessensabwägung müsste die Vollzugsbeh örde bei Informationsbegeh-
+ren recherchieren, welche Interessen hinter dem Informationsbegehren des Antragstellers 
+liegen könnten, da, wenn es sich beim Antragsteller beispielsweise um einen Mitbewerber 
+einer Verfahrenspartei im Investitionskontrollverfahre n handelt, die Abwägung möglich-
+erweise eher im Interesse der Verfahrenspartei (Geheimhaltung von Geschäfts - und Be-
+triebsgeheimnissen) ausgehen würde. Die missbräuchliche Antragstellung ist in der Praxis 
+wohl schwer zu beweisen. Vorgeschlagen wird daher die  Verankerung einer Begründungs-
+pflicht für das Informationsbegehren im Gesetzestext.  
+  153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 21 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  22 von 26 Zu § 8 (Frist):  
+Die in § 8 vorgesehene Frist von vier Wochen erscheint insbesondere im Hinblick auf die 
+gemäß § 6 IFG erforderliche Interessensabwägung und Verhältnismäßigkeitsprüfung zu 
+kurz und sollte daher verlängert  werden. Insbesondere die Pflicht, betroffene Persone n 
+gemäß § 10 IFG zu hören, führt in der Praxis zu einer erheblichen Verzögerung der Verfah-
+ren auf Informationserteilung.  
+Die Frist sollte auf 8 Wochen  ausgedehnt werden.  
+Zu § 9 (Information):  
+§ 9 Abs. 2 (Recht auf teilweise Information):  
+Auf Grund des Umf angs von Vergabeverfahren und den zugehörigen Akten und Dokumen-
+ten ist ein teilweiser Informationszugang – wie in den Erläuterungen dargelegt – erfah-
+rungsgemäß mit einem hohen Arbeitsaufwand verbunden. Die Dokumente, insbesondere 
+jene, die von Teilnehmern und Bietern eingebracht werden, enthalten Kalkulationen und 
+Details zur Leistungserbringung, die regelmäßig als Geschäfts - und Betriebsgeheimnisse 
+einzustufen sind.  
+Zu berücksichtigen ist, dass ein Anspruch auch auf teilweisen Informationszugang Konkur-
+renten in die Lage versetzen kann, Zugang zu Informationen zu erhalten, die sie sonst 
+nicht hätten. Dies kann den fairen und lauteren Wettbewerb behindern und auch maßge-
+benden Einfluss auf laufende oder künftige Vergabeverfahren haben.  
+Das dadurch erforderli che Schwärzen der Akten(bestandteile) führt im Ergebnis dann häu-
+fig dazu, dass der verbleibende, offen gelegte Text wenig bis keine Information enthält. 
+Insofern führt die Schwärzung oft zu Dokumenten, die dem Informationssuchenden nicht 
+weiterhelfen. Zu b erücksichtigen ist auch das Risiko eines versehentlichen Zugangs zu Ge-
+schäfts - und Betriebsgeheimnissen durch fehlerhafte Schwärzungen, die in Folge Scha-
+denersatzansprüche auslösen können.  
+Um dies zu verhindern, sollte für das Vergaberecht folgende Klarste llung in den Erläute-
+rungen geschaffen werden:  
+„Bis zum Abschluss eines Vergabeverfahren besteht kein Anspruch auf Informationszugang. Vergabeverfah-
+ren sind abgeschlossen, wenn die Informationen gemäß den Bestimmungen des 2. Abschnittes („Bekannt-153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 22 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  23 von 26 machungen“ ) des 3. Hauptstückes des 2. Teiles des BVergG 2018 bzw. der entsprechenden Bestimmungen 
+des Sektorenbereichs des BVergG 2018, des BVergGKonz 2018 und des BVergGVS 2012 veröffentlicht sind.  
+Ein Zugang zu darüber hinaus gehenden Informationen oder Teilinfor mationen darf keine Rückschlüsse auf 
+die Identität der Bieter, den Auftragswert oder Informationen zur Art der Leistungserbringung ermöglichen. 
+Aus diesem Grund sind Eingaben, die von Bietern während des Verfahrens gemacht wurden vom Recht auf 
+(teilweise) Information ausgenommen. Bei der Beurteilung, ob die (teilweise) Erteilung der Information 
+verhältnismäßig ist, ist zudem zu berücksichtigen, welche Informationen aus allenfalls wegen Rechter Dritter 
+zu schwärzenden Dokumenten zu gewinnen sind.“  
+Darüber hi naus wird angeregt, Parameter vorzugeben, anhand derer der unverhältnismä-
+ßige Aufwand festgestellt werden kann.  
+§ 9 Abs. 3:  
+Der Informationszugang sollte auch dann nicht erteilt werden, wenn er offenbar „mutwil-
+lig“ beantragt wird und keinem tatsächlichen I nformationsbedürfnis entspringt. Daher 
+sollte neben „missbräuchlich“ auch der Begriff „mutwillig“ eingefügt werden.  
+Der Begriff "unverhältnismäßige Beeinträchtigung" ist äußerst vage und sollte konkreti-
+siert werden, zumal bei Nichtgewährung des Zugangs zu angefragten Informationen durch 
+die Behörde erst recht ein Bescheid zu erlassen ist und dadurch der Verwaltungsaufwand 
+noch einmal erhöht wird. Allein die Begründung, dass die Erteilung der Information die 
+sonstige Tätigkeit des Organs wesentlich und unver hältnismäßig beeinträchtigen würde, 
+kann einen hohen Zusatzaufwand verursachen.  
+Zumindest in den Erläuterungen zu § 9 Abs. 3 IFG sollte klargestellt werden, dass sich eine 
+unverhältnismäßige Beeinträchtigung, die dazu führt, dass Informationen nicht zu er teilen 
+sind, nicht nur aus der Erteilung der Information an sich, sondern auch aus den im Zu-
+sammenhang mit den der Informationserteilung notwendigerweise vorangehenden Ana-
+lysen und Abwägungen (§ 6 Abs.  1: „soweit und solange“; „nach Abwägung aller in Be-
+tracht kommenden Interessen erforderlich und verhältnismäßig“; § 6 Abs. 2 betreffend 
+Teile der Information) ergeben kann.  
+Zu § 12 (Gebühren):  
+Es wird davon ausgegangen, dass derzeit bestehende Regelungen betreffend Bundesver-
+waltungsabgaben und Gebühren für s tandardisierte Verwaltungsverfahren, Amtshandlun-
+gen und die Erstellung von Auszügen aus amtlichen Registern von dieser Befreiung nicht 153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 23 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  24 von 26 umfasst sind. Andernfalls wären die sich aus einer allfälligen Befreiung von diesen Abga-
+ben und Gebühren ergebenden Einna hmenausfälle der jeweiligen öffentlichen Stellen zu 
+erheben und deren Höhe im Rahmen der wirkungsorientierten Folgenabschätzung zu die-
+sem Gesetz anzugeben. Darüber hinaus wäre zu berücksichtigen, dass die derzeit beste-
+henden Bundesverwaltungsabgaben und Ge bühren zum Teil auch den (nicht unerhebli-
+chen) Nebeneffekt haben, dass mutwillige Inanspruchnahmen von Dienststellen im Regel-
+fall unterbleiben, wodurch zusätzliche Aufwendungen vermieden werden.  
+Es wird daher empfohlen, klarzustellen, welche bestehenden Re gelungen konkret von der 
+angestrebten Befreiung von Bundesverwaltungsabgaben und Gebühren betroffen sein 
+werden.  
+Zu § 19 Abs. 2 (Vollziehung):  
+Vor dem Hintergrund der Ausführungen in dieser Stellungnahme zu § 4 IFG sollte in § 19 
+Abs. 2 die Wortfolge „Bund esminister für Digitalisierung und Wirtschaftsstandort im Ein-
+vernehmen mit dem Bunde skanzler“ durch die Wortfolge „ Bundeskanzler im Einverneh-
+men mit dem Bundesminister für Digitalisierung und Wirtschaftsstandort“ ersetzt werden. 
+Darüber hinaus könnte allen falls die Beiziehung zumindest eines weiteren Bundesminis-
+ters in die Einvernehmensherstellung überlegt werden.  
+ 
+IV. Wirkungsorientierte Folgenabschätzung:  
+Informationsmetadatenregister (Kosten/Aufwand beim BMDW):  
+Laut der WFA ist aufgrund des Umfanges der zu veröffentlichenden Informationen eine 
+Ausweitung der Plattform data.gv.at notwendig. Dafür sind einmalige Kosten in der Höhe 
+von 800.000 Euro und für die Erweiterung des Betriebes jährlich ca. 120.000 Euro (bei  ei-
+ner Annahme von ca. 500.000 zusätzlichen Eintragungen pro Jahr) sowie für das techni-
+sche Clearing Personalressourcen vorgesehen.  
+Aus Sicht des BMDW erscheinen die veranschlagten einmaligen Kosten iHv 800.000 Euro 
+plausibel.  
+Bezüglich der Kosten für di e Erweiterung des Betriebs  ist Folgendes festzuhalten:  
+Für die sachgerechte Umsetzung des IFG ist davon auszugehen, dass jede Information von 153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 24 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  25 von 26 allgemeinem Interesse mit einem Metadatenblatt versehen werden muss. Für die Erfas-
+sung der Metadaten in data.gv.at  ist der Zugang zum Backendsystem von data.gv.at über 
+den Portalverbund notwendig. Die Erfahrung aus dem laufenden Betrieb zeigt, dass spezi-
+ell kleinere Organisationen, die nur selten mit dem System arbeiten, sowohl Probleme mit 
+dem Zugang, als auch mit de m Erfassen der Daten haben. Dies führt auch zu einem erhöh-
+ten Aufwand auf Seiten der Betreiber von data.gv.at. Derzeit werden im Rahmen von da-
+ta.gv.at weit weniger Stellen und weit weniger Daten als im Kontext des IFG zu erwarten 
+sind, betreut. Aus diesem Grund ist von einem zusätzlichen Betriebsbudget von zumindest 
+300.000 Euro pro Jahr auszugehen.  
+Sofern mit dem vorgesehenen „technischen Clearing“ auch etwa Plausibilitätsprüfungen 
+der eingemeldeten Metadaten und Links gemeint sind, so sind hier zusätzlic h zu den um-
+zusetzenden automatisierten Prüfungen, auch die nur mit personellen Ressourcen mögli-
+chen Abklärungen zu berücksichtigen. Dafür ist nochmals ein Budgetbedarf von weiteren 
+200.000 EUR pro Jahr zu berücksichtigen.  
+Das ergibt in Summe zumindest 500.000 Euro jährliche Kosten für die Erweiterung des 
+Betriebs,  die in der WFA entsprechend zu berücksichtigen wären.  
+Kosten iZm der proaktiven Veröffentlichungspflicht und dem „Recht auf Zugang zu In-
+formationen“  
+Laut der WFA (zweiter Absatz auf Seite 2) k önnte die neue Rechtslage anfänglich ein Im-
+puls für vermehrte Informationsbegehren interessierter Kreise sein, durch die neue proak-
+tive Veröffentlichungspflicht sollte aber im Laufe der Zeit die Anzahl individueller Informa-
+tionsanträge zurückgehen und Kost enneutralität eintreten.  
+Diese Einschätzung erscheint nicht nachvollziehbar, da insbesondere die zusätzlich gefor-
+derten umfangreichen Interessensabwägungen gemäß § 6 Abs. 1 IFG äußerst ressourcen-
+intensiv wären. Es ist davon auszugehen, dass sowohl die neu  hinzukommende Veröffent-
+lichungspflicht nach Art. 22a Abs. 1 B -VG bzw. §  4 Abs. 1 IFG für „Informationen von all-
+gemeinem Interesse“ als auch das allgemeine „Recht auf Zugang“ nach Art. 22a Abs. 2 B -
+VG bzw. § 5 IFG mit einer kurzen Frist für die Behörde, um  auf Informationsbegehren be-
+antragte Informationen zugänglich zu machen und dabei oft noch umfangreiche Interes-
+sensabwägungen und Begründungen vornehmen zu müssen, mit einem erheblichen per-
+sonellen und damit kostenmäßigen Aufwand verbunden sein werden. Auch das Erstellen 
+barrierefreier Dokumente (gemäß § 4 Abs. 3 IFG sind die Informationen barrier efrei zur 153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 25 von 26
+www.parlament.gv.at
+ 
+ 
+2021 -0.214.166  26 von 26 Verfügung zu stellen)  kann für die betroffenen Stellen einen nicht zu unterschätzenden 
+Arbeitsaufwand darstellen.  
+U.e. wird die gegenständliche Stellung nahme dem Präsidium des Nationalrates übermit-
+telt. 
+ 
+Wien, am 14. April 2021  
+Für die Bundesministerin : 
+Mag.Dr.iur. Christine Hartl  
+Elektronisch gefertigt  
+ 
+ 
+ 153/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 26 von 26
+www.parlament.gv.at

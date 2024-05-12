@@ -1,0 +1,29 @@
+Feedback from: Verwaltungsgericht_Wien
+
+Zusammenfassung der Stellungnahme des Verwaltungsgerichtes Wien zum Gesetzesentwurf:
+
+- **Allgemeine Informationenpflicht**: Der Entwurf sieht eine umfassende Informationspflicht vor, die alle Organe der Gebietskörperschaften betrifft, einschließlich Verwaltung, Gerichtsbarkeit und Gesetzgebung.
+
+- **Spezifische Regelungen für Verwaltungsgerichte**: 
+  - Verwaltungsgerichte sind abstrakt zur Informationserteilung zuständig.
+  - Informationen, die im Interesse der Vorbereitung einer Entscheidung stehen, unterliegen der Geheimhaltung. Diese Regelung könnte dazu führen, dass Informationen meist nur nach Abschluss der Verfahren offengelegt werden.
+
+- **Bereits bestehende gesetzliche Regelungen**: Es gibt bereits umfassende gesetzliche Bestimmungen zur Veröffentlichung von Entscheidungen der Verwaltungsgerichte, daher wird der zusätzliche Nutzen der geplanten Informationspflicht als gering angesehen.
+
+- **Kritik am Umfang der Informationspflicht**: 
+  - Die Informationspflicht wird als "lex imperfecta" betrachtet, da sie hauptsächlich auf Verwaltungsbehörden abzielt und nicht klar auf die Gerichtsbarkeit anwendbar ist.
+  - Es fehlt eine adäquate rechtliche Grundlage für ein Verfahren bei Nichterteilung von Informationen durch Verwaltungsgerichte.
+
+- **Vorschlag zur Ausnahme der Gerichtsbarkeit von der Informationspflicht**: Aufgrund der spezifischen Natur gerichtlicher Verfahren wird vorgeschlagen, die Gerichtsbarkeit vollständig von der Pflicht zur Informationserteilung auszunehmen.
+
+- **Rechtsschutz und Datenschutz**:
+  - Fragen zum Rechtsschutz gegen die Nichterteilung von Informationen sollten vorrangig geklärt werden.
+  - Die Parteistellung und die Rechtsmittel im Zusammenhang mit Datenschutz sind bereits ausführlich geregelt.
+
+**Sentimente in der Stellungnahme**:
+- **Negatives Sentiment**: Die Stellungnahme enthält hauptsächlich Bedenken und kritische Anmerkungen gegenüber dem Gesetzesentwurf, insbesondere bezüglich der Anwendbarkeit und des praktischen Nutzens der Informationspflicht für Verwaltungsgerichte.
+- **Vorschläge zur Verbesserung**: Es werden konkrete Änderungsvorschläge gemacht, wie z.B. die vollständige Ausnahme der Gerichtsbarkeit von der Informationspflicht.
+
+**Belege und Widersprüche**:
+- **Belege**: Die Stellungnahme verweist auf bestehende gesetzliche Regelungen, die bereits eine Veröffentlichung von Entscheidungen vorsehen, was die Notwendigkeit einer erweiterten Informationspflicht in Frage stellt.
+- **Widersprüche**: Die vorgeschlagene allumfassende Informationspflicht steht im Widerspruch zur praktischen Handhabung und den spezifischen Anforderungen gerichtlicher Verfahren.

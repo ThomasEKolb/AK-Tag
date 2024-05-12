@@ -1,0 +1,21 @@
+Feedback from: Landesverwaltungsgericht_Salzburg
+
+Zusammenfassung der Stellungnahme des Landesverwaltungsgerichts Salzburg zum Entwurf eines Bundesgesetzes:
+
+**Positive Aspekte:**
+- Die Einführung einer allgemeinen Informationsfreiheit und die Abschaffung des Amtsgeheimnisses wird grundsätzlich begrüßt.
+- Die Verpflichtung, Informationen von allgemeinem Interesse zu veröffentlichen, wird als Schritt zur Erhöhung der Transparenz gesehen.
+
+**Negative Aspekte und Bedenken:**
+- Die Veröffentlichung von Informationen könnte mit erheblichen Kosten verbunden sein, insbesondere durch die Anforderung, Metadaten auf einer speziellen Plattform (www.data.gv.at) bereitzustellen.
+- Es besteht Sorge um den Datenschutz, da der Entwurf keine Anonymisierung oder Pseudonymisierung von Informationen vor der Veröffentlichung vorsieht.
+- Der personelle Aufwand für die Überprüfung der Veröffentlichbarkeit von Informationen könnte erheblich sein.
+- Die Verwaltungsgerichte sind bereits durch bestehende Gesetze zu einer gewissen Öffentlichkeit verpflichtet, was die zusätzliche Bereitstellung von Informationen als geringen Mehrwert erscheinen lässt.
+- Es gibt Unsicherheiten bezüglich des Verfahrens für den Zugang zu Informationen und dem Schutz der Rechte Dritter.
+
+**Verfahrenstechnische Unsicherheiten und Vorschläge:**
+- Der Entwurf lässt offen, ob und welche Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts vorgesehen sind.
+- Es wird eine weitergehende Ausgestaltung des Verfahrens als dringend erforderlich erachtet.
+- Das Verwaltungsgericht schlägt ein Zusatzverfahren vor, um Rechte Dritter zu schützen, nachdem eine Entscheidung im Ursprungsverfahren gefällt wurde.
+
+Die Stellungnahme zeigt eine grundsätzlich positive Haltung zur Erhöhung der Transparenz durch Informationsfreiheit, äußert jedoch erhebliche Bedenken hinsichtlich der praktischen Umsetzung, des Datenschutzes und der potenziellen Kosten.

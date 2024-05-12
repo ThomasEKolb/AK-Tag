@@ -1,0 +1,174 @@
+ 
+ 
+ 
+noyb - Europäisches Zentrum für digitale Rechte  
+Goldschlagstraße 172/4/3/2  
+1140 Wien, Österreich  
+ZVR: 1354838270  
+ 
+ 
+Verein noyb  – Europäisches Zentrum für digitale Rechte | Goldschlagstr. 172/4/3/2, 1140 Wien, Österreich | ZVR: 
+1354838270  
+www.noyb.eu | Allgemeine Anfragen: info@noyb.eu | Verfahren: legal@noyb.eu | IBAN: AT21 2011 1837 8146 6600  
+ 
+ Seite 1 von 4 
+  
+ 
+ 
+Stellungnahme zum Ministerialentwurf des 
+Informationsfreiheitsgesetz1 
+ 
+I. Allgemeines  
+Wir möchten betonen, dass wir den vorliegenden Entwurf grundsätzlich sehr begrüßen und 
+hoffen, dass er die längst überfällige Trendwende weg vom traditionell etablierten 
+Amtsgeheimnis hin zu transparentem staatlichen Handeln einleitet. Im Detail beschränken wir 
+uns in der Rolle einer Organisation, die primär die Durchsetzung der DSGVO im Blick hat, auf 
+wenige punktuelle Vorschläge:  
+ 
+II. Aufgaben und Befugnisse der Datenschutzbehörde  
+a. Datenschutzbehörde als reine Beraterin mit vagen Pflichten  
+Gemäß § 15 Abs  1 des Entwurfs soll die Datenschutzbehörde (DSB) eine beratende und 
+unterstützende Rolle „ in datenschutzrechtlichen Belangen der Vollziehung der 
+Informationsfreiheit “ einnehmen. In welcher konkreten Form die DSB diese Beratungs - und 
+Unterstützungsleistungen erbringen soll, bleibt leider offen. Eine konkretisierende Verordnung 
+scheint nicht geplant . 
+Dasselbe Problem stellt sich bezüglich der nicht konkretisierten Evaluierungs - und 
+Informationspflichten in § 15 Abs  2 des Entwurfs; hier findet sich nur zur Evaluierungspflicht eine 
+Konkretisierung in §  20 Abs  2 des Entwurfs.  
+Darüber hinaus  droht ein Konflikt zwischen einer Beratungspflicht  der DSB und späteren 
+Entscheidungen gemäß Art 77 DSGVO als unabhängige Behörde (Art  8 Abs 3 
+EU-Grundrechtecharta) zu entstehen : Es ist denkbar, dass die DSB im Rahmen einer DSGVO -
+Beschwerde über einen Sachverhalt od er eine Rechtsfrage entscheiden muss, zu 
+welchem/welcher sie zuvor eine Beratung erteilt hat . Ähnliche Probleme sehen wir aktuell in 
+anderen Mitgliedsstaaten, wenn Beratungstätigkeit und Entscheidungstätigkeit der Behörde nicht 
+strikt getrennt werden.  
+                                                           
+1 95/ME XXVII. GP - Ministerialentwurf – Bundesgesetz, mit dem das Bundes -Verfassungsgesetz,  das 
+Rechnungshofgesetz 1948  und das  Verfassungsgerichtshofgesetz 1953  geändert  und  ein 
+Informationsfreiheitsgesetz erlassen werden.  127/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 4
+www.parlament.gv.at
+ 
+Seite 2 von 4 
+ b. Date nschutzbehörde als Rechtsschutzbehörde?  
+Rechtsschutz soll dem Entwurf zufolge hingegen  
+- bei hoheitlichen Informationspflichtigen (§  11 des Entwurfs) per formellem Bescheid des 
+Informationspflichtigen und anschließender Beschwerde an das zuständige 
+Verwaltun gsgericht und  
+- bei nicht -hoheitlichen Informationspflichtigen (§  14 des Entwurfs) per Antrag auf 
+Entscheidung an das zuständige Verwaltungsgericht  
+gewährt werden.  
+Es wäre begrüßenswert, die DSB direkt als Rechtsschutzbehörde vorzusehen . Vorteil e wäre n eine 
+„Kompetenzbündelung“ bei einer Behörde und weitergehende Rechtschutzmöglichkeiten per 
+Bescheidbeschwerde an das Bundesverwaltungsgericht und allenfalls einer Revision an den 
+Verwaltungsgerichtshof (3 „Instanzen“ statt nur 2):  
+- Dies gilt jedenfalls geg enüber nicht -hoheitlichen Informationspflichtigen , die in 
+Angelegenheiten des Bundes  tätig werden (§  14 Abs  1 Z 1 des Entwurfs).  
+- Ob eine Zuständigkeit der DSB für Rechtsschutz auch gegenüber nicht -hoheitlichen 
+Informationspflichtigen , die in Angelegenheite n eines Landes  tätig werden (§  14 Abs  1 Z 2 des 
+Entwurfs) eingerichtet werden könnte, bedürfte einer umfassenden Prüfung und 
+möglicherweise einer Verfassungsbestimmung, wäre im Sinne eines einheitlichen 
+Rechtschutzkonzeptes aber sehr begrüßenswert . 
+- Letztli ch ist empfehlenswert , der DSB  auch Kompetenzen zur Rechtsschutzgewährung im Fall 
+der Nicht -Erteilung der geforderten Informationen durch hoheitliche Informationspflichtige  
+(§ 11 des Entwurfs) einzuräumen. Bereits jetzt ist die DSB über die Verfassungsbest immung 
+des §  35 Abs  2 DSG befugt, Ihre Befugnisse auch gegenüber den in Art  19 B -VG bezeichneten 
+obersten Organen der Vollziehung sowie gegenüber den obersten Organen gemäß Art  30 
+Abs 3 bis 6, 125, 134 Abs  8 und 148h Abs  1 und 2 B -VG im Bereich der diesen zustehenden 
+Verwaltungsangelegenheiten auszuüben. Dass die DSB daher auch das Verwaltungshandeln 
+anderer Behörden bzw. Organe beurteilt, wäre insofern kein Novum, bedürfte aber ebenfalls 
+einer verfassungsrechtlichen Evaluierung (insbesondere, was es Inform ationspflichtige der 
+Länder anbelangt).  
+ 
+III. Zur finanziellen und personellen Situation der Datenschutzbehörde  
+Selbst wenn die DSB keine Kompetenzen als Rechtschutzbehörde erhält, sondern lediglich die in 
+§ 15 des Entwurfs genannten Aufgaben erfüllen soll, ist mit einer empfindlichen Mehrbelastung 
+der DSB  zu rechnen: Eine Vielzahl an Informationsanträgen, die gemäß  § 5 des Entwurfs bei 
+Informationspflichtigen eingehen werden, dürfte in Anbetracht des weiten Anwendungsbereichs 
+des geltenden Datenschutzrechts gemäß Art  2 und 3 DSGVO und §  4 DSG zumindest teilweise 
+datenschutzrechtliche Berührungspunkte aufweisen. Der Begriff „ datenschutzrechtliche Belange 
+der Vollziehung der Informationsfreiheit “ in §  15 des Entwurfs dürfte weit zu verstehen, sein, 
+sodass es zumindest in den ersten Jahren nach Inkrafttreten des Informationsfreiheitsgesetzes 127/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 4
+www.parlament.gv.at
+ 
+Seite 3 von 4 
+ (bis sich umfassende Rechtsp rechungslinien gebildet haben) zu einer Vielzahl an Anf ragen an die 
+DSB kommen dürfte.  
+Im Dokument „Vorblatt und Wirkungsorientierte Folgenabschätzung“ steht hierzu zutreffender 
+Weise mehrmals, dass „ die vorgesehenen Erweiterungen der Zuständigkeit der Dat enschutzbehörde 
+und des Rechnungshofes […] zusätzliche Personalkosten mit sich  [bringen].“ Eine detaillierte 
+Einschätzung der zu befürchtenden Mehrkosten findet sich jedoch an keiner Stelle . Maßnahmen 
+einer Budgeterhöhung oder zusätzlichen  Planstellen für die DSB scheinen nicht geplant.  
+Die DSB ist bereits jetzt mit den ihr gemäß DSGVO und DSG zukommenden Aufgaben stark 
+überbeansprucht  und kann nach  unserer Erfahrung die Entscheidungspflicht binnen 6 Monaten 
+gemäß §  73 AVG schon jetzt regelmäßig nicht einhalten. Begründet wird d ies mit akutem 
+Personalmangel – zum Leidwesen von Unternehmen , die jahrelange Rechtsunsicherheit beklagen 
+und Betroffenen die ihre Grundrechte nicht in der gesetzlich verfügten Frist geltend mach en 
+können.  
+Im EU -Vergleich erscheint die DSB  tatsächlich  massiv unterfinanziert  und auch personell 
+unterdurchschnittlich ausgestattet  zu sein:2 
+- Die DSB verzeichnet  ein hohes Beschwerdeaufkommen. Im Jahr 2019 wurden 2.102  
+Individualbeschwerden eingebracht u nd 1.405 erledigt. Die DSB hat nach geltendem Recht 
+jede Beschwerde zu behandeln und per Bescheid zu entscheiden oder diese einzustellen. In 
+manchen anderen EU-Mitgliedstaaten  (z.B. Frankreich, Irland oder Schweden) gibt es keine 
+vergleichbaren Tätigkeitspflichten der Behörden – dort gibt es mitunter nur 
+Entscheidungszahlen bzw. im einstelligen oder niedrigen zweistelligen Bereich pro Jahr. So 
+hat etwa die irische DPC  2020 nur ein gutes Duzend  formelle  Entscheidungen getätigt .3 Aber 
+auch „produktivere“ Behörden haben verhältnismäßig weniger Fälle entschieden, wie etwa 
+die spanische AEDP, die von 2019 bis heute nur gut 600 Entscheidungen  (202 davon im Jahr 
+2019)  getätigt hat.4 Schon jetzt untersteht die DSB damit einem teils höhere n 
+Arbeitsaufwand, als sogar jene  Behörden , die aufgrund der Dichte an großen 
+US-Unternehmen (etwa Irland oder Luxemburg) eine hohe Arbeitsbelastung verzeichnen.  
+- Bereits jetzt hat die DSB mehrere Tausend Rechtsauskünfte pro Jahr zu erteilen (4.384 im 
+Jahr 2019). Durch die zusätzlichen Pflichten gemäß §  15 des Entwurfs ist vor allem in den 
+Jahren danach mit einem starken Anstieg dieser Zahl zu rechnen.  
+- Gleichzeitig ist die DSB mit 3 6 Mitarbeitern5 im Vergleich zur Einwohnerzahl Österreichs 
+sehr dünn besetzt. So haben die Behörde n von Schweden bei ca. 10,5  Mio Einwohnern 
+                                                           
+2 Aussagekräftige Zahlen finden sich in einem Report von BRAVE: https://brave.com/wp -
+content/uploads/2020/04/Br ave-2020 -DPA -Report.pdf  (aufgerufen am 0 3.03.2021)  und speziell für 
+Österreich im Datenschutzbericht  2019: 
+https://www.parlament.gv.at/PAKT/VHG/XXVII/III/III_00135/imfname_798053.pdf  (aufgerufen am 
+03.03.2021)  
+3 https://ww w.dataprotection.ie/en/dpc -guidance/law/decisions -exercising -corrective -powers -made -
+under -data -protection -act-2018  (aufgerufen am 03.03.2021).  
+4 https://www.aepd.es/es/informes -y-
+resoluciones/resoluciones?f%5B0%5D=fecha_resolucion%3A%28min%3A2019%2Cmax%3A2021%29&
+f%5B1%5D=ley_ti pificacion_de_la_gravedad%3AReglamento%20General%20de%20Protecci%C3%B3n
+%20de%20Datos  (aufgerufen am 03.03.2021).  
+5 Stand 2019 ; davon 23 Jurist*innen, davon wiederum 4 Praktikant*innen gemäß 
+Datenschutzbericht  2019 .  127/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 4
+www.parlament.gv.at
+ 
+Seite 4 von 4 
+ insgesamt 79 Mitarbeiter, Ungarn bei ca. 9,8  Mio Einwohnern 105 Mitarbeiter, Finnland bei 
+ca. 5,5  Mio Ei nwohnern 44 Mitarbeiter, S lowenien bei ca. 2,1 Mio Einwohnern 47 Mitarbeiter 
+und Irland bei ca. 5,0 Mio Einwohnern  sogar 140  Mitarbeiter.  
+- Auch die Budgetzahlen zeichnen ein klares Bild: Andere kleine  Staaten stellen ein 
+vergleichsweise deutlich höheres Budget zu Verfügung. Im Jahr  2020 standen beispielsweise 
+der schwedischen Behörde EUR  10,3 Mio, der tschechischen Behörde EUR  6,7 Mio und der 
+finnischen Behörde EUR  4,5 Mio zur Verfügung. In Österreich betrug das Budget der DSB im 
+Jahr 2020 nur EUR  2,3 Mio – gleichviel wie das Budget der slowenischen Behörde, die für 
+lediglich ca. 2,1 Mio Einwohner (weniger als ein Viertel Österreichs) zuständig ist.  
+Art 52 Abs  4 DSGVO verlangt von den Mitgliedstaaten die ange messene personelle, technische 
+und finanzielle Ausstattung ihrer unabhängigen Aufsichtsb ehörde (n).6 Angesichts der oben 
+genannten Z ahlen ist es leider offensichtlich, dass Österreich dieser Verpfl ichtung aktuell nicht 
+nachkommt.  
+Wir regen daher dringend an, begleitend zum Informationsfreiheitsgesetz auch die budgetgären  
+Voraussetzungen der DSB entsprechend anzupassen , sodass diese  
+a) ihre bereits jetzt bestehenden Aufgaben  mit angemessener Bearbeitungsdauer erfüllen kann,  
+b) die zusätzlichen Aufgaben gemäß §  15 des Entwurfs wahrnehmen kann  und  
+c) sofern unseren Vorschlägen in Punkt II.b. nachgekommen wird, auch ihren zusätzlichen  
+Rechtsschutzpflichten  sinnvoll nachkommen  kann  
+Die gegenwärtige  Situation der DSB soll  keinesfalls zum Anlass genommen werden, eine 
+Kompetenz der DSB als Rechtschutzbehörde – wie in Punkt  II.b. vorgeschlagen – nicht in Betracht 
+zu ziehen. Vielmehr sollte gerade auch, um der DSB die Erfüllung i hrer neuen Aufgaben zu 
+ermöglichen, eine Aufstockung von Budget und Personal ins Auge gefasst werden. Aber s elbst 
+wenn der DSB lediglich die in §  15 des E ntwurfs vorgesehenen Aufgaben zukommen sollen, 
+erscheint eine Aufstockung unerlässlich.  
+ 
+                                                           
+6 „Jeder Mitgliedstaat stellt sicher, dass jede Aufsichtsbehörde mit den personellen, technischen und 
+finanziellen Ressourcen, Räumlichkeiten und Infrastrukturen ausgestattet wird, die sie benötigt, um ihre 
+Aufgaben und Befugnisse auch im Rahmen der Amtshilfe, Zusammenarbeit und Mitwirkung im Ausschuss 
+effektiv wahrnehmen zu können. “ 127/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 4
+www.parlament.gv.at

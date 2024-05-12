@@ -1,0 +1,33 @@
+Feedback from: Datenschutzrat
+
+Basierend auf dem bereitgestellten Kontext lassen sich die wichtigsten Punkte der Stellungnahme des Datenschutzrates zu dem Entwurf eines Bundesgesetzes wie folgt zusammenfassen:
+
+**Zusammenfassung der Stellungnahme des Datenschutzrates:**
+- Der Datenschutzrat sieht grundsätzlich ein Spannungsverhältnis zwischen dem Grundrecht auf Zugang zu Informationen und dem Grundrecht auf Datenschutz.
+- Es wird empfohlen, die Gesetzesvorhaben im Licht der unionsrechtlichen und völkerrechtlichen Vorgaben zu überprüfen.
+- Eine Interessenabwägung zwischen dem Recht auf Informationsfreiheit und dem Datenschutz muss vorgenommen werden.
+- Es besteht ein Bedarf, die gesetzlichen Verschwiegenheitsverpflichtungen auf Bundes- und Landesebene neu zu regeln.
+- Der Entwurf sollte spezifischere Regelungen enthalten, die die Interessenabwägung zwischen Informationsfreiheit und Datenschutz näher ausgestalten.
+- Es wird darauf hingewiesen, dass die Abwägung selbst im Gesetz nicht näher ausgeführt wird, was die Vollzugsebene vor Herausforderungen stellt.
+- Die datenschutzrechtliche Rollenverteilung, insbesondere im Zusammenhang mit dem Informationsregister, erscheint klärungsbedürftig.
+- Es wird eine präzisere gesetzliche Festlegung der Verantwortlichkeiten und eine genauere Ausgestaltung der datenschutzrechtlichen Anforderungen empfohlen.
+
+**Gruppierung der Meinungen nach positivem und negativem Sentiment:**
+- **Positiv/Unterstützend:**
+  - Die Anerkennung der Notwendigkeit eines Paradigmenwechsels zur Erhöhung der staatlichen Transparenz.
+  - Zustimmung zur Notwendigkeit, das Amtsgeheimnis zu beseitigen und Informationsfreiheit zu fördern.
+  
+- **Negativ/Kritisch:**
+  - Bedenken hinsichtlich der mangelnden spezifischen Regelungen für die Abwägung zwischen Datenschutz und Informationsfreiheit.
+  - Sorgen über die unklare Rollenverteilung und Verantwortlichkeiten im Rahmen des Informationsregisters.
+  - Kritik an der unzureichenden gesetzlichen Ausgestaltung der datenschutzrechtlichen Anforderungen und der Vollzugspraxis.
+  
+**Identifizierung von Beweismitteln, die die vorgeschlagenen Regeln verstärken oder widersprechen könnten:**
+- **Verstärkende Beweise:**
+  - Die Notwendigkeit einer klaren gesetzlichen Regelung und spezifischerer Vorgaben wird als wichtig erachtet, um die praktische Umsetzung der Informationsfreiheit und des Datenschutzes zu erleichtern.
+  - Die Empfehlung zur Überprüfung des Gesetzesvorhabens unter Berücksichtigung von EU-Recht und internationalen Standards unterstreicht die Bedeutung der Rechtskonformität.
+
+- **Widersprüchliche Beweise:**
+  - Das Fehlen spezifischer Regelungen zur Interessenabwägung und zur genauen datenschutzrechtlichen Rollenverteilung könnte die Effektivität des Gesetzes einschränken und rechtliche Unsicherheiten schaffen.
+  
+Diese Punkte spiegeln die Bedenken und Empfehlungen des Datenschutzrates wider und bieten eine Basis für die weitere Diskussion und Anpassung des Gesetzesentwurfs.

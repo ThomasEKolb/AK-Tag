@@ -1,0 +1,31 @@
+Feedback from: BMA_Bundesministerium_fr_Arbeit
+
+- Hauptaussagen der Stellungnahme:
+  - Grundsätzliche Begrüßung der Intention des Gesetzes für eine transparentere Verwaltung und mehr Akzeptanz.
+  - Kritik an der verkürzten Frist zur Auskunftserteilung von vier Wochen gemäß § 8 IFG aufgrund personeller Herausforderungen.
+  - Bedenken hinsichtlich des organisatorischen und personellen Aufwands durch die Einführung eines Informationsregisters.
+  - Hinweis auf den erhöhten Arbeitsaufwand aufgrund der Abwägung zwischen Informationsfreiheit und Datenschutz.
+  - Diskussion über die Notwendigkeit zusätzlicher Personalressourcen und Budgets zur Bewältigung des Mehraufwands.
+  
+- Zusammenfassung des Feedbacks in Punkten:
+  - Positive Rückmeldungen:
+    - Begrüßung der Zielsetzung für mehr Transparenz und Verständlichkeit der Verwaltung.
+  - Kritische Anmerkungen:
+    - Bedenken bezüglich der praktischen Umsetzbarkeit aufgrund knapper Personalressourcen.
+    - Möglicher Mehraufwand und Komplexität durch Anfragen, die eine intensive Koordination erfordern.
+    - Sorgen um Datenschutz und die Notwendigkeit, die Geheimhaltung von Informationen sicherzustellen.
+    - Vorschlag zur Wiedereinführung einer Gebühr für die Erlassung eines Bescheides.
+    - Notwendigkeit, den Gesetzestext und dessen Erläuterungen klarer und eindeutiger zu formulieren.
+
+- Gruppierung nach Sentiment:
+  - Unterstützend/Positiv:
+    - Zustimmung zur grundsätzlichen Zielsetzung des Gesetzes.
+  - Gegen/Kritisch:
+    - Kritik an der kurzen Frist für die Auskunftserteilung.
+    - Sorge um den zusätzlichen organisatorischen und personellen Aufwand.
+    - Betonung des Konflikts zwischen Informationsfreiheit und Datenschutz.
+    - Vorschläge zur Verbesserung der Klarheit und Handhabbarkeit des Gesetzentwurfs.
+
+- Beweisführung aus den Eingaben, die die vorgeschlagenen Regeln stärken oder widersprechen könnten:
+  - Die Erfahrungen mit dem Auskunftspflichtgesetz und die daraus resultierende Zunahme von Anfragen stützen die Bedenken hinsichtlich des Bearbeitungsaufwands und der Fristen.
+  - Die Diskussion um den Datenschutz und die Notwendigkeit der Geheimhaltung bieten sowohl eine Unterstützung für als auch einen Widerspruch zu den Transparenzbestrebungen des Gesetzes, abhängig von der Interpretation und Umsetzung der Regelungen.

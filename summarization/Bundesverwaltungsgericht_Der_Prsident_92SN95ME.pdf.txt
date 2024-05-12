@@ -1,0 +1,47 @@
+Feedback from: Bundesverwaltungsgericht_Der_Prsident
+
+Hauptpunkte der Stellungnahme des BVwG zum Gesetzesentwurf:
+
+1. **Informationsfreiheit vs. Unabhängigkeit der Rechtsprechung:**
+   - Bedenken gegen die fehlende Ausnahme für die Rechtsprechung im Zugang zu Informationen.
+   - Mögliche Beeinflussung und Gefährdung der Unabhängigkeit der Gerichte durch öffentlichen und politischen Druck.
+   - Schutz der Willensbildungsprozesse der Richter als Teil der Unabhängigkeitsgarantie.
+
+2. **Informationsfreiheit vs. Interessen von Rechtsschutzsuchenden:**
+   - Risiko der Verletzung des Persönlichkeits- und Datenschutzes der Verfahrensbeteiligten.
+   - Mögliche Offenlegung sensibler Daten in Bereichen wie Behindertenrecht oder Asylrecht.
+
+3. **Informationsfreiheit vs. Rechtssicherheit:**
+   - Sorge um die Einheitlichkeit und Überschaubarkeit der Rechtsprechung.
+   - Mögliche negative Auswirkungen auf das Vertrauen in die Rechtsprechung.
+
+4. **Verstärkter zusätzlicher Sach- und Personalaufwand:**
+   - Erhöhter Aufwand und Kosten durch die proaktive Veröffentlichungspflicht.
+   - Notwendigkeit zusätzlicher Kapazitäten und Ressourcen.
+
+5. **Volkswirtschaftlicher Nutzen:**
+   - Fehlende Erläuterung und Quantifizierung des volkswirtschaftlichen Nutzens des Vorhabens.
+
+Zusammenfassung des Feedbacks in Stichpunkten, gruppiert nach ähnlichen Aussagen und hervorgehobenen divergenten Meinungen:
+
+- Bedenken gegenüber einer Beeinträchtigung der Unabhängigkeit der Gerichte.
+- Sorge um Datenschutz und Persönlichkeitsrechte der Verfahrensbeteiligten.
+- Unklarheiten und potenzielle negative Auswirkungen auf die Rechtssicherheit.
+- Hoher zusätzlicher Ressourcenbedarf und unklarer volkswirtschaftlicher Nutzen.
+- Kritik an der fehlenden Differenzierung und speziellen Regelungen für sensible Rechtsbereiche.
+
+Gruppierung der Meinungen nach positivem und negativem Sentiment:
+
+**Negative Sentiments (gegen die vorgeschlagene Regelung):**
+- Bedenken bezüglich der Unabhängigkeit und Integrität der Rechtsprechung.
+- Sorge um die Sicherheit und den Schutz persönlicher Daten der Beteiligten.
+- Kritik an der fehlenden Klarheit und den potenziell erhöhten Kosten.
+
+**Positive Sentiments (unterstützend):**
+- Keine explizit positiven Rückmeldungen zum Gesetzesentwurf aus der Stellungnahme ersichtlich.
+
+Evidenz aus den Eingaben, die die vorgeschlagenen Regeln verstärken oder widersprechen könnten:
+
+- Die historische Rechtsprechung und der Verweis auf die Notwendigkeit des Schutzes der richterlichen Willensbildung unterstützen die Bedenken gegenüber der Offenlegung interner Prozesse.
+- Erfahrungen mit aktuellen Transparenzmaßnahmen (Veröffentlichungen im RIS) zeigen, dass ein gewisses Maß an Offenlegung möglich ist, ohne die Unabhängigkeit zu gefährden, was den Vorschlag für eine begrenzte Transparenz stärken könnte.
+- Die kritischen Hinweise auf den zusätzlichen Ressourcenbedarf und die fehlende Kostenschätzung stellen die praktische Umsetzbarkeit des Gesetzesentwurfs in Frage.

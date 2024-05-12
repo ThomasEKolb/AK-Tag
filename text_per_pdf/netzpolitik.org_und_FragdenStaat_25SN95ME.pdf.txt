@@ -1,0 +1,220 @@
+Stellungnahme zum Entwurf der
+Bundesregierung für ein
+Informationsfreiheitsgesetz
+Wer wir sind
+FragDenStaat kämpft seit 2011 für Informationsfreiheit in Deutschland. Wir sind davon überzeugt, 
+dass eine starke Demokratie eine informierte und aktive Zivilgesellschaft braucht, die auf 
+Augenhöhe mit Politik und Verwaltung sprechen kann. Es soll gesellschaftlich etabliert und 
+selbstverständlich sein, amtliche Informationen leicht zu erhalten und nutzen zu können. Nur so 
+kann Regierungshandeln effektiv kontrolliert werden.
+Über unsere Plattform FragDenStaat.de  stellen wir eine technische Infrastruktur zur Verfügung, die 
+einen Überblick über die deutsche und europäische Behördenlandschaft bietet und es allen 
+Nutzer:innen ermöglicht, mühelos Anfragen zu stellen . Bürger:innen können damit auf einfache 
+Weise ihr Recht auf Zugang zu Informationen wahrnehmen und bleiben dabei nicht allein, sondern 
+bekommen bei Bedarf Hilfestellungen. Jegliche Kommunikation sowie die befreiten Dokumente 
+werden in unserem Wissensarchiv veröffentlicht. Mit der Zeit bildet es einen Teil des kollektiven 
+Gedächtnisses. Somit profitieren alle von den Ergebnissen der Anfragen.
+netzpolitik.org e.V.  ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich mit journalistischen 
+Mitteln für digitale Freiheitsrechte im digitalen Raum einsetzt. Für diese Arbeit nutzt netzpolitik.org
+regelmäßig Informationszugangsgesetze, nicht nur in Deutschland, sondern auch entsprechende 
+Gesetze der EU-Institutionen und zahlreicher anderer Staaten.
+Vorbemerkungen
+Die Abschaffung des Amtsgeheimnisses stellt einen Paradigmenwechsel in den seit Jahrhunderten 
+kultivierten Gepflogenheiten der österreichischen Verwaltung dar. Ihr Ende macht nicht weniger als 
+einen Wandel in der Amtskultur notwendig, die bislang von der Verantwortlichkeit gegenüber der 
+Bevölkerung mittelbar abgeschirmt war. Dabei kann Österreich aus den Erfahrungen in Deutschland
+lernen, wo ein ähnlicher Wandel bereits seit rund 15 Jahren im Gange ist.
+In Deutschland trat das Informationsfreiheitsgesetz des Bundes am 1. Januar 2006 in Kraft. In 13 
+Bundesländern gibt es zudem Informationsfreiheits- oder Transparenzgesetze. Sie haben die 
+Verwaltung geöffnet und für Bürger*innen merklich transparenter gemacht.
+V on den Gesetzen profitieren aber nicht nur Bürger*innen, von denen alleine über FragDenStaat 
+170.000 Anfragen an Behörden auf kommunaler, regionaler und nationaler Ebene gesendet haben. 
+Auch die Verwaltung profitiert selbst: Sind Informationen online frei zugänglich, werden 
+Verwaltungsprozesse effizienter und Informations-Silos aufgebrochen. 
+Gleichzeitig zeigen zahlreiche Evaluationen der deutschen Informationsfreiheitsgesetze auf 
+nationaler und Landesebene, welche Verbesserungsmöglichkeiten das inzwischen etwas in die Jahre
+25/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 5
+www.parlament.gv.at
+gekommene Gesetz des Bundes bietet. So wird beispielsweise der umfangreiche Katalog der 
+Ausnahmetatbestände kritisiert, der die Informationsfreiheit einschränkt und die Anwendung durch 
+Behörden erschwert. Außerdem fordern die Informationsfreiheitsbeauftragen von Bund und 
+Ländern seit vielen Jahren, nicht nur eine Vermittlungsfunktion, sondern tatsächliche 
+Anordnungsrechte zur Herausgabe von Informationen zu erhalten, wie dies im Bereich des 
+Datenschutzes üblich ist.
+Eine besonders große Bedeutung hat Informationsfreiheit für Journalist*innen und 
+Nichtregierungsorganisationen. Die Erläuterungen zum Entwurf erwähnen ihre Rolle als 
+watchdogs, also ihre Wächterrolle im Sinne der Rechtsprechung des Europäischen Gerichtshofs für 
+Menschenrechte. Um diese Rolle im Sinne der Demokratie sinnstiftend auszuüben, braucht es 
+möglichst geringe und begründete Zugangshürden zu amtlichen Informationen.
+Eine Presse ohne diesen ungehinderten Zugang läuft Gefahr, in eine Kultur des access journalism 
+zu verfallen, in der die Beantwortung wichtiger Fragen und damit die journalistische Integrität 
+eingetauscht werden, um Zugang zu ausgewählten behördlichen Informationen zu erlangen. Der 
+gesetzlich gesicherte Informationszugang ist ein Mittel, den Journalismus aus der Abhängigkeit von
+vorselektierten Informationshäppchen von Gnaden einzelner Amtspersonen zu lösen.
+Bemerkungen zum vorliegenden Entwurf
+Am Entwurf sind grundsätzlich einige positive Punkte zu bemerken. Beispielhaft soll etwa erwähnt 
+werden, dass Auskünfte von Behörden gebührenfrei sind und das einige Dokumente von den 
+Behörden proaktiv im ebenfalls geplanten Informationsregister veröffentlicht werden. Auch sollen 
+Unternehmen, an denen die öffentliche Hand mit zumindest 25 Prozent beteiligt sind, unter das 
+Informationsfreiheitsgesetz fallen.
+Zu begrüßen ist, dass nach Artikel 2 „jede amtlichen oder unternehmerischen Zwecken dienende 
+Aufzeichnung […] unabhängig von der Form, in der sie vorhanden und verfügbar ist“, 
+herausgegeben werden soll. Offen bleibt allerdings, welche Dokumente überhaupt veraktet werden 
+müssen – hierbei sollte parallel auch eine Novelle des Bundesarchivgesetzes angedacht werden. 
+Viele für amtliche Zwecke dienende V orgänge werden inzwischen über Nachrichten mittels SMS 
+oder Messengerdiensten wie WhatsApp, Telegram oder iMessage abgewickelt. Um sicherzustellen, 
+dass die Nutzung neuer digitaler Mittel nicht zu Umgehung des gesetzlichen Informationszugangs 
+wird, sollte die Gesetzeslage angepasst werden, um die Veraktung von SMS und anderen Formen 
+elektronischer Nachrichten sicherzustellen.
+Problematische Ausnahmen
+Artikel 6 definiert unter dem Titel „Geheimhaltung“ mehrere Ausnahmen aus dem Recht auf 
+Informationszugang. Die breite Definition dieser Ausnahmen wirft womöglich erhebliche Hürden 
+für den Informationszugang auf.
+Nicht zugänglich zu machen sind nach Artikel (1) etwa Informationen „2. im Interesse der 
+nationalen Sicherheit, 3. im Interesse der umfassenden Landesverteidigung, 4. im Interesse der 
+Aufrechterhaltung der öffentlichen Ordnung und Sicherheit“. Im vorhergehenden Punkt ist von 
+„zwingenden […] Gründen“ im Bereich der Außenpolitik und europäischen Integration die Rede, 
+der Verweis auf solche zwingenden Gründe entfällt allerdings bei den äußerst breit gefassten 
+Punkten rund um das staatliche Gewaltmonopol. Legitime Auskunftsbegehren von Journalist*innen 
+und NGOs, aber auch von Betroffenen oder anderen Interessierten, können damit zunächst pauschal
+mit Verweis auf diese Ausnahmen abgelehnt werden. Recherchen der Presse über Fälle etwa von 25/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 5
+www.parlament.gv.at
+unzulässiger Gewaltausübung durch die Polizei oder fragwürdige Beschaffungsvorgänge im 
+Bereich der Landesverteidigung könnten dadurch erheblich behindert werden.
+Zwar wird im Änderungsvorschlag für Artikel 22a (2) des Bundes-Verfassungsgesetzes klargestellt, 
+dass diese Ausnahmen nur gelten, wenn sie „erforderlich“ sind. Die Erläuterung zum Entwurf für 
+das IFG ergänzen, dass eine Interessenabwägung mittels harm test und public interest test 
+notwendig ist, um etwa im Fall von Fall von Informationen betreffend Verbrechen gegen die 
+Menschlichkeit, Verletzungen von fundamentalen Grund- und Menschenrechten oder Korruption 
+doch Informationen freigeben zu können, wenn das öffentliche Interesse das schutzwürdige 
+Interesse überwiegt. Doch stellen die breit definierten Ausnahmen eine Beweislastumkehr dar, in 
+der für die öffentliche Debatte wesentliche Fragen der öffentlichen Sicherheit und der 
+Landesverteidigung de facto wieder dem Amtsgeheimnis unterliegen.
+Es bietet sich an, analog zu § 4 (2) Umweltinformationsgesetz Kategorien von Informationen 
+einzuführen, die in jedem Fall herauszugeben sind. Dies sollte etwa Informationen über die 
+Verwendung von Steuergeld betreffen, also Verträge ab einer bestimmten Schwelle sowie 
+Informationen zu Rechtsverletzungen.
+Äußerst breit gefasst sind auch die Ausnahmen nach Artikel 6 (5) für laufenden Entscheidungen. 
+Der Artikel spricht vom „Interesse der unbeeinträchtigten V orbereitung einer Entscheidung“. In den 
+Erläuterungen ist sogar von „ungestörter Beratung und Entscheidungsfindung“ die Rede. Diese 
+Form der Ausformulierung der Ausnahme wirkt, als würden Politik und Verwaltung die öffentliche 
+Meinung als bloße Beeinträchtigung ihrer Entscheidungsfindung begreifen. Stattdessen wäre es 
+vorteilhaft, auf Augenhöhe mit der demokratischen Öffentlichkeit und ihren Vertreter*innen zu 
+agieren und mit diesen wichtige Informationen im Zusammenhang mit Entscheidungen von 
+allgemeinem Belang zu teilen. In diesem Zusammenhang soll auf die EU-Verordnung 1049/2001 
+über den Dokumentenzugang verwiesen werden, die in Artikel 4 (3) die Ausnahme auf laufenden 
+Entscheidungsprozesse einschränkt, „wenn eine Verbreitung des Dokuments den 
+Entscheidungsprozess des Organs ernstlich beeinträchtigen würde“. Auch dann verweist der 
+Gesetzestext explizit auf das öffentliche Interesse, mit dem die Schutzgründe abgewogen werden 
+müssen. Der Text der EU-Verordnung schränkt den Informationszugang damit auf deutliche 
+zielgerichtetere Weise ein.
+In ihrer Bedeutung nicht hinreichend geklärt wirkt die Ausnahme in Artikel 6 (6) zur „Abwehr eines
+erheblichen wirtschaftlichen oder finanziellen Schadens“ für informationspflichtige Unternehmen, 
+Gebietskörperschaften oder sonstige Stellen. Dabei wird auf das Aktiengesetz verwiesen, in dem 
+von einem „erheblichen Nachteil“ die Rede ist. Vielfach könnte das zu pauschalen Verweisen auf 
+„erhebliche Nachteile“ führen. Andererseits bleibt aber auch die Frage, wie die Abwägung aussieht, 
+wenn der tatsächliche und angebliche „erhebliche Nachteil“ etwa für eine Gebietskörperschaft mit 
+dem öffentlichen Interesse am Bekanntwerden von behördlichem oder unternehmerischen 
+Fehlverhalten ausgeglichen werden sollte. Denkbar sind etwa Fälle, in denen Dokumente über 
+schwere bauliche Mängel an einem Gebäude im Gemeindebesitz zurückgehalten werden, um deren 
+Immobilienwert nicht zu schmälern, zugleich aber eindeutig öffentliches Interesse aus Gründen der 
+Sicherheit an der Natur der baulichen Mängel und ihren möglichen Ursachen liegt.
+Klärungsbedarf gibt es auch bei der Ausnahme in Artikel 6 (7) zur „Wahrung von Berufs-, 
+Geschäfts- oder Betriebsgeheimnissen“. Aus der Praxis in Deutschland und in anderen Staaten 
+kennen wir Beispiele, in denen betroffenen Unternehmen konsultiert werden und dabei übermäßig 
+breite Mitspracherechte erhalten. Konkret kann das etwa bedeuten, dass Unternehmen pauschal alle 
+Informationen, die sie an Behörden weitergegeben haben, als Geschäftsgeheimnis deklarieren, ohne
+das die Aussagen von der Behörde nochmals auf Plausibilität geprüft wurden. In einem Fall kann 
+das etwa bedeuten, dass eine Firma ihre Stellungnahme in einem Gesetzgebungsverfahren 25/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 5
+www.parlament.gv.at
+vollständig zum Betriebsgeheimnis machen wollte. Hier sollten die betroffenen Stellen die Pflicht 
+haben, zu prüfen ob Angaben über angebliche Geschäftsgeheimnisse tatsächlich plausibel sind, 
+etwa weil sie gängigen rechtlichen Definitionen solcher Geheimnisse entsprechen. Auch sollten 
+Abwägungsgründe für ein mögliches öffentliches Interesse explizit in den Gesetzestext 
+aufgenommen werden, um eine übermäßig breite Anwendung zu verhindern.
+Schließlich erwähnt der Entwurf an selbiger Stelle auch „die Wahrung der Rechte am geistigen 
+Eigentum betroffener Personen“ als möglichen Geheimhaltungsgrund. Die Erläuterungen geben 
+keinen näheren Aufschluss darüber, wie diese Bestimmung anzuwenden ist.
+In Deutschland gab es mehrfach Fälle, in denen Behörden mit Verweis auf das Urheberrecht von 
+amtlichen Berichten die Veröffentlichung dieser zu unterbinden versuchten. So wollte das deutsche 
+Bundesverteidigungsministerium der Funke-Mediengruppe die Veröffentlichung von Lageberichten 
+aus Afghanistan gerichtlich untersagen. Das Bundesinstitut für Risikobewertung hat FragDenStaat 
+wegen angeblicher Urheberrechtsverletzung verklagt, weil wir einen staatlichen Report zu 
+Glyphosat veröffentlicht hatten, den wir mittels Informationsfreiheitsgesetz erhalten hatten. In 
+beiden Fällen unterlagen die Behörden in mehreren Instanzen vor Gericht. Es wäre daher sinnvoll, 
+im Gesetz klarzustellen, dass per IFG erhaltene Informationen veröffentlicht und weiterverwendet 
+werden dürfen, wie dies auch in der EU-Open-Data-Richtlinie festgelegt ist. Zudem sollte 
+klargestellt werden, dass staatliche Stellen darauf hinzuwirken haben, dass ihnen die erforderlichen 
+Nutzungsrechte an Informationen übertragen werden, wenn etwa geistige Schöpfungen im Auftrag 
+von staatlichen Stellen erstellt werden. Schließlich ist klarzustellen, dass Urheberrechte der 
+Zugänglichmachung von Informationen an einzelne Bürger nicht im Wege stehen kann.
+Zu lange Fristen
+Keine hinreichende Erklärung bietet der Entwurf für die Frist von vier Wochen für die 
+Beantwortung von Anträgen nach dem Informationsfreiheitsgesetz, die aus „besonderen Gründe“ 
+wie der Konsultation einer betroffenen Person um nochmal vier Wochen verlängert werden kann. 
+Diese Frist ist übermäßig lange im Vergleich zu jenen anderswo in Europa. Die EU-Verordnung 
+1049/2001 sieht für Antworten der EU-Institutionen eine Frist von drei Wochen vor, in Estland sind 
+es sogar nur fünf Arbeitstage. Für tagesaktuelle journalistische Arbeit, aber auch für Recherchen 
+von Nichtregierungsorganisationen, ist eine lange Wartezeit auf relevante Dokumente eine 
+erhebliche Hürde, da in längeren Zeitverläufen mit sinkendem Interesse am Inhalt von Auskünften 
+zu rechnen ist.
+Ein erhebliches Problem für die Wächterfunktion von Presse und NGOs stellen die 
+„Missbrauchsschranke“ und die „Grenze eines unverhältnismäßigen Behördenaufwands“ dar, wie 
+sie in den Erläuterungen bezeichnet und im Artikel 9 (2) und (3) definiert werden. In (2) heißt es, 
+die „Information [ist] soweit zu erteilen, sofern dies möglich und damit kein unverhältnismäßiger 
+Aufwand verbunden ist“. Was genau jedoch einen solchen „unverhältnismäßigen Aufwand“ 
+darstellt, ist nirgends genauer definiert und könnte von informationsgebenden Stellen willkürlich 
+ausgelegt werden. Auch die Erläuterung, dass „knappe oder mangelnde Ressourcen des 
+Informationspflichtigen“ nicht in jedem Fall einen unverhältnismäßigen Aufwand begründen, 
+schränkt diese Möglichkeit in grundsätzlicher Art ein. Weiter heißt es in (3), dass der Zugang zu 
+Information nicht zu erteilen sei, wenn der „Antrag auf Information offenbar missbräuchlich erfolgt 
+oder wenn bzw. soweit die Erteilung der Information die sonstige Tätigkeit des Organs wesentlich 
+und unverhältnismäßig beeinträchtigen würde“. Die Erläuterungen schränken zwar ein, dass 
+vermehrte Anfragen wegen journalistischer Recherchen noch keinen Missbrauch des 
+Informationsrechts darstellten. Aber im Umkehrschluss bleibt ungeklärt, wie genau die Schranke für
+Missbrauch und übermäßigen Aufwand gesetzt werden kann.25/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 5
+www.parlament.gv.at
+In ihrer vagen Bestimmung bleiben beide Ablehnungsgründe Killer-Klauseln, die pauschalen 
+Zurückweisungen von Anträgen bestimmter Antragssteller und sogar die Zugangsverweigerung zu 
+ganzen Bereichen von Informationen den Weg bereitet. Das trifft insbesondere die watchdog-
+Funktion von Journalist*innen und NGOs, da diese für ihre Recherchen häufiger Anträge stellen.
+Fehlende außergerichtliche Einspruchsmöglichkeit
+Problematisch ist aus unserer Sicht auch die Rekursmöglichkeit gegen abgelehnte oder nur teilweise
+gewährte Anträge auf Information. Artikel 11 legt fest, dass gegen einen ablehnten Antrag eine 
+Beschwerde lediglich bei einem Verwaltungsgericht möglich ist. Das fehlenden anderer 
+Einspruchsmöglichkeiten stellt aus unserer Sicht eine Gebührenschranke durch die Hintertür dar.
+Im Vergleich dazu können in Deutschland Antragstellende direkt bei der ablehnenden Stelle 
+berufen, was zumindest die Möglichkeit eröffnet, dieser neue rechtliche Argumente zur Prüfung zu 
+unterbreiten. Sowohl in Deutschland als auch in den EU-Institutionen gibt es darüber hinaus mit 
+dem Bundesbeauftragen für Informationsfreiheit bzw. mit der Europäischen Bürgerbeauftragten 
+zwei Einrichtungen, an die Betroffene sich mit abgelehnten Anträgen wenden können. Die 
+Beauftragen können diese Anträge prüfen und der Behörde im gegebenen Fall rechtliche Argumente
+liefern, warum doch Informationszugang zu gewähren ist.
+International hat sich als best practice herausgestellt, die Informationsfreiheitsbeauftragte mit 
+ähnlichen Rechten auszustatten wie die Datenschutzbeauftragten im Rahmen der DSGVO. Nur 
+wenn die Beauftragten tatsächlich unabhängig sind, die Befugnisse haben, um in Streitfragen 
+vermitteln zu können und ggf. auch Anordnungsbefugnisse haben, wird dem 
+Informationsfreiheitsrecht zu seinem Recht verholfen. Dies lässt sich beispielsweise in der Slowakei
+oder auch in Großbritannien nachvollziehen, wo die unabhängigen Beauftragten die wichtigste 
+Kontrollinstanz sind. 
+Die fehlende Möglichkeit, an anderer Stelle als vor Gericht gegen abgelehnte Anträge zu berufen, 
+könnte mittelbar in Österreich zu einer Überforderung der Verwaltungsgerichte führen. Das ist 
+schon unter dem Gesichtspunkt des Schutzes der Funktionsfähigkeit des Justizsystems abzulehnen. 
+Für Journalist*innen oder NGOs bedeutet der Gang vor Gericht in den meisten Fällen eine 
+unzumutbare finanzielle Hürde, womit eine Ablehnung in erster Instanz vielfach festgeschrieben 
+wird. Wird hier keine bessere Einspruchsmöglichkeit geschaffen, dürfte das Informationsbegehren 
+auch und besonders auf die Wächterrolle von Presse und NGOs entscheidend schwächen.
+Fazit
+Der vorliegende Entwurf bietet eine vielversprechenden Ansatz für behördliche Transparenz, der 
+mit der Abschaffung des Amtsgeheimnisses eine lange notwendigen Paradigmenwechsel einläutet. 
+Im Vergleich mit dem deutschen Informationsfreiheitsgesetz und dem durch EU-Verordnung 
+1049/2001 eingeräumten Möglichkeiten werden allerdings entscheidende Schwächen offenkundig. 
+Die breiten und schwammig definierten Ausnahmen könnten den Behörden vielfach als 
+Ablehnungsgründen gelten, selbst in Fällen, in denen eindeutig ein öffentliches Interesse herrscht. 
+Zugleich gibt der Entwurf die Möglichkeit zum Einspruch nur vor dem Verwaltungsgericht, was 
+eine erhebliche Hürde für die Überwindung von falsch oder unzureichend begründeten 
+Ablehnungen darstellt. Durch die „Missbrauchsschranke“ ist zudem ein Gummiparagraph 
+vorgeschlagen worden, der selbst die Ablehnung legitimer und rechtskonforme Anträge verhindern 
+könnte. In seiner V orlagefassung bietet das IFG keine ausreichenden Möglichkeiten für die Presse 
+und Nichtregierungsorganisationen, um ihrer Wächterrolle gerecht zu werden.25/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 5
+www.parlament.gv.at

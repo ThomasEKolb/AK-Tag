@@ -1,0 +1,43 @@
+**Consolidated Summary of Stakeholder Feedback:**
+
+### Key Points Raised:
+- **Transparency and Information Access:** Most stakeholders support the initiative to enhance transparency and public access to information.
+- **Concerns About Implementation:** There are significant concerns about the administrative burden, potential misuse of information requests, and the practicality of implementing the proposed regulations.
+- **Data Protection and Privacy:** Several stakeholders raised issues about the protection of personal and sensitive information.
+- **Cost and Resource Implications:** Concerns were expressed about the potential financial and human resource costs involved in complying with the new regulations.
+- **Legal Clarity and Definitions:** Stakeholders noted the need for clearer definitions and more precise legal language to avoid ambiguities and ensure effective implementation.
+
+### Summary of Stakeholder Feedback:
+- **Positive Feedback:**
+  - General support for increased transparency and the right to information.
+  - Approval of specific measures such as the establishment of an independent information commissioner (suggested by multiple stakeholders).
+- **Negative Feedback:**
+  - Concerns over the broad scope of information requests and potential for abuse.
+  - Worries about the impact on competitive neutrality, particularly regarding public enterprises.
+  - Criticism of the potential administrative and financial burden on public bodies and businesses.
+
+### Clustering of Opinions:
+- **Supportive Sentiments:**
+  - Many stakeholders appreciate the move towards more open government and the facilitation of access to public information.
+  - Positive remarks on the intentions to abolish outdated secrecy laws and replace them with more modern transparency regulations.
+- **Negative Sentiments:**
+  - Strong concerns about the overreach of the proposed rules into the operational independence of businesses and public entities.
+  - Frequent criticism of the potential for increased bureaucracy and the vagueness of legal terms which could lead to inconsistent applications of the law.
+
+### Evidence Supporting or Contradicting the Proposed Rules:
+- **Supportive Evidence:**
+  - Examples of current transparency practices that can be enhanced by the proposed regulations.
+  - Positive impacts noted in jurisdictions with similar laws in place, suggesting that the proposed changes could lead to improvements in governance and public trust.
+- **Contradictory Evidence:**
+  - Concerns about the readiness of public institutions to handle the increased workload, suggesting that the proposal might be overly ambitious without sufficient groundwork.
+  - Warnings from legal experts and stakeholders about the unintended consequences of poorly defined terms and overly broad application of the rules.
+
+### Stakeholders with Very Positive Sentiments:
+- **Austro Control GmbH**
+- **WWF Österreich**
+
+### Stakeholders with Very Negative Sentiments:
+- **Landesfischereiverband Salzburg**
+- **Österreichischer Gemeindebund**
+
+This summary captures the general tone and specific concerns of various stakeholders regarding the proposed changes to the information freedom laws. While there is a clear trend towards supporting increased transparency, significant issues need to be addressed to ensure the successful implementation and efficacy of the proposed regulations.

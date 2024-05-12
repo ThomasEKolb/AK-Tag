@@ -1,0 +1,27 @@
+Feedback from: Der_Wissenschaftsfonds_FWF
+
+Zusammenfassung der Stellungnahme des FWF zum geplanten Informationsfreiheitsgesetz:
+
+**Hauptpunkte der Stellungnahme:**
+- Der FWF unterliegt der Kontrolle des Rechnungshofes, daher sind die neuen Regelungen anwendbar.
+- Es entsteht ein Mehraufwand durch die Informationsverpflichtungen und das Recht auf Information.
+- Der FWF schlägt vor, dass Informationen im Zusammenhang mit der Vergabe von Fördermitteln weiterhin der Geheimhaltung unterliegen sollten, insbesondere, um die Anonymität der Gutachter zu wahren.
+- Eine Umstellung der Geschäftsprozesse und Infrastruktur ist notwendig und verursacht zusätzliche Kosten.
+- Es besteht ein Risiko von zunehmenden Gerichtsverfahren und die Notwendigkeit, Mittel für rechtliche Auseinandersetzungen zurückzustellen.
+- Der FWF sieht Schwierigkeiten bei der Anwendung der Geheimhaltungsgründe und schlägt spezifische Ausnahmen zum Schutz der Forschungsförderung vor.
+
+**Gruppierung ähnlicher Aussagen und Hervorhebung divergierender Meinungen:**
+- **Mehraufwand und Kosten:** Neue Informationspflichten verursachen Mehraufwand in der Geschäftsabwicklung und Infrastruktur, mit vorübergehenden und dauerhaften Kosten.
+- **Geheimhaltung:** Besondere Betonung auf der Notwendigkeit der Geheimhaltung von Informationen im Begutachtungsprozess, um die Integrität und Unabhängigkeit der Forschungsförderung zu gewährleisten.
+- **Rechtliche Risiken:** Erhöhtes Risiko von rechtlichen Herausforderungen und die Notwendigkeit, für Gerichtsverfahren vorzusorgen.
+
+**Clusterung nach sentiment (unterstützend oder gegen die vorgeschlagene Regelung):**
+- **Negative Sentimente (gegen die Regelung):**
+  - Bedenken bezüglich des Mehraufwands und der damit verbundenen Kosten.
+  - Sorge um die Durchführbarkeit der Forschungsförderung bei vollständiger Transparenz.
+  - Risiko von rechtlichen Auseinandersetzungen und die Notwendigkeit, finanzielle Mittel dafür bereitzustellen.
+- **Keine explizit unterstützenden Meinungen zur vorgeschlagenen Regelung festgestellt.**
+
+**Belege aus den Eingaben, die die vorgeschlagenen Regeln stärken oder widersprechen könnten:**
+- **Stärkung:** Der Vorschlag zur Geheimhaltung bestimmter Informationen könnte die Effektivität der Forschungsförderung stärken, indem er die Unabhängigkeit und Objektivität des Begutachtungsprozesses schützt.
+- **Widerspruch:** Der hohe administrative und finanzielle Aufwand sowie das rechtliche Risiko könnten darauf hindeuten, dass die vorgeschlagenen Regeln in ihrer aktuellen Form nicht praktikabel sind und möglicherweise angepasst werden müssen, um realistisch und nachhaltig implementiert zu werden.

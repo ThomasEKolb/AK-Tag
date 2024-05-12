@@ -1,0 +1,617 @@
+ 
+ 
+ 
+ 
+ 
+Amt der Vorarlberger Landesregierung  
+Landhaus, Römerstr aße 15, 6901 Bregenz,  Österreich | www.vorarlberg.at  | www.vorarlberg.at/datenschutz  
+land@vorarlberg.at | T +43 5574 511 0 | F +43 5574 511 920 095   
+Bundeskanzleramt  
+Ballhausplatz 2  
+1010 Wien  
+E-Mail: verfassungsdienst@bka.gv.at  
+ 
+ Auskunft:  
+Mag.a Sara Kofler, BSc  
+T +43 5574 511 20216  
+ 
+Zahl:  PrsG -012-1/BG -1140  
+Bregenz, am 14.04.2021  
+ 
+ 
+ 
+ 
+Betreff:  Bundesgesetz mit dem das Bundes -Verfassungsgesetz, das Rechnungshofgesetz 
+1948 und das Verfassungsgerichtshofgesetz 1953 geändert und ein 
+Informationsfreiheitsgesetz erlassen werden; Stellungnahme  
+Bezug:  Schreiben vom 22. Februar 2021, GZ: 2021 -0.130.157  
+ 
+ 
+Sehr geehrte Damen und Herren , 
+ 
+zu dem im Betreff genannten Gesetzesentwurf wird Stell ung genommen wie folgt:  
+ 
+Auch wenn die Zielsetzung des gegenständlichen Vorhabens grundsätzlich positiv gesehen wird, 
+bestehen aus Sicht des Landes doch zahlreiche Bedenken zur konkreten Ausgestaltung des 
+Entwurfs.  
+ 
+1. Allgemeine Bemerkungen : 
+Kosten  / Zust immungsrecht : 
+Die Verpflichtung Informationen von allgemeinem Interesse proaktiv zu veröffentlichen wird 
+jedenfalls zu einem erheblichen Mehraufwand in Bezug auf Infrastruktur - und Personalkosten für 
+das Land führen. Eine seriöse Kostenabschätzung ist aufg rund der noch fehlenden Details dazu, 
+wie die Erfassung dieser Informationen im Informationsregister zu erfolgen hat, noch nicht 
+möglich. Die Frage des technischen Aufwandes ist letztlich auch davon abhängig, welche Daten 
+aus welchen Anwendungen in welcher  Form über welche Schnittstellen an das geplante zentrale 
+Informationsregister (data.gv.at) zu liefern sein werden.  Die nähere Ausgestaltung des 
+Informationsregisters  wird  in diesem Zusammenhang  von wesentlicher Bedeutung für den 
+Kostenaufwand sein . Vor di esem Hintergrund wird ausdrücklich ein Zustimmungsrecht  der 
+Länder  auch zur Durchführung sverordnung des Bundes  verlangt (siehe die Bemerkungen zu § 4 
+Informationsfreiheitsgesetz – IFG).  
+ 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 14
+www.parlament.gv.at
+ 
+Seite 2 Hinzu kommt ein erheblicher Personalaufwand für die Prüfung, ob es s ich um Informationen von 
+allgemeinem Interesse handelt und ob der Veröffe ntlichung keiner der in Art. 22 a Abs. 2 B -VG 
+bzw. § 6 IFG genannten Geheimhaltungsgründe entgegensteht, für die allfällige redaktionelle 
+Aufbereitung von Informationen und die laufend e Prüfung, ob diese Informationen auch 
+weiterh in bereitgehalten werden müssen  und die Verlinkungen im Informationsregister noch 
+aktuell sind,  sowie  für die Prüfung und Bearbeitung einlangender Informationsbegehren 
+(inklusive  der dafür erforderlichen Intere ssensabwägung , der Anhörung von betroffenen 
+Personen  sowie  einer allfälligen Unkenntlichmachung  von Teilen, welche der Geheimh altung 
+unterliegen).  
+ 
+Wie in der Wirkungsfolgenabschätzung ausgeführt, ist insbesondere in der Anfangsphase mit 
+einem erhöhten Auf kommen an Informationsbegehren zu rechnen, welche einen erhöhten 
+Personal - und Sachaufwand verursachen werden. Weiters kann aus derzeitiger Sicht noch nicht 
+beurteilt werden, ob es durch die proaktive Pflicht zur Veröffentlichung gegenüber dem 
+derzeitigen Aufkommen an Auskunftsbegehren tatsächlich zu einer derartigen Verringerung von 
+Informationsbegehren kommt, dass sich die Einführung der Maßnahmen kostenneutral auswirkt.  
+Dabei ist auch zu beachten, dass von der Informationsfreiheit auch Organe erfasst wer den, 
+welche bislang nicht der Auskunftspflicht unterlagen.  
+ 
+Darüber hinaus geht aus der Wirkungsfolgenabschätzung  nicht eindeutig hervor, ob es sich bei 
+den Einmalkosten für die Ausweitung der Plattform data.gv.at sowie den zusätzlichen Kosten für 
+den jährlichen Betrieb um Aufwendungen des Bundes handelt. Es wird allerdings davon 
+ausgegangen.  
+ 
+Die Ausführungen in der Wirkungsfolgenabschätzung, wonach von einer weitgehenden 
+Kostenneutralität auszugehen ist, können daher nicht nachvollzogen werden. Vielmehr w ird 
+ersucht, den erhöhten Aufwand in einer angemessenen Kostendarstellung seriös dazustellen.  
+ 
+Vor dem Hintergrund der Judikatur des Verfassungsgerichtshofes, dass eine fehlende 
+Kostendarstellung  derart gewertet wird, als ob gar „keine Gelegenheit zur Stel lungnahme“ 
+gemäß Art. 1 Abs. 4 der Vereinbarung über einen Konsultationsmechanismus eingeräumt wurde 
+(Erkenntnis des VfGH vom 12.02.2014, F1/2013 -20, zur Eisenbahnkreuzungsverordnung), wird 
+auf Art. 4 dieser Vereinbarung hingewiesen, wonach bei nicht erfol gter Kostendarstellung der 
+Mehraufwand vom Bund zu tragen ist.  
+ 
+Kompet enzgrundlage: 
+In Art. 22a Abs. 4 Z. 1 B -VG ist vorgesehen, dass die näheren Regelungen zum Recht auf 
+Informationszugang gemäß den Abs. 1 bis 3 ausschließlich in einem besonderen Bundesge setz 
+und nur in diesem (IFG) einheitlich zu treffen sind. Zur Sicherstellung, dass weiterhin (spezielle) 
+Regelungen zur Ausgestaltung des Rechts auf Zugang zu Informationen auch außerhalb dieses 
+einheitlichen Bundesgesetzes , z.B. im Verwaltungsverfahrensre cht, im Umweltinformationsrecht 
+oder im Archivrecht, getroffen werden können, bedarf es unseres Erachtens einer Ergänzung des 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 14
+www.parlament.gv.at
+ 
+Seite 3 Art. 22a Abs. 4 Z. 1 B -VG nach dem Vorbild des Art. 136 Abs. 2 B-VG (s. näher die Ausführungen 
+zu Art. 22a Abs. 4 B -VG und §  16 IF G). 
+ 
+Einbeziehung von Organen der Gesetzgebung in die Vorschriften über die Informationsfreiheit:  
+Dass auch Organe der Gesetzgebung der Verpflichtung zur Informationsfreiheit unterliegen 
+sollen, wird unbeschadet der ebenfalls erfolgten Einbeziehung der Org ane der Gerichtsbarkeit 
+sowie des Ausschlusses einer Rechtsmittelmöglichkeit nach wie vor kritisch  gesehen. In diesem 
+Zusammenhang wird auch auf die gemeinsame Länderstellungnahme vom 21. August 2020, VSt -
+4700/43, verwiesen, mit der gefordert wurde, dass s ich – wenn überhaupt – die Anforderungen 
+an die Organe der Gesetzgebung unmittelbar aus der Verfassung ergeben sollten und 
+Informationspflichten der Gesetzgebungsorgane des Landes, die sich nicht unmittelbar aus 
+Verfassungsrecht, sondern aus einfachem Bund esrecht ergeben, abgelehnt werden. Besonders 
+kritisch wird in diesem Zusammenhang die Verpflichtung der Gesetzgebungsorgane gesehen, 
+Informationen von allgemeinem Interesse gemäß § 4 IFG im Informationsregister zu 
+veröffentlichen und dabei an die Durchführ ungsverordnung über die näheren technischen 
+Voraussetzungen gebunden zu sein . Für den Fall, dass die Informationspflicht auch hinsichtlich 
+der Gesetzgebungsorgane beibehalten werden sollte  (was kritisch gesehen wird , vgl. dazu auch 
+den kürzlich gefassten  ablehnenden  Beschluss der Konferenz der Landtag spräsidentinnen und 
+Landtagsprä sidenten ), sollte  jedenfalls  eine Ausnahme von der Verpflichtung , die zu 
+veröffentlichenden Informationen über das Informationsregister zugänglich zu machen , 
+vorgesehen werden sow ie eine Klarstellung dahingehend erfolgen, dass Fraktionen, Klubs und 
+einzelne Abgeordnete keine Organe der Gesetzgebung im Sinne des Art. 22a B -VG sind. Darüber 
+hinaus sollten Organe der Gesetzgebung jedenfalls von der individuellen Informationserteilung 
+gemäß Art. 22a Abs. 2 B -VG ausgenommen werden, da aufgrund des Tä tigkeitsbereiches dieser 
+Organe  grundsätzlich davon auszugehen ist, dass bei diesen in aller Regel Informationen von 
+allgemeinem Interesse vorliegen, die ohnehin veröffentlicht werden.  
+ 
+Einbe ziehung von Organen der Gerichtsbarkeit  in die Vorschriften über die Informationsfreiheit : 
+Hinsichtlich der Landesverwaltungsgerichte ist noch völlig offen, wie das Verfahren und der 
+Rechtsschutz hinsichtlich des Informationszuganges bei den Landesverwaltu ngsgerichten selbst 
+aussehen soll. Im gegenständlichen Entwurf finden sich dazu noch keine Regelungen. Diese 
+können daher unsererseits auch noch nicht beurteilt werden. Darüber hinaus ist darauf 
+hinzuweisen, dass die Landesverwaltungsgerichte im Rahmen ihr er gerichtlichen Tätigkeit, 
+praktisch nur individuelle Verfahren durchführen, die der Vorbereitung einer Entscheidung 
+dienen. Eine Informationserteilung über die interne Willensbildung der gerichtlichen  
+(Kollegial -)Organe, muss vor dem Hintergrund der rich terlichen Unabhängigkeit ohnehin 
+ausgeschlossen sein. Die Entscheidungen selbst sind, wenn sie von grundsätzlicher Bedeutung 
+sind, bereits jetzt gemäß § 6 Abs. 5 Vorarlberger Landesverwaltungsgerichtsgesetz zu 
+veröffentlichen. Außerdem sieht § 29 Abs. 3 Vw GVG die Einsichtnahme in das Erkenntnis für 
+jedermann vor, wenn eine Verhandlung nicht durchgeführt (fortgesetzt) worden ist oder das 
+Erkenntnis nicht sogleich nach Schluss der mündlichen Verhandlung gefasst werden kann.  Von 
+daher ist fraglich, ob die im E ntwurf vorgesehene Informationspflicht überhaupt einen Mehrwert 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 14
+www.parlament.gv.at
+ 
+Seite 4 gegenüber der gegenwärtigen Rechtslage schafft. Vielmehr ist nicht ausgeschlossen, dass es 
+durch die Erwartungshaltung der Rechtsanwender zu zahlreichen Verfahren kommen könnte, die 
+entspreche nd der noch zu schaffenden Regelungen formell zu erledigen wären und damit 
+Ressourcen binden würden. Aus diesem Grund wird angeregt, die Organe der Gerichtsbarkeit 
+zumindest von der individuellen Informationserteilung nach Art. 22a Abs. 2 B -VG auszunehmen.  
+ 
+2. Zum Entfall  der Amtsverschwiegenheit  (Art. 20 Abs. 3 B -VG): 
+Es ist darauf hinzuweisen, dass die für öffentlich Bedienstete in den jeweiligen 
+Dienstrechtsgesetzen festgelegt e Verpflichtung zu Amtsverschwiegenheit (gleichlautend mit Art. 
+20 Abs. 3 B -VG) und die strafrechtlichen Folgen ihrer Verletzung (§ 310 StGB) durch den 
+vorliegenden Gesetzesentwurf weder ab geschafft noch geändert werden.  Diese Bestimmungen 
+wären daher in der Folge auf ihre Konsistenz mit dem Informationsfreiheitsgesetz zu prüfen und 
+gegebenenfalls fortzuentwickeln.  
+ 
+3. Zur proaktiven Veröffentlichungspflicht und zum Informationsregister  (Art. 22a Abs. 1 B -VG 
+und § 4 IFG ): 
+Zur Veröffentlichung von Informationen von allgemeinem Interesse:  
+Der Begriff der „Informationen von allgemeinem I nteresse“, nach dem sich die Verpflichtung zur 
+Veröffentlichung nach Art. 22a Abs. 1 B -VG und § 4 IFG richtet, ist trotz bzw. gerade wegen der 
+demonstrativen Aufzählung in § 2 Abs. 2 IFG unklar und bedarf einer weiteren Präzisierung, da es 
+ansonsten im Vol lzug zu erheblichen Rechtsunsicherheiten kommen kann.  
+ 
+„Informationen von allgemeinem Interesse“ sind Informationen, die nicht einen individuellen, 
+sondern einen „allgemeinen Personenkreis“ betreffen oder für einen solchen relevant sind (§ 4 
+IFG).  
+ 
+Welche Informationen tatsächlich darunter fallen, ist ebenso ungeklärt, wie die Frage, welche 
+Kriterien und Parameter für die Bewertung des „allgemeinen Interesses“ heranzuziehen sind.  
+ 
+Im Sinne der Rechtssicherheit sollte möglichst präzise im Gesetz selbst  gerege lt werden, was der 
+proaktiven Veröffentlichungspflicht unterliegt. Dabei ist zu berücksichtigen, dass neben der 
+proaktiven Veröffentlichungspflicht die Möglichkeit des individuellen Zuganges zu Informationen 
+bleibt (Art. 22a Abs. 2 und §§ 5 ff IFG), wo im Einzelfall eine sachgerechte Abwägung zwischen 
+dem Recht auf Information und allfälligen Geheimhaltungsgründen stattzufinden hat.  
+ 
+Zum Informationsregister  (§ 4 IF G): 
+In § 4 Abs. 1 IFG sollte der Ausdruck „und solange“  entfallen , da es in Abs. 1 nicht um d ie Dauer 
+der Bereithaltung geht. Die Dauer der Bereithaltung ergibt sich aus § 4 Abs. 3 IFG. In diesem 
+Zusammenhang sollten auch die Erläuternden Bemerkungen überarbeitet werden, da sich der 
+dritte Absatz eigentlich auf Abs. 3 beziehen müsste aber zwischen  zwei Absätzen , die sich 
+offensichtlich auf Abs. 1 beziehen , eingeschoben wurde.  
+ 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 14
+www.parlament.gv.at
+ 
+Seite 5 In den Erläuterungen findet sich die Aussage, dass i m Falle der Veröffentlichung ein Schutz der 
+Geheimhaltungsinteressen durch teilweise Unkenntlichmachung erfolgen kann. Hie r stellt sich 
+die Frage, wie weit in einem solchen Fall der Bearbeitungsaufwand für die informationspflichtige 
+Stelle reicht. Insbesondere wird nicht wie in § 9 Abs. 2 IFG ein unverhältnismäßiger Aufwand als 
+Grenze genannt (vgl. auch die Ausführungen zu § 9 Abs. 2  IFG). 
+ 
+Die näheren technischen Voraussetzungen  für das Informationsregister  sollen gemäß § 4 Abs. 3 
+IFG in einer Verordnung festgelegt werden. Diese technischen Voraussetzungen haben 
+wesentliche Auswirkungen hinsichtlich des Aufwandes und der dami t verbundenen Kosten für die 
+Länder. Es wird daher  ausdrücklich  gefordert, dass auch diese Verordnung nur mit Zustimmung 
+der Länder kundgemacht  werden kann. Die bloße Mitwirkung bei der Vorbereitung der 
+Verordnung, wie sie derzeit in § 4 Abs. 4 IFG vorgese hen ist, ist dafür nicht ausreichend. 
+Alternativ könnte auch eine Bestimmung nach dem Vorbild des Art. 14b Abs. 5 B -VG in Art. 22a B -
+VG vorgesehen werden.  
+ 
+Angeregt wird , die demonstrative Aufzählung der Metadaten in den Erläuternden Bemerkungen 
+zu § 4 Abs . 3 IFG um die Position Geschäftszahl/Fundstelle oder Ähnliches zu ergänzen. Diese 
+Information hätte den Zweck, dass die Originalinformation dokumentier t, auffindbar und 
+überprüfbar ist und bleibt. Es wird allerdings erwartet, dass eine nähere Regelung der  
+erforderlichen Metadaten in der Durchführungsverordnung gemäß § 4 Abs. 3 IFG erfolgen wird.  
+ 
+4. Zum Recht auf Zugang zu Information  gegenüber den Organen der Gesetzgebung, der 
+Verwaltung und  der Gerichtsbarkeit  (Art. 22 a Abs. 2 B -VG und § § 5 und 7 bis 12  IFG):  
+Festzuhalten ist , dass durch die vorzunehmenden Interessensabwägungen und die allenfalls 
+erforderliche teilweise Bereitstellung von Informationen verbunden mit einer allenfalls 
+erforderlichen Anhörung von betroffenen Personen  ein erheblicher Mehraufw and für die 
+Verwaltung zu erwarten  ist (siehe auch die Ausführungen zu den Kosten unter Punkt 1.).  
+ 
+Es wird angeregt, sowohl in Art. 22a Abs. 2 B -VG als auch in § 5 IFG den Ausdruck „jedermann“ 
+durch den Ausdruck „jede Person“ zu ersetzen, zumal ohnehin ni cht nur natürliche, sondern auch 
+juristische Personen Informationen verlangen können sollen.  
+ 
+Zur Frist für die Informationserteilung (§ 8 IFG):  
+Die Möglichkeit der Verlängerung der Frist um vier Wochen (insgesamt 8 Wochen) ist jedenfalls 
+erforderlich. Kür zer darf die Frist für die Informationserteilung keinesfalls ausfallen, insbesondere 
+wenn man bedenkt, dass uU eine Anhörung von betroffenen Person en stattzufinden hat ( vgl. 
+aber auch die Ausführungen zu § 10 IFG).  
+ 
+Zur Form der Informationserteilung  (§ 9 IFG): 
+§ 9 Abs. 1 IFG legt fest, dass die Information in beantragter oder sonst tunlicher Form , möglichst 
+durch unmittelb aren Zugang zur Information, zu erteilen ist. In diesem Zusammenhang ist 
+jedenfalls klarzustellen, dass damit kein Recht auf Zugang zu O riginaldokumenten  eingeräumt 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 14
+www.parlament.gv.at
+ 
+Seite 6 wird. Auch der Zugang zu einer Reproduktion  des Originaldokumentes  (Kopie, Scan)  muss 
+jedenfalls ausreichend sein. Im Falle einer teilweisen Informationserteilung (§ 9 Abs. 2) wird sich 
+dies auch gar nicht vermeiden lassen.  
+ 
+Der Begriff des unverhältnismäßigen Aufwandes  in § 9 Abs. 2 IFG  ist nach wie vor unklar ; auch 
+die Erläuternden Bemerkungen  geben  keine Anhaltspunkte dahingehend, was unter diesem 
+Ausdruck zu verstehen ist. Gerade im Fall der Ablehnung eines Informationsersuc hens kommt der 
+Auslegung diese s Begriffes große Bedeutung zu.  
+ 
+Ebenso ist unklar, wann gemäß § 9 Abs. 3 IFG eine wesentliche und unverhältnismäßige 
+Beeinträchtigung der sonstigen Tätigkeit  des Organes anzunehmen ist. Die in den Erläuterungen 
+angeführten Ju dikate tragen ebenfalls nicht zur Klärung dieser Frage bei und wird dort nur ein 
+Beispiel dafür genannt, wann keine wesentliche und unverhältnismäßige Beeinträchtigung 
+vorliegt. Darüber hinaus stellt sich die Frage, wann etwa eine wesentliche Beeinträchtig ung auch 
+unverhältnismäßig ist. Hier bedarf es einer weiteren Präzisierung, insbesondere durch das 
+Anführen von Beispielen, wann von einer derartigen Beeinträchtigung – im Gegensatz zu einem 
+bloß  unverhältnismäßigen Aufwand (siehe  § 9 Abs.  2 IFG)  auszuge hen ist.  
+ 
+Zur Anhörung betroffener Personen (§ 10 IFG):  
+Nach § 10 IFG sind betroffene Personen vom zuständigen Organ tunlichst zu hören, wenn die 
+Erteilung der Information in deren Rechte eingreift. Gemäß den Erläuterungen bedeutet dies, 
+dass betroffene Pe rsonen, dann anzuhören sind, wenn das informationspflichtige Organ vorläufig 
+zur Auffassung kommt, dass die entsprechende Information zu erteilen ist. Da die Äußerung der 
+betroffenen Person für das informationspflichtige  Organ nicht bindend ist, kann es al lerdings 
+sein, dass die Information dennoch erteilt wird. Erachtet sich die betroffene Person durch die 
+Informationserteilung in ihrem Grundrecht auf Datenschutz verletzt, so kann sie eine Beschwerde 
+an die Datenschutzbehörde richten. Wie allerdings die be troffene Person von der erfolgten 
+Informationserteilung erfahren soll, bleibt nach dem derzeitigen Entwurf offen.  
+ 
+Grundsätzlich stellt sich die Problematik der Interessensabwägung bereits nach dem bisherigen 
+Auskunftsrecht. Eine Auskunft kann nur dann ert eilt werden, wenn keine datenschutzrechtlichen 
+Bedenken entgegenstehen. Eine Anhörung betroffener Personen ist dabei nicht verpflichtend 
+vorzunehmen, wäre aber im Einzelfall nicht ausgeschlossen. Die nunmehr vorgesehene generelle 
+Verpflichtung zur Anhörung  der betroffenen Person wird in der Praxis einen erheblichen 
+Verwaltungsaufwand verursachen und erscheint beispielsweise in jenen Fällen, in denen 
+aufgrund der bisherigen Judikatur davon auszugehen ist, dass das öffentliche Interesse an der 
+Informationsert eilung jedenfalls überwiegen wird (vgl. z.B. VfGH 04.03.2021, E 4037/2020  zu Art. 
+10 EMRK), nicht geboten bzw . zweckmäßig.  Da in der Regel bei personenbezogenen Vorgängen 
+auch die Kontaktdaten vorhanden sein werden, ist damit zu rechnen, dass eine Kontakta ufnahme 
+mit der betroffenen Person zwar ohne weiteres erfolgen kann, jedoch eine Anhörung der 
+betroffenen Person und eine Erledigung innerhalb der Frist gemäß § 8  IFG in vielen Fällen nicht 
+möglich sein wird.  69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 14
+www.parlament.gv.at
+ 
+Seite 7  
+Eine generelle Verpflichtung zur Anhörung der betroffenen Person wird daher abgelehnt. Falls es 
+aus datenschutzrechtlichen Erwägungen für erforderlich gehalten wird, sollte eher eine 
+Information der betroffenen Personen über die erfolgte Informationserteilung stattfinden, 
+welche diese in die Lage vers etzen würde, eine Beschwerde bei der Datenschutzbehörde 
+einzubringen. Dem informationspflichtigen Organ bliebe es dennoch unbenommen, eine 
+Anhörung betroffener Personen vorzunehmen, wenn es eine solche im Rahmen der 
+Interessensabwägung für erforderlich häl t. 
+ 
+Zum Rechtsschutz (§ 11 IFG):  
+Beim Landes -Rechnungshof und beim Landes -Volksanwalt handelt es sich um Organe der 
+Gesetzgebung (auch wenn diese in Art. 22a B -VG gesondert aufgezählt werden). Es sollte daher  
+im Zusammenhang mit § 11 Abs. 2 IFG klargestell t werden, dass der Ausschluss eines 
+Rechtsmittels auch für sie gilt.  
+ 
+Die zu § 11 Abs. 3  IFG angeführte Begründung für den Ausschluss der Möglichkeit der 
+Nachholung des Bescheides (§ 16 VwGVG) überzeugt nicht. Es ist nicht nachvollziehbar, dass in 
+einem so lchen Fall keine Aussicht auf Erfolg besteht. Nach den Erläuterungen soll es zulässig sein, 
+dass mit dem Ant rag auf Informationszugang für den Fall der Nichterteilung ein Eventualantrag 
+auf Erlassung eines Bescheides gestellt wird. In diesem Fall beginnt d ie Frist für die  Erlassung des 
+Bescheides bereits mit Einlangen des Informationsbegehrens zu laufen. Die 
+informationspflichtige Stelle hat in diesem Fall binnen höchstens 8 Wochen die Information zu 
+erteilen oder binnen zwei Monaten einen Bescheid zu erlas sen. Gerade in komplexen Fällen , in 
+denen verschiedene Interessen gegeneinander abgewogen werden müssen, kann es sein, dass 
+eine Informationserteilung innerhalb der Frist bzw. die Erlassung des Bescheides, der in einem 
+solchen Fall wohl auch einer eingehen den Begründung bedarf,  ausnahmsweise  nicht möglich ist. 
+In einem solchen Fall wäre auch nach Einbringung einer Säumnisbeschwerde die 
+Informationserteilung sowie die Erlassung eines negativen Bescheides möglich. Es ist daher nicht 
+ersichtlich inwiefern sich  ein solcher Sachverhalt von anderen Informationsrechtsakten wie z.B. 
+dem Umweltinformationsgesetz, wo eine solche Sonderregelung offenbar nicht als erforderlich 
+erachtet wurde, oder von anderen Verfahren , in denen innerhalb der Nachfrist eine Entscheidung  
+sowohl zugunsten als auch zuungunsten des Beschwerdeführers getroffen werden kann , 
+unterscheidet . In einem solchen Fall könnte der Ausschluss des § 16 VwGVG allenfalls auch eine 
+Verzögerung hinsichtlich des Informationszuganges bewirken, da das Verwaltung sgericht, wenn 
+es in der Sache selbst entscheidet, dieselben Interessensabwägungen vorzunehmen hat wie die 
+Behörde. Sollte es aus Gründen der Verfahrensstraffung unbedingt erforderlich sein, wäre es 
+jedenfalls sachgerechter, die in § 16 VwGVG vorgesehene Nachholfrist entsprechend zu 
+verkürzen . 
+ 
+5. Zu den Geheimhaltungsgründen (Art. 22 a Abs. 2 B -VG und § 6 IFG):  
+Die verfassungsgesetzlichen Grundlagen der neuen Informationsfreiheit müssen es weiterhin 
+ermöglichen, dass materiengesetzliche Verschwiegenheitspfl ichten  dort vorgesehen werden 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 14
+www.parlament.gv.at
+ 
+Seite 8 können, wo dies zur Klarstellung von Geheimhaltungsgründen nach Art. 22a Abs. 2 B -VG für 
+notwendig angesehen wird (z.B. für bestimmte Ausschusstätigkeiten, für Tätigkeiten von Kinder - 
+und Jugendanwälten, Antidiskriminierungs - und Gleichbehandlungsbeauftragten, 
+Patientenanwälten, in Krankenanstalten oder in der Kinderbetreuung tätigen Personen ). Dies ist 
+durch eine Ergänzung des Art. 22a Abs. 4 Z. 1 B -VG (siehe die Anmerkungen zu dieser 
+Bestimmung) sicherzustellen, da nach dem d erzeitigen Entwurf nicht erkennbar ist, inwiefern für 
+die Länder neben der Gesetzgebungskompetenz des Bundes überhaupt Raum für eine 
+Konkretisierung von Geheimhaltungsgründen (auch wenn dies in den Erläuternden Bemerkungen 
+so ausgeführt wird) und materiens pezifisch notwendige Regelungen bleibt.  
+ 
+Weiters ist zu beachten, dass die öffentliche Hand zum Teil Wirtschaftsakteuren gegenübersteht, 
+die die Geheimhaltung wesentlicher Vertragsbestandteile  aus Wettbewerbsgründen zur 
+Voraussetzung für den Vertrags abschluss machen. Da es sich dabei teilweise um 
+betriebsnotwendige Beschaffungsvorgänge (z.B. Software für den Amtsbetrieb) handelt, kann 
+nicht auf den Abschluss solcher Verträge verzichtet werden. Gleichzeitig können solche Verträge 
+nicht veröffentlicht und auc h nicht auf Antrag zugänglich gemacht werden. Es fehlt im 
+vorliegenden Entwurf eine praxistaugliche Lösung , wie mit solchen Informationen umzugehen 
+ist. Uns ist völlig klar, dass durch eine Erweiterung der Geheimhaltungstatbestände die Gefahr 
+besteht, dass  durch ein e geschickte Vertragsgestaltung  das Recht auf Informationsfreiheit 
+ausgehebelt wird. Andererseits bestehen Zweifel daran, ob selbst im Falle einer vereinbarten 
+Konventionalstrafe der Geheimhaltungsgrund der „Abwehr eines erheblichen  wirtschaftlic hen 
+oder finanziellen Schadens“ vorliegt. Diese Problematik muss jedenfalls einer Lösung zugeführt 
+werden.  
+ 
+6. Zum Recht auf Zugang zu Informationen gegenüber Stiftungen, Fonds, Anstalten und 
+Unternehmungen (Art. 22a Abs. 3 B -VG und §§ 13 und 14 IFG ): 
+Es ist fraglich, ob diese Regelung en auch unter Berücksichtigung des Ziels, staatliches Handeln 
+transparenter zu machen, nicht über schießend sind. Vor dem Hintergrund des zurecht 
+angeführten Geheimhaltungsgrundes der unmittelbar drohenden Beeinträchtigung der 
+Wettbewerbsfähigkeit  der Unternehmung zeigt sich, dass Konflikte zwischen im Wettbewerb 
+stehenden Unternehmen vorprogrammiert sind. Die vorliegende Regelung benachteiligt das 
+informationspflichtige Unternehmen, das der Kontrolle des Rechnungshofes oder 
+Landesrechnungshofes unterliegt, und bevorzugt das informationsberechtigte Unternehmen, das 
+keiner solchen Kontrolle unterliegt.  
+ 
+7. Zur Gesetzgebungskompetenz und dem Mitwirkungsrecht der Länder (Art. 22 a Abs. 4  B-VG): 
+Das in Art. 22a Abs. 4 B -VG vorgesehene  Mitwirkungsrecht der L änder nach dem Vorbild des 
+Art. 14b Abs.  4 B-VG wird ausdrücklich begrüßt. Als problematisch wird allerdings erachtet, dass 
+die Änderung des B -VG offenbar gleichzeitig mit dem Informationsfreiheitsgesetz als 
+Sammelgesetz beschlossen werden soll. Dies würde bedeuten, dass das Zustimmungsrecht der 
+Länder gemäß Art. 22a Abs. 4  Z. 1 B-VG zum Zeitpunkt, an dem die Zustimmung der Länder 
+einzuholen wäre, noch nicht in Kraft ist und das Informationsfreiheitsgesetz letztlich auch ohne 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 14
+www.parlament.gv.at
+ 
+Seite 9 Zustimmu ng der Länder kundgemacht werden könnte. Es muss daher zunächst  die 
+verfassungsrechtliche Grundlage in Kraft gesetzt werden, bevor das Ausführungsgesetz erlassen 
+wird, oder von anderen legistischen Möglichkeiten Gebrauch gemacht werden, um dem 
+Zustimmungsr echt der Länder für das IFG zur Wirksamkeit zu verhelfen. Es könnte etwa  eine 
+Verfassungsbestimmung im IFG aufgenommen werden , wonach dieses Gesetz nur mit 
+Zustimmung der Länder kundgemacht werden darf , sowie eine ebenfalls als 
+Verfassungsbestimmung gestal tete Inkrafttretensregelung, die diese Bestimmung rückwirkend  
+(vor dem Zeitpunkt der Beschlussfassung im Nationalrat) in Kraft treten lässt.  
+ 
+Darüber hinaus wird gefordert, den Art. 22a Abs. 4 Z. 1 B -VG nac h dem Vorbild des Art.  136 
+Abs.  2 B-VG wie folgt z u ergänzen : „Durch Bundes - oder Landesgesetz können abweichende 
+Regelungen getroffen werden, wenn sie zu r Regelung des Gegenstandes erforderlich sind oder 
+soweit das im ersten Satz genannte  besondere Bundesgesetz dazu ermächtigt.“  Diese Ergänzung 
+ist unser es Erachtens zur verfassungsrechtlichen Absicherung des § 16 IFG erforderlich und soll 
+gewährleisten, dass materienspezifische Sonderregelungen dort vorgesehen werden können, wo 
+dies erforderlich ist. Landesregelungen über den Zugang zu Informationen, z .B. in den 
+Umweltinformationsgesetzen, in den Geodateninfrastrukturgesetzen oder im Archivrecht, wären 
+vor dem Hintergrund der Vorgabe der Regelung in einem einheitlichen Bundesgesetz ansonst en 
+kompetenzrechtswidrig . Auch entsprechende Bundesregelungen außerh alb des 
+Informationsfreiheitsgesetzes wären verfassungswidrig . Dabei ist insbesondere zu beachten, 
+dass im Gegensatz zur derzeitigen Auskunftspflicht mit Art. 22a B -VG ein subjektives Recht auf 
+Zugang zu Information geschaffen wird, das aufgrund von Art. 2 2a Abs. 4 Z. 1 B -VG nur durch den 
+Bund, und zwar in einem besonderen einheitlichen Bundesgesetz und nur in diesem (dem IFG) 
+ausgestaltet werden kann. Dagegen schafft der derzeitige Art. 20 Abs. 4 B -VG kein 
+verfassungsgesetzlich gewährleistetes Recht, sonde rn lediglich die objektive 
+verfassungsgesetzliche Verpflichtung des zuständigen einfachen Gesetzgebers , Umfang und 
+Verfahren der Auskunftsverpflichtung näher zu regeln und dabei ein subjektives Recht auf 
+Auskunft vorzusehen (VfSlg. 12.838). Mangels eines v erfassungsgesetzlich gewährleisteten 
+Rechts sowie mangels des Erfordernisses eines einheitlichen Gesetzes stand der Bestimmung des 
+§ 6 Auskunftspflichtgesetz, wonach dieses gegenüber anderen Auskunftspflichten nur subsidiär 
+gilt, nichts entgegen. Auch die Länder konnten unter  Bindung an das Grundsatzgesetz des Bundes 
+nähere Regelungen betreffend die Auskunftserteilung schaffen . Damit  ist auch die Ausgangslage 
+für den geplanten § 16 IFG eine andere.  
+ 
+8. Zu weiteren Bestimmungen des IFG:  
+Zuständigkeit zur Inf ormationserteilung  (§ 3 IFG ): 
+Die Verwendung des Begriffes „insbesondere“ im Zusammenhang  mit der Aufzählung in §  3 
+Abs.  1 IFG wirkt irreführend. Er sollte wohl darauf hinweisen, dass es sich bei der Aufzählung um 
+eine demonstrative handelt, wirkt aber sta ttdessen so, als wären neben den genannten Organen 
+auch noch andere Organe für die Informationserteilung  zuständig. Es wird daher vorgeschlagen , 
+den Beginn des zweiten Satzes durch folgende Wortfolge zu ersetzen : „Für die nachfolgenden 
+Organe ist dies …“. Darüber hinaus könnte in den Erläuternden Bemerkungen klargestellt 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 14
+www.parlament.gv.at
+ 
+Seite 10 werden, dass es sich dabei um eine demonstrative Aufzählung handelt und sich die Zuständigkeit 
+ansonsten  (z.B. betreffend die Bundes - und Landesverwaltung)  nach § 3 Abs. 1 erster Satz 
+besti mmt.  
+ 
+In Bezug auf Informationen, die auf verschiedenen Ebenen vorhanden sind , sollte  bereits im 
+Gesetz  klar geregelt werden, welche Stelle zur Veröffentlichung bzw. Herausgabe der Information 
+verpflichtet ist. Informationspflichtig sollte jene Stelle sein , die die Information ursprünglich 
+erstellt  oder in Auftrag gegeben  hat ( Herkunftsprinzip ). Der  in § 3 Abs. 1 erster Satz IFG  
+verwendete Begriff „zu dessen Wirkungsbereich die Information gehört“ ist dafür zu unscharf. 
+Unseres Erachtens gehören  Information en, die beispielsweise eine prüfende Stelle von einer 
+geprüften Stelle im Rahmen der Prüfung eingeholt hat, auch zum Wirkungsbereich der prüfenden  
+Stelle. Solche Konstellationen ergeben sich etwa im Verhältnis zwischen Gemeinde und 
+Aufsichtsbehörde, Selbst verwaltungskörper und Aufsichtsbehörde, belangte Behörde und 
+Verwaltungsgericht sowie der geprüften Stelle und dem Rechnungshof oder Landes -
+Rechnungshof aber auch hinsichtlich Informationen der Länder die beispielsweise im 
+Rechtsinformationssystem des Bund es vorhanden sind.  Ohne eine entsprechende Klarstellung 
+wäre es  beispielsweise  möglich, dass unterschiedliche Stellen dieselbe Information in 
+unterschiedlichem Umfang erteilen bzw. auch mehrere Stellen eine Stellungnahme de rselben 
+betroffenen Personen  einh olen werden.  Darüber hinaus ist zu berücksichtigten, dass für private 
+Informationspflichtige ein eigener Geheimhaltungsgrund gilt, auf den sich diese berufen können . 
+ 
+Verhältnis zu besonderen Bestimmungen in Bundes - oder Landesgesetzen  (§ 16 IFG) : 
+Die Bede utung des § 16 IFG ist unklar. Damit diese Bestimmung die in den Erläuterungen 
+angesprochene Wirkung entfalten kann, bedarf sie unseres Erachtens einer 
+verfassungsrechtlichen Absicherung  (siehe die Anmerkungen zu Art. 22a Abs. 4  Z. 1 B-VG).  
+ 
+Losgelöst von dieser verfassungsrechtlichen Frage stellt sich die Frage nach der materiellen 
+Bedeutung des § 16 IFG.  Besondere Bestimmungen über den Zugang zu Informationen finden 
+sich z.B.  
+ im Datenschutzrecht,  
+ im Verwaltungsverfahrensrecht,  
+ in den Umweltinformationsges etzen,  
+ in den Geodateninfrastrukturgesetzen oder  
+ im Archivrecht.  
+ 
+Während das Verhältnis zur Akteneinsicht im Verwaltungsverfahren noch so aufgelöst werden 
+kann, dass das Recht auf Akteneinsicht nur für Parteien und das Recht auf Informationszugang für 
+alle anderen gilt, wobei während des laufenden Verfahrens allenfalls der Geheimhaltungsgrund 
+der Vorbereitung einer Entscheidung zur Anwendung kommen wird, ist dies bei anderen 
+Rechtsakten nicht so klar. So bestehen etwa im Umweltinformationsgesetz eigene 
+Verfahrensvorschriften hinsichtlich der Informationserteilung und bestehen z.B. hinsichtlich der 
+Entscheidungsfristen im Rechtsmittelverfahren Unterschiede. Hier würde sich die Frage stellen, 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 10 von 14
+www.parlament.gv.at
+ 
+Seite 11 nach welchem Gesetz di e Behörde vorzugehen hat, wenn der Antrag steller seinen Antrag nicht 
+eindeutig auf eine bestimmte Rechtsvorschrift  stützt.  
+ 
+Die Regelungen über die Weiterverwendung von Informationen des öffentlichen Sektors gemäß 
+der Richtlinie 2003/98/EG, in der Fassung der Richtlinie 2013/37/EU, bzw. ab 17. Juli 2 021 der 
+Richtlinie (EU) 2019/1024  (PSI-Richtlinie)  sowie gemäß den nationalen 
+Durchführungsbestimmungen lassen die nationalen Vorschriften über den Zugang zu 
+Dokumenten unberührt. Den Bestimmungen über die Weiterverwendung unterliegen daher nur 
+Dokumente, die nach dem nationalen Recht zugänglich sind. Somit sind Dokumente, die nach den 
+verfassungsgesetzlichen und einfachgesetzlichen Bestimmungen über die Informationsfreiheit 
+zugänglich sind, grundsätzlich (nach den Bestimmungen der PSI-Richtlinie ) auch zur 
+Weiterverwe ndung zur Verfügung zu stellen. Es muss klar sein, dass diese Regelungen über die 
+Weiterverwendung durch die vorliegenden Regelungen über die Informationsfreiheit nicht 
+berührt werden.  Dabei ist allerdings zu beachten, dass über die Plattform da ta.gv.at auch 
+Verwaltungsdaten veröffentlicht werden, die für eine Weiterverwendung zur Verfügung gestellt 
+werden. Es erscheint fraglich, ob für Interessierte der Unterschied zwischen den Informationen, 
+die nach den Vorschriften über die Informationsfreihe it veröffentlicht werden und bei denen eine 
+Weiterver wendung nicht notwendigerweise zulässig ist, und Informationen, die nach den  
+Bestimmungen betreffend die Weiterverwendung zur Verfügung gestellt werden, möglich bzw. 
+zumutbar ist.  
+ 
+Das Verhältnis zwische n den Bestimmungen über die Informationsfreiheit und den besonderen 
+Bestimmungen in Bundes - und Landesgesetzen muss eindeutig geregelt werden, da es sonst zu 
+erheblichen Unsicherheiten im Vollzug kommen wird. Der derzeitige § 16 IFG erfüllt diese 
+Aufgabe n icht bzw. nur mangelhaft . 
+ 
+Eigener Wirkungsbereich der Gemeinde:  
+Hinsichtlich der bisher geltenden Auskunftspflicht ging der Landesgesetzgeber davon aus, dass es 
+sich bei den Vorschriften über die Auskunftserteilung um organisationsrechtliche Bestimmungen 
+handelt und die Zuständigkeit zur Regelung und zur Vollziehung der Auskunftserteilung  nicht 
+lediglich ein Ausfluss der Zuständigkeit zur Regelung oder Vollziehung des Sachgebietes, über das 
+eine Auskunft erteilt werden soll, ist. Der Vorarlberger Landesges etzgeber kam dabei zu dem 
+Schluss, dass es sich bei der Angelegenheit der „Auskunftserteilung durch die Gemeindeorgane“ 
+um eine Angelegenheit des eigenen Wirkungsbereiches iSd Art. 118 Abs. 2 B -VG handelt. Auch 
+andere Bundesländer haben darin eine Aufgabe der Gemeinde im eigenen Wirkungsbereich 
+erblickt. Unseres Erachtens trifft dies auch für die Angelegenheit der „Informationserteilung 
+durch Gemeindeorgane“ zu. Das IFG hätte die Aufgaben der Gemeinde nach diesem Gesetz  daher  
+gemäß Art. 118 Abs. 2 B -VG ents prechend zu bezeichnen . 
+ 
+9. Zu den Übergangs und Inkrafttretensbestimmungen ( Art. 151 B -VG und § 20 IFG):  
+Die vorgesehene Legisvakanz von 18 Monaten wird begrüßt. Sie wird für die technische und 
+legistische Umsetzung der Informationsfreiheit jedenfalls erf orderlich sein und sollte keinesfalls 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 11 von 14
+www.parlament.gv.at
+ 
+Seite 12 kürzer ausfallen. Auch die Übergangsbestimmung in § 20 Abs. 3 IFG sollte jedenfalls beibehalten 
+werden.  
+ 
+10. Zur Erweiterung der Prü fkompetenz des Rechnungshofes ( Art. 126b Abs. 2, 127 Abs. 3 und 
+127a Abs. 3 B -VG und § § 12 Abs. 1, 15 Abs. 1 und 18 Abs. 1 RHG):  
+Die Prüfbefugnis des Rechnungshofes berührt die staatliche Kontrolle privater Unternehmungen  
+im öffentlichen Interesse als auch die Privatautonomie von Unternehmungen . In diesem 
+Spannungsfeld stellen die derzeitig en Regelungen betreffend die Überprüfung von 
+Unternehmungen, die  zumindest im Hälfteeigentum der jeweiligen Gebietskörperschaft allein e 
+oder gemeinsam mit anderen der Rechnungshofkontrolle unterliegenden Rechtsträgern stehen 
+oder von diesen tatsächlich beh errscht werden , einen angemessenen Ausgleich dar. Eine weitere 
+Ausdehnung in Bereiche, bei denen die öffentliche Beteiligung an eine r Unternehmung  nur noch 
+gering  ist, wird als nicht  notwendig  erachtet. Insbesondere ist zu berücksichtigten, dass die 
+Erweit erung der Prüfbefugnis auch zur Folge hat, dass diese Unternehmungen nach dem 
+vorliegenden Entwurf künftig der Pflicht zur Informationserteilung unterliegen würde n sowie 
+dass für die Bestellung von Mitgliedern des Leitungsorganes das Stellenbesetzungsgeset z zur 
+Anwendung kommen würde.  
+ 
+11. Zur Änderung des Verfassungsgerichtshofgesetzes : 
+Es finden s ich Argumente für und gegen die Ermöglichung eines Sondervotums (dissenting 
+opinion) beim Verfassungsgerichtshof. Aus unserer Sicht erscheinen diese Änderungen nicht 
+notwendig , zumal der Entscheidung des Verfassungsgerichtshofes in der öffentlichen 
+Wahrnehmung, je nach Vorhandensein eines Sondervotums , unterschiedliches Gewicht oder 
+unterschiedliche Autorität beigemessen werden könnte, was nicht als zweckmäßig era chtet wird.  
+ 
+ 
+Freundliche Grüße  
+ 
+Für die Vorarlberger Landesregierung  
+Die L andesstatthalterin  
+ 
+ 
+ 
+Dr. Barbara Schöbi -Fink 
+ 
+ 
+ 
+ 69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 12 von 14
+www.parlament.gv.at
+ 
+Seite 13  
+ 
+Nachrichtlich an:  
+1. Präsidium des Bundesrates, Dr. Karl Renner -Ring 3, 1017 Wien, E -Mail: 
+begutachtungsverfahren@parlinkom.gv.at  
+2. Präsidi um des Nationalrates, Dr. Karl Renner -Ring 3, 1017 Wien, E -Mail: 
+begutachtungsverfahren@parlament.gv.at  
+3. Bundeskanzleramt, Ballhausplatz 2, 1010 Wien, E -Mail: verfassungsdienst@bka.gv.at  
+4. Frau Bundesrätin Heike Eder, E -Mail: heike.eder@parlament.gv.at  
+5. Frau Bundesrätin Mag. Christine Schwarz -Fuchs, E -Mail: christine.schwarz -
+fuchs@parlament.gv.at  
+6. Herrn Bundesrat Dipl. -Ing. Dr. Adi Gross, E -Mail: adi.gross@parlament.gv.at  
+7. Herrn Nationalrat Karlheinz Kopf, Rheinstraße 24, 6844 Altach, E -Mail: 
+karlheinz.kopf@parlament.gv.at  
+8. Herrn Nationalrat Ing. Reinhold Einwallner, St -Gebhard -Straße 10/3, 6900 Bregenz, E -
+Mail: reinhold.einwallner@parlament.gv.at  
+9. Herrn Nationalrat N orbert Sieber, Fluh 37, 6900 Bregenz, E -Mail: 
+norbert.sieber@parlament.gv.at  
+10. Herrn Nationalrat Dr. Reinhard Eugen Bösch, Dr. Karl Renner -Ring 3, 1017 Wien, E -Mail: 
+reinhard.boesch@fpoe.at  
+11. Herrn Nationalrat Mag Gerald Loacker, Dr. Karl Renner -Ring 3 , 1017 Wien, E -Mail: 
+gerald.loacker@parlament.gv.at  
+12. Frau Nationalrätin Mag. Nina Tomaselli, E -Mail: nina.tomaselli@parlament.gv.at  
+13. Amt der Burgenländischen Landesregierung, Landhaus, 7000 Eisenstadt, E -Mail: 
+post.lad@bgld.gv.at  
+14. Amt der Kärntner  Landesregierung, Arnulfplatz 1, 9021 Klagenfurt, E -Mail: 
+abt1.verfassung@ktn.gv.at  
+15. Amt der Niederösterreichischen Landesregierung, Landhausplatz 1, 3109 St. Pölten, E -
+Mail: post.landnoe@noel.gv.at  
+16. Amt der Oberösterreichischen Landesregierung, Land hausplatz 1, 4021 Linz, E -Mail: 
+verfd.post@ooe.gv.at  
+17. Amt der Salzburger Landesregierung, Chiemseehof, 5010 Salzburg, E -Mail: 
+landeslegistik@salzburg.gv.at  
+18. Amt der Steiermärkischen Landesregierung, Landhaus, 8011 Graz, E -Mail: 
+post@stmk.gv.at  
+19. Amt der Tiroler Landesregierung, Wilhelm -Greil -Straße 25, 6020 Innsbruck, E -Mail: 
+post@tirol.gv.at  
+20. Amt der Wiener Landesregierung, Rathaus, 1082 Wien, E -Mail: post@md -r.wien.gv.at  
+21. Verbindungsstelle der Bundesländer, Schenkenstraße 4, 1010 Wien, E -Mail: 
+vst@vst.gv.at  
+22. Institut für Föderalismus, z. Hd. Herrn Dr. Peter Bußjäger, Adamgasse 17 , 6020 
+Innsbruck, E -Mail: institut@foederalismus.at  69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 13 von 14
+www.parlament.gv.at
+ 
+Seite 14 23. VP-Landtagsfraktion, 6900 Bregenz, E -Mail: landtagsklub@volkspartei.at  
+24. SPÖ-Landtagsfraktion, 6900 Breg enz, E -Mail: gerhard.kilga@spoe.at  
+25. Landtagsfraktion der Freiheitlichen, 6900 Bregenz, E -Mail: landtagsklub@vfreiheitliche.at  
+26. Landtagsfraktion der Grünen, 6900 Bregenz, E -Mail: landtagsklub.vbg@gruene.at  
+27. NEOS - Das Neue Österreich und Liberales Forum, E -Mail: sabine.scheffknecht@neos.eu  
+28. Abt. Regierungsdienste (PrsR), Intern  
+29. Abt. Informatik (PrsI), Intern  
+30. Abt. Personal (PrsP), Intern  
+31. Abt. Inneres und Sicherheit (Ia), Intern  
+32. Abt. Finanzangelegenheiten (IIIa), Intern  
+33. Abt. Ver mögensverwaltung (IIIb), Intern  
+34. Landtagsdirektion (LTD), Intern  
+35. Abt. Verkehrsrecht (Ib), Intern  
+36. Abt. Wissenschaft und Weiterbildung (IIb), Intern  
+37. Abt. Kultur (IIc), Intern  
+38. Abt. Gebarungskontrolle (IIIc), Intern  
+39. Abt. Wohnbauförderung (IIId), Intern  
+40. Abt. Umwelt - und Klimaschutz (IVe), Intern  
+41. Abt. Allgemeine Wirtschaftsangelegenheiten (VIa), Intern  
+42. Abt. Raumplanung und Baurecht (VIIa), Intern  
+43. Vorarlberger Landesarchiv (VLA), Intern  
+44. Landesverw altungsgericht (LVwG), Intern  
+45. Landes -Rechnungshof Vorarlberg, Klostergasse 20, 6900 Bregenz, E -Mail: postoffice@lrh -
+v.at 
+ 
+ 
+ 
+ 
+ 
+Dieses Dokument wurde amtssigniert.
+Dieses Dokument ist amtssigniert im Sinne des E-Government-Gesetzes.
+Mechanismen zur Überprüfung des elektronischen Dokuments sind unter
+https://pruefung.signatur.rtr.at/ verfügbar.
+Ausdrucke des Dokuments können beim
+Amt der Vorarlberger Landesregierung
+Landhaus
+A-6901 Bregenz
+E-Mail: land@vorarlberg.at
+überprüft werden.69/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 14 von 14
+www.parlament.gv.at

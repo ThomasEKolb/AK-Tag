@@ -1,0 +1,379 @@
+Öffentliches Begutachtungsverfahren
+betreffend den "Ministerialentwurf betreffend Bundesgesetz, mit dem das Bundes-Verfassungsge ­
+setz, das Rechnungshofgesetz 1948 und das Verfassungsgerichtshofgesetz 1953 geändert und ein In ­
+formationsfreiheitsgesetz erlassen werden" (im Folgenden kurz: Entwurf)
+Bezugszahlen: 
+Parlament: 95/ME
+Bundeskanzleramt: ELAK-GZ: 2021-0.130.157
+Stellungnahme
+von Michael Suda
+IVorbemerkung
+Diese Stellungnahme beschränkt sich auf Art.  2 § 15 des Entwurfs (Einbeziehung der Datenschutz ­
+behörde) und einige Anmerkungen zum Verhältnis des Grundrechts auf Datenschutz (Art.  8 EU-
+GRC, § 1 DSG) zum vorgeschlagenen Grundrecht auf Informationsfreiheit (Art.  1 Art. 22a Abs. 2 
+und 3 des Entwurfs). Die Randzahlen sind Zeilennummern.
+Ich lege offen, dass ich Mitarbeiter der Datenschutzbehörde bin. Diese Stellungnahme ist jedoch in 
+meiner Freizeit und ohne Auftrag der oder Absprache mit der Behördenleitung entstanden. Sie stellt 
+lediglich meine persönliche Meinung dar.
+Ich bin bestrebt, mich einer klaren und auch ohne juristisches Fachwissen verständlichen Sprache 
+zu bedienen. Unvermeidliche Abweichungen von diesem V orsatz bitte ich die Leserinnen und Leser  
+vorab zu entschuldigen.
+IIVerhältnis der Grundrechte auf Datenschutz und Informationsfreiheit
+Beide Grundrechte stehen in einem schwer aufzulösenden Gegensatz. Der von den Verfasserinnen 
+und Verfassern des Entwurfs angestrebte und vielzitierte "Paradigmenwechsel"  (Erläuterungen, Sei ­
+te 1, erster Absatz) ist weniger grundlegend, als es auf den ersten Blick scheint. Denn die geltende 
+Pflicht zur Wahrung der Amtsverschwiegenheit (Art.  20 Abs. 3 des Bundes-Verfassungesetzes in 
+der geltenden Fassung, kurz: B-VG) ist nicht absolut. Sie gilt nur für Tatsachen "deren Geheimhal­
+tung im Interesse der Aufrechterhaltung der öffentlichen Ruhe, Ordnung und Sicherheit, der umfas ­
+senden Landesverteidigung, der auswärtigen Beziehungen, im wirtschaftlichen Interesse einer Kör ­
+perschaft des öffentlichen Rechts, zur Vorbereitung einer Entscheidung oder im überwiegenden In  ­
+teresse der Parteien  geboten ist".  Die in der unterstrichenen Passage genannten Interessen werden 
+in der Praxis aus meiner Sicht fast ausnahmslos durch das Grundrecht auf Geheimhaltung personen  ­
+bezogener Daten (§ 1 des Datenschutzgesetzes, kurz: DSG) repräsentiert. Dies ist auch den Verfas ­
+serinnen und Verfassern des Entwurfs bewusst gewesen (Erläuterungen, Seiten  2, 3 und 9). Für die­
+sen Fall ist auch ein konkreter Weigerungsgrund im vorgeschlagenen Informationsfreiheits gesetz 
+vorgesehen (Art. 2 § 6 Abs. 1 Z 7 lit. a des Entwurfs). 
+Das nationale Grundrecht auf Datenschutz gilt, was oft übersehen wird, auch für juristische Perso  ­
+nen. Es schützt also auch die wirtschaftlich begründeten Geheimhaltungsinteressen von Unterneh ­
+mensträgern wie Aktiengesell schaften, Gesellschaften mit beschränkter Haftung und Privatstiftun ­
+gen.
+Eine Einschränkung des nationalen Grundrechts auf Datenschutz auf natürliche Personen ist nicht 
+Gegenstand des vorliegenden Entwurfs. Das nationale Grundrecht soll weiterhin einen weiteren 
+Schutzbereich bieten als das Grundrecht auf Datenschutz der Grundrechtscharta der Europäischen 5
+10
+15
+20
+25
+30
+35
+40176/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 7
+www.parlament.gv.at
+Union (Art. 8 EU-GRC).
+Das Grundrecht auf Datenschutz  steht aus meiner Sicht im Zeichen eines sozialen Grundkonsenses 
+des Misstrauens. Im Zeichen dieses Grundkonsenses soll es dem einzelnen Menschen das Recht 
+verleihen, jeden As pekt seiner Persönlichkeit und seines Lebens vor jedermann, dem Staat wie Un ­
+ternehmen, geheim zu halten. Ein Grundrecht auf Information  bedingt dagegen einen sozialen 
+Grundkonsens des Ver  trauens, der besagt, dass jeder Empfänger mit den Daten, die ihm zugänglich 
+gemacht werden, verantwor tungsvoll umgehen wird.
+Ein derartiger, weitreichender, echter Paradigmenwechsel von Misstrauen zu Vertrauen ist nicht ab ­
+sehbar und kann meiner Meinung nach auch nicht durch den vorgeschlagenen Gesetzgebungsakt 
+bewirkt werden.
+Es sind daher, auch weil der vorliegende Entwurf eine Vielzahl von Auslegungsfragen offen lässt, 
+zahlreiche Streitfälle absehbar , in denen beide Grundrechte gegeneinander abgewo gen werden müs­
+sen. 
+IIIMuster eines Prozessablaufs nach Art.  2 §§ 7-15 des Entwurfs
+Ich nehme folgendes, rein fiktives Beispiel an: 
+Die Bürgerin E*** richtet an die österreichische Ortsgemeinde F***, genauer: an den Bürgermeis ­
+ter von F*** als Baubehörde erster Instanz, das Informationsbegehren, ihr alle aufliegenden Doku ­
+mente betreffend ein bestimmtes Bauvorhaben (nach Adresse und Grundstücksnummer) zur Verfü ­
+gung zu stellen. Inhaberin der Baubewilligung und Eigentümerin der Liegenschaft ist die O*** Ge ­
+sellschaft m.b.H., die im Bereich Wetten und Glücksspiel tätig ist. Diese Gesellschaft ist in den ver ­
+gangenen Jahren in den Fokus der öffentlichen Diskussion geraten, wird vielfach kritisiert und gilt 
+als "korrupt", insbesondere wegen eines ihrer Gesellschafter, der im Ausland wegen Verbindungen 
+zur organisierten Kriminalität rechtskräftig verurteilt worden ist.
+Der Bürgermeister ersucht die Datenschutzbehörde gemäß Art.  2 § 15 Abs. 1 des Entwurfs unter 
+kurzer Schilderung des Sachverhalts um Beratung und Unterstützung. Die Datenschutzbehörde gibt 
+nach einer Woche die Stellungnahme ab, dass kei ne datenschutzrechtlichen Gründe dafür vorliegen,  
+dem Informationsbegehren nicht nachzukom men. 
+Der Bürgermeister übermittelt daraufhin der Informationswerberin eine Kopie der Bauakten, darun ­
+ter auch die eingereichten Plandokumente. E*** berichtet darüber in sozialen Medien (Facebook, 
+Twitter sowie in ihrem Blog "Die Glücksspielmafia und ihre Lakaien" ) und führt dabei u.a. aus: 
+"Als Haus- und Hofarchitekt der einschlägig bekannten O*** Ges.m.b.H. ist neuerdings Dipl.Ing, 
+A*** tätig, der sich seine Tätigkeit für den moralisch verkommenen Konzern sicher teuer bezahlen 
+hat lassen!" Diese Information hat sie den Bauplänen entnommen, die Dipl.Ing. A*** und das Ar ­
+chitektenbüro A*** & Partner KG als Planverfasser angeben.
+Dipl.Ing. A*** und die  A*** & Partner KG reichen daraufhin eine auf §  24 DSG (hinsichtlich von 
+Dipl.Ing. A*** persönlich auch auf Art.  77 DSGVO) gestützte Datenschutzbeschwerde ein und 
+beantragen, die Datenschutzbehörde möge feststellen, dass der Bürgermeister der Gemeinde F*** 
+sie durch die Übermittlung ihrer Daten (in Form einer Kopie der Baupläne, ohne dass darin ihr 
+Name bzw. Ihre Firma geschwärzt wurden) im Grundrecht auf Geheimhaltung ihrer Daten gemäß 
+§ 1 Abs. 1 DSG verletzt hat (siehe dazu Erläuterungen, Seite  9). Zur Begründung führen Sie an, 
+dass sie durch das Bekanntwerden ihrer Geschäftsverbindung zur O**** Ges.m.b.H. ihren guten 
+Ruf und ihre wirtschaftlichen Interessen gefährdet sehen, was schwerer wiege als die bloße Neugier  
+der Frau E*** und deren öffentlich bekundete Abneigung gegen Glücksspielunternehmen. 
+Die Datenschutzbehörde  müsste hier in einer Sache entscheiden, in der sie zuvor als gesetzlich be  ­
+stellte Beraterin des als Beschwerdegegner belangten Bürgermeisters tätig war und zur Hauptfrage 
+der Beschwerde (= Ist die Datenübermittlung zulässig?) bereits eine Rechtsmeinung geäußert hat, 
+die der Bürgermeister wohl sicher in seiner Rechtfertigung (Stellungnahme zur Beschwerde) erwäh ­45
+50
+55
+60
+65
+70
+75
+80
+85176/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 7
+www.parlament.gv.at
+nen, wenn nicht sogar ausführlich zitieren wird. Sie müsste sich also entweder im zu erlassenden 
+Bescheid selbst widerlegen, oder die gegenüber dem Bürgermeister geäußerte Meinung bestätigen. 
+Was beides, wie man so schön sagt, nicht unbedingt einen schlanken Fuß machen aber den klaren 
+V orgaben des Gesetzgebers entsprechen würde..
+Erst in der nächsten Instanz (nach einer Bescheidbeschwerde gemäß Art.  133 Abs. 1 Z 1 B-VG) 
+wäre mit dem Bundesverwaltungsgericht eine unparteiische und unbefangene Stelle mit dem Ver ­
+fahren befasst.
+Würde die Datenschutzbehörde dagegen gegenüber dem Bürgermeister von F*** den Daumen sen ­
+ken, das heißt, ihm als informationspflichtigem Organ gegenüber die Empfehlung erteilen, dass Da ­
+tenschutzbedenken gegen eine (unbeschränkte, ungeschwärzte) Informationsweitergabe sprechen, 
+würde das folgende Verfahren eine ganz andere Richtung nehmen. In diesem Fall müsste der Bür ­
+germeister einen Bescheid erlassen (Art.  2 § 11 Abs. 1 des Entwurfs, eventuell auch nur betreffend 
+einen Teil des Informationsbegehrens), der beim Landesverwaltungsgericht Niederösterreich ange ­
+fochten werden könnte. Die Datenschutzbehörde wäre am weiteren Verfahren nicht beteiligt.
+IVArt. 2 § 15 des Entwurfs, Rollenzuweisung für die DSB
+Die vorgeschlagene Verfassungsbestimmung des Art. 2 §  15 Abs. 1 des Entwurfs würde die Daten ­
+schutzbehörde verpflichten, Organe, Stiftungen, Fonds, Anstalten und Unternehmungen in daten ­
+schutzrechtlichen Belangen der Vollziehung der Informationsfreiheit zu beraten und zu unterstützen. 
+Oder, um es mit den Worten der Verfasserinnen und Verfasser des Entwurfs zu sagen, sie zu " bera­
+ten und" zu "servicieren" (Erläuterungen, Seite  11).
+Diese Bestimmung zwingt die Datenschutzbehörde daher in eine parteiische Rolle. Sie hat an die 
+Seite der Informationspflichtigen zu treten. Wohlgemerkt: die Datenschutzbehörde wäre nicht dazu 
+berufen, in Rechtsfällen, in denen das Grundrecht auf Information gegen das Grundrecht auf Daten ­
+schutz abzuwägen ist, zu entscheiden. Ihr wäre in solchen Fällen vielmehr die Rolle einer Beraterin  
+jener Seite zugedacht, die selbst über den Zugang zu Informationen entscheiden muss (siehe Art.  2 
+§§ 11 und 13 des Entwurfs).
+Meines Erachtens würde der Bundesverfassungsgesetzgeber durch eine solche Bestimmung gegen 
+zwingende Vorgaben des Rechts der Europäischen Union verstoßen.
+VVorgaben des Rechts der Europäischen Union
+Die Materialien zum Entwurf (Vorblatt und Wirkungsorientierte Folgenabschätzung, Seite  2) halten 
+fest: "Die vorgesehenen Regelungen fallen nicht in den Anwendungsbereich des Rechts der 
+Europäischen Union."
+Dies trifft aus meiner Sicht zwar abstrakt auf das Ziel der Schaffung eines verfassungsgesetzlichen 
+Informationsrechts im Ganzen, nicht jedoch konkret auf Art.  2 § 15 des Entwurfs zu.
+Art. 8 Abs. 3 EU-GRC besagt, dass die Ein haltung der von der Union erlassenen Datenschutzvor ­
+schriften von einer "unabhängigen Stelle"  überwacht werden muss.
+Österreich ist der Europäischen Kommission bereits einmal in einem Rechtsstreit um die Unabhän ­
+gigkeit der Datenschutzbehörde, damals noch der Datenschutzkommission, unterlegen (Urteil des 
+Gerichtshofs der Europäischen Union [EuGH] vom 16.  Oktober 2012, C-614/10, Kommission/Ös ­
+terreich).
+Die Datenschutzbehörde ist also eine nationale Behörde, deren grundsätzliches Bestehen und deren 
+Unabhängigkeit durch Unionsrecht garantiert  wird. Der nationale Gesetzgeber ist daher nicht be ­
+fugt, Rechtsvorschriften zu erlassen, die die Unabhängigkeit der Datenschutzbehörde aufheben oder  
+substanziell beeinträchtigen. 
+Artikel 52 der Datenschutz-Grundverordnung der Europäischen Union (DSGVO) legt die Unabhän ­90
+95
+100
+105
+110
+115
+120
+125
+130176/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 7
+www.parlament.gv.at
+gigkeit der Aufsichtsbehörden für Datenschutz näher fest. Gemäß Absatz  1 handelt jede Aufsichts ­
+behörde bei der Erfüllung ihrer Aufgaben und bei der Ausübung ihrer Befugnisse gemäß dieser Ver ­
+ordnung völlig unabhängig. 
+Erwägungsgrund 117, Satz  1, zur DSGVO besagt: "Die Errichtung von Aufsichtsbehörden in den 
+Mitgliedstaaten, die befugt sind, ihre Aufgaben und Befugnisse völlig unabhängig wahrzunehmen, 
+ist ein wesentlicher Bestandteil des Schutzes natürlicher Personen bei der Verarbeitung personen ­
+bezogener Daten" (Unterstreichung von mir; die Formulierung ist an einen Satz aus dem Urteil des 
+EuGH vom 9. März 2010, C -518/07, Kommission/Deutschland, angelehnt).
+Artikel 86 DSGVO legt fest, dass personenbezogene Daten in amtlichen Dokumenten, die sich im 
+Besitz einer Behörde oder einer öffentlichen Einrichtung oder einer privaten Einrichtung zur Erfül ­
+lung einer im öffentlichen Interesse liegenden Aufgabe befinden, von der Aufsichtsbehörde für Da ­
+tenschutz oder der Einrichtung gemäß dem Unionsrecht oder dem Recht des Mitgliedstaats, dem die  
+Behörde oder Einrichtung unterliegt, offengelegt werden können, um den Zugang der Öffentlichkeit  
+zu amtlichen Dokumenten mit dem Recht auf Schutz personenbezogener Daten gemäß dieser Ver ­
+ordnung in Einklang zu bringen.
+Einen weiteren Bezug zu Vorschriften, die sich mit der Informationsfreiheit und dem Zugang zu 
+Dokumenten der öffentlichen Verwaltung (im weiteren Sinne) beschäftigen, enthält der Erwägungs ­
+grund 154, Sätze 1 bis 3, zur DSGVO. Die entsprechenden Passagen lauten: "Diese Verordnung er ­
+möglicht es, dass bei ihrer Anwendung der Grundsatz des Zugangs der Öffentlichkeit zu amtlichen 
+Dokumenten berücksichtigt wird. Der Zugang der Öffentlichkeit zu amtlichen Dokumenten kann als  
+öffentliches Interesse betrachtet werden. Personenbezogene Daten in Dokumenten, die sich im Be ­
+sitz einer Behörde oder einer öffentlichen Stelle befinden, sollten von dieser Behörde oder Stelle öf ­
+fentlich offengelegt werden können, sofern dies im Unionsrecht oder im Recht der Mitgliedstaaten, 
+denen sie unterliegt, vorgesehen ist. Diese Rechtsvorschriften sollten den Zugang der Öffentlichkeit  
+zu amtlichen Dokumenten und die Weiterverwendung von Informationen des öffentlichen Sektors 
+mit dem Recht auf Schutz personenbezogener Daten in Einklang bringen und können daher die not ­
+wendige Übereinstimmung mit dem Recht auf Schutz personenbezogener Daten gemäß dieser Ver ­
+ordnung regeln. Die Bezugnahme auf Behörden und öffentliche Stellen sollte in diesem Kontext 
+sämtliche Behörden oder sonstigen Stellen beinhalten, die vom Recht des jeweiligen Mitgliedstaats 
+über den Zugang der Öffentlichkeit zu Dokumenten erfasst werden."
+Aus den zuletzt zitierten Anordnungen und Erwägungen der Gesetzgeber der EU wird praktisch ein ­
+hellig geschlossen, dass eine Aufsichtsbehörde für Datenschutz auch mit Aufgaben auf dem Gebiet 
+der Informationsfreiheit betraut werden kann. Dies ist etwa in Deutschland, auf Bundes- wie auf 
+Landesebene, weitverbreitet üblich. Eine Datenschutzbehörde kann etwa mit der Aufgabe einer 
+"Beauftragten für Informationsfreiheit" betraut werden, wenn – dies ist jedenfalls meine Überzeu ­
+gung -, sie in dieser Rolle von Gesetzes wegen unabhängig und unparteiisch  vorgehen muss.
+In weiterer Konsequenz verbietet es das Unionsrecht, die Datenschutzbehörde mit Aufgaben zu be ­
+trauen, die die unabhängige und unparteiische Stellung der Behörde beeinträchtigen. Es ist richtig, 
+dass auch die DSGVO ein gewisses Maß an Ungleichbehandlung zwischen den möglichen Parteien 
+eines Beschwerdeverfahrens vorsieht. So muss die Datenschutzbehörde Verantwortliche und Auf ­
+tragsverarbeiter lediglich für ihre Pflichten „sensibilisieren“ (Art. 57 Abs. 1 lit. d DSGVO), wäh­
+rend sie einer von einer Datenverarbeitung betroffenen Person auf Anfrage konkrete „Informatio­
+nen über die Ausübung ihrer Rechte“  schuldet (Art. 57 Abs. 1 lit. e DSGVO). Keine dieser Bestim ­
+mungen, die das erklärte Ziel verfolgen, die Rechte betroffener Personen zu stärken, geht aber so ­
+weit, der Datenschutzbehörde eine Form der Parteinahme  aufzutragen, die jener in Art.  2 § 15 des 
+Entwurfs auch nur nahekommt.
+Bestimmungen des Rechts der Europäischen Union gehen ihnen entgegenstehenden Bestimmungen 
+des nationalen Rechts vor. Dieser Anwendungsvorrang bewirkt, dass alle Verwaltungsbehörden und 
+Gerichte nationale Rechtsvorschriften ganz oder teilweise unangewendet zu lassen haben, die mit 
+den V orgaben des Unionsrechts unvereinbar sind. Nach herrschender rechtswissenschaftlicher Mei ­135
+140
+145
+150
+155
+160
+165
+170
+175
+180176/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 7
+www.parlament.gv.at
+nung „sticht“ somit das Unionsrecht Rechtsvorschriften sämtlicher Stufen im Stufenbau der öster ­
+reichischen Rechtsordnung jedenfalls bis eine Ebene unterhalb der Stufe der grundlegenden Prinzi ­
+pien (Baugesetze) der österreichischen Bundesverfassung. Der Anwendungsvorrang gilt auch, wenn  
+das entgegenstehende nationale Recht ein Verfassungsgesetz ist (vgl. das Erkenntnis des Verfas ­
+sungsgerichtshofs vom 24.2.1999, VfSlg  15427/1999). In einfachen Ge setzen enthaltene Verfas ­
+sungsbestimmungen vom Typ des Art.  2 § 15 des Entwurfs müssten jeden falls im Kollisionsfall 
+dem Unionsrecht weichen bzw. müssten so ausgelegt werden, dass ihre Wir kungen die Rechtsord ­
+nung der EU nicht beeinträchtigen.
+Es wäre daher, sollte Art.  2 § 15 des Entwurfs Teil der österreichischen Rechtsordnung werden, 
+Aufgabe der Leitung der Datenschutzbehörde, eine Entscheidung darüber zu treffen, ob und wie 
+weit diese Bestimmung angewendet werden kann, ohne die vom Unionsrecht geforderte völlige Un ­
+abhängigkeit der Datenschutzbehörde zu beeinträchtigen. Dies könnte etwa dazu führen, dass die 
+Datenschutzbehörde sich darauf beschränkt, allgemeine Informationen zum Verhältnis der Grund ­
+rechte auf Informationsfreiheit und auf Datenschutz zur Verfügung zu stellen, sich jedoch weigert, 
+informationspflichtige Organe im Einzelfall zu beraten. Dies würde in etwa der derzeitigen prakti ­
+schen V orgehensweise der Datenschutzbehörde in Fragen des Auskunftsrechts (§  2 des Auskunfts­
+pflichtgesetzes) entsprechen. Hier weigert sich die Datenschutzbehörde regelmäßig, Fragen zu 
+beantworten, die auf die Beurteilung einer abstrakten oder konkreten Rechtsfrage hinauslaufen 
+(„Ich habe da ein datenschutzrechtliches Problem....darf der Verantwortliche das?“ ; siehe die Hin­
+weise auf der Website der Datenschutzbehörde unter https://www.dsb.gv.at/aufgaben-
+taetigkeiten/information-zu-rechtsauskunften.html). 
+Dies geschieht in Übereinstimmung mit der Rechtsprechung des österreichischen Verwaltungsge ­
+richtshofs, wonach §  2 des Auskunftspflichtge setzes kein Recht auf ein Rechtsgutachten einer Be ­
+hörde einräumt. Lediglich im Fall einer bereits geklärten Rechtsfrage wird ein Hinweis auf vorlie ­
+gende Entscheidungen (und deren Fundstellen) gegeben. 
+VIUnabhängigkeit und Unbefangenheit
+Wie bereits dargestellt, würde Art.  2 § 15 des Entwurfs die Datenschutzbehörde zu einer beratenden 
+Tätig  keit auf Seiten einer Partei  eines möglicherweise folgenden Beschwerdeverfahrens verpflich ­
+ten. Würde man die im innerstaatlichen Verfahrensrecht geltenden Maßstäbe für Beamte auf eine als  
+Staatsorgan handelnde Organisation anwenden, so wäre die Behörde als Ganzes damit befangen.
+Nach geltender Rechtslage ist die Unbefangenheit der leitenden Organe der Datenschutzbehörde ein  
+integraler Teil jener Regelungen, die die Unabhängigkeit der Behörde sichern sollen (siehe dazu 
+etwa die Überschrift „Unabhängigkeit“  vor § 19 DSG).
+§ 7 Abs. 1 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 (AVG) legt fest, wann einzelne für  
+eine Behörde tätige Menschen (Organe) befangen sind. Verwaltungsorgane haben sich der Aus ­
+übung ihres Amtes zu enthalten und ihre Vertretung zu veranlassen: in Sachen, an denen sie selbst, 
+einer ihrer Angehörigen oder eine von ihnen vertretene schutzberechtigte Person beteiligt sind (Zif­
+fer 1); in Sachen, in denen sie als Bevollmächtigte einer Partei  bestellt waren oder noch bestellt sind  
+(Ziffer 2); und wenn sonstige wichtige Gründe  vorliegen, die geeignet sind, ihre volle Unbefangen ­
+heit in Zweifel zu ziehen (Ziffer  3).
+Nach der Rechtsprechung des österreichischen Verwaltungsgerichtshofs (VwGH) besteht das Wesen  
+der Befangenheit in der "Hemmung einer unparteiischen Entschließung durch unsachliche psycho ­
+logische Motive" (ständige Rechtsprechung des VwGH seit dem Beschluss vom 25.9.1965, VwSlg 
+6772 A/1965). Nach dieser Rechtsprechung genügt es weiters, dass eine Befangenheit mit Grund 
+be  fürchtet werden muss  - auch wenn der Entscheidungsträger tatsächlich unbefangen sein sollte -, 
+oder dass bei objektiver Betrachtungsweise auch nur der Anschein einer Voreingenommenheit  ent­
+stehen könnte (z.B. VwGH, Erkenntnis vom 11.  Juli 2019, Ro 2019/03/0015).
+Eine Befangenheit ganzer Staatsorgane kann faktisch etwa dann eintreten, wenn jeder zu einer Ent ­185
+190
+195
+200
+205
+210
+215
+220
+225
+230176/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 7
+www.parlament.gv.at
+scheidung berufene Organwalter (Beamtin oder Beamter, Richterin oder Richter) befangen ist. Dies 
+war insbesondere früher bei kleinen Bezirksgerichten (so genannten "einspännigen" Gerichten, bei 
+denen nur eine Richterin oder ein Richter tätig ist) immer wieder der Fall. 
+§ 7 Abs. 1 AVG gilt unmittelbar nur für in der Verwaltung tätige Menschen, nicht für ganze Behör ­
+den bzw. Staatsorgane. Die Bestimmung verdeutlicht aber, welche Tätigkeiten der Gesetzgeber des 
+A VG als miteinander unvereinbar sieht. Der entscheidende Punkt ist, dass tatsächliche oder auch 
+nur anscheinsmäßige Voreingenommenheit verhindert werden soll. Beispielsweise ist ein Richter in 
+all jenen Fällen befangen, in deren er eine Partei einer Streitsache im V orfeld eines Zivilprozesses in  
+seinem früheren Beruf als Rechtsanwalt beraten und vertreten hat.  Die Stellung eines Amtssachver ­
+ständigen in einem verwaltungsgerichtlichen Verfahren ist mit der Rolle eines Vertreters der vor 
+dem Verwaltungsgericht belangten Behörde in diesem Verfahren nicht vereinbar (so der VwGH im 
+jüngsten Erkenntnis vom 24.  März 2020, Ra 2019/09/0159 ).
+Die Situation gemäß Ziffer  3, eventuell auch nach Ziffer  1, wäre meiner Meinung nach jedenfalls 
+sinngemäß dann gegeben, wenn die Datenschutzbehörde im Vorfeld einer Datenschutzbeschwerde, 
+über die sie entscheiden muss, einen Informationspflichtigen beraten hat.
+Man könnte hier von einer vom Gesetzgeber bewusst angeordneten, institutionellen Befangenheit 
+eines ganzen Staatsorgans sprechen.
+§ 19 DSG Abs. 2 Z 1 DSG legte in konsequenter Umsetzung des Ziels der Vermeidung auch nur des  
+Anscheins einer institutionellen Befangenheit unter der Überschrift   „Unabhängigkeit“  fest, dass die 
+Leiterin der der Leiter der Datenschutzbehörde für die Dauer seines Amtes keine Tätigkeit ausüben 
+darf, die Zweifel an der unabhängigen Ausübung ihres/seines Amtes oder ihrer/seiner Unbefangen ­
+heit hervorrufen könnte.
+Aus dieser Bestimmung ist daher in logisch-systematischer Auslegung des Gesetzes zu folgern, dass  
+der nationale Gesetzgeber in einer Befangenheit der Leitung  der Datenschutzbehörde eine Form der  
+Gefährdung der Unabhängigkeit der Behörde  sieht. 
+Der vorliegende Entwurf sieht jedoch keine V orkehrungen vor, wie durch die interne Organisation 
+der Datenschutzbehörde die Unbefangenheit der handelnden Mitarbeiter zu sichern wäre. Bei realis ­
+tischer Betrachtung müsste eine völlig getrennte Abteilung für Fra gen der Informationsfreiheit ge ­
+schaffen werden. Weiters dürfte kein zu Weisungen in Fragen der In formationsfreiheit berechtigtes 
+Organ berechtigt sein, auch in Datenschutzsachen Weisungen zu er teilen, und umgekehrt. Es müsste  
+also eine Art von zweiter Führungsspitze geschaffen werden, da derzeit das Weisungsrecht allein bei  
+der Leiterin oder beim Leiter der Datenschutzbehörde liegt. Dies wür de eine komplizierte Organisa ­
+tionsstruktur erfordern, für die es meines Wissens in der ös terreichischen Verwaltung kein unmittel ­
+bares V orbild gibt.
+VIIFehlender Beratungsbedarf
+Im Zusammenhang mit der Einführung eines Grundrechts auf Information wird immer wieder die 
+Behauptung aufgestellt, vor allem gewählte Bür germeister kleiner Ortsgemeinden wären mit den 
+rechtlichen Anforderungen, die der vorliegende Entwurf mit sich bringen würde, heillos überfor ­
+dert. Es bestünde daher Beratungsbedarf, und die Datenschutzbehörde wäre eine bereits bestehende,  
+geeignete und kompetente Stelle für diese Aufgabe (Stichwort „Synergie“). 
+Ich weise dazu nachdrücklich darauf hin, dass bereits jetzt jede auch noch so kleine Ortsgemeinde 
+als Trägerin behördlicher Aufgaben gesetzlich dazu verpflichtet ist, einen Datenschutzbeauftragten 
+zu benennen (Art. 37 Abs. 1 lit a DSGVO). Dieser muss in der Lage sein, die Gemeinde und alle 
+ihre Organe in Fragen des Daten schutzes zu beraten (Art.  39 Abs. 1 lit a DSGVO). 
+Es bleibt aus meiner Sicht unerklärlich, warum eine solche Beratung nicht ausreichend sein sollte, 
+um auch Fragen der Abwägung zwischen den Grundrechten auf Datenschutz und Informationsfrei ­
+heit zu lösen. Falls im Einzelfall keine Beratung in ausreichender Qualität zur Verfügung steht, kann  235
+240
+245
+250
+255
+260
+265
+270
+275176/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 7
+www.parlament.gv.at
+eine Ortsgemeinde den Datenschutzbeauftragten auch jederzeit wechseln, da dessen organisatori ­
+sche Stellung und Person nicht gesetzlich festgelegt ist. Die Benennung externer Datenschutzbeauf ­
+tragter (etwa Beratungsunternehmen, Techniker oder Rechtsanwälte, jeweils mit entsprechender Zu ­
+satzqualifikation) ist in diesem Bereich meines Wissens ohnehin eine weit verbreitete Praxis.
+Die Organisation und die finanzielle und personelle Ausstattung von Ortsgemeinden zu regeln, fällt 
+im System der österreichischen Bundesverfassung im Übrigen in die Zuständigkeit der Landesge ­
+setzgebung und -vollziehung. Ein finanzieller Ausgleich für Lasten, die Gemeinden durch Maßnah ­
+men der Bundesgesetzgebung erwachsen, wäre im Rahmen des Finanzausgleichs vorzusehen und 
+nicht durch Schaffung zusätzlicher Planstellen bei einer Verwaltungsbehörde, die zum Ressort der 
+Bundesministerin für Justiz gehört.
+Der Informationspflicht unterliegende Unternehmungen, auch wenn sie keiner Pflicht zur Benen ­
+nung eines Datenschutzbeauftragten unterliegen, sollten ohnehin in der Lage sein, entsprechende 
+Beratungsleistungen bei Bedarf zu Marktkonditionen einzukaufen, wie dies etwa bei rechtlichem 
+oder wirtschaftlichem Beratungsbedarf laufend geschieht (unter Umständen besteht auch die Mög ­
+lichkeit, Beratung und Vertretung durch die Finanzprokuratur zu erhalten, siehe §  3 Abs. 3 des Fi­
+nanzprokuraturgesetzes) Es ist daher kein überzeugender Grund sichtbar, warum für solche Rechts ­
+träger auf diesem Spezialgebiet eine kostenlose Beratungsstelle  geschaffen werden muss.
+VIII Zusammenfassung und Schlussfolgerung
+Das Ergebnis einer Gesetzwerdung des vorliegenden Entwurfs wäre jedenfalls die Notwendigkeit 
+einer Umstrukturierung und Neuorganisation der Datenschutzbehörde, ohne dass dabei nennenswer ­
+te Synergien zu nutzen wären. Es würde ein bedeutender Bedarf an zusätzlichem Personal  entsteh­
+en. Dennoch würde damit selbst im günstigsten Fall nicht mehr erreicht werden als die Schaf fung 
+einer Beratungsstelle für informationspflichtige Stellen, die selbst jedoch keine Entscheidun gen 
+treffen kann.
+Im ungünstigsten Fall, etwa bei Unterlassung der notwendigen Verstärkung des Personals der Da ­
+tenschutzbehörde, würde das Funktionieren der Datenschutzbehörde als Aufsichtsbehörde gemäß 
+Art. 8 Abs. 3 EU-GRC nachhaltig beeinträchtigt werden. Die bereits an der äußersten Grenze ihrer 
+Kapazität arbeitende Datenschutzbehörde würde in diesem Fall geradezu mutwillig durch die 
+Schaffung zusätzlicher Aufgaben daran gehindert, ihre Kernaufgaben zu erfüllen.
+Unionsrechtliche Bedenken könnten die Leitung der Datenschutzbehörde überdies dazu zwingen, 
+sich jeder Parteinahme bei der vorgesehenen Beratungstätigkeit zu enthalten. Dies könnte die Er ­
+wartungen, die insbesondere Gemeindeorgane mit Art.  2 § 15 des Entwurfs zu verbinden scheinen, 
+bitter enttäuschen.
+Die Bestimmung sollte daher gestrichen werden und jede Gestaltung eines Grundrechts auf Infor ­
+mationsfreiheit ohne Einbeziehung der Datenschutzbehörde erfolgen.
+Wien, am 19. April 2021
+Michael Suda280
+285
+290
+295
+300
+305
+310
+315176/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 7
+www.parlament.gv.at

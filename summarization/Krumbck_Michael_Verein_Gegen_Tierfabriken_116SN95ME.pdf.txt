@@ -1,0 +1,21 @@
+Feedback from: Krumbck_Michael_Verein_Gegen_Tierfabriken
+
+**Zusammenfassung der Stakeholder-Feedbacks:**
+
+**Positive Rückmeldungen:**
+- Gebührenfreiheit (IFG § 12) wird als positiv und begrüßenswert hervorgehoben.
+- Möglichkeit, dass das zuständige Verwaltungsgericht binnen zwei Monaten entscheiden muss, wird als gut bewertet.
+
+**Negative Rückmeldungen:**
+- Kritik an der langen Maximalfrist von 2 Monaten für die Bescheiderlassung nach IFG § 11; eine kürzere Frist von wenigen Tagen oder höchstens einer Woche wird empfohlen.
+- Bedenken hinsichtlich der Rolle der Datenschutzbehörde, die bei der Abwägung zwischen Informationsfreiheit und Datenschutz möglicherweise nicht neutral ist (IFG § 15).
+- Fehlen eines unabhängigen Informationsfreiheitsbeauftragten, was als Mangel angesehen wird, da eine solche Stelle im internationalen Vergleich üblich ist und zur Objektivität beitragen könnte.
+- Probleme bei der Rechtsdurchsetzung, da Informationen, die von Behörden vorenthalten werden, oft nicht in den Akten sind, was es Gerichten erschwert, angemessen zu entscheiden.
+- Fehlende Änderungen im § 310 StGB bezüglich der Verletzung des Amtsgeheimnisses, was bisher zur Zurückhaltung von Informationen führte; eine Anpassung oder Abschaffung dieser Strafnorm könnte hilfreich sein.
+- Tierschutzorganisationen sollten, ähnlich wie Tierschutzombudspersonen, Akteneinsicht in Verfahren mit Tierschutzbezug erhalten, um effektive Kontrollen sicherzustellen.
+
+**Beweise und Argumente aus den Inputs, die die vorgeschlagenen Regelungen verstärken oder widersprechen:**
+- Die Notwendigkeit offener und standardisierter Datenformate zur Vermeidung unzumutbarer Aufwände für die Datenanalyse stärkt die Forderung nach transparenter und zugänglicher Informationsbereitstellung.
+- Die Sorge, dass Datenschutzbehörden in ihrer Beratungsfunktion voreingenommen sein könnten, stellt die Effektivität der geplanten Regelungen in Frage, besonders im Hinblick auf eine ausgewogene Abwägung zwischen Datenschutz und Informationsfreiheit.
+- Das Argument, dass eine unabhängige Instanz wie ein Informationsfreiheitsbeauftragter zur Objektivität und Effizienz beitragen könnte, unterstreicht die Notwendigkeit, solche Positionen zu überdenken und möglicherweise einzuführen.
+- Die angeführten Probleme mit der Rechtsdurchsetzung und der Zugänglichkeit von Informationen für Gerichte im Falle von Amtsgeheimnissen oder Zurückhaltung von Informationen durch Behörden zeigen deutlich, dass zusätzliche gesetzliche Klarstellungen oder Mechanismen notwendig sind, um die Effektivität des Gesetzes zu gewährleisten.

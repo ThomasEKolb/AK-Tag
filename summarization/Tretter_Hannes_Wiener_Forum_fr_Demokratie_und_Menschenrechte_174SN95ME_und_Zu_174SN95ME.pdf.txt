@@ -1,0 +1,21 @@
+Feedback from: Tretter_Hannes_Wiener_Forum_fr_Demokratie_und_Menschenrechte_174SN95ME_und_Zu
+
+Basierend auf dem bereitgestellten Kontext fasse ich die wichtigsten Punkte der Stellungnahme des Wiener Forums für Demokratie und Menschenrechte zum Entwurf des Informationsfreiheitsgesetzes zusammen:
+
+**Zusammenfassung des Stakeholder-Feedbacks:**
+- **Recht auf Information**: Betonung des verfassungsgesetzlich gewährleisteten Rechts auf Information; Vorschlag zur Ergänzung des Gesetzes um klare Definitionen und Regelungen zur Abwägung zwischen Geheimhaltung und öffentlichen sowie privaten Interessen.
+- **Geheimhaltung vs. öffentliche/private Interessen**: Fehlen einer klaren Definition, was unter öffentlichen und privaten Interessen zu verstehen ist. Vorschlag zur Ergänzung des § 6 IFG um zusätzliche Absätze, die wichtige öffentliche Interessen und schützenswerte private Interessen spezifizieren.
+- **Einheitliche Auslegung und Anwendungspraxis**: Bedenken hinsichtlich der Fähigkeit des aktuellen Entwurfs, eine einheitliche Handhabung zu gewährleisten. Vorschlag einer zentralen Behörde zur Entscheidungsfindung bei widersprüchlichen Interessen.
+- **Rechtsschutz bei Verweigerung der Informationserteilung**: Kritik am mangelnden Rechtsschutz und den begrenzten Möglichkeiten effektiver Beschwerden gemäß der Rechtsprechung des EGMR. Vorschlag zur Schaffung einer unabhängigen, mit umfassenden Kontroll- und Untersuchungsrechten ausgestatteten Behörde.
+
+**Gruppierung nach ähnlichen Aussagen und hervorheben divergenter Meinungen:**
+- Einheitlich wird die Verbesserung der Transparenz und des Zugangs zu Informationen gefordert.
+- Unterschiedliche Ansichten könnten in der spezifischen Auslegung von „öffentlichen und privaten Interessen“ liegen, allerdings bietet der Text keine expliziten divergenten Meinungen.
+
+**Clusterung nach Sentiment:**
+- **Positiv/Supportiv:** Anerkennung des Rechts auf Information, Vorschläge zur Verbesserung und Präzisierung des Gesetzentwurfs.
+- **Negativ/Gegen den Vorschlag:** Kritik an der unzureichenden Definition wichtiger Begriffe und am fehlenden effektiven Rechtsschutz, Bedenken hinsichtlich der praktischen Umsetzung der Regelungen.
+
+**Evidenz, die die vorgeschlagenen Regeln verstärken oder widersprechen könnte:**
+- **Verstärkende Evidenz:** Vorschläge zur Ergänzung des Gesetzes um spezifische Absätze für öffentliche und private Interessen, die auf bestehenden juristischen Rahmenbedingungen und verfassungsgesetzlichen Schutz basieren.
+- **Widersprechende Evidenz:** Die Kritik an der fehlenden Definition von öffentlichen und privaten Interessen sowie die Bedenken bezüglich der einheitlichen Anwendung und Auslegung des Gesetzes könnten darauf hinweisen, dass der Gesetzentwurf in seiner aktuellen Form nicht ausreichend durchdacht und umfassend ist.

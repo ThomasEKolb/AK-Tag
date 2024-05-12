@@ -1,0 +1,186 @@
+ 
+ 
+Seite 1/4 
+Entwurf eines Bundesgesetzes, mit dem das Bundes-Verf assungsgesetz, das 
+Rechnungshofgesetz 1948 und das Verfassungsgerichts hofgesetz 1953 geändert 
+und ein Informationsfreiheitsgesetz erlassen werden 
+ 
+Sehr geehrte Damen und Herren, 
+die Rundfunk und Telekom Regulierungs-GmbH (RTR-GmbH)  dankt für die 
+Übermittlung des im Betreff genannten Begutachtungsent wurfs. 
+Wir begrüßen das Ziel dieses Entwurfs, einen Paradigm enwechsel durch die 
+weitgehende Beseitigung des Amtsgeheimnisses einzuleite n und staatliche 
+Transparenz als grundsätzliche Regel staatlichen Hand elns auszubauen. 
+Im Vollziehungsbereich der RTR-GmbH wird dem Grundsa tz der Transparenz bereits 
+jetzt sehr weitgehend Rechnung getragen, teils durch Vo rgaben auf Europäischer 
+Ebene, teils durch nationale Rechtsvorschriften, di e an vielen Stellen Transparenz- und 
+Veröffentlichungspflichten für die Regulierungsbehörde n vorsehen (zB § 123 TKG 
+2003, § 45 PMG, § 17 Abs 2 und 3 jeweils letzter Sa tz, § 19 Abs 1 KOG). Überdies stellt 
+die RTR-GmbH sowohl in ihrem eigenen Zuständigkeitsbe reich als auch in ihrer 
+Funktion als Geschäftsstelle der Kommunikationsbehö rde Austria (KommAustria), der 
+Telekom-Control-Kommission (TKK) sowie der Post-Con trol-Kommission (PCK) bereits 
+seit einigen Jahren eine Vielzahl von Daten als Open  Government Data (sowohl über 
+data.gv.at als auch über ihre eigene Website) der Öff entlichkeit zur Verfügung. 
+Zum vorliegenden Entwurf des Informationsfreiheitsges etzes (E-IFG) erlaubt sich die 
+RTR-GmbH folgende Anmerkungen: 
+    
+Ergeht an das 
+• Präsidium des Nationalrats 
+per E-mail: begutachtungsverfahren@parlament.gv.at  
+• Bundeskanzleramt-Verfassungsdienst 
+per E-mail: verfassungsdienst@bka.gv.at 
+  
+    
+ 
+RNOR 16/21-4, GFKOM0002-0001/2021 
+MSt/MtS   
+Wien, 19. April 2021 163/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 4
+www.parlament.gv.at
+ 
+Seite 2/4 
+Zu § 2 Abs 2 E-IFG: 
+Die Definition von „Informationen von allgemeinen In teresse“ erscheint auch unter 
+Einbeziehung der erläuternden Bemerkungen unbestimmt bzw schwer eingrenzbar. In 
+Bezug auf die in dieser Bestimmung genannten Gutachten  geht die RTR-GmbH vorerst 
+davon aus, dass jedenfalls Amtsgutachten, die im Ra hmen eines Verfahrens von den 
+der Behörde beigegebenen Amtssachverständigen erstatte t werden, während des 
+laufenden Verfahrens unter die Geheimhaltungsverpfli chtung nach § 6 Abs 1 Z 5 E-IFG 
+fallen können. Nach Abschluss des Verfahrens können  Gutachten – nach Durchführung 
+einer Einzelfallprüfung – von einer Geheimhaltung n ach § 6 Abs 1 Z 7 E-IFG betroffen sein.  
+Aus Sicht der RTR-GmbH als Fördergeberin stellt sich  in diesem Zusammenhang auch 
+die Frage, ob durch die Formulierung „Verträge mit ein em Gegenstandswert von 
+mindestens 100 000 Euro“ in § 2 Abs 2 tatsächlich d ie proaktive Veröffentlichung 
+sämtlicher (zudem auf veröffentlichten Förderrichtl inien beruhenden) Förderverträge 
+mit einer Fördersumme über diesem Grenzwert in ihre r Gesamtheit intendiert ist, 
+zumal schon aus der derzeit bestehenden (zusammengef assten) Veröffentlichung 
+Fördernehmer, Fördersumme und geförderte Projekte he rvorgehen. Darüber 
+hinausgehende Inhalte der Förderverträge (deren Zusta ndekommen zudem in der 
+Regel nicht in einem eigenständigen Dokument beurkunde t wird) sind nämlich (neben 
+den ebenfalls veröffentlichten Förderrichtlinien) ge rade solche, hinsichtlich derer in 
+der Regel gegenläufige Geheimhaltungsinteressen bestehe n (insbesondere 
+Kostenkalkulationen in Bezug auf Lohnkosten oder Ver einbarungen mit 
+Drittdienstleistern). Insofern ist davon auszugehen,  dass ein wörtliches Verständnis, 
+wonach Verträge mit einem Gegenstandswert über EUR 10 0.000,- tatsächlich jeweils 
+im Einzelnen zu veröffentlichen sind, im Förderbere ich zu einem erheblichen 
+Mehraufwand (insbesondere für Schwärzung von Betrieb s- und 
+Geschäftsgeheimnissen) ohne nennenswerten Erkenntnis gewinn führen würde.  
+Zu § 4 Abs 1 und 3 E-IFG:  
+Wie bereits in der Einleitung angemerkt, veröffentli cht die RTR-GmbH bereits jetzt eine 
+Vielzahl von Informationen aufgrund unterschiedlich er Vorschriften. Hier stellt sich, trotz 
+der allgemeinen Regelungen des § 16 E-IFG, die Frag e, wie Behörden bzw sonstige 
+informationspflichtige Stellen unterschiedlichen Ve röffentlichungspflichten effizient und 
+ohne überbordenden Ressourceneinsatz Rechnung trage n sollen. Die RTR-GmbH geht 
+jedenfalls davon aus, dass eine bestehende gesetzli che Veröffentlichungspflicht für die 
+jeweilige Information die Einordnung als „Informati on von allgemeinem Interesse“, 
+welche proaktiv zu veröffentlichen ist, nahelegt un d insofern ein zusätzlicher Aufwand nur 
+durch die geforderte Anbindung an data.gv.at entste ht.  
+In diesem Zusammenhang ist jedoch darauf zu verweis en, dass sich die bereits jetzt 
+bestehenden Veröffentlichungspflichten auf untersch iedlichste Dokumente beziehen, 
+wobei – zumindest aus derzeitiger Sicht – insbesond ere die zwingend zu 
+veröffentlichenden einzelnen Entscheidungen nicht i n die Systematik von www.data.gv.at 
+zu passen scheinen. 
+ 163/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 4
+www.parlament.gv.at
+ 
+Seite 3/4 
+Zu § 6 Abs 1 Z 5 lit b E-IFG: 
+Die RTR-GmbH begrüßt die Geheimhaltung von Informat ionen im Interesse der 
+unbeeinträchtigten Vorbereitung von Entscheidungen.  Hinsichtlich der 
+Beratungsprotokolle und Entscheidungsentwürfe der R egulierungsbehörden, aber auch 
+von Fachbeiräten und Kommissionen (wie etwa der Fac hbeiräte und Kommissionen im 
+Rahmen der Förderverwaltung, des Post-Geschäftsstel len-Beirats oder des neu in § 44b E-
+TKG 2021 einzurichtenden Fachbeirats für Netzsicher heit) sollte aber klargestellt werden, 
+dass diese auch nach rechtskräftiger Entscheidung k einer Veröffentlichung zugänglich 
+sind. Vgl dazu auch die Judikatur der Höchstgericht e zur Akteneinsicht wie zB VfSlg. 
+17.671/2005, 18.332/2007, VwGH 06.07.2010, 2009/09/ 0078 oder auch VwGH 
+29.05.2018. Ro2017/15/0021, wo der Verwaltungsgeric htshof anführt, dass 
+Beratungsprotokolle und Erledigungsentwürfe in viel en Verfahrensarten (genannt werden 
+ua AVG, BAO, ZPO, VwGVG, StPO) unbedingt (absolut) von der Akteneinsicht 
+ausgenommen sind. So müsse ein Gericht „die Möglich keit haben, gegenteilige Ansichten 
+abzuwägen und mehrere Varianten einer möglichen Ent scheidung zu prüfen, ohne bei 
+dieser Urteilsfindung einer Beeinflussung durch die  Parteiöffentlichkeit ausgesetzt zu 
+sein.“ Daher sind Beratungsprotokolle und Entscheid ungsentwürfe wohl keinesfalls unter 
+Informationen von allgemeinen Interesse zu subsumie ren. 
+Zu §§ 8 und 10 E-IFG: 
+Die Verankerung des Zugangs zur Information ohne un nötigen Aufschub ist grundsätzlich 
+zu begrüßen, auch wenn die Frist von vier Wochen ei ne Halbierung der bisherigen Frist 
+zur Auskunftserteilung nach dem Auskunftspflichtges etz, BGBl Nr 287/1987 idF BGBl I Nr 
+158/1998 bedeutet. Zwar ist eine Möglichkeit der Fr istverlängerung auf acht Wochen 
+vorgesehen, doch erfordert die Ausübung dieser Fris tverlängerung einen zusätzlichen 
+administrativen Verwaltungsakt (s § 8 Abs 2 zweiter  Satz E-IFG). 
+Es wird daher angeregt, die gesetzliche Frist in je dem Fall mit zumindest acht Wochen 
+festzulegen. Zu berücksichtigen ist dabei auch, das s die zu erteilende Information in die 
+Rechte von Dritten eingreifen kann (§ 10 E-IFG), di esen Dritten aber kein Rechtsschutz im 
+konkreten Verfahren zuzukommen scheint (sondern led iglich eine nachfolgende 
+Beschwerde an die Datenschutzbehörde offensteht). D amit sind die Rechte Dritter 
+sorgfältig zu prüfen, wofür eine zumindest achtwöch ige Frist angemessen erscheint. 
+  163/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 4
+www.parlament.gv.at
+ 
+Seite 4/4 
+Mit freundlichen Grüßen 
+RTR-GmbH 
+Rundfunk und Telekom 
+Regulierungs-GmbH  
+ 
+Mag. Oliver Stribl                     
+Geschäftsführer FB Medien  Dr. Klaus M. Steinmaurer 
+Geschäftsführer FB Telekommunikation & Post  
+ 
+ 
+ 
+ 
+ 
+SignaturwertP5sdafZ6ZP+yPxLLSMV6BHWqHctvLYWMDQLJD5/ojl7c67FuuGp8af364iOUPwV46t4MBGhenPl
+AmmuY37oWBsfFN9oDxWV7uPcvwJOqdz0hO2etjJm+Ez2mILgr75Xu9/kjnsxjbKG5jTJ2160Eo2
+iLCFbpf0JlXJg0V+0RqnfNcDs42E3Kbj2Nbac7NeaWyE1GeZN+tQFKVu1TW1dqj5hX+J7kawuf4
+G3FVDgbhnenQYHPJnkJae2ZqrunJFuMabYj8vwo1N/pvvQbjSnOUtm+Ms6CWsFSI18hKz2WG4NX
+vHtHbQO/gbuMgvQYXY5aCn7Ja2Ik0HTVcu0h14rwZQ==                               
+                                                                           
+UnterzeichnerserialNumber=402182088433,CN=Rundfunk und        
+Telekom Regulierungs-GmbH,OU=Rundfunk und        
+Telekom Regulierungs-GmbH,O=Rundfunk und Telekom 
+Regulierungs-GmbH,C=AT                           
+                                                 
+     
+Datum/Zeit-UTC2021-04-19T11:10:30Z                             
+                     
+Aussteller-ZertifikatCN=a-sign-corporate-07,OU=a-sign-corporate-07,   
+O=A-Trust Ges. f. Sicherheitssysteme im elektr.  
+Datenverkehr GmbH,C=AT                           
+                                           
+Serien-Nr.582516203                                        
+                     
+Methode urn:pdfsigfilter:bka.gv.at:binaer:v1.1.0
+Parameteretsi-bka-moa-1.0                                 
+                     
+Prüfinformation Information zur Prüfung des Dokumentes finden Sie unter https://www.rtr.at/amtssignatur 
+HinweisDieses Dokument wurde amtssigniert. Auch ein Ausdruck dieses Dokuments hat gemäß § 20 E-Government-Gesetz die
+Beweiskraft einer öffentlichen Urkunde.
+SignaturwertZmLOicAB8kvjsdusTtQeGGA4vZNb5A8vGDhIO5smkOLrms3P1UnxRMVNXMYr3hCNEbZmJ3lEW1j
+sdZPSWuFOAroPYKNQLNxWjMW2Ce6SzMKRlQe5Bpkgdx/NuNp0DQkKWSvdLRwjoRmYVYhy8j63ov
+NHzxPHuAVvHv/Pgvicmq7xngPvMAH7PlXIOwte01FcRLOKaH3CD44x/rdk7CgaeE0sLeiVwll3u
+8Jumv9prPyPTCSA/Lgn+40LPtWSi+WVXUkbEmfnKgdwevpEtURy+XCRgAOmmTq3f9F+yzrcW046
+lY1Q6sWFhCG3lgTkisXoSYgXUtGTbgG5mzq5J+wRKA==                               
+                                                                           
+UnterzeichnerserialNumber=402182088433,CN=Rundfunk und        
+Telekom Regulierungs-GmbH,OU=Rundfunk und        
+Telekom Regulierungs-GmbH,O=Rundfunk und Telekom 
+Regulierungs-GmbH,C=AT                           
+                                                 
+     
+Datum/Zeit-UTC2021-04-19T11:26:27Z                             
+                     
+Aussteller-ZertifikatCN=a-sign-corporate-07,OU=a-sign-corporate-07,   
+O=A-Trust Ges. f. Sicherheitssysteme im elektr.  
+Datenverkehr GmbH,C=AT                           
+                                           
+Serien-Nr.582516203                                        
+                     
+Methode urn:pdfsigfilter:bka.gv.at:binaer:v1.1.0
+Parameteretsi-bka-moa-1.0                                 
+                     
+Prüfinformation Information zur Prüfung des Dokumentes finden Sie unter https://www.rtr.at/amtssignatur 
+HinweisDieses Dokument wurde amtssigniert. Auch ein Ausdruck dieses Dokuments hat gemäß § 20 E-Government-Gesetz die
+Beweiskraft einer öffentlichen Urkunde.163/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 4
+www.parlament.gv.at

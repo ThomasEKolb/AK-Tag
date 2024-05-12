@@ -1,0 +1,358 @@
+ 
+ 
+1 von 10   
+ 
+ 
+ 
+BMJ - StS DS (Stabsstelle für Datenschutz)  
+Kompetenzstelle GDSR  (Geschäftsstelle des 
+Datenschutzrates ) 
+dsr@bmj.gv.at  
++43 1 52152 2918  
+Museumstraße  7, 1070 Wien  
+E-Mail -Antworten sind bitte  
+unter  Anführung  der Geschäftszahl  an  
+dsr@bmj.gv.at  zu richten.  An das  
+Bundeskanzleramt  
+Verfassungsdienst  
+ 
+Per Mail:  
+verfassungsdienst@bka.gv.at  
+ 
+Geschäftszahl:  2021 -0.266.726   GZ des Begutachtungsentwurfes:  
+2021 -0.130.157  
+Entwurf eines Bundesgesetzes, mit dem das Bundes -Verfassungsgesetz, das 
+Rechnungshofgesetz  1948 und das Verfassungsgerichtshofgesetz  1953 
+geändert und ein Informationsfreiheitsgesetz erlassen werden , 
+Stellungnahme des Datenschutzrates  
+Der Datenschutzrat hat in seiner  256. Sitzung am  16. April  2021 einstimmig beschlossen , 
+zu der im Betreff genannten Thematik folgende Stellungnahme abzugeben:  
+I.  Allgemeines  
+Laut den Erläuterungen zum Entwurf  ist die Pflicht zur Amtsverschwiegenheit in der 
+österreichischen Bundesverfassung ausdrücklich verankert,  ebenso wie die – in einem 
+Spannungsverhältnis zu dieser stehende – Auskunftspflicht der Verwaltung. Diese Rechts -
+lage führt zu einem regelmäßig schlechten Abschneiden Österreichs in inter nationalen 
+Transparenzrankings. Im Regierungsprogramm der österreic hischen Bundesre -
+gierung  2020 – 2024 (S.  19 f) wurde daher vereinbart, dem berechtigten Interesse an 
+einem möglichst weiten Zugang zu staatlichen Informationen nachzu kommen. Es soll laut 
+den Erläuterungen ein Paradigmenwechsel eingeleitet werden, indem da s Amtsgeheimnis 
+endgültig beseitigt, staatliche Transparenz zur Regel und Geheimhaltung zur Ausnahme 
+gemacht werden soll. Staatliches Handeln soll für jeder mann weitestgehend transparent 
+190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 10
+www.parlament.gv.at
+ 
+ 
+2 von 10 gemacht, der Zugang des Einzelnen zu staatlichen Informationen erlei chtert und jener zu 
+staatsnahen unternehmerischen Informationen eröffnet werden.  
+Der Entwurf enthält laut den Erläuterungen weiters die Aufhebung der verfassungsgesetz -
+lichen Amtsverschwiegenheit und die Einführung einer allgemeinen Informationsfreiheit 
+durch Schaffung einer verfassungsgesetzlichen Informations verpflichtung und eines 
+verfassungsgesetzlich gewährleisteten Rechts auf Zugang zu Informationen sowie eine 
+einfachgesetzliche Ausführung der verfassungs gesetzlichen Bestimmungen zur Infor -
+mationsf reiheit in einem Informationsfreiheitsgesetz – IFG. 
+II.  Datenschutzrechtliche Bemerkungen  
+Vorbemerkung  
+Der Datenschutzrat  hat sich mit dieser Thematik im Rahmen der Begutachtung eines 
+Entwurfes eines Bundesverfassungsgesetzes, mit dem das Bundes -Verfassun gsgesetz 
+geändert wird (Stellungnahme vom 7.  Mai 2014, GZ BKA -817.444/0002 -DSR/2014) sowie 
+eines Antrages gemäß §  27 GOG betreffend ein Bundesgesetz über den Zugang zu 
+Informationen (Informationsfreiheitsgesetz – IFG) (Stellungnahme vom 3.  Dezember 2015, 
+GZ BKA -817.444/0002 -DSR/2015) bereits grundsätzlich befasst.  
+Der Datenschutzrat sah grundsätzlich in dem vorgeschlagenen Grundrecht auf Zugang zu 
+Informationen ein Spannungsverhältnis zum Grundrecht auf Datenschutz und wies 
+darauf hin, dass künftig im Rahme n von Veröffentlichungen und des Rechts auf Infor -
+mationszugang eine Interessenabwägung zwischen diesen beiden Grundrechten vorge -
+nommen werden muss.  
+Der Datenschutzrat regte an, das damalige Gesetzesvorhaben im Lichte der aufgewor -
+fenen Fragestellungen sowie auch unter Berücksichtigung unionsrechtlicher bzw. 
+völkerrechtlicher Vorgaben zu überprüfen. Darüber hinaus müsse auch sichergestellt 
+werden, dass es nicht zu einander widersprechenden Entscheidungen verschiedener 
+Spruchkörper kommt.  
+Aus Sicht des Da tenschutzrates erschien es aufgrund des damals geplanten Verfassungs -
+gesetzes weiters notwendig, die bestehenden gesetzlichen, insbesondere die dienstrecht -
+lichen Verschwiegenheitsverpflichtungen auf bundes - und landesrechtlicher Ebene einer 
+Neuregelung zu zuführen.  190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 10
+www.parlament.gv.at
+ 
+ 
+3 von 10 Zum vorliegenden Entwurf  
+Zu Artikel  1 (Änderung des Bundes -Verfassungsgesetzes):  
+Zu Z 2 (Art.  22a):  
+Im Zusammenhang mit der in Art.  22a B -VG verankerten Informationsfreiheit stellen sich 
+grundlegende Fragen zum Verhältnis zum Recht auf Schutz personenbezogener Daten  
+nach der DSGVO sowie dem Grundrecht auf Datenschutz nach §  1 DSG. Das Recht auf 
+Schutz personenbezogener Daten kann im Hinblick auf die Informationsfreiheit die 
+Ausnahmetatbestände der Geheimhaltung „aus zwingenden integrations - und außenpoli -
+tischen Gründen“ oder „zur Wahrung überwiegender berechtigter Interessen eines 
+anderen“ begründen. Umgekehrt stellt die Informationsfreiheit zum Zweck der Transpa -
+renz ein legitimes öffentliches Interesse dar, das Eingriffe in das Recht auf Schu tz perso -
+nenbezogener Daten rechtfertigen kann.  
+Im Hinblick auf diese wechselseitige Berücksichtigung von Informationsfreiheit und Daten -
+schutz als Eingriffsgrund erscheint eine nähere Auseinandersetzung mit dem Verhältnis 
+zwischen Informationsfreiheit u nd Datenschutz (im Rahmen des Gesetzestextes sowie in 
+den Erläuterungen) geboten.  
+Auf verfassungsgesetzlicher Ebene  stehen die in Art.  22a B -VG verankerte Informations -
+freiheit  und das in §  1 DSG verankerte Grundrecht auf Datenschutz  einander gleichrangig  
+gegenüber; es obliegt dem Gesetzgeber, die Informationsfreiheit mit dem Recht auf 
+Schutz personenbezogener Daten in Einklang zu bringen.  
+Auch aus der Perspektive des Unionsrechts besteht ein Gestaltungsspielraum  des Gesetz -
+gebers für den Ausgleich zwische n Informationsfreiheit und Datenschutz:  
+Art. 86 DSGVO enthält eine Öffnungsklausel  für die Erlassung von Rechtsvorschriften über 
+den Zugang der Öffentlichkeit zu amtlichen Dokumenten, die personenbezogene Daten 
+enthalten. Mit dieser Bestimmung ermöglicht e s die DSGVO den Mitgliedstaaten, in ihren 
+nationalen Vorschriften das Recht auf Zugang der Öffentlichkeit zu amtlichen Dokumenten 
+„mit dem Recht auf Schutz personenbezogener Daten in Einklang zu bringen“. Die Infor -
+mations freiheit zum Zweck der Transparen z stellt ein legitimes öffentliches Interesse  dar, 
+das im Rahmen von Art.  6 Abs.  1 lit.  e DSGVO zu berücksichtigen ist (vgl. Erwägungs -
+grund  154 der DSGVO). Einschränkungen sind zulässig, soweit dies erforderlich ist, um das 
+Recht auf Informationszugang ni cht ins Leere laufen zu lassen.  190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 10
+www.parlament.gv.at
+ 
+ 
+4 von 10 Bezüglich der Anforderungen für ein solches „in Einklang bringen“ ist insbesondere auf 
+Art. 6 Abs.  2 und 3 DSGVO hinzuweisen. Gemäß Art.  6 Abs.  2 DSGVO haben die Mit -
+gliedstaaten die Möglichkeit, „spezifischere Regelungen“ z u treffen. Gemäß Art.  6 Abs . 3 
+DSGVO müssen diese Regelungen insbesondere den Verhältnismäßigkeits grundsatz 
+wahren. Für die Erlassung innerstaatlicher Regelungen über die Informationsfreiheit 
+bedeutet das, dass spezielle Gesichtspunkte für die Interessena bwägung gesetzlich 
+festgelegt werden müssen.  
+Dies ist im vorliegenden Entwurf nicht der Fall: Das Recht auf Schutz personenbezogener 
+Daten wird zwar als Ausnahmetatbestand von der Informationsfreiheit verankert, die 
+Abwägung  selbst jedoch nicht näher ausge staltet . Damit bleibt es zur Gänze der Vollzugs -
+ebene  überlassen, einen Ausgleich zwischen der Informationsfreiheit und dem Recht auf 
+Schutz personenbezogener Daten (sowie anderen, der Informationsfreiheit gegenläufigen 
+Rechten Dritter) zu schaffen. Das Ermessen ist lediglich dort begrenzt, wo der Zugang zu 
+Information jedenfalls (oder keinesfalls) das Recht auf Schutz personen bezogener Daten 
+(oder sonstige überwiegende berechtigte Interessen Dritter) verletzen würde.  
+Im Sinne einer gleichförmigen Vollziehung der Informationsfreiheit  sowie der Rechts -
+sicher heit aller Beteiligten – der informationspflichtigen Stelle, des Informationswerbers 
+sowie der von der Information betroffenen Personen – wird empfohlen, die Kriterien, die 
+in die Abwägungsentscheidung einzubeziehen sind, näher zu determinieren. In daten -
+schutz rechtlicher Hinsicht kämen beispielsweise die Art der in der Information enthal -
+tenen personenbezogenen Daten  (zB lediglich Identitätsdaten, besondere Kategorien 
+personenbezogener Daten oder strafrechtsrelevante Daten), der Kreis der betroffenen 
+Pers onen  (im Kopf eines Dokuments ausgewiesener Sachbearbeiter, vom Inhalt eines 
+Dokuments betroffene Personen wie zB Bescheidadressaten, Kinder usw.) oder der 
+Umstand, dass die Identität der betroffenen Personen  dem Informationswerber bereits 
+bekannt  sind, in  Betracht. Gerade weil sowohl die Informationsfreiheit als auch das Recht 
+auf Schutz personenbezogener Daten einen relativ weiten Spielraum für Einschränkungen 
+zum jeweils anderen Zweck ermöglichen, erscheint es geboten, diesen Spielraum näher 
+auszugestalt en. 
+Zu Artikel  2 (Informationsfreiheitsgesetz – IFG):  
+Zu §  3: 
+Die datenschutzrechtliche Rollenverteilung  in Bezug auf die Informationsfreiheit 
+erscheint klärungsbedürftig . So hat die Regelung der Zuständigkeit zur Veröffentlichung 
+von Informationen in §  3 Abs.  1 IFG zur Folge, dass die dort genannten Organe zum Teil 190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 10
+www.parlament.gv.at
+ 
+ 
+5 von 10 auch Informationen veröffentlichen müssen, für die sie nicht selbst Verantwortliche  iSd 
+Art. 4 Z 7 DSGVO sind  (zB Bürgermeister hinsichtlich Informationen aus dem Wirkungs -
+bereich der Gemeinde o der die Präsidentschaftskanzlei hinsichtlich Informationen aus 
+dem Wirkungsbereich des Bundespräsidenten). Hier wäre zu prüfen, ob allenfalls die 
+Zuständigkeit für die Veröffentlichung  dem jeweiligen Verantwortlichen  der betreffen -
+den Datenverarbeitung zug ewiesen werden kann. Im Übrigen wird zur datenschutzrecht -
+lichen Rollenverteilung auch auf die nachstehenden Anmerkungen zu §  4 IFG hingewiesen.  
+Zu §  4: 
+§ 4 Abs.  2 IFG sieht vor, dass der Zugang zu Informationen von allgemeinem Interesse von 
+den informati onspflichtigen Stellen im Wege eines zentralen elektronischen Registers 
+(Informationsregister)  zu ermöglichen ist, wobei die näheren Bestimmungen über das 
+Informationsregister durch Bundesgesetz getroffen werden.  
+In diesem Zusammenhang sollte bereits vorwe g die datenschutzrechtliche Rollenver -
+teilung , insbesondere die Frage, wer Verantwortlicher des Informationsregisters  ist, 
+geklärt bzw. geregelt werden. §  4 Abs.  5 IFG weist die Rolle des datenschutzrechtlichen 
+Auftragsverarbeiters der BRZ GmbH zu; für wel chen Verantwortlichen die BRZ GmbH 
+Auftragsverarbeiter ist, wird jedoch gesetzlich nicht geregelt und ist auch nicht klar 
+zuordenbar. Nach den Erläuterungen sollen die informationspflichtigen Stellen daten -
+schutzrechtlich verantwortlich sein, die die Daten  hosten und – durch und zumindest 
+unter Beteiligung ihres jeweiligen datenschutzrechtlich Verantwortlichen (Art.  4 Z 7 
+DSGVO) – bereitstellen. Unklar ist, ob die in §  3 Abs.  1 IFG genannten Organe und 
+Einrichtungen in Bezug auf die Informationsfreiheit gem einsam für die Verarbeitung 
+Verantwortliche gemäß Art.  26 DSGVO sein sollen; gegebenenfalls wird auf die erfor -
+derliche Festlegung der datenschutzrechtlichen Verpflichtungen im Gesetz bzw. in einer 
+Vereinbarung gemäß Art.  26 DSGVO hingewiesen.  
+Zudem sind die gemäß §  3 Abs.  1 IFG zur Veröffentlichung von Informationen zuständigen 
+Organe teils nicht selbst Verantwortliche iSd Art.  4 Z 7 DSGVO für die ursprüngliche 
+Verarbeitung der von ihnen zu veröffentlichenden Informationen (vgl. die Anmerkungen 
+zu § 3 IFG ). Im Hinblick auf die mit der Verantwortlichenrolle verbundenen datenschutz -
+rechtlichen Pflichten bedarf es vorliegend jedenfalls einer gesetzlichen Klarstellung, wer 
+datenschutzrechtlich Verantwortlicher iSd Art.  4 Z 7 DSGVO ist.  
+§ 4 Abs.  2 IFG sieht vor, dass die näheren Bestimmungen über das Informationsregister  
+durch Bundesgesetz getroffen werden. In den Erläuterungen wird dazu ausgeführt, dass 190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 10
+www.parlament.gv.at
+ 
+ 
+6 von 10 als „Bundesgesetz“, mit dem nähere Bestimmungen getroffen werden, die vorgeschlage -
+nen folgenden Absätze (dh. §  4 Abs.  3 bis 6 IFG) gelten. Diese sehen jedoch kaum konkrete 
+Regelungen über die Datenverarbeitung im Informationsregister vor, sondern beschrän -
+ken sich weitgehend auf abstrakte Anforderungen (etwa, dass eine Suche zu ermögliche n 
+ist). 
+Die umfassende Verordnungsermächtigung  in § 4 Abs.  3 letzter Satz IFG zur Festlegung 
+der „näheren technischen Voraussetzungen“ erscheint in Bezug auf das aus §  1 Abs.  2 DSG 
+erfließende datenschutzrechtliche Determinierungsgebot zu weitgehend. Eine Verar -
+beitung von personenbezogenen Daten muss bereits aus dem Gesetz „vorhersehbar“ sein, 
+um in einer Verordnung angeordnet werden zu können (siehe auch die Rechtsprechung 
+des Verfassungsgerichtshofes, wonach eine Ermächtigungsnorm iSd §  1 Abs.  2 DSG [200 0] 
+ausreichend präzise, also für jedermann vorhersehbar, bezeichnen muss, unter welchen 
+Voraussetzungen die Ermittlung bzw. die Verwendung der Daten für die Wahrnehmung 
+konkreter Verwaltungsaufgaben zulässig ist [vgl. etwa VfSlg. 16.369/2001 und 
+18.146/200 7; zuletzt VfGH 11.12.2019, G 72 -74/2019 ua., Rz  64 ff]). Dies sollte jedenfalls 
+berücksichtigt und nochmals geprüft werden. Es sollten vor allem entsprechende Präzi -
+sierungen im Gesetz – insbesondere in Bezug auf mögliche Such kriterien, Datensicher -
+heits maßnahmen, Zugangskriterien oder Vorgaben für eine allfällige Weiterverarbeitung  
+(zB weitere Veröffentlichung oder Nutzung) von personen bezogenen Daten – vorgenom -
+men werden.  
+Zu §  6: 
+Im Hinblick auf die im Schlusssatz des §  6 Abs.  1 IFG vorgesehene Interessenabwägung  
+sollte in den Erläuterungen auf die zu berücksichtigenden (datenschutzrechtlichen) 
+Aspekte  eingegangen werden. In datenschutzrechtlicher Hinsicht wäre etwa insbesondere 
+zu berücksichtigen, ob die Informationen besondere Kategorien person enbezogener 
+Daten oder strafrechtsrelevante Daten beinhalten, ob es sich bei den betroffenen 
+Personen um Kinder handelt usw. In jedem Fall sollte klargestellt werden, dass eine 
+Veröffentlichung oder Übermittlung von personenbezogenen Daten, die aufgrund de r 
+DSGVO oder des DSG nicht zulässig ist, jedenfalls auch nach §  6 Abs.  1 IFG zu einer 
+Unzulässigkeit der Veröffentlichung führt . 
+Zu §  7: 
+Zu §  7 Abs.  1 IFG stellt sich die Frage, wer „vorsieht“, in welcher Form der Zugang zu 
+Informationen beantragt werden k ann, wobei insbesondere die Aspekte des E -Govern -
+ment -Gesetzes zu berücksichtigen wären.  Dies sollte  näher erläutert werden. Zu berück -
+sichtigen ist dabei, dass mit entsprechenden Festlegungen die Möglichkeit zur Erlangung 190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 10
+www.parlament.gv.at
+ 
+ 
+7 von 10 von Informationen  erheblich einge schränkt werden könnte . 
+Zu §  9: 
+Im Hinblick auf §  9 Abs.  1 IFG stellt sich die Frage, was unter „ möglichst direkt zugänglich 
+zu machen “ zu verstehen ist ( Direktzugriff  auf eine Datenanwendung der informations -
+pflichtigen Stelle?). Dies sollte näher erläute rt werden.  
+Zu §  9 Abs.  2 IFG ist anzumerken, dass personenbezogene Daten, deren Übermittlung 
+nach der DSGVO oder dem DSG nicht zulässig wäre, keinesfalls übermittelt werden 
+dürfen , nur weil damit ein unverhältnismäßiger Aufwand zur Herausnahme dieser Date n 
+aus der Information  verbunden wäre. Dies geht aus der Formulierung – auch in Zusam -
+menschau mit den Erläuterungen – nicht eindeutig hervor. Zur Klarstellung sollte in §  9 
+Abs.  2 IFG das Wort „soweit“ durch die Wendung „im Hinblick auf den verbleibenden T eil“ 
+ersetzt werden.  
+Zu §  10: 
+Nach §  10 IFG ist, wenn die Erteilung einer Information in die Rechte eines anderen 
+eingreift, dieser davor vom zuständigen Organ „tunlichst“ zu hören . Dies betrifft 
+insbesondere auch Fälle, in denen die Information personenbezogene Daten Dritter 
+enthält.  
+Zunächst stellt sich die Frage, in welchen Fällen bzw. unter welchen Voraussetzungen 
+von einer Anhörung abgesehen werden kann . Die Erläuterungen führen dazu aus, dass 
+das informationspflichtige Organ nur in dem Ausma ß zur Anhörung verpflichtet werden 
+soll, als eine solche ohne unverhältnismäßigen zeitlichen und sonstigen Aufwand möglich 
+ist. Offen ist dabei insbesondere , unter welchen Umständen einem von einem Infor -
+mations begehren Betroffenen Parteistellung zukommt (vgl. §  8 AVG), und was ein 
+„sonstiger“ Aufwand  ist.  
+Zu den §§  10, 11 und 14:  
+Im Hinblick auf die §§  10, 11 und 14 stellen sich grundlegende Fragen zum Rechtsschutz 
+der von einer veröffentlichten oder zugänglich gemachten Information betroffenen 
+Personen,  insbesondere von Personen, deren personenbezogene Daten in der Information 
+enthalten sind.  
+Der datenschutzrechtliche Rechtsschutz vor der Datenschutzbehörde  ist weitgehend 
+unionsrechtlich determiniert und insoweit keinen Beschränkungen zugänglich. Unbe -
+schadet ihrer Einbindung im Rahmen der Informationsfreiheit (siehe dazu die 190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 10
+www.parlament.gv.at
+ 
+ 
+8 von 10 Anmerkungen zu §  15 IFG) muss die Datenschutzbehörde – sowohl rechtlich als auch 
+faktisch – in der Lage bleiben, ihren Aufgaben nach Art.  57 DSGVO  (insb. Überwachung 
+und Durchsetzung  der Anwendung der DSGVO sowie Prüfung von Beschwerden) nachzu -
+kommen  und ihre Untersuchungs -, Abhilfe - und Genehmigungs - bzw. Beratungs -
+befugnisse nach Art.  58 DSGVO vollinhaltlich wahrzunehmen . Überdies muss gewähr -
+leistet sein, dass der in der DSGVO vor gesehene Rechtsschutz für betroffene Personen , 
+deren personenbezogene Daten als Teil einer Information nach dem IFG verarbeitet 
+(insbesondere offengelegt bzw. übermittelt) werden, nicht beeinträchtigt wird. Dazu 
+zählen insbesondere die Möglichkeit, im Fall e von Verstößen gegen die DSGVO ihr Recht 
+auf Beschwerde bei der Datenschutzbehörde  (Art.  77 DSGVO) wahrzunehmen bzw. sich 
+an die Gerichte  zu wenden (Art.  79 DSGVO).  
+Erfolgt die Informationserteilung hingegen aufgrund einer verwaltungsgerichtlichen Anor -
+dnung im Informationsfreiheitsverfahren, stellt sich die Frage einer Bindungswirkung  im 
+Hinblick auf ein datenschutzrechtliches Verfahren, mit dem sich die betroffene Person in 
+der Folge dagegen zur Wehr setzt.  
+Widersprüchliche Entscheidungen  im Information sfreiheitsverfahren und im Datenschutz -
+verfahren (Anordnung der Gewährung des Zugangs zur Information einschließlich perso -
+nenbezogener Daten einerseits und Feststellung, dass ebendiese Datenverarbeitung den 
+Datenschutz verletzt, andererseits) wären jedoch aus rechtsstaatlicher Sicht bedenklich  
+und sollten nach Möglichkeit vermieden werden. Zudem können sich ähnliche Frage -
+stellu ngen zur Bindungswirkung auch in Bezug auf sonstige Betroffene, deren berechtigte 
+Interessen iSd §  6 Abs.  1 Z 7 IFG beeinträchtigt werden, stellen.  
+Zu §  15: 
+Die in §  15 IFG vorgesehene Beratungs - und Unterstützungstätigkeit der Datenschutzbe -
+hörde im Rahme n der Informationsfreiheit begegnet vor dem Hintergrund des Art.  58 
+Abs.  6 DSGVO, demzufolge der datenschutzrechtlichen Aufsichtsbehörde neben den 
+Befugnissen nach der DSGVO im innerstaatlichen Recht zusätzliche Befugnisse übertragen 
+werden können, keinen grundsätzlichen Bedenken. Im Rahmen der Ausgestaltung ist 
+jedoch darauf zu achten, dass dadurch die völlige Unabhängigkeit der Datenschutzbe -
+hörde (vgl. Art.  52 DSGVO) als Aufsichtsbehörde nach der DSGVO nicht beeinträchtigt 
+wird.  
+Dementsprechend sollte s ichergestellt werden, dass die Tätigkeitsbereiche Datenschutz 
+und Informationsfreiheit in personeller, finanzieller und organisatorischer Hinsicht 
+getrennt  eingerichtet und jeweils mit ausreichenden Ressourcen  ausgestattet werden. 190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 10
+www.parlament.gv.at
+ 
+ 
+9 von 10 Eine „Umschichtung“ von f inanziellen Mitteln oder Personal aus dem Bereich Datenschutz 
+in den Bereich Informationsfreiheit, die dazu führt, dass die Datenschutzbehörde ihren 
+Aufgaben im Datenschutzbereich nicht mehr zur Gänze nachkommen kann, wäre mit den 
+Vorgaben der DSGVO nicht vereinbar.  
+Überdies wird im Lichte des EuGH -Urteils vom 16.  Dezember 2012, C -614/10 (Vertragsver -
+letzungsverfahren gegen Österreich wg. unzureichender Unabhängigkeit der Aufsichts -
+behörde nach der Datenschutz -Richtlinie 95/46/EG) empfohlen, die Datenschutz behörde 
+auch in Bezug auf die Informationsfreiheit weisungsfrei  zu stellen. Eine Dienstaufsicht in 
+Bezug auf die Informationsfreiheit wäre wohl geeignet, die Unabhängigkeit der Daten -
+schutz behörde in ihrer Funktion als Aufsichtsbehörde nach der DSGVO iSd Ausführungen 
+des EuGH im zitierten Urteil zu beeinträchtigen.  
+Der Umfang  der in §  15 Abs.  1 IFG vorgesehenen Beratungs - und Unterstützungstätigkeit  
+der Datenschutzbehörde in datenschutzrechtlichen Belangen sollte im Gesetzestext näher 
+präzisiert  und überdi es in den Erläuterungen näher beschrieben werden. Unklar ist 
+insbesondere, ob §  15 Abs.  1 IFG auch einzelfallbezogene  Beratung und Unterstützung 
+umfasst (zu den allfälligen Bindungswirkungen einer einzelfallbezogenen Empfehlung 
+siehe jedoch die Anmerkungen  zu den §§  10, 11 und 14 IFG).  
+Gemäß § 15 IFG des Begutachtungsentwurfes kommen der Datenschutzbehörde nunmehr 
+neue Aufgaben zu. Gleichzeitig hat sie aber nach geltendem Recht auch zB über 
+Beschwerden an die Datenschutzbehörde wegen Verstöße n gegen das Gru ndrecht auf 
+Datenschutz bzw. Geheimhaltung gemäß §  1 Abs.  1 DSG, gegen die Grundsätze für die 
+Verarbeitung personenbezogener Daten gemäß Art . 5 DSGVO oder die Rechtmäßigkeit der 
+Verarbeitung gemäß Art . 6 bzw. 9 DSGVO zu entscheiden. Damit entsteht aber für  die 
+Datenschutzbehörde ein Widerspruch hinsichtlich der ihr zugewiesenen Aufgaben. Sie hat 
+daher möglicherweise zunächst ein e auskunftspflichtige Stelle  zu beraten, ob sie den 
+Vorgaben de r Informationsfreiheit folgend dem Informationswerber Auskunft erteilen 
+soll, wobei naturgemäß auch personenbezogenen Daten als Teil der Auskunft infrage 
+kommen, und dann in Folge über eine allfällige Beschwerde der betroffenen Person in 
+derselben Sache zu entscheiden. Das sind klassisch unvereinbare Aufgaben, weshalb  der 
+Datenschutzrat empfiehlt, dieses Modell zu überarbeiten und kein entscheidendes 
+Organ in Beratungen über Sachverhalte einzubinden, über die es dann später in Folge 
+entscheiden müsste . Weiters wäre klarzustellen, ob überhaupt eine Beratung in einzelnen  
+Angelegenheiten angedacht ist, oder lediglich allgemeine Auskünfte erteilt werden sollen.  190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 10
+www.parlament.gv.at
+ 
+ 
+10 von 10 III.  Zu den Materialien:  
+Zum Vorblatt:  
+Nachdem der Entwurf unzweifelhaft die Verarbeitung personenbezogener Daten  regelt, 
+wäre im Rahmen des Vorblatts zumindest darzulegen, ob für Datenverarbeitungen im 
+Rahmen des IFG (insbesondere im Informationsregister) eine Datenschutz -Folgen -
+schätzung gemäß Art.  35 DSGVO erforderlich  ist oder nicht. Die Ausführungen im Vorblatt 
+zur Datenschutz -Folgenabschätzung gemäß Art.  35 DSGVO treffen keine Aussage darüber, 
+ob und gegebenenfalls von wem hinsichtlich der im Entwurf geregelten Daten verarbeitun -
+gen eine Datenschutz -Folgenabschätzung vorzunehmen ist (und stellen auch inhaltlich 
+keine solche Datenschutz -Folgenabschätzung dar).  
+Grundsätzlich trifft die Verpflichtung zur Durchführungen der Datenschutz -Folgen ab-
+schätzung gemäß Art.  35 DSGVO den Verantwortlichen  der Datenverarbeitung. Art. 35 
+Abs.  10 DSGVO sieht unter den angeführten  Voraussetzungen jedoch eine Ausnahme von 
+der Pflicht zur Durchführung einer Datenschutz -Folgenabschätzung durch Verant wortliche 
+für Verarbeitungen vor, die auf einer Rechtsgrundlage im Recht des Mitglied staates, dem 
+der Verantwortliche unterliegt, beruh en und falls diese Rechts vorschriften den konkreten 
+Verarbeitungsvorgang oder die konkreten Verarbeitungsvorgänge regeln und bereits im 
+Rahmen der allgemeinen Folgenabschätzung im Zusammenhang mit dem Erlass dieser 
+Rechtsgrundlage eine Datenschutz -Folgena bschätzung erfolgte. Für den Fall der Inan -
+spruch nahme dieser Ausnahme sollte die Durchführung der Datenschutz -Folgen ab-
+schätzung gemäß den Vorgaben des Art.  35 Abs.  7 DSGVO in den Erläuterungen ausführ -
+lich dargelegt werden.  
+Für den Datenschutzrat  
+Der V orsitzende:  
+OFENAUER  
+20. April 2021  
+Elektronisch gefertigt  190/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 10 von 10
+www.parlament.gv.at

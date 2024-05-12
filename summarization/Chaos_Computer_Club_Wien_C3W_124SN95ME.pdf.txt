@@ -1,0 +1,29 @@
+Feedback from: Chaos_Computer_Club_Wien_C3W
+
+Zusammenfassung der Stellungnahme des Chaos Computer Club Wien zum Informationsfreiheitsgesetz:
+
+**Hauptpunkte der Stellungnahme:**
+- **Befürwortung der Informationsfreiheit:** Der C3W unterstützt die Einführung des Informationsfreiheitsgesetzes, da es die Demokratie stärkt und Transparenz im staatlichen Handeln fördert.
+- **Forderung nach einer Transparenzbehörde:** Der C3W empfiehlt die Schaffung einer unabhängigen Transparenzbehörde mit umfassenden Befugnissen, um die Durchsetzung des Gesetzes zu gewährleisten.
+- **Präzisierung des Gesetzes:** Es wird eine genauere Definition von "Informationen" und "Informationen von allgemeinem Interesse" gefordert, um die Anwendung des Gesetzes zu vereinfachen und Rechtssicherheit zu schaffen.
+- **Verbesserung der Lizenzierung und Zugänglichkeit:** Informationen sollten grundsätzlich unter einer allgemeinfreien Lizenz veröffentlicht werden, um die Nutzung und Weiterverarbeitung zu erleichtern.
+- **Proaktive Veröffentlichungspflichten:** Der C3W befürwortet die Einrichtung einer zentralen Stelle für den Zugang zu Informationen und die Nutzung vorhandener Plattformen wie data.gv.at.
+- **Metadaten und Dokumentation:** Es wird eine bessere Qualität und detailliertere Beschreibung der Metadaten gefordert, um die Nutzbarkeit der Daten zu erhöhen.
+- **Reaktive Informationserteilung:** Der Zugang zu Informationen sollte unkompliziert und ohne unverhältnismäßigen Aufwand möglich sein. Die Fristen für Auskünfte sollten verkürzt werden.
+
+**Gruppierung nach Meinungen und Stimmungen:**
+- **Positive Stimmung (Unterstützung des Gesetzentwurfs):**
+  - Begrüßung der Initiative zur Informationsfreiheit.
+  - Unterstützung für die Schaffung einer Transparenzbehörde.
+  - Zustimmung zur Nutzung bestehender Plattformen und Datenbanken.
+
+- **Negative Stimmung (Kritik am Gesetzentwurf):**
+  - Notwendigkeit einer präziseren Gesetzesdefinition.
+  - Kritik an der unzureichenden Regelung der Lizenzierung.
+  - Bedenken hinsichtlich der praktischen Umsetzung und Einhaltung der Fristen.
+
+**Belege zur Unterstützung oder Widerspruch gegenüber den vorgeschlagenen Regeln:**
+- **Unterstützung:** Die Erfahrungen mit Plattformen wie data.gv.at zeigen, dass eine zentrale Stelle für Informationszugang effektiv sein kann.
+- **Widerspruch:** Die mangelnde Präzision in der Definition von Informationen und das Fehlen einer unabhängigen Transparenzbehörde könnten die Wirksamkeit des Gesetzes einschränken.
+
+Diese Punkte verdeutlichen die grundsätzliche Unterstützung des Chaos Computer Club Wien für das Informationsfreiheitsgesetz, weisen jedoch auf wichtige Bereiche hin, die verbessert oder präzisiert werden müssen, um die Effektivität und praktische Anwendung des Gesetzes zu gewährleisten.

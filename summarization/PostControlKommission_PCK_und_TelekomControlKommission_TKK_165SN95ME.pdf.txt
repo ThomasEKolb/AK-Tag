@@ -1,0 +1,31 @@
+Feedback from: PostControlKommission_PCK_und_TelekomControlKommission_TKK
+
+Die Schlüsselpunkte der Stellungnahme der Post-Control-Kommission (PCK) und Telekom-Control-Kommission (TKK) bezüglich des Entwurfs eines Informationsfreiheitsgesetzes umfassen:
+
+- **Unterstützung des Paradigmenwechsels**: Die PCK und TKK begrüßen die Initiative, das Amtsgeheimnis weitgehend zu beseitigen und staatliche Transparenz zu fördern.
+- **Bereits vorhandene Transparenz**: Es wird hervorgehoben, dass im Vollziehungsbereich der Regulierungsbehörden Transparenz durch europäische und nationale Vorschriften bereits umfassend gewährleistet ist.
+- **Bereitstellung von Open Government Data**: Die RTR-GmbH stellt bereits eine Vielzahl von Daten als Open Government Data zur Verfügung.
+- **Spezifische Ausnahmen für Beratungsprotokolle und Entscheidungsentwürfe**: Die Stellungnahme macht deutlich, dass Beratungsprotokolle und Entscheidungsentwürfe der Regulierungsbehörden, Fachbeiräte und Kommissionen auch nach rechtskräftiger Entscheidung von der Veröffentlichung auszunehmen sind.
+
+Zusammenfassung der Rückmeldungen in Stichpunkten:
+
+- Positive Aspekte:
+  - Zustimmung zum generellen Ziel der Transparenzsteigerung und Beseitigung des Amtsgeheimnisses.
+  - Anerkennung der bereits bestehenden Transparenzpflichten und -praktiken.
+
+- Kritische Aspekte:
+  - Forderung, dass bestimmte Dokumente (Beratungsprotokolle und Entscheidungsentwürfe) weiterhin vom Zugang der Öffentlichkeit ausgeschlossen bleiben sollen.
+
+Gruppierung der Meinungen nach Sentiment:
+
+- **Unterstützend**:
+  - Generelle Unterstützung des Ziels, staatliche Transparenz zu erhöhen.
+  - Anerkennung der bereits durchgeführten Maßnahmen zur Transparenz durch die RTR-GmbH und die Einhaltung europäischer sowie nationaler Vorgaben.
+
+- **Gegen**:
+  - Widerstand gegen die vollständige Offenlegung aller Dokumente, insbesondere der Beratungsprotokolle und Entscheidungsentwürfe.
+
+Nachweise, die die vorgeschlagenen Regeln stärken oder widersprechen könnten:
+
+- **Stärkung**: Die bereits vorhandene Praxis der Transparenz und Veröffentlichung von Daten durch die RTR-GmbH kann als Beweis dafür dienen, dass eine Erweiterung der Transparenzprinzipien praktikabel ist.
+- **Widerspruch**: Die Rechtsprechung und die bestehenden gesetzlichen Regelungen, die bestimmte Dokumente von der Akteneinsicht und Veröffentlichung ausschließen, stehen im Widerspruch zur vollen Transparenz, wie sie das neue Gesetz vorsieht.

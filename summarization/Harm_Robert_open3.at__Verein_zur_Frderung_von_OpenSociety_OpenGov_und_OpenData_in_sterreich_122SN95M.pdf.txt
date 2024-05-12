@@ -1,0 +1,27 @@
+Feedback from: Harm_Robert_open3.at__Verein_zur_Frderung_von_OpenSociety_OpenGov_und_OpenData_in_sterreich
+
+Basierend auf dem bereitgestellten Kontext, hier sind die wichtigsten Punkte, die im Konzept für ein Self-Service-Portal zur Unterstützung des Informationsfreiheitsgesetzes in Österreich aufgeführt werden:
+
+**Zusammenfassung des Stakeholder-Feedbacks:**
+- Die Einführung des Informationsfreiheitsgesetzes wird positiv gesehen, da sie die Transparenz des Staates erhöht und das Vertrauen der Bürger stärkt.
+- Die Notwendigkeit einer zentralen Plattform zur Bereitstellung und zum Zugang von Informationen wird betont, um einen unübersichtlichen Flickenteppich verschiedener Systeme zu vermeiden.
+- Die schrittweise Umsetzung des Self-Service-Portals wird vorgeschlagen, beginnend mit Kommunikation über E-Mail hin zu einem vollständigen Portal, das auch automatisierte Prozesse ermöglicht.
+- Die Bedeutung einer benutzerfreundlichen Gestaltung des Portals wird hervorgehoben, um die Anfrageprozesse einfach und übersichtlich zu halten.
+- Es wird die Möglichkeit einer optionalen Identifikation über eine ID (Bürgerkarte, Handy-Signatur) vorgeschlagen, um das Jedermannsrecht zu wahren.
+- Die Strukturierung und Kategorisierung von Anfragen könnte die Bearbeitung und spätere Analyse von häufig angefragten Bereichen vereinfachen.
+- Es wird die Einführung von IFG-Beauftragten bzw. IFG-Teams in den jeweiligen Organisationseinheiten empfohlen, um Anfragen effizient bearbeiten zu können.
+- Die Überlegung zur öffentlichen Sichtbarkeit von laufenden Anfragen und die Möglichkeit, Anfragen anonym zu stellen, wird thematisiert.
+
+**Gruppierung nach positiven und negativen Meinungen:**
+**Positive Meinungen:**
+- Erhöhung der Transparenz und des Vertrauens durch das Informationsfreiheitsgesetz.
+- Vorschlag zur schrittweisen und benutzerfreundlichen Umsetzung des Self-Service-Portals.
+- Betonung der Wichtigkeit einer zentralen und strukturierten Informationsplattform.
+
+**Negative Meinungen oder Bedenken:**
+- Potenzielle Probleme mit der reinen Email-Kommunikation ohne ein ausgebauteres System, wie Nachweisbarkeit von Fristen und Antworten.
+- Herausforderungen bei der Anonymität und öffentlichen Sichtbarkeit von Anfragen, speziell in Bezug auf Datenschutz und Missbrauchsvermeidung.
+
+**Evidenz zur Unterstützung oder Widerspruch gegen vorgeschlagene Regeln:**
+- Die schrittweise Entwicklung eines Portals und die Einrichtung von IFG-Teams können als Best Practices aus anderen Ländern gestützt werden.
+- Bedenken bezüglich der reinen E-Mail-Kommunikation und der Nachweisbarkeit von Fristen zeigen die Notwendigkeit eines ausgereiften Systems auf, um rechtliche und praktische Probleme zu vermeiden.

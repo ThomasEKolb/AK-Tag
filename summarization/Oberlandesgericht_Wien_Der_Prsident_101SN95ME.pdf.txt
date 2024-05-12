@@ -1,0 +1,33 @@
+Feedback from: Oberlandesgericht_Wien_Der_Prsident
+
+### Zusammenfassung des Feedbacks des Oberlandesgerichts Wien zum Gesetzesentwurf
+
+**Hauptpunkte der Stellungnahme:**
+- **Kritik an der Behauptung der Abschaffung der Amtsverschwiegenheit:** Es wird klargestellt, dass die Pflicht zur Geheimhaltung bestehen bleibt und nur die rechtliche Systematik geändert wird.
+- **Transparenz und Informationsfreiheit:** Es wird die geplante Erweiterung des Zugangs zu Informationen befürwortet, jedoch wird die Umsetzung in Bezug auf die Formulierungen und die Beibehaltung bestimmter Geheimhaltungsbereiche kritisiert.
+- **Spezifische Bedenken bezüglich der Gerichtsbarkeit:** Vorgeschlagen wird, die Gerichtsbarkeit aus dem Anwendungsbereich des Gesetzes auszunehmen, da die bestehenden Regelungen bereits ausreichend seien und der Nutzen die potenziellen Nachteile nicht aufwiege.
+- **Kritik an der Verfassungsmäßigkeit und praktischen Umsetzung:** Bedenken werden hinsichtlich der Verfassungsmäßigkeit bestimmter Regelungen und der praktischen Handhabung der Informationsfreigabe geäußert.
+- **Datenschutz und Recht auf Information:** Es wird die Notwendigkeit betont, einen angemessenen Datenschutz zu gewährleisten und gleichzeitig das Recht auf Zugang zu Informationen zu ermöglichen.
+
+**Gruppierung ähnlicher Aussagen:**
+- **Unterstützung für Transparenz und Informationsfreiheit:**
+  - Befürwortung der Intention, die staatliche Verwaltung transparenter zu machen.
+  - Vorschlag zur Verbesserung der Zugänglichkeit von Informationen.
+- **Kritik an spezifischen Regelungen:**
+  - Kritik an der Formulierung und praktischen Umsetzung der Geheimhaltungsregeln.
+  - Bedenken hinsichtlich der Einbeziehung der Gerichtsbarkeit in das Informationsfreiheitsgesetz.
+  - Sorge um die Verfassungsmäßigkeit und die Einhaltung bestehender Datenschutzbestimmungen.
+
+**Sentiment-Clusterung:**
+- **Positive Sentiments:**
+  - Unterstützung der allgemeinen Idee der Transparenz und des freien Informationszugangs.
+- **Negative Sentiments:**
+  - Kritik an der Umsetzung der Regelungen und der Beibehaltung von Amtsverschwiegenheit.
+  - Zweifel an der Praktikabilität und Verfassungsmäßigkeit der vorgeschlagenen Änderungen.
+
+**Unterstützung und Widerspruch zu den vorgeschlagenen Regeln:**
+- **Unterstützung:**
+  - Zustimmung zum Ziel der Transparenz und der Erweiterung des Informationszugangs.
+- **Widerspruch:**
+  - Kritik an der unklaren und potenziell problematischen Umsetzung der Geheimhaltungs- und Informationszugangsregelungen.
+  - Vorschlag, die ordentliche Gerichtsbarkeit von den Regelungen auszunehmen, was den vorgeschlagenen Regeln widerspricht.

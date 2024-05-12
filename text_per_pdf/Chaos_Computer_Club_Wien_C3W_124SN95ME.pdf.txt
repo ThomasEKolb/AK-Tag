@@ -1,0 +1,309 @@
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Stellungnahme zum Informationsfreiheitsgesetz
+(95/ME)
+Chaos Computer Club Wien (C3W)
+ZVR 656204875
+2021-04-17
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/1/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 9
+www.parlament.gv.at
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Stellungnahme zum Informationsfreiheitsgesetz (95/ME)
+Der Chaos Computer Club Wien begrüßt die Initiative zu einem Informationsfreiheitsgesetz, welches
+Österreichs Schlusslichtposition beim Recht auf Zugang zu Informationen beendet. Informationsfrei-
+heit bietet einen wichtigen Baustein für eine moderne und starke Demokratie.
+In Zeiten von digitalen Impfpässen und wiederholten Initiativen für mehr staatliche Überwachung
+bedeutet Informationsfreiheit einen ernsthaften Schritt in die Richtung eines von der Allgemeinheit
+kontrolliertem Staat zu gehen, anstatt Bürger:innen nur als Datensubjekte zu sehen. Es gilt mehr
+gläserner Staat zu leben und weniger gläserne Bürger:innen.
+Informationsfreiheit sollte als oberstes Ziel haben, das staatliche Handeln in allen Formen für alle
+Bürger:innen nachvollziehbar und überprüfbar zu machen. Transparenz muss gewagt werden - auch
+wenn es Strukturen gibt, die sich gegen Transparenz sträuben. Gerade in Bezug auf die reale Umset-
+zung dieses Ziels sehen wir noch Verbesserungspotenzial.
+Spannungsfeld entschärfen
+Das Spannungsfeld zwischen Informationsfreiheit und den verschiedenen Geheimhaltungsgründen
+bedarf klarer verständlicher Regeln, sowie einer gewissen Einheitlichkeit über Ämtergrenzen hinweg.
+Sowohl Bürger:innen, als auch der Verwaltungsapparat, sollten sich auf diese klaren Regeln verlassen
+können, um eine reibungsfreie Durchführung zu garantieren.
+Unterstützend kann hier eine Transparenzbehörde wirken. Mittels Verordnungen und Beratungen
+kann diese eine klare und situationsaktuelle Auslegung der gesetzlichen Situation gewährleisten.
+Dafür sollte aber auch das Gesetz so präzise wie möglich deﬁniert werden.
+Zu Art 22a Abs 2 B-VG und § 6 Abs 1 Z 2 IFG: Wir sehen eine umfassende Informationsfreiheit als
+notwendiges Werkzeug der nationalen Sicherheit in einem demokratischen Rechtsstaat. “Nationale
+Sicherheit” als reinen Geheimhaltungsgrund zu deklarieren versteckt wichtige Nuancen und sollte
+präzisiert werden.
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/2/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 9
+www.parlament.gv.at
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Transparenzbehörde
+Aktuell ist im Entwurf keine Transparenzbehörde vorgesehen, sondern ausschließlich eine Beratungs-
+funktion der Datenschutzbehörde in § 15 IFG, gegen welche sich die Datenschutzbehörde bereits aus
+juristischen Bedenken ausgesprochen hat (Datenschutzbehörde 2021)1. Wir sprechen uns daher dafür
+aus, dass die Datenschutzbehörde entweder zu einer vollwertigen Transparenz- und Datenschutzbe-
+hörde ausgebaut oder eine unabhängige Transparenzbehörde geschaffen wird.
+Der Chaos Computer Club Wien sieht darin eine verbesserte Rechtssicherheit und mehr Klarheit
+für die Zivilgesellschaft, mehr Klarheit für die durchführenden Behörden sowie ein deutliches Po-
+tenzial zur Steigerung der Verwaltungsefﬁzienz (siehe Abschnitt “Vertrags- und Dokumentenindex”).
+Wichtig zu beachten ist hierbei, dass diese positiven Effekte auf die Efﬁzienz der Verwaltung nur
+auftreten, wenn eigenständige Einspruchsverfahren geschaffen werden: “ATI [Anm.: Access to infor-
+mation] policies are only associated with better project outcomes when they include independent
+appeals processes for denied information requests.” (Hong et. al 2020)2.
+Aus Sicht des Chaos Computer Clubs Wien muss eine solche Transparenzbehörde mindestens fol-
+gende Kompetenzen besitzen, um maximale Wirksamkeit entfalten zu können:
+•Eine Verordnungsbefugnis zur Erlassung einer Durchführungsverordnung . Davon erwarten wir
+uns:
+–Mehr Klarheit in der Auslegung der Begriffe der Information und Information von allgemei-
+nem Interesse, wie auch eine bessere Beurteilungsmöglichkeit, welche Dokumente proak-
+tiv und welche reaktiv zur Verfügung gestellt werden müssen.
+–Die Bündelung der Auslegung über den Begriff der Information von allgemeinem Interesse
+in Form einer Verordnung und damit eine Vereinfachung der Normprüfung dieser Ausle-
+gung bzw. dann eben dieser zentralen Verordnung. Dies würde einerseits Rechtssicherheit
+für die Bürger:innen bieten und andererseits die Verwaltung vereinfachen, da divergieren-
+de Interpretationen vermieden werden.
+•Eine Ombudsstelle in der Transparenzbehörde für
+–die Auslegung des Informationsfreiheitsgesetzes
+–die Ausgestaltung der Durchführungsverordnungen
+–die Klärung der Rechtmäßigkeit der Verweigerung einer Informationserteilung und
+–die Klärung, ob eine Information, die bei einer Stelle nach § 4 Abs 1 IFG liegt, eine Infor-
+mation von allgemeinem Interesse ist.
+•Eine Hilfestellung und Prozessbetreuung für Stellen, die dem Anwendungsbereich des Informa-
+tionsfreiheitsgesetzes nach § 1 IFG unterliegen.
+•Normierung einer Vertrags-/Dokument-Markup-Language , siehe “Vertrags- und Dokumenten-
+index”.
+Davon erwarten wir uns vor allem die vereinfachte Veröffentlichung von Verträgen und Doku-
+menten, bei denen es möglich ist, ohne Verwaltungsaufwand Informationen, die unter einen
+Geheimhaltungsgrund fallen, zu schwärzen.
+1https://www.parlament.gv.at/PAKT/VHG/XXVII/SNME/SNME_84285/index.shtml
+2https://docs.aiddata.org/ad4/pdfs/WPS100_When_Does_Transparency_Improve_Institutional_Performance_
+_Evidence_from_20000_Aid_Projects_in_183_Countries.pdf
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/3/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 9
+www.parlament.gv.at
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Die Informationsbegriffe
+Aus Sicht des Chaos Computer Club Wien muss der Gesetzgeber präzisieren, was Informationen sind,
+welche Informationen (auch proaktiv) veröffentlicht werden und in welcher Form dies stattﬁnden soll.
+Die Begriffsbestimmungen in § 2 Abs 1 lässt den Detailgrad der von diesem Gesetzesentwurf be-
+trachteten Informationen offen. Unserer Ansicht nach muss die Begriffsbestimmung klarstellen, dass
+sämtliche Dokumente ebenso wie nicht dokumentierte Informationen, welche zu einem Sachverhalt
+von allgemeinem Interesse zuordenbar sind, von der Informationsfreiheit umfasst werden.
+Es soll möglich sein aus den Informationen ein vollständiges Bildnis des staatlichen Handelns zu
+erlangen, um Entscheidungen und Sachverhalte nachvollziehen zu können. Im Sinne dieser Transpa-
+renz sind vor allem die von der auskunftspﬂichtigen Stelle verwendeten Rohdaten von Interesse.
+Bereits vorhandene Initiativen von staatlicher Transparenz (vor allem aus Open Data Sicht) zeigen
+auf, dass Sorgfalt bei der Zusammenstellung von veröffentlichten Informationen notwendig ist.
+Wir fordern eine angemessene Datenqualität, weitgehende Maschinenlesbarkeit und klare Beschrei-
+bung der veröffentlichten Informationen, damit eine Nachvollziehbarkeit sichergestellt werden kann.
+Proaktive Veröffentlichungspﬂichten
+Wir begrüßen ausdrücklich die geplante Schaffung einer zentralen Stelle für den Zugang zu Informa-
+tionen von allgemeinem Interesse in § 4 IFG. Positiv fällt uns ebenfalls die Verwendung der bereits
+bestehenden Plattform data.gv.at auf, die schon in ihrer bisherigen Arbeit einen kompetenten Umgang
+mit Datensätzen bewiesen hat.
+Unsere Erfahrungen bei der Verwendung von Informationen von allgemeinem Interesse (PSI – Pu-
+blic Sector Information) und die Befassung mit der wissenschaftlichen Literatur beziehungsweise mit
+den Erfahrungsberichten anderer zeigt uns wie wichtig die einfache Aufﬁndbarkeit öffentlicher Da-
+tensätze ist (Crusoe et. al 2018)3.
+Allerdings erkennen wir im vorliegenden Entwurf einige Mängel und Problemstellungen, auf die
+wir im Folgenden näher eingehen wollen:
+3https://doi.org/10.1007/978-3-319-98690-6_15
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/4/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 9
+www.parlament.gv.at
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Lizenzen
+Eine der häuﬁgsten Hürden nicht nur in der wissenschaftlichen Literatur (Crusoe et. al 2018)4son-
+dern ebenfalls in unseren Erfahrungswerten beim Verwenden offener Regierungsdaten (OGD – Open
+Government Data) auftreten, ist die fehlende oder ungeeignete Lizenzierung. Wir sprechen uns daher
+dafür aus das Informationen von allgemeinem Interesse grundsätzlich unter einer allgemeinfreien
+Lizenz zu veröffentlichen sind. Davon soll nur in begründeten Ausnahmen, etwa weil das geistige
+Eigentum Dritter betroffen ist, abgesehen werden können. Diese Begründung ist dann ebenso wie
+der konkrete Lizenztext zur Verfügung zu stellen.
+In der Praxis ergeben sich immer wieder Probleme mit der Lizenzierung von OGD. Als Beispiel sei
+hier die OpenStreetMap genannt, aus der etwa Karten, Navigationsdaten insbesondere Fahrradnavi-
+gationsdaten (OSM Wiki 2020)5generiert werden. Diese Daten kommen einer Vielzahl von Personen,
+aber bspw. durch die Fahrradnavigation indirekt ebenfalls gesellschaftlichen Interessen, wie dem Um-
+weltschutz, zugute. Zusätzlich zu den in mühsamer Kleinarbeit erhobenen Daten werden außerdem
+immer wieder OGD wie das Baumkataster Wien oder der BEV Adressdatensatz6für die Verbesserung
+der OpenStreetMap benutzt. Dabei kann die OpenStreetMap, weil sie die Daten weiterverarbeitet, oft
+keine Namensnennung garantieren, weshalb Lizenzbedingungen wie die Namensnennung zu Hürden
+bei der Verwendung von OGD in Kombination mit der OpenStreetMap werden. Das zuvor genannte
+Beispiel des BEV Adressdatensatzes sei hier exemplarisch genannt. So konnte dieser Datensatz nach
+seiner Veröffentlichung 2015 aufgrund der Lizenzbedingungen noch nicht verwendet werden (Talk-at
+2015)7, dies gelang erst 2017 nach langen Verhandlungen mit Hilfe einer extra für die OSM geschaf-
+fenen Ausnahme (BEV 2017)8.
+Obwohl die OpenStreetMap hier als Einzelbeispiel steht, so ist dies ein Problem von dem ebenfalls
+andere Nutzer:innen (Crusoe et. al 2019)9und Unternehmen (Kaasenbrood et. al 2015)10berichten
+bzw. das generell in der wissenschaftlichen Literatur Anklang ﬁndet (Crusoe et. al 2018)11. Oftmals
+ist es den Nutzer:innen oder Unternehmen einfach nicht möglich die Daten für ihre Projekte weiter-
+zuverwenden da sie auf lizenztechnische Probleme stoßen. Der bloße Zusatz der “Gebührenfreiheit”
+in § 4 Abs 3 ist hier zu eng gefasst und sollte auf “allgemeinfrei” geändert werden.
+4https://doi.org/10.1007/978-3-319-98690-6_15
+5https://wiki.openstreetmap.org/w/index.php?title=OSM_Map_On_Garmin&oldid=2054481
+6https://wiki.openstreetmap.org/wiki/Austria/%C3%96sterreichisches_Adressregister
+7http://osm-talk-at.1116557.n5.nabble.com/Talk-at-Adressdaten-BEV-td571.html
+8https://wiki.openstreetmap.org/w/images/c/c7/I4-006-2017_Open_Street_Map_Nutzungsgenehmigung_
+Adressregister.pdf
+9https://doi.org/10.1109/RCIS.2019.8877055
+10https://www.igi-global.com/article/exploring-the-factors-influencing-the-adoption-of-open-government-
+data-by-private-organisations/121537
+11https://doi.org/10.1007/978-3-319-98690-6_15
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/5/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 9
+www.parlament.gv.at
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Metadaten
+Die Metadaten ermöglichen über die Plattform data.gv.at die Aufﬁndbarkeit, genauso wie die Be-
+wertung der Nutzbarkeit der Daten. Im vorliegenden Entwurf ﬁndet sich hierzu nur der Passus “Die
+Informationen sind [. . . ] mit den jeweiligen Metadaten zu veröffentlichen, [. . . ]” Dies erscheint im Lich-
+te dessen, dass Nutzer:innen von OGD die mangelhafte Qualität der Metadaten als eine der größten
+Verwendungshürden betrachten als unzureichend (Crusoe et. al 2019)12.
+Es ist hier unbedingt eine evidenzbasierte Nachbesserung nötig - so spricht Kaasenbrood et. al
+(2015)13davon, dass die wichtigsten Elemente von Metadaten, die für die Nutzung von OGD bei
+Unternehmen benötigt werden, “a general description of the content, the source of the data, the data
+collection method and date, the licence, a contact person and the update frequency (and whether
+updates are ensured).” sind.
+Auch bei anderen Nutzer:innen von OGD, etwa der Zivilgesellschaft, tauchen ähnliche Probleme
+mit Metadaten auf. In der Literaturanalyse von Crusoe et. al (2018)14wurden etwa das Fehlen von
+Metadatenbeschreibungen, eine fehlende Kontextbeschreibung, fehlende Angaben über den Zweck
+der Daten oder fehlende Dokumentation der im Datensatz vorzuﬁndenden Daten als Problemfelder
+identiﬁziert.
+Damit diese Informationsfreiheitsgesetz seinen Zweck zur Erweiterung der Transparenz erfüllt er-
+achten wir es für zwingend notwendig, dass der Metadatenbegriff in diesem Gesetz Informationen zur
+Beschreibung des Datensatzes, der Datenfelder, der Datenerhebung und -quellen, des Updatezyklus,
+Lizenzangaben und Angaben über den Zweck der Daten umfasst.
+Zuständige Ansprechpersonen für die Informationen
+In der Praxis wird es häuﬁg zu Situationen kommen, in denen Unklarheiten bestehen oder etwa Aus-
+nahmen für Lizenzen angefragt werden müssen. Solche Unklarheiten können sich etwa aus unge-
+nauen Metadaten über Datenfelder ergeben. So kann es vorkommen, dass bei einem Feld “Einwoh-
+ner:innen” unklar ist, ob es sich hier wirklich um alle Einwohner:innen oder etwa nur um volljährige
+Einwohner:innen handelt. Zum T eil werden diese Probleme bereits durch hervorragende Metadaten-
+angaben und durch allgemeinfrei veröffentlichte Daten abgefangen. Gelegentlich wird es dennoch
+nötig sein, Details über die Informationen von allgemeinem Interesse zu erfragen, um ebendiese nut-
+zen zu können. Daher muss, wie es schon im Kapitel Metadaten angeklungen ist, auf jeden Fall immer
+eine Ansprechperson zu den Informationen von allgemeinem Interesse benannt und angegeben wer-
+den.
+12https://doi.org/10.1109/RCIS.2019.8877055
+13https://www.igi-global.com/article/exploring-the-factors-influencing-the-adoption-of-open-government-
+data-by-private-organisations/121537
+14https://doi.org/10.1007/978-3-319-98690-6_15
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/6/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 9
+www.parlament.gv.at
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Vertrags- und Dokumentenindex
+Prinzipiell sollten aus Sicht des Chaos Computer Club Wien alle Verträge im Anwendungsbereich die-
+ses Gesetzes veröffentlicht werden, da jedes staatliche Handeln einen größeren Personenkreis betrifft.
+Egal wie banal der Vertrag wirkt, so hat er doch das Potential, Aufschluss über die staatliche Efﬁzienz
+und Ressourcenschonung zu liefern, weshalb er für die Allgemeinheit von höchstem Interesse ist.
+Dazu sollte ein eigener Vertragsindex für die Metadaten und Verträge geschaffen werden.
+Eines der größten Hemmnisse für Transparenzinitiativen ist meist die fehlende Digitalisierung in
+den Behörden (Khurshid et. al 2020)15. Deshalb verstehen wir ein Informationsfreiheitsgesetz als
+treibende Kraft für die Verwaltungsefﬁzienz, indem für eine bessere Sortierung der Dokumente und
+Digitalisierung der Verträge gesorgt wird. Dass Informationsfreiheitsinitiativen hier zu einer Win-Win-
+Situation führen können, also sowohl für die Rechtsunterworfenen als auch für die Administration,
+zeigt der internationale Vergleich ebenfalls (Vadlamannati et. al 2016)16.
+Um diese drastische Erhöhung der Vorbereitungsgeschwindigkeit von Dokumenten für die Veröf-
+fentlichung oder Informationserteilung zu ermöglichen schlagen wir folgenden Ansatz vor:
+•Grundsätzliches und automatisches Veröffentlichen aller Dokumente , die in bestimmte Klassen
+fallen, auf einer dafür geeigneten zentralen Website;
+•jedes Dokument ist in den Meta-Daten zu markieren, ob es unter Veröffentlichungspﬂichten
+fällt und in welcher Kategorie (d.h. wo auf der Website es platziert werden muss);
+•allfällige notwendige Anonymisierungen in Dokumenten (z.B. Schwärzen von Namen, etc.) kann
+vollständig automatisiert werden , z.B. mittels einer geeigneten Markierung von T extteilen mit
+Hilfe einer Markup-Language (Vertrags-/Dokument-Markup-Language bzw. VDML).
+Dies bedeutet, dass manuelle Eingriffe nur dort notwendig sind, wo sich Änderungen ergeben.
+Beispielsweise bei höchstgerichtlicher Entscheidung, dass bestimmte Informationen, von de-
+nen man ein überwiegendes öffentliches Interesse angenommen hat, nun doch unter einen der
+Geheimhaltungsgründe fallen.
+15https://www.mdpi.com/2227-9709/7/3/24 (Khurshid et. al 2020)
+16https://academic.oup.com/oep/article-abstract/68/4/968/2503353?redirectedFrom=fulltext
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/7/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 9
+www.parlament.gv.at
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Reaktive Informationserteilung
+Die Informationsfreiheit ermöglicht, im Gegensatz zum bisherigen Auskunftspﬂichtgesetz, einen wert-
+neutralen Zugang zu Informationen. Damit bildet sie die neue Grundlage für Auskünfte im täglichen
+Amtsverkehr nicht nur für social Watchdogs (vgl. VwGH Ra 2017/03/0083-6) oder Unternehmen, son-
+dern vor allem auch für alle hier lebenden Personen, die in Kontakt mit informationspﬂichtigen Stellen
+kommen. Daher begrüßen wir ausdrücklich den unterschiedslosen (“Jedermann”), formzwanglosen,
+gebührenfreien und barrierefreien Zugang zu Informationen (§§ 5 & 7 IFG). Wir merken jedoch an,
+dass der Begriff “jedermann” durch den geschlechtsneutralen Begriff “jede Person” ersetzt werden
+sollte.
+Nichtsdestoweniger ist es hier wichtig, dass der Zugang nicht nur in jedem bezeichneten Umfang
+(etwa als direkten Zugang zu einem Dokument oder als zusammengefasste Auskunft) beantragt, son-
+dern auch erteilt (§ 9 Abs 1 IFG) werden kann. Nur so wird Personen ohne juristische Expertise ein
+fairer Zugang zu staatlichem Handeln ermöglicht. Der Zusatz in § 9 Abs 2 IFG “[...]sofern dies möglich
+und damit kein unverhältnismäßiger Aufwand verbunden ist” schränkt diesen fairen Zugang unver-
+hältnismäßig ein und ist daher aus Sicht des Chaos Computer Club Wiens zu streichen.
+Dennoch eröffnen sich weitere Problemfelder beim fairen und unmittelbaren Zugang zu staatli-
+chem Handeln. Dies zeigt z.B. der Vergleich mit der deutschen Praxis (“rugk” 2021)17. Das störendste
+und häuﬁgste Problem sind dort Verzögerungen und Fristüberschreitungen bei Informationserteilun-
+gen. Besonders strenge Informationsfreiheitsgesetze sind im internationalen Vergleich mit besonders
+efﬁzienter Verwaltung assoziiert (Vadlamannati et. al 2016)18.
+Dieses Ziel kann mit dem vorliegenden Entwurf, mit seiner überlangen Frist von 4+4 Wochen (§ 8
+IFG) und der fehlenden Möglichkeit eines Devolutionsantrags, nicht erreicht werden. Deshalb fordern
+wir eine Frist von einer Woche mit einer begründeten Verlängerungsmöglichkeit um 3 Wochen und
+die Schaffung eines Devolutionsrechts bei verzögerter Informationserteilung.
+Ebenfalls aus “rugk” 202119ergibt sich die Bedeutung der Begründung einer (teilweisen) Ableh-
+nung. Die Begründungspﬂicht für (teilweise) Ablehnungen fehlt im vorliegenden Entwurf und ist aus
+unserer Sicht dringend zu ergänzen. Das würde gemeinsam mit der Ombudsstelle, bei der notwendig
+einzurichtenden Transparenzbehörde, dem Problem der rechtlich fälschlichen (teilweisen) Ablehnung
+entgegnen und die effektive Durchsetzung des Grundrechts auf Zugang zu Informationen (Art 22a Abs
+2 B-VG) ermöglichen.
+Außerdem sind internationale Vergleiche, beispielsweise durch das “Right to Information Rating”20,
+besonders aussagekräftig, um weitere Schwächen im vorliegenden Entwurf zu erkennen (siehe Forum
+Informationsfreiheit 2021, S. 20)21.
+17https://forum.okfn.de/t/umfrage-zu-problemen-und-huerden-bei-informationsfreiheitsanfragen/1338
+18https://doi.org/10.1093/oep/gpw008
+19https://forum.okfn.de/t/umfrage-zu-problemen-und-huerden-bei-informationsfreiheitsanfragen/1338
+20https://www.rti-rating.org/
+21https://www.parlament.gv.at/PAKT/VHG/XXVII/SNME/SNME_82975/index.shtml
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/8/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 9
+www.parlament.gv.at
+Chaos Computer Club Wien (C3W)
+buero@c3w.at
+Informations- und Internetfreiheit
+Ein im Entwurf nicht vorhandener Aspekt der Informationsfreiheit ist der Zusammenhang mit der
+Medien- und Internetfreiheit (vgl. Žuffová 202022, Lindstedt et. al 201023& Vadlamannati et. al
+201624).
+Informationsfreiheitsgesetze sind nur in der Lage die Korruption zu reduzieren und die Verwal-
+tungsefﬁzienz zu steigern, wenn sie mit einer starken Medien- und Internetfreiheit einhergehen.
+Eine Einschränkung der Internetfreiheit bedeutet hier “obstacles to the internet access, limits on
+content including technical ﬁltering and blocking of websites, self-censorship, and use of social me-
+dia for civic engagement, and user rights violations online but also ofﬂine repercussions for online
+activities, e.g. harassment or detention.” (Žuffová 2020)25. Denn nur wenn staatliche Informationen
+von der Öffentlichkeit empfangen und aufgearbeitet werden können ist es möglich mit Transparenz
+den Staat zu kontrollieren (vgl. Lindstedt et. al 2010)26.
+Der Chaos Computer Club Wien sieht daher Probleme in der Effektivität dieses Gesetzes, die durch
+das Blockieren von Webseiten und der kommenden, vom EU-Parlament und EU-Ministerrat beschlos-
+senen Urheberrechtsreform, mit einer Uploadﬁlterpﬂicht entstehen .
+Um die Vorteile der Informationsfreiheit zu nutzen ist es notwendig, die Einzug gehaltene Praxis
+der Netzsperren (Sulzbacher 2019)27zu beenden und die Pﬂichten der Plattformbetreiber nach Art
+17 der EU Urheberrechtsrichtlinie ((EU) 2019/790)28möglichst eng umzusetzen, um Overblocking zu
+vermeiden und die Meinungsfreiheit der Rechtssubjekte zu schützen!
+An dieser Stelle erneuern wir außerdem unsere Forderung nach einem Grundrecht auf effektiven
+Internetzugang, da der internationale Vergleich überwältigend deutlich zeigt, dass nur ein fairer In-
+terzugang eine effektive Informationsfreiheitspolitik ermöglicht.
+22https://doi.org/10.1016/j.giq.2020.101480
+23https://doi.org/10.1177/0192512110377602
+24https://doi.org/10.1093/oep/gpw008
+25https://doi.org/10.1016/j.giq.2020.101480
+26https://doi.org/10.1177/0192512110377602
+27https://www.derstandard.at/story/2000095144464/netzsperren-diese-35-webseiten-sind-in-oesterreich-
+gesperrt
+28https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv%3AOJ.L_.2019.130.01.0092.01.DEU&toc=OJ%3AL%
+3A2019%3A130%3ATOC
+2021-04-17 Chaos Computer Club Wien (C3W)
+https://c3w.at/9/9124/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 9
+www.parlament.gv.at

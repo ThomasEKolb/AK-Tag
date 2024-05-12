@@ -1,0 +1,89 @@
+17.04.2021    Seite 1 von 3 Konzept für ein Self‐Service‐Portal  
+zur Unterstützung des 
+Informationsfreiheitsgesetzes 
+1. Bemerkungen zum vorliegenden IFG‐Entwurf 
+Die Einführung des Informationsfreiheitsgesetzes in Österreich  ist eine willkommene Änderung zur 
+Erhöhung der Transparenz des Staates, welche wiederrum zu einem  gesteigerten Vertrauen des 
+Bürgers gegenüber dem Staat führt.   
+Die praktische Umsetzung des Gesetzes bedarf jedoch auch zusätz licher Gedanken bezüglich des 
+gesamten Prozesses, der für die Zurverfügungstellung von Auskün ften und Informationen notwendig 
+ist. Durch die geplante Erweiterung der bereits vorhandenen Pla ttform www.data.gv.at  werden 
+notwendige Investitionen und der Aufwand geringgehalten. Die  Be r e i t s t e l l u n g  u n d  d e r  Z u g a n g  z u  
+Informationen  müssen  über  eine  z entrale  Plattform/Register  erfo lgen,  damit  nicht  ein 
+unübersichtlicher Flickenteppich aus verschiedenen Systemen ent steht. Es bedarf hier jedoch einer 
+detaillierten Planung. Dies betrifft sowohl den Prozess für die  Bereitstellung von Informationen als 
+auch die Vorgehensweise für Bürger*innen, um Anfragen für Infor mationen zu erstellen und deren 
+Status nachverfolgen zu können.   Die  folgenden  Ausführungen  sollen  als  Anregung  für  den Aufbau  e ines  möglichst  offenen  und 
+transparenten Prozesses zur Umse tzung der Veröffentlichungspfli cht dienen. 
+ 
+Abbildung 1: data.gv.at als zentraler Metadatenkatalog mit Schn ittstellen zu Bundesländern, Gemeinden und Bund 
+ Quelle: https://www.data.gv.at 
+2. Umsetzung eines Self‐Service Portals für data.gv.at 
+Die Umsetzung der Prozesse sollte, ähnlich wie bereits bei  www.foia.gov  oder www.fragdenstaat.at  
+praktiziert, in mehreren Ausbaustufen erfolgen. Im ersten Schri tt wäre die Kommunikation über E‐
+Mail denkbar. Eine reine Anfrag emöglichkeit über E‐Mail wäre al lerdings problematisch, da die 
+Beweisführung ob und wann Anfragen per E‐Mail eingegangen und A ntworten verschickt wurden sehr 
+umständlich und zeitaufwändig wären. Durch diesen Umstand wäre  auch die Antwortfrist schwer 
+nachweisbar.    
+122/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 3
+www.parlament.gv.at
+17.04.2021    Seite 2 von 3 Daher  sollte  der  zeitnahe  Ausbau  zu  einem  Self‐Service  Portal,  ähnlich  zum 
+Unternehmensserviceportal ( www.usp.gv.at ), in Betracht gezogen werden, welches Bürger*innen 
+neben der Möglichkeit Anfragen  per  Email  zu verschicken paralle l  die Möglichkeit gibt  bereits 
+bestehende Anfragen einzusehen, neue Anfragen online zu stellen , den Anfragestatus abrufen und 
+Antworten der Behörden anschauen können. Dies würde auch automa tisierte Prozesse ermöglichen, 
+wie zum Beispiel die automatische Erinnerung der Mitarbeiter*in nen über offene Anfragen, um die 
+vorgegebenen Fristen einhalten zu können. Um den Anfrageprozess  per Email transparenter und 
+effektiver  zu  gestalten,  könnten  per  Email  eingegangene  Anfrage n  automatisch  in  das  Portal 
+übernommen werden. Zudem könnten noch nicht an das System angeb undene Verwaltungseinheiten 
+per E‐Mail benachrichtigt werden, die im Portal nachverfolgt we rden können 
+ 
+Abbildung 2: Ablauf des Prozesses für eine Anfrage aus Sicht de r Bürger*innen 
+Ein  solches  Self‐Service  Portal  muss  sich  durch  eine  gute  Bedie nbarkeit  auszeichnen,  damit 
+gewährleistet ist, dass die Anfrageprozesse für jeden einfach u nd übersichtlich bleiben. Auch für die 
+bearbeitenden Personen sollte es eine Möglichkeit geben bei der  anfragenden Person Rückfragen zu 
+stellen. Im besten Fall sind alle Ereignisse und Aktionen leich t nachvollziehbar und einsehbar, damit 
+ein Missbrauch auf beiden Seiten (bei anfragenden Personen, als  auch bei der ausführenden Stelle) 
+ausgeschlossen ist.   
+Auch der Anmeldeprozess muss bedacht werden ‐ Die Identifikatio n über eine ID (Bürgerkarte, Handy‐
+Signatur) sollte lediglich optional notwendig sein, damit das J edermannsrecht eingehalten werden 
+kann. Sollte eine ID für die Registrierung zwingend notwendig sein, s o wäre sicherzustellen, dass der 
+Prozess für Nicht‐Österreicher*innen zugänglich ist. Der Zugang  für Personen, welche in europäischen 
+Mitgliedstaaten ansässig sind, könnte aufbauend zur europäische n eIDAS‐Verordnung erfolgen. 
+3. Anfrageprozesse 
+Der Prozess zur Erstellung einer neuen Anfrage sollte ebenfalls  genau betrachtet werden. Sollen 
+Bürger*innen nur offene Fragen stellen können oder ist eine the matische Gliederung denkbar, an der 
+sich eine Fragestellung orientieren kann (z. B. Anfragen zu Bud get, Förderungen, Studien, etc.)? Diese 
+Kategorien könnten von der Verwaltung vorgegeben sowie gepflegt  werden und dazu führen, dass 
+Anfragen zielgerechter gestellt und beantwortet werden können.  Eine gepflegte Kategorisierung 
+würde auch spätere Analysen ermöglichen, die zeigen welche Bere iche häufiger angefragt werden, 
+was wiederrum die Verwaltung dieser Informationen vereinfacht.   
+Es wäre zweckmäßig IFG‐Beauftragte bzw. IFG‐Teams in den jeweil igen Organisationseinheiten zu 
+122/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 3
+www.parlament.gv.at
+17.04.2021    Seite 3 von 3 benennen,  die  sich  um  jeweiliges  Anfragen  kümmern  (zuzüglich  de r  Einrichtung  funktionaler 
+Postfächer).  
+Es ist damit zu rechnen, dass im fortwährenden Betrieb neue Anf ragen auf bereits veröffentlichte 
+Informationen zutreffen, welche idealerweise vom System gefunde n und vorgeschlagen werden 
+sollten. Eine optimale Aufbereitung und Anzeige der vorhandenen  Informationen und Anfragen stellt 
+einen sehr wichtigen Bestandteil  zur längerfristigen Arbeitsred uzierung aller betro ffenen Stellen dar. 
+3.1. Sichtbarkeit laufender Anfragen 
+Es ist auch zu überlegen, ob und wie laufende Anfragen öffentli ch sichtbar gemacht werden sollen. 
+Sind laufende Anfragen öffentlich sichtbar, könnten andere inte ressierte Personen auf bestehende 
+Anfragen „aufspringen“ und somit ein größeres öffentliches Inte resse signalisieren. Geklärt werden 
+sollte auch ob die Identität anfragender Personen öffentlich zu gänglich ist, oder bei Anfragen optional 
+unterdrückt  werden  kann,  um  nach  außen  hin  anonyme  Anfragen  ers tellen  zu  können  (eine 
+Orientierung an internationalen Erfahrungen hierzu wäre nahelie gend). 
+Für Anfragen von z.B. Journalisten könnten verschiedene Modi de nkbar sein, um eine laufende 
+journalistische Recherche auch versteckt halten zu können (tran sparent sichtbar für von Anfang 
+an/erst sichtbar, wenn die Anfra ge erfolgreich oder abgelehnt w orden ist).  
+Um Schutz vor Missbrauch des Systems durch mutwillige Anfragen  zu vermeiden, wäre zudem noch 
+eine entsprechende Begründbarkeit von Anfragen denkbar. Zunächs t sollte das System automatisch 
+prüfen ob zu einer neuen Anfrage nicht schon eine laufende Anfr age oder evtl. sogar schon eine 
+Entscheidung, bzw. öffentlich zugängliche Informationen existie ren. Zudem muss die bearbeitende 
+Person in der Lage sein Rückfrag en and die antragstellende(n) P erson(en) zu stellen.  
+3.2. API Zugriff für Anfragen 
+Im  Sinne  von  Open  Government  Data  sollen  alle  auf  dem  Anfragepo rtal  öffentlich  abrufbaren 
+Informationen auch über eine API maschinenlesbar verfügbar sein , um z.B. Auswertungen durch die 
+Zivilgesellschaft zu ermöglichen. 122/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 3
+www.parlament.gv.at

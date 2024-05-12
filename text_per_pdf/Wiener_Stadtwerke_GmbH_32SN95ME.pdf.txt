@@ -1,0 +1,810 @@
+ 
+ 
+ WIENER STADTWERKE GmbH  
+Thomas -Klestil -Platz 13   
+1030 Wien  
+Telefon: +43 (0)1 53 123 -0 Bankverbindung:  
+Bank Austria  
+IBAN: AT73 1200 0004 1400 0000  
+BIC: BKAUATWW   
+FN: 127783t  
+Handelsgericht Wien  
+DVR: 0992721  
+UID-Nr.: ATU 38309200   
+ 
+www.wienerstadtwerke.at   
+ 
+ 
+ Wiener Stadtwerke GmbH | Thomas -Klestil -Platz 13 | 1030 Wien  
+ 
+An d ie  
+Parlamentsdirektion  
+Dr. Karl Renner -Ring 3  
+1017 Wien  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  RE - Recht, Compliance und  
+Vergabeangelegenheiten  
+Kontakt: Mag. Daniela Grasl  
+Thomas -Klestil -Platz 13, 1030 Wien  
+ 
+Telefon:  +43 1 53 123 -73975  
+daniela.grasl@wienerstadtwerke.at   
+ 
+ 
+ 
+Betreff:  Ministerialentwurf betreffend Bundesgesetz, mit dem das Bundes -Verfassungsgesetz, 
+das Rechnungshofgesetz 1948 und das Verfassungsgerichtshofgesetz 1953 geändert und ein 
+Informationsfreiheitsgesetz erlassen werden  
+ 
+ 
+Sehr geehrte Damen und Herren!  
+ 
+Die WIEN ER STADTWERKE GmbH und ihre Konzernunternehmen danken für die Möglichkeit, 
+sich im Rahmen der Begutachtung zum gegenwärtigen Ministerialentwurf (95/ME) betreffend 
+das Bundesgesetz, mit dem das Bundes -Verfassungsgesetz, das Rechnungshofgesetz 1948 
+und das Verfassungsgerichtshofgesetz 1953 geändert und ein Informations freiheitsgesetz er-
+lassen werden, äußern  zu können und  erstatte n hiermit die folgende  
+ 
+STELLUNGNAHME  
+ 
+ EINLEITUNG  
+Die WIENER STADTWERKE GmbH und ihre Konzernunte rnehmen  (darunter die WIENER 
+LINIEN GmbH  & Co KG , die WIEN ENERGIE  GmbH und die WIENER NETZE GmbH) unter-
+stützen die Absicht des Gesetzgebers , für ein transparentes staatliches Handeln Sorge zu tra-
+gen.  
+Nach Ansicht der WIENER STADTWERKE GmbH  und ihre r Konz ernunternehmen verwirklicht 
+der Gesetzgeber  mit dem vorliegenden Entwurf  allerdings nur insofern sein Ziel,  staatliches 
+Handeln transpa renter und offener zu gestalten, als dadurch  staatliches Handeln im Sinne eines  
+Per E-Mail: verfassungsdienst@bka.gv.at  
+begutachtungsverfahr en@parlament.gv.at    Wien, 25. März 2021  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 1 von 20
+www.parlament.gv.at
+ 
+ 
+ 2/20 hoheitlichen oder privatwirtschaftlichen Handelns von Gebietskörperschaften und öffentlich en 
+Organen  vom neuen Transparenzgebot erfasst werden . Das geplante Gesetzespaket verpflich-
+tet jedoch auch  der Kontrolle des Rechnungshofes oder eines  Landesrechnungshofes unterlie-
+gende Unternehmen  (kurz „rechnungshofpflichtige Unternehmen“  oder „öffentliche Unter-
+nehmen“ ) zu umfassenden Offenlegungspflichten (und zwar auch dann, wenn diese mit keinen 
+hoheitlichen Aufgaben beliehen sind) . Das Transparenzpaket  schießt somit deutlich über sein 
+Ziel hin aus. Auch ein Vergleich mit der deutschen Rechtslage, wo öffentliche und private Per-
+sonen des Privatrechts nur informationspflichtig sind, wenn sich ihrer eine Behörde zur Erfüllung 
+ihrer öffentlich -rechtlichen  und damit hoheitlichen  Aufgaben bedient, zeigt, dass der gegen-
+ständliche Gesetzesentwurf eingeschränkt werden sollte .  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen  unterliegen  der Kontrolle 
+des Rec hnungshofes  und sind somit  unmittelbar von der Gesetzesnovelle betroffen . Als sol-
+cherart Betro ffene sprechen sich d ie WIENER STADTWERKE GmbH  und ihre Konzernunter-
+nehmen ausdrücklich gegen die Verabschiedung des gegenständ lichen Bundesverfassungs - 
+und Rechnungshofgesetzes , sowie gegen das IFG  in ihrer aktuellen Form  aus. Die (verfas-
+sungs -)rechtlichen und praktischen Bedenken gegen die geplante Novelle werden  im Folgen-
+den im Detail erläutert:  
+ EXECUTIVE SUMMARY  
+Die wichtigsten Anmerkungen  der WIENER STADTWERKE GmbH und ihrer Konzernunterneh-
+men lassen sich wie folgt zusammenfassen:  
+1. Öffentliche Unternehmen sollten Unternehmen ohne öffentliche Beteiligung  sowie börsen-
+notierten Unternehmen gleichgestellt sein und daher (bereits im Lichte  des verfassungs-
+rechtlichen Gleichheitssatzes) vom Anwendungsbereich  des geplanten Transparenzpakets 
+ausgenommen werden .  
+2. In Hinblick auf die der Auskunft unterliegenden Information en wird eine Beschränkung auf 
+amtliche Informationen, bzw Informationen, die dem  hoheitlichen Bereich eines öffentlichen 
+Unternehmens zugerechnet werden können, angeregt. Außerdem wäre eine zeitliche Be-
+schränkung der – der Informationspflicht unterliegenden – Information wünschenswert.  
+3. Die Antragsteller sollten – in Hinblick auf die Systematik des IFG – ein berechtigtes Interesse 
+geltend machen müssen, um Informationen zu erhalten. Angeregt wird daher,  das Jeder-
+mannsrecht auf Personen mit berechtigtem  Interesse  an der jeweils begehrten Information  
+einzuschränken , sowie die Begründungs pflicht von Anträgen einzuführen .  
+4. Der Schutz der von der Informationspflicht ausgenommenen Informationen nach § 6 IFG 
+sollte ausgebaut werden, indem von einer Verhältnismäßigkeits - und Erforderlichkeitsprü-
+fung sowie von der Interessenabwägung in Zusammenh ang mit Betriebs - und Geschäfts-
+geheimnissen abgesehen wird. Außerdem wird ein Ausnahmetatbestand nach § 6 Abs 1 
+IFG für kritische  Infrastruktur und Daseinsvorsorge angeregt.   
+5. In Hinblick auf den Schutz der in § 6 Abs 1 IFG aufgezählten Interessen erschein t zudem 
+ein In -Camera -Verfahren (nach Vorbild des UWG) erforderlich, um den Schutz der Interes-
+sen auch im Rechtsschutzverfahren zu gewährleisten.  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 2 von 20
+www.parlament.gv.at
+ 
+ 
+ 3/20 6. Den von der Informationspflicht betroffenen Unternehmen sollten zudem die mit dem Trans-
+parenzpaket verbundene n Mehrkosten (Anfragebeantwortungen etc) ersetzt werden, um ei-
+nen Wettbewerbsnachteil zu verhindern.  
+ AUSNAHME FÜR ÖFFENTLICHE UNTERNEHMEN  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen  regen – aufgrund  der im 
+Folgenden im Detail dargestellten  verfassungsrechtlichen Bedenken – an, dass öffentliche  Un-
+ternehmen von den  Informationspflichten des gegenständlichen Gesetzespakets  ausgenom-
+men werden , soweit sie keine hoheitlichen Aufgaben erfüllen .  
+Vorauszusch icken ist, dass eine Informationspflicht von staatlichen Unternehmen zunächst 
+nicht schlechthin  abzulehnen  ist. Verfassungsrechtlich unbedenklich wäre es beispielsweise  – 
+wie im deutschen Informationsfreiheitsgesetz  (im Folgenden „dtIFG“ ) – natürliche und juris-
+tische Personen des Privatrechts, unabhängig davon, ob es sich um öffentliche oder private 
+Unternehmen handelt , einer gesetzlichen  Informationspflicht zu unterwerfen . Allerdings müssen 
+diese natürlichen und juristischen Personen nur soweit Information en offenlegen, als sich eine 
+Behörde dieser Person „zur Erfüllung ihrer öffentlich -rechtlichen Aufgaben “ bedient und soweit 
+es sich um „amtliche Informationen “ handelt (§ 1 Abs 1 dtIFG).  
+Das gegenständliche Gesetzespaket verpflichtet demgegenüber  mit dem Ziel, mehr Transpa-
+renz im öffentlichen Bereich  zu schaffen, nur öffentliche Unternehmen, Informationen offen-
+zulegen, und zwar unabhängig davon ob es sich um amtliche oder nicht -amtliche Informationen 
+handelt.  
+Dies scheint in mehrfacher  Hinsicht pr oblematisch: Dass die Informationspflicht der öffentlichen 
+Unternehmen nicht der Transparenz des öffentlichen Bereichs dient, zeigt zunächst bereits  die 
+Tatsache, dass die Informationspflichten nicht auf (allfällige) hoheitliche Aufgaben öffentliche r 
+Unter nehmen begrenzt sind, sondern auch den rein privatwirtschaftlichen Tätigkeitsbereich ei-
+nes öffentlichen Unternehmens treffen  würden . Der privat wirtschaftlichen Tätigkeit der öffentli-
+chen Unternehmungen liegt allerdings – im Gegensatz zum Handeln einer Behö rde gegenüber 
+dem Bürger – kein Hoheitsverhältnis zugrunde. Die Erstreckung des IFG -
+Anwendungsbereiches auf Unternehmen im öffentlichen Eigentum ist daher schon alleine des-
+halb nicht nachvollziehbar, weil die Preisgabe von Informationen durch privatwirtsch aftliche Un-
+ternehmungen regelmäßig nicht der Transparenz im öffentlichen Bereich dient, und somit  weit 
+mehr Informationen veröffentlicht werden müss ten, als in Hinblick auf dieses Ziel erforderlich 
+ist. Nicht zuletzt unterliegen öffentliche Unternehmen ohn ehin weitreichenden gesetzlich veran-
+kerten Berichtspflichten und Kontrollen (zB im Rahmen des Stadtwerke -Konzerns durch den 
+Stadtr echnungshof, sowie die Energie -Unternehmen der E -Control , die Wiener Lokalbahnen  
+der Schienencontrol  und die Wiener Linien  der Stadt Wien ). Warum nun zusätzlich eine Infor-
+mationspflicht gegenüber jedermann in Hinblick auf die Transparenz öffentlicher Unternehmen 
+erforderlich sein soll , ist daher nicht nachvollziehbar.  
+Verfassungsrechtlich bedenklich erscheint de r WIENE R STADTWERKE GmbH  und ihren Kon-
+zernunternehmen  insbesondere , dass nur ö ffentliche, nicht aber mit diesen vergleichbare  
+und in Wettbewerb stehende private Unternehmen  den Informat ionspflichten nach dem Ent-32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 3 von 20
+www.parlament.gv.at
+ 
+ 
+ 4/20 wurf des IFG  unterstellt werden. Denn m it den Informationspflichten der öffentlichen Unterneh-
+men s ind eine Reihe von (Wettbewerbs -)Nachteilen  verbunden, die vergleichbare private Un-
+ternehmen nicht tragen müssen:  
+- Die Informationsverpflichtung nach Art 22 Abs 3 B -VG sow ie dem IFG führen dazu , dass 
+öffentliche  Unternehmungen jedermann, somit unter Umständen auch unmittelbaren Kon-
+kurrenten der im Wettbewerb stehenden Unternehmen , Informationen bekanntgeben müs-
+sen, während private Unternehmen diese Informationspflichten nic ht treffen.  
+- Erschwerend kommt dabei hinzu, dass die öffentlichen Unternehmen über sensible Infor-
+mationen verfügen, mit deren Offenlegung auch beträchtliche (Wettbewerbs -) Nachteile ver-
+bunden sind (zB Geschäfts -, Betriebs - und Berufsgeheimnisse, geistiges Eigentum, Gut-
+achten, Stellungnahmen, etc), wobei auch die Nichterteilung  der Information mit Verweis  
+auf § 6 Abs 1 IFG mit dem beträchtlichen Risiko verbunden ist, die Unterlagen im Rechts-
+schutzverfahren offenlegen  zu müssen1. Potentielle Wettbewerber können daher auf die-
+sem Weg  Informationen über Preise, Kunden, Kooperationspartner etc  erlangen , während 
+gleichzeitig bereits das Risiko einer Offenlegung potentielle Kooperationspartner ab-
+schreckt.   
+- Rechnungshofpflichtige Unternehmen müssen a ußerdem aufgrund der Informationspflich-
+ten nach dem IFG mit entsprechenden Mehrkosten rechnen  (vgl dazu noch genauer Kapitel 
+4.4), die nicht -rechnung shofpflichtigen Unternehmen nicht entstehen .  
+Als sachliche Rechtfertigung für diese Ungleichbehandlung verweist der Gesetzgeber allein auf 
+die Kontrolle durch den Rechnungshof und somit auf die staatliche Beteiligung. Dass der Um-
+stand der staatliche n Beteiligung als sachliche Rechtfertigung für eine solche  gravierende  Un-
+gleichbehandlung der öffentlichen Unternehmen im Vergleich zu  – absolut vergleichbaren und 
+in Konkurrenz stehenden – Mitbewerbern ausreichen würde, ist allerdings im Lichte des Gleich-
+heitssatzes stark zu bezweifeln .  
+Im gegenständlichen Entwurf wird allerdings nicht nur zwischen öffentlichen und privaten Un-
+ternehmen, sondern auch zwischen börsennotierten und nicht -börsennotierten öffentlichen Un-
+ternehmen differenziert : Börsen notierte Gesellschaften sowie rechtlich selbständige Unterneh-
+mungen, die auf Grund von Beteiligungen oder sonst unmittelbar oder mittelbar unter dem be-
+herrschenden Einfluss einer börsennotierten Gesellschaft stehen ( in Folge abgekürzt „ börsen-
+notierte Unter nehmen“ ) sind im Gegensatz zu nicht -börsennotierten öffentlichen Unterneh-
+men gem § 13 Abs 3 IFG von der Informationspflicht nach dem IFG ausgenommen. Diese Aus-
+nahme wird in den Erläuterungen (Seite 11) mit der Vielzahl an Informationspflichten der bör-
+sennotierten Unternehmen begründet . Die Informationspflicht en nach dem IFG gehen aber 
+deutlich über die Informationsverpflichtungen der börsennotierten Unternehmen hinaus, insbe-
+sondere wenn – richtigerweise und entgegen den Erläuterungen – nur jene Informations ver-
+pflichtungen berücksichtigt werden, die alle börsennotierten Unternehmen jederzeit und grund-
+los treffen (vgl dazu noch genauer Kapitel 4.1.1.a) ). Erschwerend kommt an dieser Stelle hinzu, 
+dass die  bereits existierenden  Informationspflichten der nicht -börsennotierten Unternehmen  
+ 
+1  Gem § 13 Abs 2 IFG muss die Informationsweitergabe zwar dann nicht erfolgen, wenn es zur Abwehr einer unmittelbar 
+drohenden Beeinträchtigung der Wettbewerbsfähigkeit der Unternehmung oder zum Schutz berechtigter Interessen 
+erforderlich ist. Mangels In-Came ra-Verfahren s (dazu noch im Detail 6.3.2) könnten die Informationen allerdings im 
+Recht-schutzverfahren offengelegt werden müssen . 32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 4 von 20
+www.parlament.gv.at
+ 
+ 
+ 5/20 demgegenüber  nicht berücksichtigt wurden (vgl dazu auch noch genauer Kapitel 4.1.1.b) ). Die 
+für die Ausnahme börsennotierter Unternehmen von den Informationspflichten gegebene sach-
+liche Rechtfertigung überzeugt daher keinesfalls.  
+Im Erge bnis entbehren Art 22 a Abs 3 B -VG sowie die entsprechende einfachgesetzli-
+che Umsetzung im IFG jeglicher sachliche n Rechtfertigung und sind insbesondere die 
+Ungleichbehandlung  
+- von jeweils nicht -hoheitlich handelnden  öffentlichen und privaten  Unterneh-
+men, sowie  
+- von öffentlichen nicht -börsennotierten und öffentlichen  börsennotierten Unter-
+nehmen  
+verfassungsrechtlich bedenklich.  Die WIENER STADTWERKE GmbH und ihre Kon-
+zernunternehmen regen daher an, die Ausnahme vom Anwendungsbereich des Infor-
+mationsfreiheitsgesetzes auf nicht -börsenno tierte öffentliche Unternehmen auszuwei-
+ten, sowie  die angedachte Bestimmung des § 1 Z 5 IFG sowie Art  22a Abs 3 B -VG in 
+Hinblick auf ihre Verfassungskonformität noch einmal zu überprüfen . 
+ 
+ EINZELNE GESETZESB ESTIMMUNGEN  
+Die WIENER STADTWERKE GmbH und ihre Konzernunternehmen sprechen sich zunächst an 
+dieser Stelle aufgrund der oben genannten verfassungsrechtlichen Einwände noch einmal aus-
+drücklich gegen eine Informationsp flicht öffentlicher Unternehmen aus. Sofern der Gesetzgeber 
+auch öffentliche Unternehmen in das IFG miteinbezieht , regen die  WIENER STADTWERKE 
+GmbH und ihre  Konzernunternehmen jedenfalls die folgenden Anpassungen der einzelnen Ge-
+setzesbestimmungen an . Zu berücksichtigen gilt es  dabei, dass die folgenden Anpassungen 
+unter anderem auch deshalb erforderlich sind, weil eine Informationspflicht öffentliche r Unter-
+nehmen systemwidrig scheint . Die folgenden Anregungen sprechen daher auch einmal mehr 
+für eine Ausnahme öffentlicher Unternehmen  vom IFG .  
+4.1. Einschränkung der Informationspflichten rechnungshofpflichtiger Unternehmen  
+4.1.1.  Weitere Präzisierung  des Jedermannsrechtes ( Art 22a Abs 3 B -VG und §  5 IFG)  
+Gem Art 22a Abs 3 B -VG iVm § § 13 Abs 1 iVm  5 IFG haben die rechnungshofpflichtigen Unter-
+nehmen auf Antrag jedermann  Zugang zu den jeweils angefragten Informationen zu gewähren. 
+Ein Naheverhältnis zum jeweiligen Adressaten des Auskunftsbegehrens oder ein begründetes 
+Interesse des Antragstellers sin d demgegenüber nicht erforderlich.  
+Allerdings erfordert bereits die Systematik des IFG eine Einschränkung dieses Jedermanns-
+rechts. Mit § 6 IFG wird dem Umstand Rechnung getragen, dass rechnungshofpflichtige  Unter-
+nehmen im Allgemeinen ein schützenswertes I nteres se an ihren Informationen haben und kriti-
+sche Informationen teilweise auch im Interesse der Öffentlichkeit nicht zugänglich gemacht wer-
+den dürfen. § 6 Abs 1 IFG sieht daher  eine Interessenabwägung vor, und zwar sollen Informa-32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 5 von 20
+www.parlament.gv.at
+ 
+ 
+ 6/20 tionen nur offengelegt we rden, wenn die Offenlegung „ nach Abwägung aller in Betracht kom-
+menden Interessen erforderlich und verhältnismäßig ist “. Noch deutlicher normiert §  6 Abs 1 Z  7 
+IFG, dass ein überwiegendes berechtigtes Interesse eines anderen vorliegen muss.  
+Da ohne berecht igtes Interesse des Antragstellers keine Interessenabwägung erfolgen kann, 
+erfordert somit bereits die Systematik des Gesetzes, dass der Zugang zu den Informationen 
+nicht jedermann zusteht, sondern nur jenen Personen, die ein berechtigtes Interesse an dies en 
+Informationen geltend machen können. Das IFG normiert in seiner derzeitigen Form – im Ge-
+gensatz zum deutschen IFG2 – allerdings (noch) nicht, dass der Antragsteller über die für eine 
+solche Interessenabwägung notwendigen Informationen verfügen, sowie diese – idealerweise 
+bereits im Antrag – bereitstellen muss, sodass eine entsprechende Klarstellung angeregt wird.  
+Zudem erleichtert  die derzeitige Ausgestaltung als grenzenloses Jedermannsrecht pauschale 
+und missbräuchliche Anfragen. Eine Beschränkung des Jedermannsrechts auf Personen, die 
+über ein berechtigtes und begründetes Interesse an der Information verfügen, würde  diese  
+missbräuchliche n Anträge jedenfalls leichter erkennbar machen, idealerweise aber gänzlich 
+hintanhalten.  
+Im Übrigen werden in Zusammenhang mit rechnungshofpflichtigen Unternehmen ohnehin nur 
+Kunden ein berechtigtes Interesse an den Informationen gla ubhaft machen können, sodass eine 
+gesetzliche Beschränkung des Rechts auf Zugang zu Informationen auf Kunden des jeweils 
+betroffenen Unternehmens naheliegt. Auch in diesem Fall  wäre allerdings ein verpflichtender 
+Nachweis wünschenswert, ob und inwiefern di e angefragte Information für den jeweiligen  Kun-
+den relevant ist, und als Voraussetzung für die legitime Ausübung des Rechts auf Zugang zu 
+Informationen die vorgesehene Regelung in § 5 IFG zu ergänzen.  
+Im Ergebnis regen die WIENER STADTWERKE GmbH und ihre Konzernunternehmen 
+eine Präzisierung  des Jedermannsrechts an, sodass nur jene Personen, die ein be-
+rechtigtes Interesse an den Informationen geltend machen können, ein Recht auf Zu-
+gang zu Informationen erhalten.  
+ 
+4.1.1.  Definition der der Auskunft unterliegenden  Informationen (§ 2 Abs 1  IFG)  
+Gem § 2 Abs 1 IFG sind Informationen im Sinne dieses Bundesgesetzes jegliche  amtlichen oder 
+unternehmerischen Zwecken dienende Aufzeichnung en im Wirkungsbereich eines Organs, im 
+Tätigkeitsbereich einer Anstalt, einer Stiftung oder eines Fonds oder im Geschäftsbereich einer 
+Unternehmung, unabhängig von der Form, in der si e vorhanden und verfügbar sind.  
+Diese Definition ist  allerdings  insbesonde re in Hinblick auf die Offenlegungspflichten der  öffent-
+lichen  Unternehmen zu weit gefasst:  
+ 
+2  Vergleiche diesbezüglich auch § 7 Abs 1 iVm 5 und 6 deutsches IFG: Hier muss der Antrag in Hinblick auf Interessen-
+abwägung en bei datenschutzrechtlich geschützten Informationen, sowie in Zusammenhang mit Betriebs - und Ge-
+schäftsgeheimnissen begründet werden.  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 6 von 20
+www.parlament.gv.at
+ 
+ 
+ 7/20 a) Einschränkung auf Informationen, die auch börsen notierte Unternehmen offen-
+legen müssen  
+Die gegenständlichen Informationspflichten von nicht -börse nnotierten Unterne hmen nach § 2 
+Abs 1 IFG gehen weit über die gesetzlichen Informationspflichten von börsen notierten Unter-
+nehmen hinaus . Während nicht -börse nnotierte  Unternehmen alle amtlichen und unternehmeri-
+schen Informationen offenlegen müssen, sollen  absolut vergleichba re, teils sogar in Konkurrenz 
+zu den nicht -börsennotierten Unternehmen stehende börsennotierte (rechnungshofpflichtige) 
+Unternehmen laut dem Gesetzesentwurf – aufgrund ihrer ohnehin bereits bestehenden umfas-
+senden gesetzlichen Informationspflichten – von d er Informationspflicht nach dem IFG befreit  
+sein (§ 13 Abs 3 IFG) .  
+Sofern eine Ausnahme aller öffentlichen Unternehmen im Sinne des  Kapitel 2 nicht aufgenom-
+men wird , sollten  in Hinblick auf den Gleichheitssatz die Informationspflichten nach dem IFG in 
+jedem Fall nicht ohne sachliche Rechtfertigung über die gesetzlichen Informationspflichten der 
+börsennotierten Unternehmen hinausgehen. Eine entsp rechende Einschränkung der Informati-
+onspflichten nach dem IFG für nicht -börsennotierte Unternehmen auf jene Informationen, die 
+auch börsennotierte Unternehmen offenlegen müssen, ist daher geboten.  
+Wenn der Gesetzgeber außerdem die Informationspflicht der ö ffentlichen Unternehmen nicht 
+auf Antragsteller mit einem berechtigten Interesse begrenzt (vgl Kapitel 4.1.1 ), sind auch die 
+Informationspflichten öf fentlicher Unternehmen  – entgegen den Ausführungen des Gesetzge-
+bers (Erläuterungen, Seite 11) – nur auf jene Informationspflichten  der börsennotierten Unter-
+nehmen einzuschränken , die alle börsen notierten Unternehmen jederzeit gegenüber jedermann 
+treffen3.  
+Im Übrigen sei an dieser Stelle angemerkt, dass die Informationspflichten der börsennotierten 
+Unternehmen nicht der Transparenz im öffentlichen Bereich, sondern gänzlich anderen (börsen - 
+und aktienrechtlichen) Zwecken dienen. Daher betonen die WIENER STADTWERKE GmbH 
+und ihre Konzernunternehmen noch einmal, dass der Gesetzgeber die aufgezeigte sachliche 
+Ungleichbehandlung nicht durch eine Ausdehnung des Anwendungsbereichs auf börsenno-
+tierte Unternehmen, sondern durch eine Reduktion des Anwendungs bereichs auf mit öffentlich -
+rechtlichen Aufgaben beliehene Unternehmen beseitigen sollte .  
+ 
+3 - Nicht berücksichtigt werden sollten demnach entgegen den gegenständlichen Erläuterungen:  
+-  Die nicht -börsennotiert en Unternehmen dürfen daher nicht jenen Informationspflichten der börsennotierten Unterneh-
+men unterworfen werden, die diese fakultativ umsetzen können (zB § 102 Abs 4 AktG sieht nur eine Möglichkeit in 
+Form einer kann -Bestimmung vor), weil das IFG eine Ver pflichtung bei sonstiger Strafe vorsieht.  
+- Ebensowenig ist es mit dem Gleichheitssatz vereinbar, wenn Informationen berücksichtigt werden, die börsennotierte 
+Unternehmen nur unter gewissen Umständen herausgeben müssen (zB anlässlich einer Jahreshauptvers ammlung 
+oder einer Veranlagung iSd § 2 KMG), da die Unternehmen nach dem IFG dem Antragsteller binnen 4 Wochen die 
+Information gewähren müssen.  
+- Die Informationspflichten der börsennotierten Unternehmen müssen gegenüber der Öffentlichkeit (und nicht nur ge-
+genüber Kunden) gelten, da nach dem IFG jedermann Zugang zu den Informationen zu gewähren ist.   
+- Nicht zuletzt dürfen nur solche gesetzlichen Informationsverpflichtungen berücksichtigt werden, die alle und nicht nur 
+gewisse börsennotierte Unternehmen t reffen (zB § 107 Abs 3 AktG gilt nicht für börsennotierte Gesellschaften, die 
+ausschließlich Namensaktien ausgeben), denn auch das IFG sieht Informationspflichten für alle nicht -börsennotierten 
+Unternehmen bei sonstiger Strafe vor.  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 7 von 20
+www.parlament.gv.at
+ 
+ 
+ 8/20 Im Ergebnis regen die WIENER STADTWERKE GmbH  und ihre Konze rnunternehmen 
+in Hinblick auf den Gleichheitssatz an, die Informationsverpflichtungen  der nicht -bör-
+sennoti erten Unternehmen  nach dem IFG  jedenfalls  auf jene Informationen einzu-
+schränken, die auch börsen notierte Unternehmen jederzeit gegenüber jedermann of-
+fenlegen müssen. Die aktuelle Ausnahme für börsennotierte Unternehmen erscheint 
+jedenfalls gleichheitswidri g.  
+ 
+b) Berücksichtigung von Offenlegungsverpflichtungen der nicht -börsennotierten 
+Unternehmen  
+Der ME berücksichtigt zwar umfassend die Informationspflichten der börsen notierten rech-
+nungshofpflichtigen Unternehmen sowie den damit verbundenen Aufwand; wortwörtlich: „Sol-
+che [gemeint] börsenotierten Unternehmungen darüber hinaus allgemein zur Information zu ver-
+pflichten erschiene nicht nur nicht erforderlich, sondern unsachl ich (insbesondere vor dem Hin-
+tergrund des einfachgesetzlichen Gleichbehandlun gsgrundsatzes gegenüber Aktionären ge-
+mäß § 47a AktG im Verhältnis von A ktionären und Nicht -Aktionären) “ (Erl zum ME, Seite 11).   
+Hingegen werden die  sich schon aus anderen Gesetzen ergebenden  Informationspflichten von 
+nicht -börsen notierten Unternehmen im IFG und in den Erläuterungen  weder  erwähnt  ge-
+schweige denn  berücksichtigt . Da allerdings auch nicht -börse nnotierte Unternehmen aufgrund  
+unterschiedli chste r gesetzliche r Regelungen Informationspflichten (zB Auskunftsersuchen nach 
+der DSGVO, Umweltinformationsgesetz, MedienG, TKG, UGB etc) sowie Berichtspflichten (zB 
+der Energieunternehmen an die E -Control) treffen, gebietet der Gleichheitssatz auch deren Be-
+rücksichtigung durch das IFG, die über den bloßen Verweis auf bereits veröffentlichte Informa-
+tionen hinausge ht (§ 9 Abs 1 zweiter Satz IFG) . Eine Klarstellung wäre aufgrund der Differen-
+zierung mit den börsen notierten Unternehmen jedenfalls aufzunehmen .  
+Die Informationspflichten öffentlicher Unternehmen sind daher  nach dem gegenständlichen Ge-
+setzesentwurf – jedenfalls auch im Vergleich mit börsennotierten Unternehmen – überschie-
+ßend. Eine Ausnahme für öffentliche Unternehme n erscheint daher unumgänglich . Sofern sich 
+der Gesetzgeber jedoch dagegen entscheidet, ist allerdings zumindest eine Einschränkung der 
+Informationspflicht erforderlich.  
+Im Ergebnis regen die WIENER STADTWERKE GmbH  und ihre Konze rnunternehmen 
+an, dass die rechnungshofpflichtige n Unternehmen Personen, die ein berechtigtes und 
+begründetes Interesse daran haben, nur Zugang zu jenen Informationen gewähren 
+müssen , die nicht bereits aufgrund anderweitiger gesetzlicher Verpflichtungen offen-
+gelegt werden mussten .   
+ 32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 8 von 20
+www.parlament.gv.at
+ 
+ 
+ 9/20 c) Beschränkung auf hoheitliche oder zumindest gemeinwirtschaftliche Aufgaben  
+Eine Vielzahl der Unternehmen, an denen die öffentliche Hand beteiligt ist, hat einen privatwirt-
+schaftlichen  Tätigkeitsbereich  ohne staatlichen Auftrag  (zB Güterverkehr) und einen Aufgaben-
+bereich , der im staatlichen Auftrag erfolgt  und in dem die Unternehmen gemeinwirtschaftlich (zB 
+Personenverkehr4) agieren oder überhaupt als Beliehene  fungieren . Obwohl d as Telos und der 
+Gleichheitsgrundsatz eine Einschrän kung der Informationsverpflichtungen auf den mit hoheitli-
+chen Aufgaben beliehenen , bzw den gemeinwirtschaftlichen Bereich der Unternehmen nahele-
+gen, trägt die gegenständliche Definition von Information nach §  2 Abs 1 IFG dieser Zweiteilung 
+bis dato nicht R echnung. Sofern die öffentlichen Unternehmen daher nicht zur Gänze von der 
+Informationspflicht nach dem IFG ausgenommen werden,  bzw keine weitreichenden Ausnah-
+men bezüglich kritischer Infrastrukturen, Daseinsvorsorge und Wettbewerbsbeeinträchtigungen 
+aufge nommen werden,  sollte die Informationspflicht als ultima ratio zumindest auf den hoheitli-
+chen bzw gemeinwirtschaftlichen Aufgabenbereich öffentlicher Unternehmen begrenzt werden:  
+Das Telos des IFG erfordert mehr Transparenz im öffentlichen Bereich zu schaffen . Daher sollte  
+auch die  Offenlegungspflicht zumindest auf jene Informationen  eingeschränkt werden , die dem 
+öffent lichen Bereich zuzuordnen sind . Zum öffentlichen Bereich zählen allerdings nur jene In-
+formationen, die in Zusammenhang mit gemeinwirtsc haftlichen Aufgaben oder mit der Belei-
+hung öffentlicher Aufgaben stehen. Hingegen sollten alle Informationen, die diesen gemeinwirt-
+schaftlichen oder öffentlich -rechtlichen Aufgabenbereichen nicht zugeordnet werden können (in 
+weiterer Folge kurz „ privatwirt schaftlicher Bereich “), von der Informationspflicht nach dem 
+IFG ausgenommen werden . 
+Als Vorbild dient auch in diesem Zusammenhang das deutsche IFG, welches nur den Zugang 
+zu „amtlichen Informationen“ kennt und darunter „ jede amtlichen Zwecken dienende Auf zeich-
+nung, unabhängig von der Art ihrer Speicherung“  versteht (§ 2 Z 1 dtIFG). Daher wären zumin-
+dest Informationen des nicht -amtlichen Bereichs analog zum deutschen IFG nicht offenzulegen.   
+Falls öffentliche Unternehmen daher nicht zur Gänze von der Infor mationspflicht nach 
+dem IFG ausgenommen werden, bzw keine weitreichenden Ausnahmen bezüglich kri-
+tischer Infrastrukturen, Daseinsvorsorge und Wettbewerbsbeeinträchtigungen aufge-
+nommen werden  sollten, regen die WIENER STADTWERKE GmbH  und ihre Konzern-
+unterneh men daher  als ultima ratio an, all jene Informationen vom Anwendungsbereich 
+des IFG auszunehmen, die in Zusammenhang  mit dem privatwirtschaftlichen Tätig-
+keitsbereich ohne staatlichen Auftrag (zB Güterverkehr) d es betreffenden rechnungs-
+hofpflichtigen Untern ehmens stehen, indem entweder § 1 Z 5 oder § 2 Abs 1 IFG ent-
+sprechend eingeschränkt werden.  
+ 
+d) Zeitliche Beschränkung  
+Der gegenständliche Gesetzese ntwurf sieht  lediglich in den Erläuterungen  vor, dass die z ur 
+Verfügung zu stellenden Informationen „ready and availale “ sein müssen , aber keine expliziten 
+ 
+4 ZB Personenverkehr nac h dem ÖPNRV -G bzw der VO (EG) 1370/2007.  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 9 von 20
+www.parlament.gv.at
+ 
+ 
+ 10/20 zeitlichen Beschränkungen oder Ausnahmen von der Informationsverpflichtung in Hinblick auf 
+gelöschte, nicht (mehr) vorhandene oder archivierte Informationen.  Die Unternehmen treffen  
+jedoch beispielsweise auch Löschverpflichtungen (zB nach der DSGVO), sodass gewisse In-
+formationen nach einer bestimmten Zeit nicht mehr offengelegt werden können , und auch prak-
+tisch erscheint eine zeitliche Befristung notwendi g.  
+Darüber hinaus wäre auch das  Telos des IFG, Transparenz zu schaffen, bereits  gewahrt, wenn 
+Antragstellern aktuelle  Informationen  (zB der letzten zwei Jahre)  zugänglich gemacht werden .   
+Im Ergebnis regen die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen 
+eine zeitliche Einschränkung  der Informationen, die nach dem IFG zugänglich gemacht 
+werden müssen,  dahingehend an, dass  nur aktuelle Informationen ( zB der letzte n zwei 
+Jahre) offengelegt werden müssen .  
+ 
+e) Entwürfe (§§ 2 Abs 1 , 6 Abs 1 Z 5 IFG)  
+Grundsätzlich sind nach § 2 Abs 1 IFG  alle Informationen offenzulegen . Die Erläuterungen 
+(Seite 5) konkretisieren diese allgemeine Informationspflicht allerdings insofern, als sie sich nur 
+auf bereits bekannte Tatsachen bezieht. Informati onen müssen also nicht erst erhoben, recher-
+chiert, gesondert aufbereitet oder erläutert werden , sondern sie müssen „ready and available “ 
+sein. Noch nicht fertige Informationen unterliegen hingegen nicht dem Informationsbegriff nach 
+dem IFG.  
+Diese Erläuter ungen sind zwar aus Sicht der Praxis zu begrüßen, allerdings erfordert die Rele-
+vanz dieser Ausführungen eine unmittelbare Verankerung im Gesetz  (vergleichbar mit § 6 Abs 
+1 Z 5 IFG) . Als Anregung soll auch hier das deutsche IFG  dienen , welches den Begriff d er 
+Informat ion insofern einschränkt, als es  Entwürfe und Notizen, die nicht Bestandteil eines Vor-
+gangs werden sollen , ausdrücklich im Gesetzestext und nicht nur in den Erläuterungen aus-
+nimmt  (§ 2 Z 1 dt IFG) .  
+Dem nicht genug, lassen auch die Erläuterungen  offen, wann Informationen als „fertig“ , bzw 
+„ready and available “ zu klassifizieren sind  und wann d iese “nur” Entwürfe  darstellen  und somit 
+nicht „ready and available “ sind, sodass auch hier eine weitreichendere Klarstellung wünschens-
+wert wäre .  
+Die WIENER STADTWERKE GmbH  und ihre Konze rnunternehmen regen daher an,  den 
+Informationsbegriff  nach § 2 Abs 1 IFG  auf „ fertige “ Informationen einzuschränken, 
+sowie weiter zu konkreti sieren, wann Informationen „ fertig “, bzw „ready and available “ 
+sind.  
+ 32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 10 von 20
+www.parlament.gv.at
+ 
+ 
+ 11/20 4.2. Ausweitung bzw Präzisierung der Ausnahmen  
+Gem  § 13 Abs 2 IFG sind Informationen, soweit und solange dies in sinngemäßer Anwendung 
+des § 6 oder zur Abwehr einer unmittelbar drohenden Beeinträchtigung von deren Wettbewerbs-
+fähigkeit erforderlich ist, nicht zugänglich zu machen. Diese Ausnahmen sind aus Sicht der 
+WIENER STADTWERKE GmbH und ihre r Konzernunternehmen  zu begrüßen, sollten allerdings  
+wie folgt  erweitert und konkretisiert werden .  
+4.2.1.  Geheimnisschutz (§§ 13 Abs 2 iVm 6 IFG ) 
+a) Erforderlichkeitsprüfung  
+Gem  § 6 IFG müssen Unternehmen ihre Informationen aus gewissen taxativ aufgezählten „In-
+teressen“ (zB nationale Sicherheit, berechtigte Interessen etc) nicht zugänglich machen. Aller-
+dings genießen diese „Interessen“ keinen absoluten Schutz, sondern muss der Sc hutz „ nach 
+Abwägung aller in Betracht kommenden Interessen  erforderlich und verhältnismäßig“ sein.   
+Diese Erforderlichkeitsprüfung ist nicht nachvollziehbar, werden  doch die Interessen des Infor-
+mationspflichtigen an der Geheimhaltung der taxativ aufgezählt en Geheimnisbereiche (öffentli-
+che Sicherheit, Landesverteidigung, Geschäfts - und Betriebsgeheimnisse, etc) die Interessen 
+des Antragstellers in der Regel überwiegen . Die Erforderlichkeitsprüfung birgt daher das Risiko, 
+dass die geschützten Informationen de m Antragsteller im Rahmen des Rechtsschutzverfahrens 
+nach § 14 IFG zur Kenntnis gelangen.   
+Ein absoluter Schutz des Interesses an diesen besonders sensiblen Informationen erscheint 
+daher – wiederum nach deutschem Vorbild (§ 3 ff dtIFG) – geboten.  
+Im Ergeb nis regen d ie WIENER STADTWERKE GmbH  und ihre Konzernunternehmen 
+eine absolute Ausnahme von den Informationspflichten für die  Geheimnisbereiche 
+nach § 6 Abs  1 IFG an.  
+ 
+b) Berechtigte Interessen (§ 6 Abs 1 Z 7  IFG) 
+Gemäß § 6 Abs 1 Z 7 IFG ist eine doppelt e Interessensabwägung gefordert;  demnach  sind 
+Informationen n icht zur Veröffentlichung bestimmt und nicht zugänglich zu machen , soweit und 
+solange dies „im überwiegenden berechtigten Interesse eines anderen , insbeson dere  
+a) zur Wahrung des Rechts auf Schutz der personenbezogenen Daten ,  
+b) zur Wahrung von Berufs -, Geschä fts- oder Betriebsgeheimnissen oder  
+c) zur Wahrung der Rechte am geistigen Eigentum betroffener Personen   
+nach Abwägung aller in Betracht kommenden Interessen erforderlich und verhältnismäßig und 
+gesetzlich nichts anderes bestimmt ist.“  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 11 von 20
+www.parlament.gv.at
+ 
+ 
+ 12/20 Zunächst ist der Ausnahmetatbestand nach § 6 Abs 1 Z 7 IFG zu begrüßen, da auch überwie-
+gende  berechtigte Interessen der Informationspflichtigen berücksichtigt werden.  
+Nach dem Gesetzesentwurf  zählen  allerdings  „insbesondere“ das Interesse an Berufs -, Ge-
+schäft- oder Betriebsgeheimnisse, sowie am geistigen Eigentum der betroffenen Personen zu 
+den überwiegenden berechtigten Interessen. Diesbezüglich ist insofern eine Kla rstellung erfor-
+derlich, als diese Interessen nicht nur dann einen Ausnahmetatbestand von d en Informations-
+pflichten begründen  sollten, wenn das Interesse des Informationspflichtigen an diesen Informa-
+tionen  überwiegt, sondern sollten diese Informationen  absolut geschützt werden :  
+Mit der (doppelten)  Interessenabwägung  ist das Risiko verbunden, da ss ein rechnungshofpflich-
+tiges Unternehmen mangels überwiegender Interessen beispielsweise Geschäfts - und Be-
+triebsgeheimnisse preisgeben muss, obwo hl dies zu einer Wettbewerbsbeeinträchtigung führen 
+würde.  Die Erläuterungen (Seite 8) weisen diesbezüglich a uch nicht ausdrücklich darauf  hin, 
+dass Geschäfts - und Betriebsgeheimnisse in jedem Fall überwiegende berechtigte Interessen 
+verkörpern. V ielmehr können nach ausdrücklicher Ansicht des Gesetzgebers Berufs -, Ge-
+schäfts - und Betriebsgeheimnisse dem Interesse des Antragstellers unterliegen (zB Vergabe-
+verfahren5). Dass der Schutz von Berufs -, Geschäfts - und Betriebsgeheimnissen im Gegensatz 
+zu datenschutzrechtlichen Interessen absolut und uneingeschränkt sein sollte , und zwar unab-
+hängig davon, ob sie von Untern ehmen oder von Gebietskörperschaften angefragt werden , geht 
+im Übrigen auch aus dem Vergleich mit dem deutschen IFG hervor  (§ 6 dtIFG).  
+Zudem  normiert § 6 Abs 1 Z 7 IFG eine Geheimhaltung im überwiegenden berechtigten Inte-
+resse eines „anderen“. In den Erläuterungen (Seite 8) wird zwar klargestellt, dass mit den Inte-
+ressen eines anderen sowohl die Interessen Dritter als auch die Interessen des I nformations-
+pflichtigen gemeint sind , die Wortlautinterpretation lässt die Subsumtion von Informationspflich-
+tigen unter „anderer“ allerdings kaum zu. Angeregt wird da her die Klarstellung in § 6 Abs  1 Z 7 
+IFG, dass es sich um die „berechtigten Interessen des  Informationspflichtigen oder eines ande-
+ren“ handelt.   
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen daher an,  
+- dass  im Fall von  Geschäfts - und Betriebsgeheimnisse n sowie geistigem  Eigen-
+tum in Hinblick auf den Gleichheitsgrundsatz keine Int eressenabwägung oder 
+Erforderlichkeitsprüfung erfolgt, sondern diese Informationen einem absoluten 
+Geheimhaltungsschutz unterliegen, sowie  
+- dass in § 6 Abs 1 Z 7 IFG  nicht nur die berechtigten Interessen eines „anderen“, 
+sondern auch des „Informationspflic htigen “ ausdrücklich berücksichtigt wer-
+den.  
+ 
+5  In diesem Zusammenhang  sollten die Erläuterungen  auch  klarstellen, dass – entgegen der derzeitigen Ausführungen 
+(Erläuterungen, Seite 8) – gerade im Zusammenhang mit Vergabeverfahren der Informationspflichtige je denfalls über-
+wiegende Interessen an den Betriebs - und Geschäftsgeheimnissen hat. Die Verpflichtungen zu den Informationsbereit-
+stellungen stünden andernfalls in Widerspruch zu Verfahrensbestimmungen aus dem BVergG, insbesondere i n Hinblick 
+auf Informationen  zu laufenden Vergabeverfahren. Dies vor allem dadurch, dass öffentliche Auftraggeber nach dem B -
+VG iVm dem IFG dazu verpflichtet sein könnten, Informationen aus den Vergabeverfahren preiszugeben und dem Auf-
+tragnehmer oder auch dem Auftraggeber dadurch uU ein Schaden entstehen könnte.  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 12 von 20
+www.parlament.gv.at
+ 
+ 
+ 13/20  
+c) Kritische Infrastruktur  und Daseinsvorsorge  
+In Zusammenhang mit dem Geheimnissch utz rechnungshofpflichtiger  Unternehmen sieht § 6 
+IFG umfassende Ausnahmen zugunsten öffentlicher Interessen vor, ein Ausnahmetatbestand  
+für die kritische Infrastruktur , insbesondere auch iSd NIS -G, sowie für den Bereich der Daseins-
+vorsorge fehlt jedoch.  
+Zu den rechnungshofpflichtigen Unternehmen zählen – um nur zwei konkrete Beispiel e zu nen-
+nen – auch die österreichischen Netzbetreiber (Übertragung s- und Verteilernetzbetreiber) , so-
+wie Personenverkehrsunternehmen . Diese betreiben Anlagen, die eine wesentli che Bedeutung 
+für die Aufrechterhaltung wichtiger gesellschaftlicher Funktionen haben und deren Störung oder 
+Zerstörung schwerwiegende Auswirkungen auf die Gesundheit, Sicherheit oder das wirtschaft-
+liche und soziale Wohl großer Teile der Bevölkerung oder d as effektive Funktionieren von staat-
+lichen Einrichtungen haben würde. Sie unterliegen dementsprechend den europäischen und 
+staatlichen Programmen zum Schutz kritischer Infrastrukturen (EPCIP, APCIP) sowie hinsicht-
+lich der Netz - und Informationssicherheit d en Vorgaben der NIS -RL und den innerstaatlichen 
+Ausführungsregelungen. In diesem Zusammenhang ist auch auf die bestehende ACI -Liste 
+(Austrian Critical Infrastructure) der schützenswerten Objekte/Anlagen hinzuweisen, welche aus 
+guten Gründen nicht veröffent licht wird, jedoch Anlagen der Energieversorgung sowie Anlagen, 
+die der Erbringung öffentlicher Verkehrsdienstleistungen dienen, beinhaltet.  
+Aber auch Unternehmen  der Daseinsvorsorge, die  beispielsweise der Strom -, Gas - und Fern-
+wärmeversorgungssicherheit,  bzw dem öffentlichen  Verkehr dienen , könnten durch möglicher-
+weise unangemessen und harmlos erscheinende Informationen angreifbar werden. Netzaus-
+fälle und damit auch  (volks -)wirtschaftliche Schäden wären  die Folge.  
+In Hinblick auf die besondere Schutzwürd igkeit dieser kritischen Infrastruktur en wäre daher  eine 
+explizite Einschränkung des Anwendungsbereichs  des IFG  auf nicht kritische Infrastruktur er-
+forderlich , bzw ein eigener Ausnahmetatbest and für kritische Infrastruktur nach § 6 IFG wün-
+schenswert. Je denfalls angeregt wird  eine Klarstellung in den Erläuterungen, dass die kritische 
+Infrastruktur, auch wenn ihr Betrieb  rechnungshofpflichtigen Unternehmen obliegt, unter § 6 Abs 
+1 Z 2 und 4 IFG fällt.   
+Im Übrigen  wären auf Grund der spezi ellen Sensibilität der Informationen im gesamten Bereich 
+der Daseinsvorsorge aus denselben Überlegungen Ausnahmetatbestände nach § 6 Abs  1 IFG 
+von den Informationsverpflichtungen vorzusehen.  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen eine  Erweite-
+rung der Geheimhaltungsklausel (§ 6 IFG) an; insbesondere die Interessen an  der kri-
+tischen Infrastruktur sowie der Daseinsvorsorge sollten in den Ausnahmenkatalog auf-
+genommen werden.   
+ 32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 13 von 20
+www.parlament.gv.at
+ 
+ 
+ 14/20 4.2.2.  Wettbewerbsbeschränkung (§ 13 Abs 2  IFG)  
+Gem  § 13 Abs 2 IFG müssen Unternehmen Informationen nicht zugänglich machen, soweit und 
+solange dies zur Abwehr einer unmittelbar  drohenden Beeinträchtigung ihrer Wettbewerbsfä-
+higkeit erforderlich ist. Dieser Ausnahmetatbestand ist zwar zu begrüßen, lässt in der vorge-
+schlagenen Form allerdings noch (zu) viel Spielraum für Interpretation.  
+Zunächst ist unklar, was der Gesetzgeber unter einer unmittelbar  drohenden Beeinträchtigung 
+der Wettbewerbsfähigkeit versteht ; diesbezüglich wäre jedenfalls eine Klarstellung  wünschens-
+wert.  
+Nicht nachvollziehbar ist zudem die Beschränkung des  Ausnahmetatbestand es auf unmittelbar  
+drohende Beeinträchti gungen der Wettbewerbsfähigkeit . Gerade in Hinblick auf die Ungleich-
+behandlung mit nicht -rechnungshofpflichtigen Unternehmen sol lte es doch bereits genügen, 
+dass die Informationspflicht die Wettbewerbsfähigkeit zu beeinträchtigen  droht; hingegen ist 
+nicht erforderlich, dass die Beeinträchtigung der Wettbewerbsfähigkeit „unmittelbar droht“ . Im 
+Endeffekt werden sich Informationspflic htige im Rechtsschutzverfahren zudem kaum auf diesen 
+Ausnahmetatbestand stützen können, weil eine unmittelbar drohende Beeinträchtigung der 
+Wettbewerbsfähigkeit ohnehin kaum beweisbar ist, noch dazu in Zusammenhang mit einer Er-
+forderlichkeitsprüfung.   
+Zur Erforderlichkeitsprüfung sei auf die Ausführungen in Kapitel 4.2.1 .a) verwiesen. Das dort 
+Gesagte gilt sinngemäß auch für § 13 Abs 2 IFG.  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen daher an, 
+dass bereits die „drohende Beeinträchtigung  der Wettbewerbsfähigkeit “ eine Aus-
+nahme von der  Informationspflicht begründet und dass die Erforderlichkeitsprüfung 
+nach  § 13 Abs 2 IFG entfällt .  
+ 
+4.2.3.  Teilweise Geheimhaltung (§ 6 Abs 2 IFG )  
+Gem  § 6 Abs 2 IFG kann auch eine teilweise Geheimhaltung erfolgen, wenn die Voraussetzun-
+gen nach § 6 Abs 1 nur auf einen Teil der Informationen  zutreffen. Unklar bleibt dabei, wie eine 
+solche teilweise Geheimhaltung nach § 6 Abs 2 IFG in der Praxis umgesetzt  werden soll. An-
+geregt wird daher eine Klarstellung, wobei in diesem Zusammenhang auch auf das deutsche 
+IFG verwiesen wird, welches im Detail ausführt:  
+„Besteht ein Anspruch auf Informationszugang zum Teil, ist dem Antrag in dem Umfang statt-
+zugeben, in dem  der Informationszugang ohne Preisgabe der geheimhaltungsbedürftigen Infor-
+mationen oder ohne unverhältnismäßigen Verwaltungsaufwand möglich ist.“  [§ 7 Abs 2 dtIFG]  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen daher eine 
+Präzisierung  der tei lweisen Geheimhaltung gem  § 6 Abs 2 IFG nach deutschem Vorbild 
+an.  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 14 von 20
+www.parlament.gv.at
+ 
+ 
+ 15/20  
+4.3. Verfahrensrecht  
+4.3.1.  Anträge  
+a) Form der Anträge (§ 7)  
+Gem § 7 Abs 1 IFG  können Anträge auf Auskunft schriftlich, mündlich u nd telefonisch gestellt 
+werden, obwohl d ie Anträge eine Frist (§ 8 Abs 1 IFG) auslösen . Im österreichischen Recht sind 
+fristgebundene Anträge in der Regel schriftlich einzubringen  und sollte daher schon alleine aus 
+diesem Grund nach dem IFG die Schriftform der Anträge vorgesehen werden. Zudem erle ich-
+tern schriftliche  Anträge  den Informationspflichtigen eine präzise Beantwortung der Fragen nach 
+§ 7 Abs 2 IFG. Als Vorbild könnte in dieser Hinsicht auch § 13 AVG dienen, der zwar für fristge-
+bundene Anbringen die Schriftform vorsieht , die schriftlichen Anbringen können jedoch in jeder 
+technisch mögliche n Form (zB auch per Mail)  schriftlich ü bermittelt werden.   
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen daher an, 
+dass Anträge nach dem IFG  ausschließlich  schriftlich gestellt werden können .  
+ 
+b) Begründung der Anträge (§ 7 IFG)  
+Wie bereits oben  an mehreren Stellen ausgeführt sind Anträge g em § 7 Abs 1 IFG nicht zu 
+begründen . Dies erscheint aus den folgenden Gründen unsachgemäß:  
+- Die Missbräuchlichkeit eines Antrages nach § 9 Abs 3 IFG kann nur anhand einer Begrün-
+dung zügig festgestellt werden.  
+- Eine Begründung der Anträge wäre außerdem in Hinblick auf eine Teilstatt gebung nach § 6 
+Abs 2 IFG notwendig; zB um zu eruieren, welche Informationen  dem Antragsteller auszu-
+händigen sind  und welche nicht .  
+- Überdies würde die Erforderlichkeitsprüfung und Interessenabwägung nach § 6 IFG eine 
+Begründung des Antrages notwendig mach en. Schließlich können Interessenabwägungen 
+nur schnell und effizient abgewickelt werden, wenn die berechtigten Interessen des Antrag-
+stellers bereits vorab dargelegt wurden (vgl hierzu auch § 7 Abs 2 dtIFG).  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunte rnehmen regen daher jeden-
+falls an, dass Anträge nach dem IFG begründet werden müssen .  
+ 
+c) Schutz vor missbräuchlichen Anträgen (§ 9 Abs 3 IFG)  
+Mit § 9 Abs 3 IFG trägt der Gesetzgeber dem Umstand Rechnung, dass Unternehmen Antrag-
+stellern aufgrund „offenbar missbräuchlicher“ Anfragen keinen Zugang zu Informationen geben  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 15 von 20
+www.parlament.gv.at
+ 
+ 
+ 16/20 müssen. Diese Missbrauchsklausel ist zu begrüßen, da  missbräuchliche  Anfragen in Extremfäl-
+len ein Unternehmen „lahmlegen “ könn ten, zB indem Informationsbegehren ohne jegliche Spe-
+zifikation ode r Einschränkung formuliert werden  oder indem eine Vielzahl von Anfragen akkor-
+diert auf einmal gestellt wird. Allerdings wirft die Missbrauchsklausel zwei klärungsbedürftige  
+Folgefragen auf:  
+- Wenn die Anträge nicht begründet werden müssen, wie kann eine missbräuchliche Anfrage 
+erkannt werden?  
+- Die Erläuterungen beschreiben in Hinblick auf § 9 Abs 3 IFG nur, welche Anfragen keinen 
+Missbrauch darstellen. Offen bleibt daher die Frage, was der Gese tzgeber unter miss-
+bräuchlichen Anfragen versteht.  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen daher an, die Miss-
+brauchsklausel näher zu regeln bzw missbräuchliches Verhalten in Form von Ausschlussgrün-
+den (zB Vielzahl gleichgelagerter Antr äge einer Person, missbräuchlich akkordierte Antragstel-
+lung mehrerer Personen etc) aufzuzählen, insbesondere auch um Rechtssicherheit sowohl für 
+den Anfragenden als auch für die dem IFG unterliegenden Rechtsträger zu schaffen.  
+Im Ergebnis regen die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen 
+eine Präzisierung der Missbrauchsklausel an, beispielsweise durch Nennung von Aus-
+schlussgründe n.  
+ 
+4.3.2.  Frist (§ 8 IFG)  
+Gem § 8 Abs 1 IFG muss der Informationspflichtige dem Informationsersuchen innerhalb einer 
+Frist von vier Wochen nachkommen. Allerdings kann gem § 8 Abs 2 IFG aus besonderen Grün-
+den von dieser Frist abgewichen werden.  
+Die Formulierung „ aus besonderen Gründen “ ist undeutlich und lässt eine Vielzahl an Gründen 
+zu. Als (einziges) Beispiel nennen die Er läuterungen, dass eine von der Informationserteilung 
+betroffene Person zu hören ist (§ 10) und dies nicht binnen der vierwöchigen Frist zu bewerk-
+stelligen ist. Aus Sicht der WIENER STADTWERKE GmbH und ihrer Konzernunternehmen  wird 
+insbesondere eine Fristve rlängerung für den Fall angeregt , dass mit der Anfragebeantwortung 
+ein großer Zeitauf wand verbunden  ist oder aufgrund der außergewöhnlichen Zahl der gleichzei-
+tig gestellten Anfragen Verzögerungen auftreten .  
+In diesem Zusammenhang sei auf das Regelungsmode ll der DSGVO verwiesen, welches sich 
+in der Praxis bereits bewährt hat. Die DSGVO sieht – wie das IFG – eine Frist von einem Monat 
+zur Bearbeitung von Anträgen (ua auch auf Auskunft) vor, allerdings kann diese Frist um weitere 
+zwei Monate verlängert werden , wenn dies unter Berücksichtigung der Komplexität und der An-
+zahl von Anträgen erforderlich ist (Art 12 Abs 3 DSGVO).  32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 16 von 20
+www.parlament.gv.at
+ 
+ 
+ 17/20 Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen daher an, eine 
+nähere Definition  „besonderer Gründe “ nach § 8 Abs 2 IFG, beispielsweise nach dem 
+Vorbild von Art 12 Abs 3 DSGVO, aufzunehmen . 
+ 
+4.3.3.  Rechtsschutz nach § 14 IFG  
+a) Zuständigkeit Verwaltungsgerichte (§ 14 IFG)  
+Gem  § 14 IFG sind die Verwaltungsgerichte zuständig, um über die Nichterteilung von Informa-
+tionen trotz Antrages zu entscheiden. Der Rechtsschutz vor dem (Landes -)Verwaltungsgericht 
+erscheint allerdings  im Fall öffentlicher Unternehmen wie der WIENER STADTWERKE GmbH 
+und ihrer K onzernunternehmen  systemwidrig.  Bei der  Verweigerung einer Informationserteilung 
+durch ein wirtschaftlich handelndes Unternehmen , auch wenn es in öffentlichem Eigentum steht  
+und der Rechnungshofkontrolle unterliegt , handelt es sich um keinen Verwaltungsakt , der vor 
+einem Verwaltungsgericht zu überprüfen wäre .  
+Zivilgerichtlich könnte der Rechtsschutz weit besser und vor allem systemkonformer geregelt 
+werden, wie auch beispielsweise das zivilrechtliche Rechtsschutzverfahren nach dem Informa-
+tionsweitergabeges etz (§ 13 IWG) beweist. Alternativ wäre zu üb erlegen, eine Schlichtungs-
+stelle einzurichten, zB ähnlich der Agentur für Passagier - und Fahrgastrechte (Bundesgesetz 
+über die Agentur für Passagier - und Fahrgastrechte).   
+WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen daher an, bezüg-
+lich der Informationsverpflichtung öffentlicher Unternehmen den Rechtsschutz vor 
+den ordentlichen Zivilgerichten anzusiedeln .  
+ 
+b) In-Camera -Verfahren  
+Das IFG kennt zwar in seiner derzeitigen Form Ausnahmen von der Informationspflicht ( § 6 
+IFG), allerdings sieht der gegenständliche Gesetzesentwurf kein In -Camera -Verfahren vor und 
+bietet daher keinen hinreichenden Schutz der sensiblen Informationen nach § 6 IFG.  
+In concreto muss der Informationspflichtige die  Informationen nach §  6 IFG zwar nicht heraus-
+geben, er könnte allerdings mangels In-Camera -Verfahren s im Rechtsschutzverfahren nach 
+§ 14 IFG zur Offenlegung seiner an und für sich geschützten Unterlagen gezwungen sein , weil 
+der Streitgegenstand gerade die Frage  betrifft , ob ein der Geheimhaltung unterliegender Um-
+stand  vorliegt oder nicht.  In weiterer Folge könnte die antragstellende Partei mittels  Aktenein-
+sicht im Rechtsschutzverfahren Kenntnis von den g eschützten Unterlagen erlangen, auch wenn 
+sich am Ende des Rechtsschutzverfahrens  herausstellt, dass diese gerade nicht der Informati-
+onspflicht unterliegen.  
+Aber auch  Zeugeneinvernahme n könnte n den Schutz der Informationen nach § 6 IFG gefähr-
+den, weil Zeugen  – trotz Geheimhaltungsinteressen nach § 6 I FG – im Rechtsschutzverfahren 32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 17 von 20
+www.parlament.gv.at
+ 
+ 
+ 18/20 Aussagen über die  Informationen tätigen  müssten. Auch diese Zeugeneinvernahmen, bzw die 
+Protokolle dieser Einvernahmen werden nach dem gegenständlichen Gesetzesentwurf nicht vor 
+den Antragstellern geheim  gehalten.  
+Im Ergebnis  wird d ie Geheimhaltung  nach § 6 IFG dadurch ad absurdum geführt, dass  der 
+Antragsteller – mangels In-Camera -Verfahren s – im Rechtsschutzverfahren Zugang zu den an 
+sich geschützten Unterlagen erhalten könnte .  
+Als mögliches Regelungsmodell zur Adressierung dieser Thematik  soll auf das In-Camera -Ver-
+fahren nach § 26h UWG verwiesen werden, demzufolge das Gericht auf Antrag oder von Amts 
+wegen Maßnahmen zu treffen  hat, dass der Verfahrensgegner und Dritte keine Informationen 
+über das Geschäftsgeheim nis erhalten, welche über ihren bisherigen diesbezüglichen Wissens-
+stand hinausgehen (§ 26h Abs 2 UWG).  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunterneh men regen daher an, 
+dass ein In-Camera -Verfahren  (zB nach dem Vorbild des § 26h UWG) zum Schutz vor 
+der Offenlegung von Unterlagen im Verfahren  nach § 14 IFG  vorgesehen wird.  
+ 
+4.3.4.  Zuständigkeit des nach Außen vertretungsbefugten Organs (§ 13 Abs 4 IFG)  
+Die Zuständigkeit zur Gewährung von Informationen ist derzeit beim nach Außen vertretungs-
+befugten Organ ( Geschäftsführer  der GmbH) angesiedelt. Diese Organe haben in der Praxis 
+allerdings weder die Kapazitäten  noch die erforderlichen Detailkenntnisse,  um sich den Anträ-
+gen auf Infor mation nach dem IFG zu widmen. Als Vorbild für eine gesetzliche Regelung könnte 
+beispielsweise der § 9 -VStG -Beauftragte dienen.  
+Angeregt wird daher die Zuständigkeit eines vom Unternehmen zu benennenden  Be-
+auftragten, bzw die Möglichkeit der Delegierung dieser Verpflichtung.  
+ 
+4.4. Kosten  
+Das IFG wird einen beträchtlichen Verwaltungsa ufwand sowie Kosten für die öffentlichen  Un-
+ternehmen mit sich bringen , die nicht ersatzfähig sind . Die WIENER STADTWERKE GmbH und 
+ihre Konzernunternehmen  stellen sich insbesondere auf die folgenden Mehrkosten ein:  
+- Neue Unternehmensabläufe, Strukturen und koordinierende Stellen im Unternehmen zur 
+gesetzmäßigen Erteilung von Informationen für die zum heutigen Zeitpunkt noch nicht ab-
+schätzbare Fülle von Anfragen müssen errichtet werden und werden – insbesondere zu 
+Beginn – eine erhebliche zusätzliche Ressourc enbindung verursachen.  
+- Die Rechtsabteilungen , Datenschutzbeauftragten , sowie die jeweils zuständigen Fachabtei-
+lungen  müssen in jed em Einzelfall beigezogen werden, weil jede Informationsanfrage einer 32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 18 von 20
+www.parlament.gv.at
+ 
+ 
+ 19/20 Einzelfallprüfung zu unterziehen ist, ob berechtigte überwiegende Interessen des Unterneh-
+mens bzw Dritter dem Recht auf Informationszugang entgegenstehen. Die (personellen) 
+Ressourcen müs sen entsprechend aufgestockt werden.  
+- Im Falle eines (Verwaltungs -)Gerichtsverfahrens könnten außerdem – neben der zusätzli-
+chen Belastung der Rechtsabteilung – rechtsanwaltliche Vertretungskosten anfallen .  
+Dieser zu erwartende Mehraufwand wird den betroffe nen Unternehmen jedoch von der öffentli-
+chen Hand nicht abgegolten und stellt daher einerseits einen Wettbewerbsnachteil gegenüber 
+anderen Unternehmen dar, die dieser Offenlegungspflicht nicht unterliegen, andererseits müs-
+sen die Kosten auch vor dem Rechnun gshof gerechtfertigt werden.  
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen regen daher an, 
+dass den betroffenen rechnungshofpflichtigen Unternehmen ein entsprechender Kos-
+tenersatz für die mit den Informationsverpflichtungen nach dem IFG verbundenen 
+Mehrkosten erstattet wird.  
+ 
+ RECHNUNGSHOFKONTROLLE  
+Die Novelle der Art 126b ff B -VG sowie des Rechnungshofgesetzes erweitern die Prüfkompe-
+tenz des Rechnungshofs auf staatlich beherrschte Untern ehmen ab einem Beherrschungsgrad 
+von 25 %. Diese Ausweitung der Prüfkompetenz scheint insofern nicht sachgemäß, als die öf-
+fentliche Hand – jedenfalls bei Unternehmen, die sich nicht in Streubesitz befinden – zumindest 
+50 % benötigt, um entscheidenden Einfl uss auf das Unternehmen auszuüben, sodass von einer 
+„staatlichen Beherrschung“ gesprochen werden kann.  Die Rechnungshofkontrolle von Unter-
+nehmen mit nur 25 % Beteiligung der öffentlichen Hand führt folglich nicht zu mehr Transparenz 
+im öffentlichen Bereich .  
+Gleichzeitig könnte  die Rechnungshofkontrolle  die Wettbewerbsfähigkeit der von der Auswei-
+tung betroffenen Unternehmen nachhaltig beeinträchtigen . Denn die Rechnungshofkontrolle ist 
+nicht nur mit einem (augenscheinlichen)  Mehra ufwand der Unternehmen verbunden, den an-
+dere Unternehmen nicht tragen müssen , sie könnte insbesondere auch zu einer Zurückhaltung 
+potentieller Kooperationspartner in der Privatwirtschaft in Hinblick auf  die Realisierung  gemein-
+same r Projekte führen. Gerade im für die künftige Wettbew erbsfähigkeit entscheidenden Be-
+reich Forschung und Entwicklung sind Unternehmen besonders vorsichtig in Hinblick auf die  
+Überwachung und Kontrolle durch jegliche Institutionen, da die sich in Entwicklung befindlichen 
+Innovationen vor Konkurrenten geheim ge halten werden müssen.  Die WIENER STADTWERKE 
+GmbH und ihre Konzernunternehmen  fürchten daher gerade in diesem sensiblen Bereich auf-
+grund der Rechnungshofkontrolle  eine Zurückhaltung der Kooperation spartner  und damit Nach-
+teile für die  Innovations - und Wettbe werbsfähigkei t der betroffenen Unternehmen.   
+Aus den angeführten Gründen regen d ie WIENER STADTWERKE GmbH  und ihre Kon-
+zernunternehmen daher an, die Ausweitung der Prüfkompetenz des Rechnungshofs 32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 19 von 20
+www.parlament.gv.at
+ 
+ 
+ 20/20 auf staatliche Unternehmen ab einem Beherrschungsgrad von 25% nochmals zu über-
+denken .  
+ 
+ 
+Die WIENER STADTWERKE GmbH  und ihre Konzernunternehmen  danken nochmals für die 
+Möglichkeit einer Stellungnahme und ersuchen  insbesondere angesichts der in dieser Stellung-
+nahme aufgezeigten (verfassungs -) rechtlichen Bedenken um Berücksichtigung der hier darge-
+legten Überlegungen im weiteren Gesetzgebungsprozess.  
+Mit freundlichen Grüßen,  
+i.A. Mag. Daniela Grasl  
+ 
+ 32/SN-95/ME XXVII. GP - Stellungnahme zu Entwurf (elektr. übermittelte Version) 20 von 20
+www.parlament.gv.at

@@ -1,0 +1,25 @@
+Feedback from: Suda_Michael
+
+Zusammenfassung der Stellungnahme von Michael Suda:
+
+**Gegen den Entwurf geäußerte Bedenken:**
+- Der autor beschreibt einen Konflikt zwischen den Grundrechten auf Datenschutz und Informationsfreiheit und sieht keinen grundlegenden Paradigmenwechsel durch den Entwurf.
+- Datenschutz gilt sowohl für natürliche als auch juristische Personen, was oft übersehen wird.
+- Es besteht die Sorge, dass die Datenschutzbehörde durch den Entwurf in eine parteiische Rolle gezwungen wird, was ihrer Unabhängigkeit widerspricht und gegen EU-Recht verstoßen könnte.
+- Es wird eine mögliche institutionelle Befangenheit der Datenschutzbehörde kritisiert, falls diese Informationspflichtige beraten sollte, da dies ihre Unparteilichkeit und Unabhängigkeit beeinträchtigen könnte.
+- Die Neuregelung könnte zu einem erhöhten Personalbedarf führen, ohne dass wesentliche Synergien genutzt werden könnten.
+- Es wird bezweifelt, ob die Datenschutzbehörde die zusätzlichen Aufgaben bewältigen kann, ohne ihre Hauptaufgaben zu vernachlässigen.
+
+**Fehlender Beratungsbedarf:**
+- Der Autor argumentiert, dass bereits bestehende Datenschutzbeauftragte der Gemeinden ausreichend beraten können. Zusätzliche Beratungsstrukturen seien unnötig.
+
+**Empfehlungen:**
+- Der Autor empfiehlt, die Bestimmung zur Beratungsrolle der Datenschutzbehörde zu streichen und das Grundrecht auf Informationsfreiheit ohne Einbeziehung der Datenschutzbehörde zu gestalten.
+
+**Sentiment der Stellungnahme:**
+- Überwiegend negativ gegenüber dem Entwurf, da zahlreiche rechtliche und praktische Bedenken geäußert werden.
+- Sorge um die Funktionsfähigkeit und Unabhängigkeit der Datenschutzbehörde im Kontext des neuen Gesetzes.
+
+**Verstärkende oder widersprechende Evidenz:**
+- Der Autor beruft sich auf EU-Recht und die Notwendigkeit der Unabhängigkeit der Datenschutzbehörde, was die Argumentation gegen die vorgeschlagenen Regelungen verstärkt.
+- Die bereits existierende Pflicht der Gemeinden, Datenschutzbeauftragte zu haben, wird als Argument verwendet, dass keine zusätzliche Beratungsstruktur notwendig ist.
